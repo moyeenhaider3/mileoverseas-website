@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Premium Spice Products | Chilli, Turmeric, Cumin - Mileoverseas Exports
+    </title>
+    <meta
+      name="description"
+      content="Explore Mileoverseas' premium spice product range including Chilli, Turmeric, and Cumin. View varieties, sourcing regions, packaging options, and quality details for each spice."
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="modern-design">
+    <header>
+      <nav class="navbar">
+        <div class="logo">
+          <a href="index.html"
+            ><img src="images/logo-modern.png" alt="Mileoverseas Logo"
+          /></a>
+        </div>
+        <button class="hamburger" id="hamburger-icon">
+          <i class="fas fa-bars"></i>
+        </button>
+        <ul class="nav-links" id="nav-menu">
+          <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+          <li><a href="about.html" data-i18n="nav_about">About Us</a></li>
+          <li>
+            <a href="products.html" data-i18n="nav_products">Products</a>
+          </li>
+          <li>
+            <a
+              href="why-choose-us.html"
+              class="active"
+              data-i18n="nav_why_choose"
+              >Why Choose Us</a
+            >
+          </li>
+          <li><a href="faq.html" data-i18n="nav_faq">FAQs</a></li>
+          <li>
+            <a href="certificates.html" data-i18n="nav_certificates"
+              >Certificates</a
+            >
+          </li>
+          <li><a href="contact.html" data-i18n="nav_contact">Contact Us</a></li>
+          <li class="language-dropdown">
+            <a href="#" class="dropdown-title" data-i18n="nav_language"
+              >Language</a
+            >
+            <div class="language-dropdown-content" id="language-dropdown">
+              <a href="#" class="language-option active" data-lang="en"
+                >English</a
+              >
+              <a href="#" class="language-option" data-lang="ar">العربية</a>
+              <a href="#" class="language-option" data-lang="zh">中文</a>
+              <a href="#" class="language-option" data-lang="ms"
+                >Bahasa Melayu</a
+              >
+              <a href="#" class="language-option" data-lang="th">ไทย</a>
+              <a href="#" class="language-option" data-lang="de">Deutsch</a>
+              <a href="#" class="language-option" data-lang="es">Español</a>
+              <a href="#" class="language-option" data-lang="bn">বাংলা</a>
+              <a href="#" class="language-option" data-lang="ko">한국어</a>
+              <a href="#" class="language-option" data-lang="ja">日本語</a>
+              <a href="#" class="language-option" data-lang="tr">Türkçe</a>
+              <a href="#" class="language-option" data-lang="uz">o'zbek</a>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="mobile-nav-drawer" id="mobile-drawer">
+      <ul class="mobile-nav-links">
+        <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+        <li><a href="about.html" data-i18n="nav_about">About Us</a></li>
+        <li><a href="products.html" data-i18n="nav_products">Products</a></li>
+        <li>
+          <a href="why-choose-us.html" data-i18n="nav_why_choose" class="active"
+            >Why Choose Us</a
+          >
+        </li>
+        <li><a href="faq.html" data-i18n="nav_faq">FAQs</a></li>
+        <li>
+          <a href="certificates.html" data-i18n="nav_certificates"
+            >Certificates</a
+          >
+        </li>
+        <li><a href="contact.html" data-i18n="nav_contact">Contact Us</a></li>
+        <li class="language-dropdown">
+          <a href="#" class="dropdown-title" data-i18n="nav_language"
+            >Language</a
+          >
+          <div class="language-dropdown-content">
+            <a href="#" class="language-option active" data-lang="en"
+              >English</a
+            >
+            <a href="#" class="language-option" data-lang="ar">العربية</a>
+            <a href="#" class="language-option" data-lang="zh">中文</a>
+            <a href="#" class="language-option" data-lang="ms">Bahasa Melayu</a>
+            <a href="#" class="language-option" data-lang="th">ไทย</a>
+            <a href="#" class="language-option" data-lang="de">Deutsch</a>
+            <a href="#" class="language-option" data-lang="es">Español</a>
+            <a href="#" class="language-option" data-lang="bn">বাংলা</a>
+            <a href="#" class="language-option" data-lang="ko">한국어</a>
+            <a href="#" class="language-option" data-lang="ja">日本語</a>
+            <a href="#" class="language-option" data-lang="tr">Türkçe</a>
+            <a href="#" class="language-option" data-lang="uz">o'zbek</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <main>
+      <section class="why-choose-advantages modern-why-choose-section">
+        <div class="container why-choose-us-container">
+          <h2 class="section-title fade-in" data-i18n="why_choose_title">
+            Our Competitive Advantages
+          </h2>
+          <ul class="advantages-list">
+            <li class="fade-in delay-0">
+              <i class="fas fa-farmer advantage-icon"></i>
+              <strong
+                ><span data-i18n="why_choose_farmer_label"
+                  >Direct Farmer Sourcing</span
+                ></strong
+              >:
+              <span data-i18n="why_choose_farmer_text"
+                >We source directly from farmers, ensuring the freshest and
+                highest quality spices while supporting local communities.</span
+              >
+            </li>
+            <li class="fade-in delay-1">
+              <i class="fas fa-globe advantage-icon"></i>
+              <strong
+                ><span data-i18n="why_choose_global_label"
+                  >Global Trade Expertise</span
+                ></strong
+              >:
+              <span data-i18n="why_choose_global_text"
+                >With years of experience in international trade, we navigate
+                global markets efficiently, ensuring smooth and reliable
+                exports.</span
+              >
+            </li>
+            <li class="fade-in delay-2">
+              <i class="fas fa-check-circle advantage-icon"></i>
+              <strong
+                ><span data-i18n="why_choose_quality_label"
+                  >Consistent Quality</span
+                ></strong
+              >:
+              <span data-i18n="why_choose_quality_text"
+                >Our rigorous quality control processes, from farm to shipment,
+                guarantee consistent quality and adherence to international
+                standards.</span
+              >
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="why-choose-certifications modern-why-choose-section">
+        <div class="container">
+          <h2 class="section-title fade-in" data-i18n="why_choose_cert_title">
+            Certifications & Compliance
+          </h2>
+          <div class="certifications-compliance-content">
+            <p class="fade-in delay-0" data-i18n="why_choose_cert_intro">
+              We are committed to maintaining the highest standards of quality
+              and compliance, ensuring buyer confidence and product safety.
+            </p>
+            <ul class="compliance-list">
+              <li class="fade-in delay-1">
+                <i class="fas fa-shield-alt compliance-icon"></i>
+                <span data-i18n="why_choose_cert_iso_label"
+                  ><strong>ISO 9001, HACCP, FSSAI Certified</strong></span
+                >:
+                <span data-i18n="why_choose_cert_iso_text"
+                  >Our certifications reflect our dedication to quality
+                  management and food safety at every step.</span
+                >
+              </li>
+              <li class="fade-in delay-2">
+                <i class="fas fa-flag-checkered compliance-icon"></i>
+                <span data-i18n="why_choose_cert_compliance_label"
+                  ><strong
+                    >Compliance with International Regulations</strong
+                  ></span
+                >:
+                <span data-i18n="why_choose_cert_compliance_text"
+                  >We strictly adhere to FDA, EU, and other relevant
+                  international regulations, ensuring our spices meet global
+                  standards.</span
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="why-choose-case-study modern-why-choose-section">
+        <div class="container">
+          <h2 class="section-title fade-in" data-i18n="why_choose_case_title">
+            Case Study: Premium Turmeric for European Client
+          </h2>
+          <div class="case-study-content grid-2col">
+            <div class="case-study-text fade-in delay-0">
+              <h3 data-i18n="why_choose_case_challenge">Challenge</h3>
+              <p data-i18n="why_choose_case_challenge_text">
+                A leading European food manufacturer needed a consistent supply
+                of high-curcumin turmeric for their health food line, compliant
+                with strict EU regulations and quality standards.
+              </p>
+
+              <h3 data-i18n="why_choose_case_solution">Solution</h3>
+              <p data-i18n="why_choose_case_solution_text">
+                Mileoverseas provided Lakadong Turmeric, known for its
+                exceptional curcumin content (7-9%). We ensured complete
+                traceability, provided all documentation (COA, COO), and managed
+                efficient logistics.
+              </p>
+
+              <h3 data-i18n="why_choose_case_result">Result</h3>
+              <p data-i18n="why_choose_case_result_text">
+                The client received premium quality, EU-compliant turmeric,
+                enhancing their product line and demonstrating our ability to
+                meet specific client needs and deliver excellence consistently.
+              </p>
+            </div>
+            <div class="case-study-image fade-in delay-1">
+              <img
+                src="images/case-study-turmeric.jpg"
+                alt="Case Study - Turmeric Export Success"
+                class="responsive-image"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="why-choose-logistics-payment modern-why-choose-section">
+        <div class="container">
+          <h2
+            class="section-title fade-in"
+            data-i18n="why_choose_logistics_title"
+          >
+            Logistics & Payment
+          </h2>
+          <div class="logistics-payment-content grid-2col">
+            <div class="logistics fade-in delay-0">
+              <h3 data-i18n="why_choose_shipment_title">Shipment Methods</h3>
+              <ul class="shipment-methods-list">
+                <li data-i18n="why_choose_shipment_bulk">Bulk Shipping</li>
+                <li data-i18n="why_choose_shipment_container">
+                  Containerized Shipping
+                </li>
+                <li data-i18n="why_choose_shipment_air">
+                  Air Freight (for urgent shipments)
+                </li>
+              </ul>
+            </div>
+            <div class="payment fade-in delay-1">
+              <h3 data-i18n="why_choose_payment_title">Payment Modes</h3>
+              <ul class="payment-modes-list">
+                <li data-i18n="why_choose_payment_bank">Bank Transfers</li>
+                <li data-i18n="why_choose_payment_lc">
+                  Letters of Credit (L/C)
+                </li>
+              </ul>
+              <h3 data-i18n="why_choose_docs_title">Documentation Support</h3>
+              <p data-i18n="why_choose_docs_text">
+                We provide all necessary documentation, including COA, COO,
+                Phytosanitary Certificates, and more, as per buyer requirements,
+                ensuring smooth transactions.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <div class="social-links">
+          <a
+            href="https://www.facebook.com/mileoverseas"
+            class="fab fa-facebook-f"
+            title="Facebook"
+          ></a>
+          <a
+            href="https://twitter.com/mileoverseas"
+            class="fab fa-twitter"
+            title="Twitter"
+          ></a>
+          <a
+            href="https://www.linkedin.com/company/mileoverseas/"
+            class="fab fa-linkedin-in"
+            title="LinkedIn"
+          ></a>
+          <a
+            href="https://youtube.com/@mileoverseas?si=6aPwcZIDytkqQIoz"
+            class="fab fa-youtube"
+            title="YouTube"
+          ></a>
+          <a
+            href="https://instagram.com/mileoverseas?igshid=OGQ5ZDc2ODk2ZA=="
+            class="fab fa-instagram"
+            title="Instagram"
+          ></a>
+        </div>
+        <p>© 2023 Mileoverseas. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="js/localization/en.js" defer></script>
+    <script src="js/localization/ar.js" defer></script>
+    <script src="js/localization/zh.js" defer></script>
+    <script src="js/localization/ms.js" defer></script>
+    <script src="js/localization/th.js" defer></script>
+    <script src="js/localization/de.js" defer></script>
+    <script src="js/localization/es.js" defer></script>
+    <script src="js/localization/bn.js" defer></script>
+    <script src="js/localization/ko.js" defer></script>
+    <script src="js/localization/ja.js" defer></script>
+    <script src="js/localization/tr.js" defer></script>
+    <script src="js/localization/uz.js" defer></script>
+    <script src="js/localization/localization.js" defer></script>
+    <script src="js/script.js" defer></script>
+    <script src="js/main.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://mileoverseas.com/sitemap.xml
+
+# Optimize crawling rate
+Crawl-delay: 10 
