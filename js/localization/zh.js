@@ -91,6 +91,9 @@ const zhTranslations = {
   products_key_benefits: "关键益处",
   products_available_forms: "可选形态",
   products_packaging_sizes: "包装尺寸",
+  products_hero_headline: "我们的优质香料产品",
+  products_hero_subheadline: "探索我们高品质香料和食材系列",
+  search_by_name: "按名称搜索...",
 
   // Chilli Varieties
   products_chilli_byadgi_label: "Byadgi 辣椒",
@@ -349,7 +352,7 @@ const zhTranslations = {
   why_choose_logistics: "物流与付款", // Title, duplicated below
 
   // Footer
-  footer_copyright: "© 2023 Mileoverseas. 保留所有权利。",
+  footer_copyright: " 2023 Mileoverseas. 保留所有权利。",
 
   // Sustainability Section (Seems like a duplicate of FAQ 10 content, used on About page maybe?)
   about_sustainability_intro:
@@ -468,10 +471,45 @@ const zhTranslations = {
   products_mint_benefits: "清爽风味、清凉特性、助消化",
 
   // Custom spice section
-  custom_spices_title: "定制香料解决方案",
-  custom_spices_description:
+  custom_spice_title: "定制香料解决方案",
+  custom_spice_description:
     "除了我们的标准产品外，我们还可以根据您的具体要求采购和加工其他香料。我们灵活的方法确保我们能够满足全球市场多样化的买家需求。",
-  custom_spices_contact:
+  custom_spice_contact:
     "联系我们，讨论您的定制香料要求，并探索我们如何量身定制解决方案以满足您的需求。",
-  custom_spices_button: "咨询定制香料",
+  custom_spice_button: "咨询定制香料",
+
+  // Product Details Page
+  scarcity_badge_harvested: "收获期：",
+  scarcity_badge_default: "收获期：10月-2月",
+  certified: "已认证",
+  enquire_now: "立即咨询",
+  product_overview: "产品概览",
+  features_label: "关键产品特点",
+  detailed_specifications: "详细规格",
+  quality_options: "品质选择",
+  packaging_options: "包装选择",
+  available_varieties: "可用品种",
+  certifications_quality: "认证和质量保证",
+  back_to_products: "返回产品列表",
+  similar_products_title: "类似产品",
+  view: "查看",
+  product_not_found: "未找到产品。",
+  error_loading_product: "加载产品详情时出错。",
+  no_products_available: "没有可用的产品。",
+  no_products_found: "未找到产品。请尝试其他搜索。",
+
+  custom_spice_title: "定制香料解决方案",
+  custom_spice_p1: "除了我们的标准产品外，我们还可以根据您的具体需求采购和加工其他香料。我们的灵活方法确保我们能够满足全球市场上不同买家的多样化需求。",
+  custom_spice_p2: "请联系我们，讨论您的定制香料需求，并了解我们如何根据您的需求定制我们的解决方案。",
+  custom_spice_btn: "咨询定制香料",
+
+
+
+specifications: "规格",
+quality_assurance: "质量保证",
+variety: "品种",
+container_capacity: "集装箱容量",
+
+  privacy_policy_title: "隐私政策",
+  privacy_policy_content: `<div class='policy-content'><h2>隐私政策<\/h2><p><strong>生效日期：<\/strong> 2025年4月20日<\/p><p>Mile Overseas（简称“我们”）致力于保护您的信息隐私。本隐私政策解释了当您使用我们的网站 <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a>（简称“网站”）时，我们如何收集、使用和披露信息。<\/p><ol><li><strong>我们收集的信息<\/strong><br>我们可能收集以下类型的信息：<br><strong>个人信息：<\/strong> 这是可用于识别您身份的信息，例如您的姓名、电子邮件地址、电话号码、公司名称、地址，以及您通过联系表单、电子邮件或其他沟通渠道自愿提供给我们的任何信息。<br><strong>非个人信息：<\/strong> 这是不能直接识别您身份的信息。这可能包括：<ul><li><strong>日志数据：<\/strong> 我们的服务器会自动记录您使用本网站时创建的信息（“日志数据”）。日志数据可能包括您的 IP 地址、浏览器类型、互联网服务提供商、引用/退出页面、操作系统、日期/时间戳以及相关数据。<\/li><li><strong>Cookie 和类似技术：<\/strong> 我们可能使用 Cookie、网络信标和类似的跟踪技术来收集有关您在我们网站上浏览活动的信息。Cookie 是存储在您设备上的小型数据文件，可帮助我们改进我们的网站和您的体验。您可以在单个浏览器级别控制 Cookie 的使用，但如果您选择禁用 Cookie，可能会限制您使用我们网站上的某些特性或功能。<\/li><li><strong>网站使用数据：<\/strong> 我们可能收集有关您如何使用我们网站的信息，例如您访问的页面、您点击的链接以及您在我们网站上花费的时间。<\/li><\/ul><\/li><li><strong>我们如何收集信息<\/strong><br>我们通过以下方式收集信息：<ul><li><strong>您直接提供的信息：<\/strong> 当您自愿向我们提交个人信息时，我们会收集这些信息，例如当您：<ul><li>填写我们网站上的联系表单。<\/li><li>通过电子邮件或电话联系我们。<\/li><li>请求我们产品的报价或信息。<\/li><li>订阅我们的新闻通讯（如适用）。<\/li><\/ul><\/li><li><strong>自动收集的信息：<\/strong> 当您使用 Cookie 和服务器日志浏览我们的网站并与之互动时，我们会自动收集非个人信息。<\/li><\/ul><\/li><li><strong>信息的使用<\/strong><br>我们可能将收集到的信息用于以下目的：<ul><li><strong>提供和改进我们的网站：<\/strong> 运营、维护和改进我们的网站和用户体验。<\/li><li><strong>回复咨询：<\/strong> 回复您通过我们网站或其他沟通渠道提交的请求、问题和咨询。<\/li><li><strong>处理请求：<\/strong> 处理您对报价、产品信息或其他服务的请求。<\/li><li><strong>发送营销通讯（如适用）：<\/strong> 经您同意，我们可能向您发送有关我们产品和服务的新闻通讯、营销电子邮件或其他促销材料。您可以随时通过通讯中提供的退订说明或直接联系我们来选择退出接收这些通讯。<\/li><li><strong>用于分析和网站优化：<\/strong> 分析网站使用趋势、跟踪用户活动、收集人口统计信息，以改进我们网站的设计、功能和内容。<\/li><li><strong>法律合规：<\/strong> 遵守适用的法律、法规、法律程序或政府要求。<\/li><\/ul><\/li><li><strong>信息的共享和披露<\/strong><br>我们可能在以下情况下共享您的信息：<ul><li><strong>服务提供商：<\/strong> 我们可能与代表我们执行服务的第三方服务提供商共享信息，例如网站托管、数据分析、电子邮件发送和客户服务。这些服务提供商在合同上有义务保护您的信息，并且仅将其用于我们向其披露的目的。<\/li><li><strong>业务转让：<\/strong> 在发生合并、收购、重组、资产出售或破产的情况下，您的信息可能作为该交易的一部分被转让或披露。<\/li><li><strong>法律要求：<\/strong> 如果法律要求或响应公共当局（例如法院命令、传票、政府法规）的有效请求，我们可能会披露您的信息。<\/li><li><strong>权利保护：<\/strong> 当我们认为有必要调查、阻止或就非法活动、涉嫌欺诈、涉及对任何人安全的潜在威胁的情况、违反我们的使用条款或法律另有规定采取行动时，我们可能会披露信息。<\/li><\/ul><\/li><li><strong>数据安全<\/strong><br>我们采取合理措施保护您的信息免遭未经授权的访问、使用或披露。但是，没有任何通过互联网传输的方法或电子存储方法是完全安全的。因此，虽然我们努力使用商业上可接受的方式来保护您的个人信息，但我们不能保证其绝对安全。<\/li><li><strong>Cookie 和跟踪技术<\/strong><br>我们使用 Cookie 和类似技术来增强您在我们网站上的体验。使用我们的网站即表示您同意按照本政策所述使用 Cookie。您可以通过浏览器设置管理您的 Cookie 偏好。有关如何阻止或删除 Cookie 的更多信息，请参阅您浏览器的帮助文档。<\/li><li><strong>第三方链接<\/strong><br>我们的网站可能包含指向非我们拥有或控制的第三方网站或服务的链接。我们不对这些第三方网站的隐私惯例负责。我们鼓励您在向这些网站提供任何个人信息之前查看其隐私政策。<\/li><li><strong>数据保留<\/strong><br>除非法律要求或允许更长的保留期，否则我们将根据本隐私政策中概述的目的，在必要的时间内保留您的个人信息。<\/li><li><strong>您的权利<\/strong><br>根据适用法律，您可能对您的个人信息拥有某些权利。这些权利可能包括：<ul><li><strong>访问权：<\/strong> 有权请求访问我们持有的关于您的个人信息。<\/li><li><strong>更正权：<\/strong> 有权请求我们更正任何不准确或不完整的个人信息。<\/li><li><strong>删除权：<\/strong> 有权在某些情况下请求我们删除您的个人信息。<\/li><li><strong>反对处理权：<\/strong> 有权反对出于某些目的（例如直接营销）处理您的个人信息。<\/li><\/ul>要行使这些权利，请使用下面提供的联系信息与我们联系。我们将根据适用法律回应您的请求。<\/li><li><strong>儿童隐私<\/strong><br>我们的网站不适用于 16 岁以下的儿童。我们不会有意收集未满此年龄儿童的个人信息。如果您是父母或监护人，并且认为您的孩子向我们提供了个人信息，请立即与我们联系，我们将采取措施删除此类信息。<\/li><li><strong>本隐私政策的变更<\/strong><br>我们可能会不时更新本隐私政策，以反映我们惯例或适用法律的变化。我们将在此页面上发布任何更改，并更新本隐私政策顶部的“生效日期”。我们鼓励您定期查看本隐私政策以了解任何更新。对于重大变更，我们可能会提供更显著的通知（例如，在我们的网站上或通过电子邮件）。<\/li><li><strong>联系我们<\/strong><br>如果您对本隐私政策或我们的数据惯例有任何疑问、疑虑或请求，请通过以下方式联系我们：<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
 };

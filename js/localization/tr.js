@@ -196,7 +196,7 @@ const trTranslations = {
   faq_a4_other:
     "Diğer Ödeme Yöntemleri: Sipariş boyutuna ve alıcı ilişkisine bağlı olarak banka havaleleri gibi diğer ödeme yöntemlerini de değerlendirebiliriz.",
   faq_a4_outro:
-    "Ödeme koşullarımız pazarlığa açıktır ve genellikle sipariş onay sürecinde görüşülüp kararlaştırılır. İşlemin güvenliğini sağlarken her iki taraf için de en uygun ödeme çözümünü bulma konusunda esnek olmayı hedefliyoruz.",
+    "Ödeme koşullarımız pazarlığa açıktır ve genellikle sipariş onay sürecinde görüşülüp kararlaştırılır. İşlemin güvenliğini sağlarken her iki taraf için en uygun ödeme çözümünü bulma konusunda esnek olmayı hedefliyoruz.",
   faq_a4_advance_label: "Peşin Ödeme",
   faq_a4_lc_label: "Akreditif (L/C)", // Keep L/C
   faq_a4_other_label: "Diğer Ödeme Yöntemleri",
@@ -263,7 +263,7 @@ const trTranslations = {
   faq_a8_queries:
     "Sorgu ve Endişelerin Ele Alınması: Müşteri hizmetleri ekibimiz, teslimat sonrası ortaya çıkabilecek her türlü soru, endişe veya sorunu ele almak için hazırdır.",
   faq_a8_defective:
-    "Herhangi bir kalite sapması veya ürün sorunuyla karşılaşırsanız, özel kalite güvence ekibimiz kapsamlı bir araştırma süreci başlatır. Endişenin niteliğine ve kapsamına bağlı olarak hızlı değişimler veya uygun tazminat sunarak tam müşteri memnuniyeti sağlarız.",
+    "Herhangi bir kalite sapması veya ürün sorunuyla karşılaşırsanız, özel kalite güvence ekibimiz kapsamlı bir araştırmaya başlar. Endişenin niteliğine ve kapsamına bağlı olarak hızlı değişimler veya uygun tazminat sunarak tam müşteri memnuniyeti sağlarız.",
   faq_a8_communication:
     "Devam Eden İletişim: Açık iletişim kanallarını sürdürmeye inanıyoruz ve gelecekteki siparişler, pazar bilgileri veya ihtiyaç duyabileceğiniz diğer destekler konusunda yardımcı olmak için her zaman hazırız.",
   faq_a8_outro:
@@ -367,7 +367,7 @@ const trTranslations = {
   why_choose_logistics: "Lojistik ve Ödeme",
 
   // Footer
-  footer_copyright: "© 2023 Mileoverseas. Tüm hakları saklıdır.",
+  footer_copyright: " 2023 Mileoverseas. Tüm hakları saklıdır.",
 
   // Sustainability Section
   about_sustainability_intro:
@@ -498,4 +498,46 @@ const trTranslations = {
   custom_spices_contact:
     "Özel baharat gereksinimlerinizi görüşmek ve çözümlerimizi ihtiyaçlarınızı karşılayacak şekilde nasıl uyarlayabileceğimizi keşfetmek için bizimle iletişime geçin.",
   custom_spices_button: "Özel Baharatlar Hakkında Bilgi Alın",
+
+  // Products Page
+  products_hero_headline: "Premium Baharatlarımız",
+  products_hero_subheadline: "Yüksek kaliteli baharatlarımızı ve malzemelerimizi keşfedin",
+  search_by_name: "İsimle ara...",
+
+  // Product Detail Page
+  scarcity_badge_harvested: "Hasat:",
+  scarcity_badge_default: "Ekim-Şubat arası hasat edilir",
+  certified: "Sertifikalı",
+  enquire_now: "Şimdi Bilgi Alın",
+  product_overview: "Ürün Genel Bakışı",
+  features_label: "Temel Ürün Özellikleri",
+  detailed_specifications: "Detaylı Özellikler",
+  quality_options: "Kalite Seçenekleri",
+  packaging_options: "Ambalaj Seçenekleri",
+  available_varieties: "Mevcut Çeşitler",
+  certifications_quality: "Sertifikalar ve Kalite Güvencesi",
+  back_to_products: "Ürünlere Geri Dön",
+  similar_products_title: "Benzer Ürünler",
+  view: "Görüntüle",
+  product_not_found: "Ürün bulunamadı.",
+  error_loading_product: "Ürün detayları yüklenirken hata oluştu.",
+  custom_spice_title: "Özel Baharat Çözümleri",
+  custom_spice_p1: "Standart tekliflerimizin ötesinde, özel gereksinimlerinize göre ek baharatlar tedarik edebilir ve işleyebiliriz. Esnek yaklaşımımız, küresel pazarlarda farklı alıcı ihtiyaçlarını karşılayabilmemizi sağlar.",
+  custom_spice_p2: "Özel baharat gereksinimlerinizi görüşmek ve çözümlerimizi ihtiyaçlarınıza nasıl uyarlayabileceğimizi keşfetmek için bizimle iletişime geçin.",
+  custom_spice_btn: "Özel Baharatlar Hakkında Sorgula",
+  no_products_available: "Mevcut ürün yok.",
+  no_products_found: "Ürün bulunamadı. Başka bir arama deneyin.",
+
+  // Privacy Policy
+  privacy_policy_title: "Gizlilik Politikası",
+  privacy_policy_content: `<div class='policy-content'>Gizlilik politikası içeriği yakında burada Türkçe olarak eklenecektir.<\/div>`,
+
+
+  specifications: "Özellikler",
+  quality_assurance: "Kalite Güvencesi",
+  variety: "Çeşit",
+  container_capacity: "Konteyner Kapasitesi",
+  privacy_policy_title: "Gizlilik Politikası",
+  privacy_policy_content: `<div class='policy-content'><h2>Gizlilik Politikası<\/h2><p><strong>Yürürlük Tarihi:<\/strong> 20.04.2025<\/p><p>Mile Overseas (\"biz\", \"bize\" veya \"bizim\") bilgilerinizin gizliliğini korumayı taahhüt eder. Bu Gizlilik Politikası, web sitemizi <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (\"Web Sitesi\") kullandığınızda bilgileri nasıl topladığımızı, kullandığımızı ve ifşa ettiğimizi açıklar.<\/p><ol><li><strong>Topladığımız Bilgiler<\/strong><br>Aşağıdaki türde bilgileri toplayabiliriz:<br><strong>Kişisel Bilgiler:<\/strong> Adınız, e-posta adresiniz, telefon numaranız, şirket adınız, adresiniz ve iletişim formları, e-posta veya diğer iletişim kanalları aracılığıyla bize gönüllü olarak sağladığınız herhangi bir bilgi gibi sizi tanımlamak için kullanılabilecek bilgilerdir.<br><strong>Kişisel Olmayan Bilgiler:<\/strong> Sizi doğrudan tanımlamayan bilgilerdir. Bunlar şunları içerebilir:<ul><li><strong>Günlük Verileri:<\/strong> Sunucularımız, Web Sitesini kullanımınız tarafından oluşturulan bilgileri (\"Günlük Verileri\") otomatik olarak kaydeder. Günlük Verileri IP adresinizi, tarayıcı türünüzü, internet servis sağlayıcınızı, yönlendiren/çıkış sayfalarınızı, işletim sisteminizi, tarih/saat damgalarınızı ve ilgili verileri içerebilir.<\/li><li><strong>Çerezler ve Benzer Teknolojiler:<\/strong> Web Sitemizdeki göz atma etkinliğiniz hakkında bilgi toplamak için çerezler, web işaretçileri ve benzer izleme teknolojilerini kullanabiliriz. Çerezler, cihazınızda saklanan ve Web Sitemizi ve deneyiminizi geliştirmemize yardımcı olan küçük veri dosyalarıdır. Çerezlerin kullanımını bireysel tarayıcı düzeyinde kontrol edebilirsiniz, ancak çerezleri devre dışı bırakmayı seçerseniz, Web Sitemizdeki belirli özelliklerin veya işlevlerin kullanımınızı sınırlayabilir.<\/li><li><strong>Web Sitesi Kullanım Verileri:<\/strong> Ziyaret ettiğiniz sayfalar, tıkladığınız bağlantılar ve Web Sitemizde geçirdiğiniz süre gibi Web Sitemizi nasıl kullandığınız hakkında bilgi toplayabiliriz.<\/li><\/ul><\/li><li><strong>Bilgileri Nasıl Toplarız<\/strong><br>Bilgileri aşağıdaki yollarla toplarız:<ul><li><strong>Doğrudan Sağladığınız Bilgiler:<\/strong> Aşağıdaki durumlarda olduğu gibi, bize gönüllü olarak gönderdiğinizde Kişisel Bilgileri toplarız:<ul><li>Web Sitemizdeki iletişim formlarını doldurduğunuzda.<\/li><li>E-posta veya telefon yoluyla bizimle iletişime geçtiğinizde.<\/li><li>Ürünlerimiz hakkında fiyat teklifi veya bilgi talep ettiğinizde.<\/li><li>Bültenimize abone olduğunuzda (varsa).<\/li><\/ul><\/li><li><strong>Otomatik Olarak Toplanan Bilgiler:<\/strong> Çerezleri ve sunucu günlüklerini kullanarak Web Sitemize göz atarken ve etkileşimde bulunurken Kişisel Olmayan Bilgileri otomatik olarak toplarız.<\/li><\/ul><\/li><li><strong>Bilgilerin Kullanımı<\/strong><br>Toplanan bilgileri aşağıdaki amaçlarla kullanabiliriz:<ul><li><strong>Web Sitemizi Sağlamak ve Geliştirmek İçin:<\/strong> Web Sitemizi ve kullanıcı deneyimini işletmek, sürdürmek ve iyileştirmek için.<\/li><li><strong>Sorulara Yanıt Vermek İçin:<\/strong> Web Sitemiz veya diğer iletişim kanalları aracılığıyla gönderilen isteklerinize, sorularınıza ve sorularınıza yanıt vermek için.<\/li><li><strong>Talepleri İşlemek İçin:<\/strong> Fiyat teklifi, ürün bilgisi veya diğer hizmetler için taleplerinizi işlemek için.<\/li><li><strong>Pazarlama İletişimlerini Göndermek İçin (varsa):<\/strong> Onayınızla, ürünlerimiz ve hizmetlerimiz hakkında size bültenler, pazarlama e-postaları veya diğer tanıtım materyalleri gönderebiliriz. İletişimde sağlanan abonelikten çıkma talimatlarını izleyerek veya doğrudan bizimle iletişime geçerek bu iletişimleri almaktan istediğiniz zaman vazgeçebilirsiniz.<\/li><li><strong>Analiz ve Web Sitesi Optimizasyonu İçin:<\/strong> Web Sitesi kullanım eğilimlerini analiz etmek, kullanıcı hareketlerini izlemek ve Web Sitemizin tasarımını, işlevselliğini ve içeriğini iyileştirmek için demografik bilgiler toplamak için.<\/li><li><strong>Yasal Uyum İçin:<\/strong> Yürürlükteki yasalara, düzenlemelere, yasal süreçlere veya hükümet taleplerine uymak için.<\/li><\/ul><\/li><li><strong>Bilgilerin Paylaşılması ve Açıklanması<\/strong><br>Bilgilerinizi aşağıdaki durumlarda paylaşabiliriz:<ul><li><strong>Hizmet Sağlayıcılar:<\/strong> Web sitesi barındırma, veri analizi, e-posta teslimi ve müşteri hizmetleri gibi bizim adımıza hizmet veren üçüncü taraf hizmet sağlayıcılarla bilgi paylaşabiliriz. Bu hizmet sağlayıcılar, bilgilerinizi korumak ve yalnızca kendilerine açıkladığımız amaçlar için kullanmakla sözleşme gereği yükümlüdür.<\/li><li><strong>İşletme Devirleri:<\/strong> Birleşme, devralma, yeniden yapılanma, varlık satışı veya iflas durumunda, bilgileriniz bu işlemin bir parçası olarak devredilebilir veya ifşa edilebilir.<\/li><li><strong>Yasal Gereklilikler:<\/strong> Yasaların gerektirmesi halinde veya kamu makamlarının geçerli taleplerine (örn. mahkeme kararı, mahkeme celbi, hükümet düzenlemesi) yanıt olarak bilgilerinizi ifşa edebiliriz.<\/li><li><strong>Hakların Korunması:<\/strong> Yasa dışı faaliyetler, şüpheli dolandırıcılık, herhangi bir kişinin güvenliğine yönelik potansiyel tehditler içeren durumlar, Kullanım Koşullarımızın ihlalleri ile ilgili araştırma yapmak, önlemek veya harekete geçmek için veya yasaların gerektirdiği diğer durumlarda gerekli olduğuna inandığımızda bilgileri ifşa edebiliriz.<\/li><\/ul><\/li><li><strong>Veri Güvenliği<\/strong><br>Bilgilerinizi yetkisiz erişime, kullanıma veya ifşaya karşı korumak için makul önlemler alıyoruz. Ancak, internet üzerinden hiçbir iletim yöntemi veya elektronik depolama yöntemi tamamen güvenli değildir. Bu nedenle, Kişisel Bilgilerinizi korumak için ticari olarak kabul edilebilir yöntemler kullanmaya çalışsak da, mutlak güvenliğini garanti edemeyiz.<\/li><li><strong>Çerezler ve İzleme Teknolojileri<\/strong><br>Web Sitemizdeki deneyiminizi geliştirmek için çerezler ve benzer teknolojiler kullanıyoruz. Web Sitemizi kullanarak, bu politikada açıklandığı şekilde çerez kullanımına izin vermiş olursunuz. Çerez tercihlerinizi tarayıcı ayarlarınızdan yönetebilirsiniz. Çerezleri engelleme veya silme hakkında daha fazla bilgi için lütfen tarayıcınızın yardım belgelerine başvurun.<\/li><li><strong>Üçüncü Taraf Bağlantıları<\/strong><br>Web Sitemiz, bize ait olmayan veya bizim tarafımızdan kontrol edilmeyen üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir. Bu üçüncü taraf web sitelerinin gizlilik uygulamalarından sorumlu değiliz. Bu web sitelerine herhangi bir Kişisel Bilgi vermeden önce gizlilik politikalarını incelemenizi öneririz.<\/li><li><strong>Veri Saklama<\/strong><br>Daha uzun bir saklama süresi yasalarca gerekli kılınmadıkça veya izin verilmedikçe, Kişisel Bilgilerinizi bu Gizlilik Politikasında belirtilen amaçları yerine getirmek için gerekli olduğu sürece saklayacağız.<\/li><li><strong>Haklarınız<\/strong><br>Yürürlükteki yasalara tabi olarak Kişisel Bilgilerinizle ilgili belirli haklarınız olabilir. Bu haklar şunları içerebilir:<ul><li><strong>Erişim:<\/strong> Hakkınızda tuttuğumuz Kişisel Bilgilere erişim talep etme hakkı.<\/li><li><strong>Düzeltme:<\/strong> Yanlış veya eksik Kişisel Bilgileri düzeltmemizi talep etme hakkı.<\/li><li><strong>Silme:<\/strong> Belirli koşullar altında Kişisel Bilgilerinizi silmemizi talep etme hakkı.<\/li><li><strong>İşlemeye İtiraz Etme:<\/strong> Doğrudan pazarlama gibi belirli amaçlar için Kişisel Bilgilerinizin işlenmesine itiraz etme hakkı.<\/li><\/ul>Bu hakları kullanmak için lütfen aşağıda verilen iletişim bilgilerini kullanarak bizimle iletişime geçin. Talebinize yürürlükteki yasalara uygun olarak yanıt vereceğiz.<\/li><li><strong>Çocukların Gizliliği<\/strong><br>Web Sitemiz 16 yaşın altındaki çocuklara yönelik değildir. Bu yaşın altındaki çocuklardan bilerek Kişisel Bilgi toplamıyoruz. Bir ebeveyn veya vasi iseniz ve çocuğunuzun bize Kişisel Bilgi sağladığına inanıyorsanız, lütfen derhal bizimle iletişime geçin; bu tür bilgileri silmek için adımlar atacağız.<\/li><li><strong>Bu Gizlilik Politikasındaki Değişiklikler<\/strong><br>Uygulamalarımızdaki veya yürürlükteki yasalardaki değişiklikleri yansıtmak için bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişikliği bu sayfada yayınlayacak ve bu Gizlilik Politikasının üst kısmındaki \"Yürürlük Tarihi\"ni güncelleyeceğiz. Herhangi bir güncelleme için bu Gizlilik Politikasını periyodik olarak gözden geçirmenizi öneririz. Önemli değişiklikler için daha belirgin bir bildirim sağlayabiliriz (örneğin, web sitemizde veya e-posta yoluyla).<\/li><li><strong>Bize Ulaşın<\/strong><br>Bu Gizlilik Politikası veya veri uygulamalarımızla ilgili herhangi bir sorunuz, endişeniz veya talebiniz varsa, lütfen bizimle şu adresten iletişime geçin:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
+
 };

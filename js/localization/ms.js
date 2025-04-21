@@ -90,6 +90,9 @@ const msTranslations = {
     "Apa yang bermula sebagai usaha kecil telah berkembang menjadi perniagaan eksport yang bereputasi, dibina atas kepercayaan, integriti, dan kecintaan sejati terhadap rempah. Kisah kami adalah tentang pertumbuhan berterusan, pembelajaran, dan dedikasi untuk menyampaikan rempah India terbaik kepada rakan kongsi antarabangsa kami.",
 
   // Products Page
+  products_hero_headline: "Produk Rempah Premium Kami",
+  products_hero_subheadline: "Jelajahi rangkaian rempah dan bahan berkualiti tinggi kami",
+  search_by_name: "Cari mengikut nama...",
   products_variety_title: "Kepelbagaian",
   products_varieties_title: "Jenis",
   products_sourcing_regions: "Wilayah Penyumberan",
@@ -368,7 +371,7 @@ const msTranslations = {
   why_choose_logistics: "Logistik & Pembayaran",
 
   // Footer
-  footer_copyright: "© 2023 Mileoverseas. Hak cipta terpelihara.",
+  footer_copyright: " 2023 Mileoverseas. Hak cipta terpelihara.",
 
   // Sustainability Section
   about_sustainability_intro:
@@ -491,10 +494,42 @@ const msTranslations = {
     "Rasa Menyegarkan, Sifat Menyejukkan, Bantuan Penghadaman",
 
   // Custom spice section
-  custom_spices_title: "Penyelesaian Rempah Tersuai",
-  custom_spices_description:
-    "Selain daripada tawaran standard kami, kami boleh menyumber dan memproses rempah tambahan berdasarkan keperluan khusus anda. Pendekatan fleksibel kami memastikan kami dapat memenuhi pelbagai keperluan pembeli di seluruh pasaran global.",
-  custom_spices_contact:
-    "Hubungi kami untuk membincangkan keperluan rempah tersuai anda dan terokai bagaimana kami boleh menyesuaikan penyelesaian kami untuk memenuhi keperluan anda.",
-  custom_spices_button: "Tanya Mengenai Rempah Tersuai",
+  custom_spice_title: "Penyelesaian Rempah Kustom",
+  custom_spice_p1:
+    "Selain daripada tawaran standard kami, kami boleh mendapatkan dan memproses rempah tambahan berdasarkan keperluan khusus anda. Pendekatan fleksibel kami memastikan kami dapat memenuhi keperluan pembeli yang pelbagai di seluruh pasaran global.",
+  custom_spice_p2:
+    "Hubungi kami untuk membincangkan keperluan rempah kustom anda dan terokai bagaimana kami boleh menyesuaikan penyelesaian kami untuk memenuhi keperluan anda.",
+  custom_spice_btn: "Tanya tentang Rempah Kustom",
+
+  products_hero_headline: "Produk Rempah Premium Kami",
+  products_hero_subheadline: "Jelajahi rangkaian rempah dan bahan berkualiti tinggi kami",
+  search_by_name: "Cari mengikut nama...",
+
+  // Product Detail Page
+  scarcity_badge_harvested: "Dituai:",
+  scarcity_badge_default: "Dituai Okt-Feb",
+  certified: "Disahkan",
+  enquire_now: "Tanya Sekarang",
+  product_overview: "Gambaran Keseluruhan Produk",
+  features_label: "Ciri-ciri Utama Produk",
+  detailed_specifications: "Spesifikasi Terperinci",
+  quality_options: "Pilihan Kualiti",
+  packaging_options: "Pilihan Pembungkusan",
+  available_varieties: "Varieti yang Tersedia",
+  certifications_quality: "Pensijilan & Jaminan Kualiti",
+  back_to_products: "Kembali ke Produk",
+  similar_products_title: "Produk yang Serupa",
+  view: "Lihat",
+  product_not_found: "Produk tidak dijumpai.",
+  error_loading_product: "Ralat memuatkan butiran produk.",
+  no_products_available: "Tiada produk tersedia.",
+  no_products_found: "Tiada produk dijumpai. Cuba carian lain.",
+
+  specifications: "Spesifikasi",
+  quality_assurance: "Jaminan Kualiti",
+  variety: "Varieti",
+  container_capacity: "Kapasiti Kontena",
+
+  privacy_policy_title: "Dasar Privasi",
+  privacy_policy_content: `<div class='policy-content'><h2>Dasar Privasi<\/h2><p><strong>Tarikh Berkuat Kuasa:<\/strong> 20/04/2025<\/p><p>Mile Overseas (\"kami\") komited untuk melindungi privasi maklumat anda. Dasar Privasi ini menerangkan cara kami mengumpul, menggunakan dan mendedahkan maklumat apabila anda menggunakan laman web kami <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (\"Laman Web\").<\/p><ol><li><strong>Maklumat yang Kami Kumpul<\/strong><br>Kami mungkin mengumpul jenis maklumat berikut:<br><strong>Maklumat Peribadi:<\/strong> Ini adalah maklumat yang boleh digunakan untuk mengenal pasti anda, seperti nama, alamat e-mel, nombor telefon, nama syarikat, alamat, dan sebarang maklumat yang anda berikan secara sukarela kepada kami melalui borang hubungan, e-mel, atau saluran komunikasi lain.<br><strong>Maklumat Bukan Peribadi:<\/strong> Ini adalah maklumat yang tidak mengenal pasti anda secara langsung. Ini mungkin termasuk:<ul><li><strong>Data Log:<\/strong> Pelayan kami secara automatik merekodkan maklumat (\"Data Log\") yang dicipta oleh penggunaan Laman Web oleh anda. Data Log mungkin termasuk alamat IP anda, jenis penyemak imbas, penyedia perkhidmatan internet, halaman rujukan/keluar, sistem pengendalian, cap tarikh/masa, dan data berkaitan.<\/li><li><strong>Kuki dan Teknologi Serupa:<\/strong> Kami mungkin menggunakan kuki, suar web, dan teknologi penjejakan serupa untuk mengumpul maklumat tentang aktiviti penyemakan imbas anda di Laman Web kami. Kuki ialah fail data kecil yang disimpan pada peranti anda yang membantu kami menambah baik Laman Web kami dan pengalaman anda. Anda boleh mengawal penggunaan kuki pada peringkat penyemak imbas individu, tetapi jika anda memilih untuk melumpuhkan kuki, ia mungkin mengehadkan penggunaan ciri atau fungsi tertentu di Laman Web kami.<\/li><li><strong>Data Penggunaan Laman Web:<\/strong> Kami mungkin mengumpul maklumat tentang cara anda menggunakan Laman Web kami, seperti halaman yang anda lawati, pautan yang anda klik, dan masa yang anda luangkan di Laman Web kami.<\/li><\/ul><\/li><li><strong>Cara Kami Mengumpul Maklumat<\/strong><br>Kami mengumpul maklumat dengan cara berikut:<ul><li><strong>Maklumat yang Anda Berikan Secara Langsung:<\/strong> Kami mengumpul Maklumat Peribadi apabila anda menyerahkannya secara sukarela kepada kami, seperti apabila anda:<ul><li>Mengisi borang hubungan di Laman Web kami.<\/li><li>Menghubungi kami melalui e-mel atau telefon.<\/li><li>Meminta sebut harga atau maklumat tentang produk kami.<\/li><li>Melanggan surat berita kami (jika berkenaan).<\/li><\/ul><\/li><li><strong>Maklumat yang Dikumpul Secara Automatik:<\/strong> Kami secara automatik mengumpul Maklumat Bukan Peribadi semasa anda menyemak imbas dan berinteraksi dengan Laman Web kami menggunakan kuki dan log pelayan.<\/li><\/ul><\/li><li><strong>Penggunaan Maklumat<\/strong><br>Kami mungkin menggunakan maklumat yang dikumpul untuk tujuan berikut:<ul><li><strong>Untuk Menyediakan dan Memperbaiki Laman Web kami:<\/strong> Untuk mengendalikan, menyelenggara, dan menambah baik Laman Web kami dan pengalaman pengguna.<\/li><li><strong>Untuk Menjawab Pertanyaan:<\/strong> Untuk menjawab permintaan, soalan, dan pertanyaan anda yang dihantar melalui Laman Web kami atau saluran komunikasi lain.<\/li><li><strong>Untuk Memproses Permintaan:<\/strong> Untuk memproses permintaan anda untuk sebut harga, maklumat produk, atau perkhidmatan lain.<\/li><li><strong>Untuk Menghantar Komunikasi Pemasaran (jika berkenaan):<\/strong> Dengan persetujuan anda, kami mungkin menghantar surat berita, e-mel pemasaran, atau bahan promosi lain tentang produk dan perkhidmatan kami kepada anda. Anda boleh memilih untuk tidak menerima komunikasi ini pada bila-bila masa dengan mengikuti arahan berhenti melanggan yang disediakan dalam komunikasi tersebut atau dengan menghubungi kami secara langsung.<\/li><li><strong>Untuk Analitis dan Pengoptimuman Laman Web:<\/strong> Untuk menganalisis trend penggunaan Laman Web, menjejaki pergerakan pengguna, dan mengumpul maklumat demografi untuk menambah baik reka bentuk, fungsi, dan kandungan Laman Web kami.<\/li><li><strong>Pematuhan Undang-undang:<\/strong> Untuk mematuhi undang-undang, peraturan, proses undang-undang, atau permintaan kerajaan yang berkenaan.<\/li><\/ul><\/li><li><strong>Perkongsian dan Pendedahan Maklumat<\/strong><br>Kami mungkin berkongsi maklumat anda dalam keadaan berikut:<ul><li><strong>Penyedia Perkhidmatan:<\/strong> Kami mungkin berkongsi maklumat dengan penyedia perkhidmatan pihak ketiga yang melaksanakan perkhidmatan bagi pihak kami, seperti pengehosan laman web, analisis data, penghantaran e-mel, dan perkhidmatan pelanggan. Penyedia perkhidmatan ini diwajibkan secara kontrak untuk melindungi maklumat anda dan menggunakannya hanya untuk tujuan kami mendedahkannya kepada mereka.<\/li><li><strong>Pemindahan Perniagaan:<\/strong> Sekiranya berlaku penggabungan, pemerolehan, penyusunan semula, penjualan aset, atau kebankrapan, maklumat anda mungkin dipindahkan atau didedahkan sebagai sebahagian daripada transaksi tersebut.<\/li><li><strong>Keperluan Undang-undang:<\/strong> Kami mungkin mendedahkan maklumat anda jika dikehendaki berbuat demikian oleh undang-undang atau sebagai tindak balas kepada permintaan yang sah oleh pihak berkuasa awam (cth., perintah mahkamah, sepina, peraturan kerajaan).<\/li><li><strong>Perlindungan Hak:<\/strong> Kami mungkin mendedahkan maklumat apabila kami percaya ia perlu untuk menyiasat, mencegah, atau mengambil tindakan mengenai aktiviti haram, penipuan yang disyaki, situasi yang melibatkan potensi ancaman kepada keselamatan mana-mana orang, pelanggaran Terma Penggunaan kami, atau seperti yang dikehendaki oleh undang-undang.<\/li><\/ul><\/li><li><strong>Keselamatan Data<\/strong><br>Kami mengambil langkah yang munasabah untuk melindungi maklumat anda daripada akses, penggunaan, atau pendedahan yang tidak dibenarkan. Walau bagaimanapun, tiada kaedah penghantaran melalui internet atau kaedah penyimpanan elektronik yang selamat sepenuhnya. Oleh itu, walaupun kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindungi Maklumat Peribadi anda, kami tidak dapat menjamin keselamatan mutlaknya.<\/li><li><strong>Kuki dan Teknologi Penjejakan<\/strong><br>Kami menggunakan kuki dan teknologi serupa untuk meningkatkan pengalaman anda di Laman Web kami. Dengan menggunakan Laman Web kami, anda bersetuju dengan penggunaan kuki seperti yang diterangkan dalam dasar ini. Anda boleh mengurus pilihan kuki anda melalui tetapan penyemak imbas anda. Sila rujuk dokumentasi bantuan penyemak imbas anda untuk mendapatkan maklumat lanjut tentang cara menyekat atau memadam kuki.<\/li><li><strong>Pautan Pihak Ketiga<\/strong><br>Laman Web kami mungkin mengandungi pautan ke laman web atau perkhidmatan pihak ketiga yang tidak dimiliki atau dikawal oleh kami. Kami tidak bertanggungjawab ke atas amalan privasi laman web pihak ketiga ini. Kami menggalakkan anda untuk menyemak dasar privasi laman web tersebut sebelum memberikan sebarang Maklumat Peribadi kepada mereka.<\/li><li><strong>Pengekalan Data<\/strong><br>Kami akan mengekalkan Maklumat Peribadi anda selama yang diperlukan untuk memenuhi tujuan yang digariskan dalam Dasar Privasi ini, melainkan tempoh pengekalan yang lebih lama diperlukan atau dibenarkan oleh undang-undang.<\/li><li><strong>Hak Anda<\/strong><br>Anda mungkin mempunyai hak tertentu mengenai Maklumat Peribadi anda, tertakluk kepada undang-undang yang berkenaan. Hak-hak ini mungkin termasuk:<ul><li><strong>Akses:<\/strong> Hak untuk meminta akses kepada Maklumat Peribadi yang kami pegang tentang anda.<\/li><li><strong>Pembetulan:<\/strong> Hak untuk meminta kami membetulkan sebarang Maklumat Peribadi yang tidak tepat atau tidak lengkap.<\/li><li><strong>Pemadaman:<\/strong> Hak untuk meminta kami memadamkan Maklumat Peribadi anda, dalam keadaan tertentu.<\/li><li><strong>Bantahan terhadap Pemprosesan:<\/strong> Hak untuk membantah pemprosesan Maklumat Peribadi anda untuk tujuan tertentu, seperti pemasaran langsung.<\/li><\/ul>Untuk melaksanakan hak-hak ini, sila hubungi kami menggunakan maklumat hubungan yang diberikan di bawah. Kami akan menjawab permintaan anda mengikut undang-undang yang berkenaan.<\/li><li><strong>Privasi Kanak-kanak<\/strong><br>Laman Web kami tidak ditujukan untuk kanak-kanak di bawah umur 16 tahun. Kami tidak secara sedar mengumpul Maklumat Peribadi daripada kanak-kanak di bawah umur ini. Jika anda seorang ibu bapa atau penjaga dan percaya bahawa anak anda telah memberikan kami Maklumat Peribadi, sila hubungi kami dengan segera, dan kami akan mengambil langkah untuk memadamkan maklumat tersebut.<\/li><li><strong>Perubahan kepada Dasar Privasi ini<\/strong><br>Kami mungkin mengemas kini Dasar Privasi ini dari semasa ke semasa untuk mencerminkan perubahan dalam amalan kami atau undang-undang yang berkenaan. Kami akan menyiarkan sebarang perubahan pada halaman ini dan mengemas kini \"Tarikh Berkuat Kuasa\" di bahagian atas Dasar Privasi ini. Kami menggalakkan anda untuk menyemak Dasar Privasi ini secara berkala untuk sebarang kemas kini. Untuk perubahan penting, kami mungkin memberikan notis yang lebih jelas (cth., di laman web kami atau melalui e-mel).<\/li><li><strong>Hubungi Kami<\/strong><br>Jika anda mempunyai sebarang soalan, kebimbangan, atau permintaan mengenai Dasar Privasi ini atau amalan data kami, sila hubungi kami di:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
 };

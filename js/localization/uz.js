@@ -97,6 +97,11 @@ const uzTranslations = {
     products_key_benefits: "Asosiy afzalliklari",
     products_available_forms: "Mavjud shakllar",
     products_packaging_sizes: "Qadoqlash hajmlari",
+    //Inquiry
+    custom_spice_title: "Maxsus Ziravorlar Yechimlari",
+    custom_spice_p1: "Standart takliflarimizdan tashqari, biz sizning aniq talablaringiz asosida qo'shimcha ziravorlarni yetkazib bera va qayta ishlay olamiz. Moslashuvchan yondashuvimiz global bozorlardagi turli xil xaridorlar ehtiyojlarini qondira olishimizni ta'minlaydi.",
+    custom_spice_p2: "Maxsus ziravorlar talablaringizni muhokama qilish va bizning yechimlarimizni ehtiyojlaringizga qanday moslashtirishimiz mumkinligini bilib olish uchun biz bilan bog'laning.",
+    custom_spice_btn: "Maxsus Ziravorlar Bo'yicha So'rov",
   
     // Chilli Varieties
     products_chilli_byadgi_label: "Byadgi Chili",
@@ -327,7 +332,7 @@ const uzTranslations = {
     certificates_iso: "ISO 9001 Sertifikati",
     certificates_iso_desc: "Sifat Menejmenti Tizimi",
     certificates_fssai: "FSSAI Sertifikati",
-    certificates_fssai_desc: "Hindiston Oziq-ovqat Xavfsizligi va Standartlari Idorasi",
+    certificates_fssai_desc: "Hindiston Oziq-ovqat xavfsizligi va standartlari idorasi",
     certificates_haccp: "HACCP Sertifikati",
     certificates_haccp_desc: "Xavf Tahlili va Muhim Nazorat Nuqtalari",
     certificates_download: "Sertifikatni Yuklab Olish",
@@ -354,7 +359,7 @@ const uzTranslations = {
     // Why Choose Us Page
     why_choose_advantages: "Bizning Raqobat Afzalliklarimiz",
     why_choose_direct_farmer:
-      "To'g'ridan-to'g'ri Fermerlardan Manba Olish: Biz to'g'ridan-to'g'ri fermerlardan manba olamiz, eng yangi va yuqori sifatli ziravorlarni ta'minlaymiz va mahalliy jamoalarni qo'llab-quvvatlaymiz.",
+      "To'g'ridan-to'g'ri Fermerlardan Manba Olish: Biz to'g'ridan-to'g'ri fermerlardan manba olamiz, eng yangi va yuqori sifatli ziravorlarni taqdimlaymiz va mahalliy jamoalarni qo'llab-quvvatlaymiz.",
     why_choose_global_trade:
       "Global Savdo Mutaxassisligi: Xalqaro savdoda ko'p yillik tajribamiz bilan biz global bozorlarda samarali harakat qilamiz, muammosiz va ishonchli eksportni ta'minlaymiz.",
     why_choose_consistent:
@@ -364,7 +369,7 @@ const uzTranslations = {
     why_choose_logistics: "Logistika va To'lov",
   
     // Footer
-    footer_copyright: "© 2023 Mileoverseas. Barcha huquqlar himoyalangan.",
+    footer_copyright: " 2023 Mileoverseas. Barcha huquqlar himoyalangan.",
   
     // Sustainability Section
     about_sustainability_intro:
@@ -388,7 +393,7 @@ const uzTranslations = {
     why_choose_title: "Bizning Raqobat Afzalliklarimiz",
     why_choose_farmer_label: "To'g'ridan-to'g'ri Fermerlardan Manba Olish",
     why_choose_farmer_text:
-      "Biz to'g'ridan-to'g'ri fermerlardan manba olamiz, eng yangi va yuqori sifatli ziravorlarni ta'minlaymiz va mahalliy jamoalarni qo'llab-quvvatlaymiz.",
+      "Biz to'g'ridan-to'g'ri fermerlardan manba olamiz, eng yangi va yuqori sifatli ziravorlarni taqdimlaymiz va mahalliy jamoalarni qo'llab-quvvatlaymiz.",
     why_choose_global_label: "Global Savdo Mutaxassisligi",
     why_choose_global_text:
       "Xalqaro savdoda ko'p yillik tajribamiz bilan biz global bozorlarda samarali harakat qilamiz, muammosiz va ishonchli eksportni ta'minlaymiz.",
@@ -489,8 +494,38 @@ const uzTranslations = {
     // Custom spice section
     custom_spices_title: "Maxsus Ziravor Yechimlari",
     custom_spices_description:
-      "Standart takliflarimizdan tashqari, biz sizning maxsus talablaringizga asosan qo'shimcha ziravorlarni topishimiz va qayta ishlashimiz mumkin. Bizning moslashuvchan yondashuvimiz global bozorlarda turli xil xaridor ehtiyojlarini qondirishimizni ta'minlaydi.",
+      "Standart takliflarimizdan tashqari, biz sizning maxsus talablaringizga asosan qo'shimcha ziravorlarni topishimiz va qayta ishlashimiz mumkin. Bizning moslashuvchan yondashuvimiz global bozorlarda turli xil xaridor ehtiyojlarini qondira olishimizni ta'minlaydi.",
     custom_spices_contact:
       "Maxsus ziravor talablaringizni muhokama qilish va yechimlarimizni ehtiyojlaringizga moslashtirish yo'llarini o'rganish uchun biz bilan bog'laning.",
     custom_spices_button: "Maxsus Ziravorlar Haqida So'rang",
+  
+    // Products Page
+    products_hero_headline: "Bizning Premium Ziravorlar",
+    products_hero_subheadline: "Yuqori sifatli ziravorlar va ingredientlar katalogimizni kashf eting",
+    search_by_name: "Nom bo'yicha qidirish...",
+  
+    // Product Detail Page
+    scarcity_badge_harvested: "Yig'ilgan vaqt:",
+    scarcity_badge_default: "Oktabr-Fevral oralig'ida yig'iladi",
+    certified: "Sertifikatlangan",
+    enquire_now: "Hozir so'rang",
+    product_overview: "Mahsulot haqida umumiy ma'lumot",
+    features_label: "Asosiy mahsulot xususiyatlari",
+    detailed_specifications: "Batafsil texnik xususiyatlar",
+    quality_options: "Sifat variantlari",
+    packaging_options: "Qadoqlash variantlari",
+    available_varieties: "Mavjud turlar",
+    certifications_quality: "Sertifikatlar va sifat kafolati",
+    back_to_products: "Mahsulotlarga qaytish",
+    similar_products_title: "O'xshash mahsulotlar",
+    view: "Ko'rish",
+    product_not_found: "Mahsulot topilmadi.",
+    error_loading_product: "Mahsulot tafsilotlarini yuklashda xatolik yuz berdi.",
+    no_products_available: "Hech qanday mahsulot mavjud emas.",
+    no_products_found: "Mahsulot topilmadi. Boshqa qidiruvni sinab ko'ring.",
+    quality_assurance: "Sifat kafolati",
+    variety: "Tur",
+    container_capacity: "Konteyner sig'imi",
+    privacy_policy_title: "Maxfiylik siyosati",
+    privacy_policy_content: `<div class='policy-content'>Maxfiylik siyosati<\/h2><p><strong>Kuchga kirish sanasi:<\/strong> 20.04.2025<\/p><p>Mile Overseas (\"biz\", \"bizga\" yoki \"bizning\") sizning ma'lumotlaringiz maxfiyligini himoya qilishga sodiqdir. Ushbu Maxfiylik siyosati bizning veb-saytimizdan <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (\"Veb-sayt\") foydalanganingizda ma'lumotlarni qanday yig'ishimiz, ishlatishimiz va oshkor etishimizni tushuntiradi.<\/p><ol><li><strong>Biz yig'adigan ma'lumotlar<\/strong><br>Biz quyidagi turdagi ma'lumotlarni yig'ishimiz mumkin:<br><strong>Shaxsiy ma'lumotlar:<\/strong> Bu sizni aniqlash uchun ishlatilishi mumkin bo'lgan ma'lumotlardir, masalan, ismingiz, elektron pochta manzilingiz, telefon raqamingiz, kompaniya nomi, manzilingiz va aloqa shakllari, elektron pochta yoki boshqa aloqa kanallari orqali bizga ixtiyoriy ravishda taqdim etgan har qanday ma'lumotlar.<br><strong>Shaxsiy bo'lmagan ma'lumotlar:<\/strong> Bu sizni bevosita aniqlamaydigan ma'lumotlardir. Bunga quyidagilar kirishi mumkin:<ul><li><strong>Jurnal ma'lumotlari:<\/strong> Serverlarimiz Veb-saytdan foydalanishingiz natijasida yaratilgan ma'lumotlarni (\"Jurnal ma'lumotlari\") avtomatik ravishda qayd etadi. Jurnal ma'lumotlari sizning IP manzilingiz, brauzer turi, internet-provayderingiz, yo'naltiruvchi/chiqish sahifalari, operatsion tizimingiz, sana/vaqt belgilari va tegishli ma'lumotlarni o'z ichiga olishi mumkin.<\/li><li><strong>Cookie-fayllar va shunga o'xshash texnologiyalar:<\/strong> Biz Veb-saytimizdagi ko'rib chiqish faoliyatingiz haqida ma'lumot to'plash uchun cookie-fayllar, veb-mayoqlar va shunga o'xshash kuzatuv texnologiyalaridan foydalanishimiz mumkin. Cookie-fayllar qurilmangizda saqlanadigan kichik ma'lumotlar fayllari bo'lib, ular Veb-saytimizni va tajribangizni yaxshilashga yordam beradi. Siz cookie-fayllardan foydalanishni individual brauzer darajasida boshqarishingiz mumkin, ammo agar siz cookie-fayllarni o'chirib qo'yishni tanlasangiz, bu Veb-saytimizdagi ayrim xususiyatlar yoki funksiyalardan foydalanishingizni cheklashi mumkin.<\/li><li><strong>Veb-saytdan foydalanish ma'lumotlari:<\/strong> Biz Veb-saytimizdan qanday foydalanayotganingiz haqida ma'lumot to'plashimiz mumkin, masalan, siz tashrif buyurgan sahifalar, siz bosgan havolalar va Veb-saytimizda sarflagan vaqtingiz.<\/li><\/ul><\/li><li><strong>Ma'lumotlarni qanday yig'amiz<\/strong><br>Biz ma'lumotlarni quyidagi yo'llar bilan yig'amiz:<ul><li><strong>Siz to'g'ridan-to'g'ri taqdim etgan ma'lumotlar:<\/strong> Biz Shaxsiy ma'lumotlarni siz uni ixtiyoriy ravishda bizga taqdim etganingizda yig'amiz, masalan, quyidagi hollarda:<ul><li>Veb-saytimizdagi aloqa shakllarini to'ldirganingizda.<\/li><li>Biz bilan elektron pochta yoki telefon orqali bog'langaningizda.<\/li><li>Mahsulotlarimiz haqida narx taklifi yoki ma'lumot so'raganingizda.<\/li><li>Axborot byulletenimizga obuna bo'lganingizda (agar mavjud bo'lsa).<\/li><\/ul><\/li><li><strong>Avtomatik ravishda yig'ilgan ma'lumotlar:<\/strong> Biz cookie-fayllar va server jurnallaridan foydalangan holda Veb-saytimizni ko'rib chiqqaningizda va u bilan o'zaro aloqada bo'lganingizda Shaxsiy bo'lmagan ma'lumotlarni avtomatik ravishda yig'amiz.<\/li><\/ul><\/li><li><strong>Ma'lumotlardan foydalanish<\/strong><br>Biz yig'ilgan ma'lumotlardan quyidagi maqsadlarda foydalanishimiz mumkin:<ul><li><strong>Veb-saytimizni taqdim etish va yaxshilash uchun:<\/strong> Veb-saytimiz va foydalanuvchi tajribasini ishlatish, qo'llab-quvvatlash va yaxshilash uchun.<\/li><li><strong>So'rovlarga javob berish uchun:<\/strong> Veb-saytimiz yoki boshqa aloqa kanallari orqali yuborilgan so'rovlaringiz, savollaringiz va murojaatlaringizga javob berish uchun.<\/li><li><strong>So'rovlarni qayta ishlash uchun:<\/strong> Narx takliflari, mahsulot ma'lumotlari yoki boshqa xizmatlar uchun so'rovlaringizni qayta ishlash uchun.<\/li><li><strong>Marketing kommunikatsiyalarini yuborish uchun (agar mavjud bo'lsa):<\/strong> Sizning roziligingiz bilan biz sizga mahsulotlarimiz va xizmatlarimiz haqida axborot byulletenlari, marketing elektron pochta xabarlari yoki boshqa reklama materiallarini yuborishimiz mumkin. Siz istalgan vaqtda kommunikatsiyada ko'rsatilgan obunani bekor qilish ko'rsatmalariga amal qilib yoki biz bilan bevosita bog'lanib, ushbu kommunikatsiyalarni olishdan voz kechishingiz mumkin.<\/li><li><strong>Tahlil va veb-saytni optimallashtirish uchun:<\/strong> Veb-saytdan foydalanish tendentsiyalarini tahlil qilish, foydalanuvchi harakatlarini kuzatish va Veb-saytimiz dizayni, funksionalligi va tarkibini yaxshilash uchun demografik ma'lumotlarni yig'ish uchun.<\/li><li><strong>Qonunchilikka rioya qilish uchun:<\/strong> Amaldagi qonunlar, qoidalar, huquqiy jarayonlar yoki hukumat so'rovlariga rioya qilish uchun.<\/li><\/ul><\/li><li><strong>Ma'lumotlarni almashish va oshkor qilish<\/strong><br>Biz sizning ma'lumotlaringizni quyidagi hollarda almashishimiz mumkin:<ul><li><strong>Xizmat ko'rsatuvchi provayderlar:<\/strong> Biz veb-sayt xostingi, ma'lumotlarni tahlil qilish, elektron pochta yetkazib berish va mijozlarga xizmat ko'rsatish kabi bizning nomimizdan xizmatlarni amalga oshiradigan uchinchi tomon xizmat ko'rsatuvchi provayderlar bilan ma'lumot almashishimiz mumkin. Ushbu xizmat ko'rsatuvchi provayderlar shartnoma asosida sizning ma'lumotlaringizni himoya qilish va ularni faqat biz ularga oshkor qilgan maqsadlarda ishlatish majburiyatini oladilar.<\/li><li><strong>Biznes o'tkazmalari:<\/strong> Qo'shilish, sotib olish, qayta tashkil etish, aktivlarni sotish yoki bankrotlik holatlarida sizning ma'lumotlaringiz ushbu bitimning bir qismi sifatida o'tkazilishi yoki oshkor etilishi mumkin.<\/li><li><strong>Qonuniy talablar:<\/strong> Agar qonun talab qilsa yoki davlat organlarining (masalan, sud qarori, chaqiruv qog'ozi, hukumat qarori) asosli so'rovlariga javoban sizning ma'lumotlaringizni oshkor qilishimiz mumkin.<\/li><li><strong>Huquqlarni himoya qilish:<\/strong> Biz noqonuniy faoliyatlar, shubhali firibgarlik, har qanday shaxs xavfsizligiga potentsial tahdid soladigan vaziyatlar, Foydalanish shartlarimizni buzish yoki qonun tomonidan boshqacha tarzda talab qilingan hollarda tergov qilish, oldini olish yoki choralar ko'rish zarur deb hisoblaganimizda ma'lumotlarni oshkor qilishimiz mumkin.<\/li><\/ul><\/li><li><strong>Ma'lumotlar xavfsizligi<\/strong><br>Biz sizning ma'lumotlaringizni ruxsatsiz kirish, ishlatish yoki oshkor etishdan himoya qilish uchun oqilona choralarni ko'ramiz. Biroq, internet orqali uzatish yoki elektron saqlashning hech qanday usuli to'liq xavfsiz emas. Shuning uchun, biz Shaxsiy ma'lumotlaringizni himoya qilish uchun tijorat nuqtai nazaridan maqbul vositalardan foydalanishga harakat qilsak-da, uning mutlaq xavfsizligini kafolatlay olmaymiz.<\/li><li><strong>Cookie-fayllar va kuzatuv texnologiyalari<\/strong><br>Biz Veb-saytimizdagi tajribangizni yaxshilash uchun cookie-fayllar va shunga o'xshash texnologiyalardan foydalanamiz. Veb-saytimizdan foydalanish orqali siz ushbu siyosatda tavsiflanganidek cookie-fayllardan foydalanishga rozilik bildirasiz. Siz cookie-fayl sozlamalarini brauzer sozlamalari orqali boshqarishingiz mumkin. Cookie-fayllarni bloklash yoki o'chirish haqida ko'proq ma'lumot olish uchun brauzeringizning yordam hujjatlariga murojaat qiling.<\/li><li><strong>Uchinchi tomon havolalari<\/strong><br>Veb-saytimiz bizga tegishli bo'lmagan yoki biz tomonidan nazorat qilinmaydigan uchinchi tomon veb-saytlari yoki xizmatlariga havolalarni o'z ichiga olishi mumkin. Biz ushbu uchinchi tomon veb-saytlarining maxfiylik amaliyotlari uchun javobgar emasmiz. Ularga har qanday Shaxsiy ma'lumotlarni taqdim etishdan oldin ushbu veb-saytlarning maxfiylik siyosatlarini ko'rib chiqishingizni tavsiya qilamiz.<\/li><li><strong>Ma'lumotlarni saqlash<\/strong><br>Agar qonun tomonidan uzoqroq saqlash muddati talab qilinmasa yoki ruxsat etilmasa, biz Shaxsiy ma'lumotlaringizni ushbu Maxfiylik siyosatida belgilangan maqsadlarni bajarish uchun zarur bo'lgan vaqtgacha saqlaymiz.<\/li><li><strong>Sizning huquqlaringiz<\/strong><br>Amaldagi qonunchilikka muvofiq, siz Shaxsiy ma'lumotlaringizga oid ma'lum huquqlarga ega bo'lishingiz mumkin. Ushbu huquqlar quyidagilarni o'z ichiga olishi mumkin:<ul><li><strong>Kirish huquqi:<\/strong> Biz siz haqingizda saqlaydigan Shaxsiy ma'lumotlarga kirishni so'rash huquqi.<\/li><li><strong>Tuzatish huquqi:<\/strong> Har qanday noto'g'ri yoki to'liq bo'lmagan Shaxsiy ma'lumotlarni tuzatishimizni so'rash huquqi.<\/li><li><strong>O'chirish huquqi:<\/strong> Muayyan sharoitlarda Shaxsiy ma'lumotlaringizni o'chirishimizni so'rash huquqi.<\/li><li><strong>Qayta ishlashga e'tiroz bildirish huquqi:<\/strong> To'g'ridan-to'g'ri marketing kabi muayyan maqsadlar uchun Shaxsiy ma'lumotlaringizni qayta ishlashga e'tiroz bildirish huquqi.<\/li><\/ul>Ushbu huquqlardan foydalanish uchun quyida keltirilgan aloqa ma'lumotlaridan foydalanib biz bilan bog'laning. Biz sizning so'rovingizga amaldagi qonunchilikka muvofiq javob beramiz.<\/li><li><strong>Bolalar maxfiyligi<\/strong><br>Veb-saytimiz 16 yoshga to'lmagan bolalar uchun mo'ljallanmagan. Biz ushbu yoshdagi bolalardan bila turib Shaxsiy ma'lumotlarni yig'maymiz. Agar siz ota-ona yoki vasiy bo'lsangiz va farzandingiz bizga Shaxsiy ma'lumotlarni taqdim etganiga ishonsangiz, darhol biz bilan bog'laning va biz bunday ma'lumotlarni o'chirish choralarini ko'ramiz.<\/li><li><strong>Ushbu Maxfiylik siyosatiga o'zgartirishlar<\/strong><br>Biz amaliyotlarimizdagi yoki amaldagi qonunlardagi o'zgarishlarni aks ettirish uchun vaqti-vaqti bilan ushbu Maxfiylik siyosatini yangilashimiz mumkin. Biz har qanday o'zgarishlarni ushbu sahifada e'lon qilamiz va ushbu Maxfiylik siyosatining yuqori qismidagi \"Kuchga kirish sanasi\" ni yangilaymiz. Har qanday yangilanishlar uchun ushbu Maxfiylik siyosatini vaqti-vaqti bilan ko'rib chiqishingizni tavsiya qilamiz. Muhim o'zgarishlar uchun biz yanada aniqroq xabarnoma taqdim etishimiz mumkin (masalan, veb-saytimizda yoki elektron pochta orqali).<\/li><li><strong>Biz bilan bog'laning<\/strong><br>Ushbu Maxfiylik siyosati yoki ma'lumotlar amaliyotimiz bo'yicha savollaringiz, xavotirlaringiz yoki so'rovlaringiz bo'lsa, biz bilan quyidagi manzil orqali bog'laning:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
   };

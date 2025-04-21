@@ -81,7 +81,21 @@ class LocalizationManager {
     elementsToTranslate.forEach((element) => {
       const key = element.getAttribute("data-i18n");
       if (key) {
-        element.textContent = this.translate(key);
+        // Use innerHTML for HTML-rich content, textContent for others
+        if (key === "privacy_policy_content") {
+          element.innerHTML = this.translate(key);
+        } else {
+          element.textContent = this.translate(key);
+        }
+      }
+    });
+
+    // Translate all input placeholders with data-i18n-placeholder attribute
+    const placeholdersToTranslate = document.querySelectorAll("[data-i18n-placeholder]");
+    placeholdersToTranslate.forEach((element) => {
+      const key = element.getAttribute("data-i18n-placeholder");
+      if (key) {
+        element.placeholder = this.translate(key);
       }
     });
 

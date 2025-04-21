@@ -1,4 +1,13 @@
 const enTranslations = {
+  // Product Categories
+  category_spices: "Spices",
+  category_oil_seeds: "Oil Seeds",
+  category_herbs: "Herbs",
+  category_dehydrated: "Dehydrated Products",
+  products_no_results: "No products found matching your criteria.",
+  products_loading: "Loading products...",
+  products_hero_headline: "Our Premium Spice Products",
+  products_hero_subheadline: "Discover our range of high-quality spices and ingredients",
   // Navigation
   nav_home: "Home",
   nav_about: "About Us",
@@ -344,6 +353,7 @@ const enTranslations = {
   contact_send: "Send Inquiry",
   contact_success: "Thank you for your inquiry! We will get back to you soon.",
   contact_info_title: "Contact Information",
+  whatsapp_contact: "WhatsApp:",
   contact_whatsapp: "WhatsApp:",
   contact_email_info: "Email:",
   contact_live_chat: "Live Chat:",
@@ -365,7 +375,7 @@ const enTranslations = {
   why_choose_logistics: "Logistics & Payment",
 
   // Footer
-  footer_copyright: "© 2023 Mileoverseas. All rights reserved.",
+  footer_copyright: " 2023 Mileoverseas. All rights reserved.",
 
   // Sustainability Section
   about_sustainability_intro:
@@ -494,4 +504,49 @@ const enTranslations = {
   custom_spices_contact:
     "Contact us to discuss your custom spice requirements and explore how we can tailor our solutions to meet your needs.",
   custom_spices_button: "Inquire About Custom Spices",
+
+  // Custom spice section
+  
+  custom_spice_title: "Custom Spice Solutions",
+  custom_spice_p1: "Beyond our standard offerings, we can source and process additional spices based on your specific requirements. Our flexible approach ensures we can meet diverse buyer needs across global markets.",
+  custom_spice_p2: "Contact us to discuss your custom spice requirements and explore how we can tailor our solutions to meet your needs.",
+  custom_spice_btn: "Inquire About Custom Spices",
+  
+  // Product Detail Page translations
+  scarcity_badge_harvested: "Harvested:",
+  scarcity_badge_default: "Harvested Oct-Feb",
+  certified: "Certified",
+  enquire_now: "Enquire Now",
+  product_overview: "Product Overview",
+  features_label: "Key Product Features",
+  detailed_specifications: "Detailed Specifications",
+  quality_options: "Quality Options",
+
+  packaging_options: "Packaging Options",
+  available_varieties: "Available Varieties",
+  certifications_quality: "Certifications & Quality Assurance",
+  back_to_products: "Back to Products",
+  similar_products_title: "Similar Products",
+  view: "View",
+  product_not_found: "Product not found.",
+  error_loading_product: "Error loading product details.",
+  
+  // Search text
+  search_by_name: "Search by name...",
+
+  //new
+  container_capacity: "Container Capacity and Packaging",
+  quality_assurance: "Quality Assurance",
+  "specifications": "Specifications",
+  variety:"Variety",
+  
+  // TODO: Add translations for more languages (e.g., fr, ru, hi, etc.) for product detail keys: container_capacity, specifications, variety, quality_assurance
+  no_data_available: "No data available",
+  // TODO: Add translation for 'no_data_available' in more languages (fr, ru, hi, etc.)
+  no_products_available: "No products available.",
+  no_products_found: "No products found. Try another search.",
+  
+  privacy_policy_title: "Privacy Policy",
+  privacy_policy_content: `<div class='policy-content'><h2>Privacy Policy<\/h2><p><strong>Effective Date:<\/strong> 04/20/2025<\/p><p>Mile Overseas (\"we,\" \"us,\" or \"our\") is committed to protecting the privacy of your information. This Privacy Policy explains how we collect, use, and disclose information when you use our website <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (the \"Website\").<\/p><ol><li><strong>Information We Collect<\/strong><br>We may collect the following types of information:<br><strong>Personal Information:<\/strong> This is information that can be used to identify you, such as your name, email address, phone number, company name, address, and any information you voluntarily provide to us through contact forms, email, or other communication channels.<br><strong>Non-Personal Information:<\/strong> This is information that does not directly identify you. This may include:<ul><li><strong>Log Data:<\/strong> Our servers automatically record information (\"Log Data\") created by your use of the Website. Log Data may include your IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps, and related data.<\/li><li><strong>Cookies and Similar Technologies:<\/strong> We may use cookies, web beacons, and similar tracking technologies to collect information about your browsing activity on our Website. Cookies are small data files stored on your device that help us improve our Website and your experience. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our Website.<\/li><li><strong>Website Usage Data:<\/strong> We may collect information about how you use our Website, such as the pages you visit, the links you click, and the time you spend on our Website.<\/li><\/ul><\/li><li><strong>How We Collect Information<\/strong><br>We collect information in the following ways:<ul><li><strong>Information You Provide Directly:<\/strong> We collect Personal Information when you voluntarily submit it to us, such as when you:<ul><li>Fill out contact forms on our Website.<\/li><li>Contact us via email or phone.<\/li><li>Request a quote or information about our products.<\/li><li>Subscribe to our newsletter (if applicable).<\/li><\/ul><\/li><li><strong>Information Collected Automatically:<\/strong> We automatically collect Non-Personal Information as you browse and interact with our Website using cookies and server logs.<\/li><\/ul><\/li><li><strong>Use of Information<\/strong><br>We may use the collected information for the following purposes:<ul><li><strong>To Provide and Improve our Website:<\/strong> To operate, maintain, and improve our Website and user experience.<\/li><li><strong>To Respond to Inquiries:<\/strong> To respond to your requests, questions, and inquiries submitted through our Website or other communication channels.<\/li><li><strong>To Process Requests:<\/strong> To process your requests for quotes, product information, or other services.<\/li><li><strong>To Send Marketing Communications (if applicable):<\/strong> With your consent, we may send you newsletters, marketing emails, or other promotional materials about our products and services. You can opt-out of receiving these communications at any time by following the unsubscribe instructions provided in the communication or contacting us directly.<\/li><li><strong>For Analytics and Website Optimization:<\/strong> To analyze Website usage trends, track user movements, and gather demographic information to improve our Website's design, functionality, and content.<\/li><li><strong>Legal Compliance:<\/strong> To comply with applicable laws, regulations, legal processes, or governmental requests.<\/li><\/ul><\/li><li><strong>Sharing and Disclosure of Information<\/strong><br>We may share your information in the following circumstances:<ul><li><strong>Service Providers:<\/strong> We may share information with third-party service providers who perform services on our behalf, such as website hosting, data analysis, email delivery, and customer service. These service providers are contractually obligated to protect your information and use it only for the purposes for which we disclose it to them.<\/li><li><strong>Business Transfers:<\/strong> In the event of a merger, acquisition, reorganization, sale of assets, or bankruptcy, your information may be transferred or disclosed as part of that transaction.<\/li><li><strong>Legal Requirements:<\/strong> We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., court order, subpoena, government regulation).<\/li><li><strong>Protection of Rights:<\/strong> We may disclose information when we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use, or as otherwise required by law.<\/li><\/ul><\/li><li><strong>Data Security<\/strong><br>We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or method of electronic storage is completely secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.<\/li><li><strong>Cookies and Tracking Technologies<\/strong><br>We use cookies and similar technologies to enhance your experience on our Website. By using our Website, you consent to the use of cookies as described in this policy. You can manage your cookie preferences through your browser settings. Please refer to your browser's help documentation for more information on how to block or delete cookies.<\/li><li><strong>Third-Party Links<\/strong><br>Our Website may contain links to third-party websites or services that are not owned or controlled by us. We are not responsible for the privacy practices of these third-party websites. We encourage you to review the privacy policies of those websites before providing any Personal Information to them.<\/li><li><strong>Data Retention<\/strong><br>We will retain your Personal Information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.<\/li><li><strong>Your Rights<\/strong><br>You may have certain rights regarding your Personal Information, subject to applicable law. These rights may include:<ul><li><strong>Access:<\/strong> The right to request access to the Personal Information we hold about you.<\/li><li><strong>Correction:<\/strong> The right to request that we correct any inaccurate or incomplete Personal Information.<\/li><li><strong>Deletion:<\/strong> The right to request that we delete your Personal Information, under certain circumstances.<\/li><li><strong>Objection to Processing:<\/strong> The right to object to the processing of your Personal Information for certain purposes, such as direct marketing.<\/li><\/ul>To exercise these rights, please contact us using the contact information provided below. We will respond to your request in accordance with applicable law.<\/li><li><strong>Children's Privacy<\/strong><br>Our Website is not intended for children under the age of 16. We do not knowingly collect Personal Information from children under this age. If you are a parent or guardian and believe that your child has provided us with Personal Information, please contact us immediately, and we will take steps to delete such information.<\/li><li><strong>Changes to this Privacy Policy<\/strong><br>We may update this Privacy Policy from time to time to reflect changes in our practices or applicable laws. We will post any changes on this page and update the \"Effective Date\" at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically for any updates. For significant changes, we may provide a more prominent notice (e.g., on our website or via email).<\/li><li><strong>Contact Us<\/strong><br>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol>`
+
 };

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO: Dynamic product-specific meta tags (to be filled server-side or via JS) -->
+    <title id="dynamic-title">{{PRODUCT_NAME}} Export from India | Bulk {{PRODUCT_NAME}} Supplier</title>
+
+    <meta name="description" content="Export quality {{PRODUCT_NAME}} from India. Bulk supply, certifications, global shipping. Trusted by international spice buyers. Get a quote for {{PRODUCT_NAME}} export now!" />
+    <link rel="canonical" href="https://www.mileoverseas.com/products/{{PRODUCT_SLUG}}" />
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="{{PRODUCT_NAME}} Export from India | Bulk {{PRODUCT_NAME}} Supplier" />
+    <meta property="og:description" content="Export quality {{PRODUCT_NAME}} from India. Bulk supply, certifications, global shipping. Trusted by international spice buyers." />
+    <meta property="og:type" content="product" />
+    <meta property="og:url" content="https://www.mileoverseas.com/products/{{PRODUCT_SLUG}}" />
+    <meta property="og:image" content="https://www.mileoverseas.com/images/products/{{PRODUCT_IMAGE}}" />
+    <!-- Hreflang Tags for International SEO -->
+    <link rel="alternate" hreflang="en" href="https://www.mileoverseas.com/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="ar" href="https://www.mileoverseas.com/ar/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="zh" href="https://www.mileoverseas.com/zh/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="ms" href="https://www.mileoverseas.com/ms/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="th" href="https://www.mileoverseas.com/th/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="de" href="https://www.mileoverseas.com/de/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="es" href="https://www.mileoverseas.com/es/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="bn" href="https://www.mileoverseas.com/bn/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="ko" href="https://www.mileoverseas.com/ko/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="ja" href="https://www.mileoverseas.com/ja/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="tr" href="https://www.mileoverseas.com/tr/products/{{PRODUCT_SLUG}}" />
+    <link rel="alternate" hreflang="uz" href="https://www.mileoverseas.com/uz/products/{{PRODUCT_SLUG}}" />
+    <!-- Structured Data: Product Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "{{PRODUCT_NAME}}",
+      "image": [
+        "https://www.mileoverseas.com/images/products/{{PRODUCT_IMAGE}}"
+      ],
+      "description": "Export quality {{PRODUCT_NAME}} from India. Bulk supply, certifications, global shipping.",
+      "sku": "{{PRODUCT_SKU}}",
+      "brand": {
+        "@type": "Brand",
+        "name": "Mile Overseas"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.mileoverseas.com/products/{{PRODUCT_SLUG}}",
+        "priceCurrency": "USD",
+        "price": "{{PRODUCT_PRICE}}",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/products.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="css/product-details.css">
+    <style>
+        header {
+            position: sticky;
+            top: 0;
+        }
+    </style>
+</head>
+<body class="modern-design">
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo-modern.png" alt="Mileoverseas Logo" />
+                </a>
+            </div>
+            <button class="hamburger" id="hamburger-icon">
+                <i class="fas fa-bars"></i>
+            </button>
+            <ul class="nav-links" id="nav-menu">
+                <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+                <li><a href="about.html" data-i18n="nav_about">About Us</a></li>
+                <li>
+                    <a href="products.html" data-i18n="nav_products">Products</a>
+                </li>
+                <li>
+                    <a href="why-choose-us.html" data-i18n="nav_why_choose">Why Choose Us</a>
+                </li>
+                <li><a href="faq.html" data-i18n="nav_faq">FAQs</a></li>
+                <li>
+                    <a href="certificates.html" data-i18n="nav_certificates">Certificates</a>
+                </li>
+                <li><a href="contact.html" data-i18n="nav_contact">Contact Us</a></li>
+                <li class="language-dropdown">
+                    <a href="#" class="dropdown-title" data-i18n="nav_language">Language</a>
+                    <div class="language-dropdown-content" id="language-dropdown">
+                        <a href="#" class="language-option active" data-lang="en">English</a>
+                        <a href="#" class="language-option" data-lang="ar">العربية</a>
+                        <a href="#" class="language-option" data-lang="zh">中文</a>
+                        <a href="#" class="language-option" data-lang="ms">Bahasa Melayu</a>
+                        <a href="#" class="language-option" data-lang="th">ไทย</a>
+                        <a href="#" class="language-option" data-lang="de">Deutsch</a>
+                        <a href="#" class="language-option" data-lang="es">Español</a>
+                        <a href="#" class="language-option" data-lang="bn">বাংলা</a>
+                        <a href="#" class="language-option" data-lang="ko">한국어</a>
+                        <a href="#" class="language-option" data-lang="ja">日本語</a>
+                        <a href="#" class="language-option" data-lang="tr">Türkçe</a>
+                        <a href="#" class="language-option" data-lang="uz">o'zbek</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        <div class="mobile-nav-drawer" id="mobile-drawer">
+            <ul class="mobile-nav-links">
+                <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+                <li><a href="about.html" data-i18n="nav_about">About Us</a></li>
+                <li>
+                    <a href="products.html" data-i18n="nav_products">Products</a>
+                </li>
+                <li>
+                    <a href="why-choose-us.html" data-i18n="nav_why_choose">Why Choose Us</a>
+                </li>
+                <li><a href="faq.html" data-i18n="nav_faq">FAQs</a></li>
+                <li>
+                    <a href="certificates.html" data-i18n="nav_certificates">Certificates</a>
+                </li>
+                <li><a href="contact.html" data-i18n="nav_contact">Contact Us</a></li>
+                <li class="language-dropdown">
+                    <a href="#" class="dropdown-title" data-i18n="nav_language">Language</a>
+                    <div class="language-dropdown-content">
+                        <a href="#" class="language-option active" data-lang="en">English</a>
+                        <a href="#" class="language-option" data-lang="ar">العربية</a>
+                        <a href="#" class="language-option" data-lang="zh">中文</a>
+                        <a href="#" class="language-option" data-lang="ms">Bahasa Melayu</a>
+                        <a href="#" class="language-option" data-lang="th">ไทย</a>
+                        <a href="#" class="language-option" data-lang="de">Deutsch</a>
+                        <a href="#" class="language-option" data-lang="es">Español</a>
+                        <a href="#" class="language-option" data-lang="bn">বাংলা</a>
+                        <a href="#" class="language-option" data-lang="ko">한국어</a>
+                        <a href="#" class="language-option" data-lang="ja">日本語</a>
+                        <a href="#" class="language-option" data-lang="tr">Türkçe</a>
+                        <a href="#" class="language-option" data-lang="uz">o'zbek</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <section class="product-detail-section">
+            <div class="container full-width-container">
+                <div id="product-detail-breadcrumb"></div>
+                <div class="product-detail-card full-width" id="product-detail-card">
+                    <!-- Product hero section with image and primary info -->  
+                    <div class="product-hero wide-layout" id="product-hero">
+                        <div class="product-image-harvest-wrap">
+                            <div class="product-image-container">
+                                <img id="product-image" src="" alt="" class="product-image" />
+                            </div>
+                            <div class="scarcity-badge harvest-badge" id="scarcity-badge" data-i18n="scarcity_badge_harvested"></div>
+                        </div>
+                        <div class="product-info expanded-info">
+                            <span class="category-chip" id="category-chip"></span>
+                            <h1 id="product-name" data-i18n="product_name"></h1>
+                            <div class="description" id="product-description" data-i18n="product_description"></div>
+                            <div class="certifications" id="certifications"></div>
+                            <div class="cta-buttons">
+                                <button class="cta-button" id="enquire-btn" data-i18n="enquire_now">Enquire Now</button>
+                                <a href="#" class="whatsapp-button" id="whatsapp-btn" target="_blank">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="#25D366">
+                                        <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+                                    </svg>
+                                    <!-- <span data-i18n="whatsapp_contact">WhatsApp</span> -->
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Product details with full-width layout -->  
+                    <section class="product-details full-width-details">
+                        <!-- Main three-column grid for desktop -->  
+                        <div class="product-info-grid three-column-grid">
+                            <!-- First column - Specifications -->  
+                            <div class="product-info-column">
+                                <div class="specifications-block">
+                                    <div class="static-label bold-label" data-i18n="detailed_specifications">Detailed Specifications</div>
+                                    <div class="collapsible-panel">
+                                        <button class="collapsible-header" aria-expanded="false">
+                                            <span data-i18n="specifications">Specification</span>
+                                            <i class="toggle-icon"></i>
+                                        </button>
+                                        <div class="collapsible-content" aria-hidden="true">
+                                            <ul class="specs-list" id="specs-list"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Quality Assurance - important for export/import companies -->  
+                                <div class="collapsible-panel">
+                                    <button class="collapsible-header" aria-expanded="false">
+                                        <span data-i18n="quality_assurance">Quality Assurance</span>
+                                        <i class="toggle-icon"></i>
+                                    </button>
+                                    <div class="collapsible-content" aria-hidden="true">
+                                        <ul class="bullet-list" id="quality-assurance-list"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Second column - Features and product qualities -->  
+                            <div class="product-info-column">
+                                <!-- Features list with checkmarks -->  
+                                <div class="features-block" id="features-block">
+                                    <!-- Will be populated via JS with features -->
+                                </div>
+                                
+                                <!-- Available Varieties section -->  
+                                <div class="collapsible-panel">
+                                    <button class="collapsible-header" aria-expanded="false">
+                                        <span data-i18n="variety">Variety</span>
+                                        <i class="toggle-icon"></i>
+                                    </button>
+                                    <div class="collapsible-content" aria-hidden="true">
+                                        <ul class="bullet-list" id="variety-list"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Third column - Commercial information -->  
+                            <div class="product-info-column">
+                                <!-- Growing methods which affect quality -->  
+                                <div class="collapsible-panel">
+                                    <button class="collapsible-header" aria-expanded="false">
+                                        <span data-i18n="quality_options">Quality Options</span>
+                                        <i class="toggle-icon"></i>
+                                    </button>
+                                    <div class="collapsible-content" aria-hidden="true">
+                                        <ul class="bullet-list" id="quality-options-list"></ul>
+                                    </div>
+                                </div>
+                                
+                                <!-- Container capacity options -->  
+                                <div class="collapsible-panel">
+                                    <button class="collapsible-header" aria-expanded="false">
+                                        <span data-i18n="container_capacity">Container Capacity</span>
+                                        <i class="toggle-icon"></i>
+                                    </button>
+                                    <div class="collapsible-content" aria-hidden="true">
+                                        <ul class="bullet-list" id="container-capacity-list"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <a href="products.html" class="back-link" data-i18n="back_to_products">Back to Products</a>
+                
+                <!-- Similar Products section - also updated to full width -->  
+                <section class="similar-products-section full-width-section" id="similar-products-section">
+                  <h2 class="similar-products-title" data-i18n="similar_products_title">Similar Products</h2>
+                  <div class="similar-products-list" id="similar-products-list"></div>
+                </section>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+          <div class="social-links">
+            <a
+              href="https://www.facebook.com/mileoverseas"
+              class="fab fa-facebook-f"
+              title="Facebook"
+            ></a>
+            <a
+              href="https://twitter.com/mileoverseas"
+              class="fab fa-twitter"
+              title="Twitter"
+            ></a>
+            <a
+              href="https://www.linkedin.com/company/mileoverseas/"
+              class="fab fa-linkedin-in"
+              title="LinkedIn"
+            ></a>
+            <a
+              href="https://youtube.com/@mileoverseas?si=6aPwcZIDytkqQIoz"
+              class="fab fa-youtube"
+              title="YouTube"
+            ></a>
+            <a
+              href="https://instagram.com/mileoverseas?igshid=OGQ5ZDc2ODk2ZA=="
+              class="fab fa-instagram"
+              title="Instagram"
+            ></a>
+          </div>
+          <p>
+            <a href="privacy-policy.html" target="_blank" data-i18n="privacy_policy_title">Privacy Policy</a>
+            &nbsp;|&nbsp;
+            <span data-i18n="footer_copyright">2023 Mileoverseas. All rights reserved.</span>
+          </p>
+        </div>
+      </footer>
+    <!-- Load localization files first -->
+    <script src="js/localization/en.js"></script>
+    <script src="js/localization/ar.js"></script>
+    <script src="js/localization/zh.js"></script>
+    <script src="js/localization/ms.js"></script>
+    <script src="js/localization/th.js"></script>
+    <script src="js/localization/de.js"></script>
+    <script src="js/localization/es.js"></script>
+    <script src="js/localization/bn.js"></script>
+    <script src="js/localization/ko.js"></script>
+    <script src="js/localization/ja.js"></script>
+    <script src="js/localization/tr.js"></script>
+    <script src="js/localization/uz.js"></script>
+    <script src="js/localization/localization.js"></script>
+    <script src="js/product-details.js"></script>
+</body>
+</html>

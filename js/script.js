@@ -17,6 +17,12 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  // Initialize product module if available
+  if (typeof initializeProductUI === 'function') {
+    console.log("Initializing product module from script.js");
+    initializeProductUI();
+  }
+
   // Register ScrollTrigger plugin
   if (typeof gsap !== "undefined" && typeof ScrollTrigger !== "undefined") {
     gsap.registerPlugin(ScrollTrigger);

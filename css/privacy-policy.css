@@ -1,0 +1,59 @@
+/* Advanced Privacy Policy Page Styling */
+.policy-content {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 18px rgba(0,0,0,0.07);
+  padding: 2.5rem 2rem;
+  margin: 2rem auto;
+  max-width: 850px;
+  font-size: 1.08rem;
+  color: #4a4a4a; /* Match site body text */
+  line-height: 1.7;
+}
+.policy-content h2 {
+  color: #333; /* Match site headings */
+  font-size: 2.1rem;
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
+.policy-content ol {
+  margin-left: 1.1rem;
+  padding-left: 0.6rem;
+}
+.policy-content li {
+  margin-bottom: 1.1rem;
+}
+.policy-content ul {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+  padding-left: 1.5rem;
+}
+.policy-content a {
+  color: #8B4513; /* Match site links */
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+.policy-content a:hover {
+  color: #D2691E; /* Match site link hover */
+}
+.policy-content strong {
+  color: #A0522D; /* Match primary button hover */
+}
+.brand-title {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: bold;
+  color: #8B4513; /* Match brand color */
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.04em;
+}
+@media (max-width: 600px) {
+  .policy-content {
+    padding: 1.2rem 0.5rem;
+    font-size: 0.99rem;
+  }
+  .brand-title {
+    font-size: 1.4rem;
+  }
+}

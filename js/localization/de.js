@@ -97,6 +97,9 @@ const deTranslations = {
   products_key_benefits: "Hauptvorteile",
   products_available_forms: "Verfügbare Formen",
   products_packaging_sizes: "Verpackungsgrößen",
+  products_hero_headline: "Unsere Premium-Gewürzprodukte",
+  products_hero_subheadline: "Entdecken Sie unsere Auswahl an hochwertigen Gewürzen und Zutaten",
+  search_by_name: "Nach Namen suchen...",
 
   // Chilli Varieties
   products_chilli_byadgi_label: "Byadgi Chili",
@@ -364,11 +367,11 @@ const deTranslations = {
   why_choose_consistent:
     "Gleichbleibende Qualität: Unsere strengen Qualitätskontrollprozesse, vom Hof bis zur Lieferung, garantieren gleichbleibende Qualität und die Einhaltung internationaler Standards.",
   why_choose_certifications: "Zertifizierungen & Compliance",
-  why_choose_case_study: "Fallstudie: Premium-Kurkuma für europäischen Kunden",
+  why_choose_case_study: "Fallstudie: Premium-Kurkuma für europäische Kunden",
   why_choose_logistics: "Logistik & Zahlung",
 
   // Footer
-  footer_copyright: "© 2023 Mileoverseas. Alle Rechte vorbehalten.",
+  footer_copyright: " 2023 Mileoverseas. Alle Rechte vorbehalten.",
 
   // Sustainability Section
   about_sustainability_intro:
@@ -412,7 +415,7 @@ const deTranslations = {
     "Wir halten uns strikt an FDA-, EU- und andere relevante internationale Vorschriften und stellen sicher, dass unsere Gewürze globalen Standards entsprechen.",
 
   // Case Study Section
-  why_choose_case_title: "Fallstudie: Premium-Kurkuma für europäischen Kunden",
+  why_choose_case_title: "Fallstudie: Premium-Kurkuma für europäische Kunden",
   why_choose_case_challenge: "Herausforderung",
   why_choose_case_challenge_text:
     "Ein führender europäischer Lebensmittelhersteller benötigte eine konstante Versorgung mit hoch-curcuminhaltigem Kurkuma für seine Gesundheitslebensmittellinie, konform mit strengen EU-Vorschriften und Qualitätsstandards.",
@@ -492,10 +495,34 @@ const deTranslations = {
     "Erfrischender Geschmack, kühlende Eigenschaften, Verdauungshilfe",
 
   // Custom spice section
-  custom_spices_title: "Maßgeschneiderte Gewürzlösungen",
-  custom_spices_description:
-    "Über unser Standardangebot hinaus können wir zusätzliche Gewürze nach Ihren spezifischen Anforderungen beschaffen und verarbeiten. Unser flexibler Ansatz stellt sicher, dass wir vielfältige Käuferbedürfnisse auf globalen Märkten erfüllen können.",
-  custom_spices_contact:
-    "Kontaktieren Sie uns, um Ihre individuellen Gewürzanforderungen zu besprechen und zu erfahren, wie wir unsere Lösungen auf Ihre Bedürfnisse zuschneiden können.",
-  custom_spices_button: "Maßgeschneiderte Gewürze anfragen",
+  custom_spice_title: "Individuelle Gewürzlösungen",
+  custom_spice_p1: "Über unser Standardangebot hinaus können wir zusätzliche Gewürze nach Ihren spezifischen Anforderungen beschaffen und verarbeiten. Unser flexibler Ansatz stellt sicher, dass wir die unterschiedlichen Bedürfnisse von Käufern auf globalen Märkten erfüllen können.",
+  custom_spice_p2: "Kontaktieren Sie uns, um Ihre individuellen Gewürzanforderungen zu besprechen und herauszufinden, wie wir unsere Lösungen auf Ihre Bedürfnisse zuschneiden können.",
+  custom_spice_btn: "Anfrage zu individuellen Gewürzen",
+  product_overview: "Produktübersicht",
+  features_label: "Wichtigste Produktmerkmale",
+  detailed_specifications: "Detaillierte Spezifikationen",
+  quality_options: "Qualitätsoptionen",
+  packaging_options: "Verpackungsoptionen",
+  available_varieties: "Verfügbare Sorten",
+  certifications_quality: "Zertifizierungen & Qualitätssicherung",
+  back_to_products: "Zurück zu Produkten",
+  similar_products_title: "Ähnliche Produkte",
+  view: "Ansehen",
+  product_not_found: "Produkt nicht gefunden.",
+  error_loading_product: "Fehler beim Laden der Produktdetails.",
+  scarcity_badge_harvested: "Geerntet:",
+  scarcity_badge_default: "Geerntet Okt-Feb",
+  certified: "Zertifiziert",
+  enquire_now: "Jetzt anfragen",
+  no_products_available: "Keine Produkte verfügbar.",
+  no_products_found: "Keine Produkte gefunden. Versuchen Sie eine andere Suche.",
+
+  specifications: "Spezifikationen",
+  quality_assurance: "Qualitätssicherung",
+  variety: "Vielfalt",
+  container_capacity: "Containerkapazität",
+
+  privacy_policy_title: "Datenschutzrichtlinie",
+  privacy_policy_content: `<div class='policy-content'><h2>Datenschutzerklärung<\/h2><p><strong>Datum des Inkrafttretens:<\/strong> 20.04.2025<\/p><p>Mile Overseas (\"wir,\" \"uns,\" oder \"unser\") verpflichtet sich, die Privatsphäre Ihrer Informationen zu schützen. Diese Datenschutzerklärung erläutert, wie wir Informationen erheben, verwenden und offenlegen, wenn Sie unsere Website <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (die \"Website\") nutzen.<\/p><ol><li><strong>Welche Informationen wir erheben<\/strong><br>Wir können die folgenden Arten von Informationen erheben:<br><strong>Personenbezogene Daten:<\/strong> Dies sind Informationen, die zur Identifizierung Ihrer Person verwendet werden können, wie z. B. Ihr Name, Ihre E-Mail-Adresse, Telefonnummer, Firmenname, Adresse und alle Informationen, die Sie uns freiwillig über Kontaktformulare, E-Mail oder andere Kommunikationskanäle zur Verfügung stellen.<br><strong>Nicht personenbezogene Daten:<\/strong> Dies sind Informationen, die Sie nicht direkt identifizieren. Dazu können gehören:<ul><li><strong>Protokolldaten:<\/strong> Unsere Server zeichnen automatisch Informationen (\"Protokolldaten\") auf, die durch Ihre Nutzung der Website entstehen. Protokolldaten können Ihre IP-Adresse, den Browsertyp, den Internetdienstanbieter, verweisende/verlassende Seiten, das Betriebssystem, Datums-/Zeitstempel und zugehörige Daten umfassen.<\/li><li><strong>Cookies und ähnliche Technologien:<\/strong> Wir können Cookies, Web Beacons und ähnliche Tracking-Technologien verwenden, um Informationen über Ihre Browsing-Aktivitäten auf unserer Website zu sammeln. Cookies sind kleine Datendateien, die auf Ihrem Gerät gespeichert werden und uns helfen, unsere Website und Ihre Erfahrung zu verbessern. Sie können die Verwendung von Cookies auf der Ebene des einzelnen Browsers steuern. Wenn Sie Cookies jedoch deaktivieren, kann dies Ihre Nutzung bestimmter Features oder Funktionen auf unserer Website einschränken.<\/li><li><strong>Website-Nutzungsdaten:<\/strong> Wir können Informationen darüber sammeln, wie Sie unsere Website nutzen, z. B. welche Seiten Sie besuchen, auf welche Links Sie klicken und wie viel Zeit Sie auf unserer Website verbringen.<\/li><\/ul><\/li><li><strong>Wie wir Informationen erheben<\/strong><br>Wir erheben Informationen auf folgende Weise:<ul><li><strong>Informationen, die Sie direkt bereitstellen:<\/strong> Wir erheben personenbezogene Daten, wenn Sie uns diese freiwillig übermitteln, z. B. wenn Sie:<ul><li>Kontaktformulare auf unserer Website ausfüllen.<\/li><li>Uns per E-Mail oder Telefon kontaktieren.<\/li><li>Ein Angebot oder Informationen zu unseren Produkten anfordern.<\/li><li>Unseren Newsletter abonnieren (falls zutreffend).<\/li><\/ul><\/li><li><strong>Automatisch erhobene Informationen:<\/strong> Wir erheben automatisch nicht personenbezogene Daten, während Sie unsere Website durchsuchen und mit ihr interagieren, indem wir Cookies und Serverprotokolle verwenden.<\/li><\/ul><\/li><li><strong>Verwendung von Informationen<\/strong><br>Wir können die erhobenen Informationen für die folgenden Zwecke verwenden:<ul><li><strong>Zur Bereitstellung und Verbesserung unserer Website:<\/strong> Zum Betrieb, zur Wartung und zur Verbesserung unserer Website und der Benutzererfahrung.<\/li><li><strong>Zur Beantwortung von Anfragen:<\/strong> Um auf Ihre Anfragen, Fragen und Erkundigungen zu antworten, die über unsere Website oder andere Kommunikationskanäle übermittelt wurden.<\/li><li><strong>Zur Bearbeitung von Anfragen:<\/strong> Zur Bearbeitung Ihrer Anfragen nach Angeboten, Produktinformationen oder anderen Dienstleistungen.<\/li><li><strong>Zum Versand von Marketingmitteilungen (falls zutreffend):<\/strong> Mit Ihrer Einwilligung können wir Ihnen Newsletter, Marketing-E-Mails oder andere Werbematerialien über unsere Produkte und Dienstleistungen zusenden. Sie können dem Erhalt dieser Mitteilungen jederzeit widersprechen, indem Sie den in der Mitteilung enthaltenen Abmeldeanweisungen folgen oder uns direkt kontaktieren.<\/li><li><strong>Für Analysen und Website-Optimierung:<\/strong> Zur Analyse von Website-Nutzungstrends, zur Verfolgung von Benutzerbewegungen und zur Erfassung demografischer Informationen, um das Design, die Funktionalität und den Inhalt unserer Website zu verbessern.<\/li><li><strong>Einhaltung gesetzlicher Vorschriften:<\/strong> Zur Einhaltung geltender Gesetze, Vorschriften, rechtlicher Verfahren oder behördlicher Anfragen.<\/li><\/ul><\/li><li><strong>Weitergabe und Offenlegung von Informationen<\/strong><br>Wir können Ihre Informationen unter den folgenden Umständen weitergeben:<ul><li><strong>Dienstleister:<\/strong> Wir können Informationen an Drittanbieter weitergeben, die Dienstleistungen in unserem Namen erbringen, wie z. B. Website-Hosting, Datenanalyse, E-Mail-Zustellung und Kundenservice. Diese Dienstleister sind vertraglich verpflichtet, Ihre Informationen zu schützen und sie nur für die Zwecke zu verwenden, für die wir sie ihnen offenlegen.<\/li><li><strong>Geschäftsübertragungen:<\/strong> Im Falle einer Fusion, Übernahme, Umstrukturierung, eines Verkaufs von Vermögenswerten oder einer Insolvenz können Ihre Informationen als Teil dieser Transaktion übertragen oder offengelegt werden.<\/li><li><strong>Gesetzliche Anforderungen:<\/strong> Wir können Ihre Informationen offenlegen, wenn dies gesetzlich vorgeschrieben ist oder als Reaktion auf gültige Anfragen von Behörden (z. B. Gerichtsbeschluss, Vorladung, behördliche Vorschrift).<\/li><li><strong>Schutz von Rechten:<\/strong> Wir können Informationen offenlegen, wenn wir glauben, dass dies zur Untersuchung, Verhinderung oder Ergreifung von Maßnahmen in Bezug auf illegale Aktivitäten, mutmaßlichen Betrug, Situationen, die potenzielle Gefahren für die Sicherheit von Personen beinhalten, Verstöße gegen unsere Nutzungsbedingungen oder wie anderweitig gesetzlich vorgeschrieben, erforderlich ist.<\/li><\/ul><\/li><li><strong>Datensicherheit<\/strong><br>Wir ergreifen angemessene Maßnahmen, um Ihre Informationen vor unbefugtem Zugriff, unbefugter Nutzung oder unbefugter Offenlegung zu schützen. Keine Methode der Übertragung über das Internet oder Methode der elektronischen Speicherung ist jedoch vollständig sicher. Obwohl wir uns bemühen, wirtschaftlich angemessene Mittel zum Schutz Ihrer personenbezogenen Daten einzusetzen, können wir deren absolute Sicherheit nicht garantieren.<\/li><li><strong>Cookies und Tracking-Technologien<\/strong><br>Wir verwenden Cookies und ähnliche Technologien, um Ihre Erfahrung auf unserer Website zu verbessern. Durch die Nutzung unserer Website stimmen Sie der Verwendung von Cookies gemäß dieser Richtlinie zu. Sie können Ihre Cookie-Einstellungen über Ihre Browsereinstellungen verwalten. Weitere Informationen zum Blockieren oder Löschen von Cookies finden Sie in der Hilfedokumentation Ihres Browsers.<\/li><li><strong>Links zu Drittanbietern<\/strong><br>Unsere Website kann Links zu Websites oder Diensten Dritter enthalten, die nicht unser Eigentum sind oder von uns kontrolliert werden. Wir sind nicht verantwortlich für die Datenschutzpraktiken dieser Websites Dritter. Wir empfehlen Ihnen, die Datenschutzerklärungen dieser Websites zu lesen, bevor Sie ihnen personenbezogene Daten zur Verfügung stellen.<\/li><li><strong>Datenspeicherung<\/strong><br>Wir bewahren Ihre personenbezogenen Daten so lange auf, wie es zur Erfüllung der in dieser Datenschutzerklärung dargelegten Zwecke erforderlich ist, es sei denn, eine längere Speicherfrist ist gesetzlich vorgeschrieben oder erlaubt.<\/li><li><strong>Ihre Rechte<\/strong><br>Sie haben möglicherweise bestimmte Rechte bezüglich Ihrer personenbezogenen Daten, vorbehaltlich geltenden Rechts. Diese Rechte können umfassen:<ul><li><strong>Auskunft:<\/strong> Das Recht, Auskunft über die personenbezogenen Daten zu verlangen, die wir über Sie gespeichert haben.<\/li><li><strong>Berichtigung:<\/strong> Das Recht zu verlangen, dass wir unrichtige oder unvollständige personenbezogene Daten korrigieren.<\/li><li><strong>Löschung:<\/strong> Das Recht zu verlangen, dass wir Ihre personenbezogenen Daten unter bestimmten Umständen löschen.<\/li><li><strong>Widerspruch gegen die Verarbeitung:<\/strong> Das Recht, der Verarbeitung Ihrer personenbezogenen Daten für bestimmte Zwecke, wie z. B. Direktmarketing, zu widersprechen.<\/li><\/ul>Um diese Rechte auszuüben, kontaktieren Sie uns bitte über die unten angegebenen Kontaktinformationen. Wir werden auf Ihre Anfrage gemäß geltendem Recht antworten.<\/li><li><strong>Datenschutz von Kindern<\/strong><br>Unsere Website ist nicht für Kinder unter 16 Jahren bestimmt. Wir erheben nicht wissentlich personenbezogene Daten von Kindern unter diesem Alter. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und glauben, dass Ihr Kind uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte umgehend, und wir werden Maßnahmen ergreifen, um diese Informationen zu löschen.<\/li><li><strong>Änderungen dieser Datenschutzerklärung<\/strong><br>Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Änderungen unserer Praktiken oder geltender Gesetze widerzuspiegeln. Wir werden alle Änderungen auf dieser Seite veröffentlichen und das \"Datum des Inkrafttretens\" oben in dieser Datenschutzerklärung aktualisieren. Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig auf Aktualisierungen zu überprüfen. Bei wesentlichen Änderungen können wir einen deutlicheren Hinweis geben (z. B. auf unserer Website oder per E-Mail).<\/li><li><strong>Kontaktieren Sie uns<\/strong><br>Wenn Sie Fragen, Bedenken oder Anfragen zu dieser Datenschutzerklärung oder unseren Datenpraktiken haben, kontaktieren Sie uns bitte unter:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
 };
