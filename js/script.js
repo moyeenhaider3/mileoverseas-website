@@ -47,31 +47,45 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Mobile Navigation Drawer Toggle
   const hamburger = document.getElementById("hamburger-icon");
-  const mobileDrawer = document.getElementById("mobile-drawer");
   const navMenu = document.getElementById("nav-menu"); // Desktop nav menu
 
-  if (hamburger && mobileDrawer) {
-    hamburger.addEventListener("click", function () {
-      mobileDrawer.classList.toggle("open");
-    });
+  if (hamburger && navMenu) {
+    hamburger.addEventListener("click", () => navMenu.classList.toggle("open"));
   }
 
   // Close mobile drawer when clicking outside (optional - enhance UX)
   document.addEventListener("click", function (event) {
     if (
-      mobileDrawer.classList.contains("open") &&
-      !mobileDrawer.contains(event.target) &&
+      navMenu.classList.contains("open") &&
+      !navMenu.contains(event.target) &&
       !hamburger.contains(event.target)
     ) {
-      mobileDrawer.classList.remove("open");
+      navMenu.classList.remove("open");
     }
   });
 
   // Close mobile drawer when nav link is clicked (optional - enhance UX)
   const mobileNavLinks = document.querySelectorAll(".mobile-nav-links a");
   mobileNavLinks.forEach((link) => {
-    link.addEventListener("click", () => {
-      mobileDrawer.classList.remove("open");
+    link.addEventListener("click", (e) => {
+      // Skip closing drawer for language dropdown toggle and language options
+      if (link.classList.contains("dropdown-title") || link.classList.contains("language-option")) {
+        return;
+      }
+      navMenu.classList.remove("open");
+    });
+  });
+
+  // Language option selection: close drawer after changing language
+  const mobileLanguageOptions = document.querySelectorAll(".mobile-nav-links .language-option");
+  mobileLanguageOptions.forEach((option) => {
+    option.addEventListener("click", async (e) => {
+      e.preventDefault();
+      const lang = option.getAttribute("data-lang");
+      if (lang && window.localizationManager) {
+        await window.localizationManager.changeLanguage(lang);
+      }
+      navMenu.classList.remove("open");
     });
   });
 

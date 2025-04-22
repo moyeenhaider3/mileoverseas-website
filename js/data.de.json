@@ -1,0 +1,998 @@
+[
+  {
+    "id": "1",
+    "hs_code": "0909",
+    "category": "Gewürze",
+    "name": "Kreuzkümmelsamen",
+    "description": "Erleben Sie die Spitze des indischen Kreuzkümmels mit unseren hochwertigen Samen in Exportqualität, die während der Hauptwintersaison (Oktober bis Februar) in Indiens fruchtbarsten Anbaugebieten in Gujarat, Maharashtra und Madhya Pradesh sorgfältig geerntet werden. Als weltweit führendes Unternehmen in der Kreuzkümmelproduktion liefert unser sorgfältig ausgewähltes Cuminum cyminum einen außergewöhnlichen Gehalt an ätherischem Öl von 2-4 %, der eine überlegene aromatische Intensität und ein hervorragendes Geschmacksprofil bietet. Unsere Kreuzkümmelsamen, die seit Jahrhunderten in kulinarischen Traditionen und ganzheitlicher Medizin auf allen Kontinenten geschätzt werden, bieten bemerkenswerte gesundheitliche Vorteile, darunter eine verbesserte Verdauung, reduzierte Entzündungen und Unterstützung des Immunsystems. Dieses vielseitige Premiumprodukt übertrifft internationale Standards sowohl für kulinarische Anwendungen als auch für therapeutische Zwecke und ist damit die erste Wahl für qualitätsbewusste globale Käufer.",
+    "image": "images/products/spices/cumin.jpg",
+    "harvest_season": "Oktober bis Februar",
+    "features": [
+      "Verbessert die Verdauungsgesundheit durch leistungsstarke natürliche Enzyme, die die Magensaftsekretion für eine optimale Nährstoffaufnahme stimulieren.",
+      "Enthält potente entzündungshemmende Verbindungen, die helfen, systemische Entzündungen zu reduzieren und das allgemeine Wohlbefinden zu unterstützen.",
+      "Stärkt die Immunfunktion durch essentielle Mikronährstoffe und antioxidative Eigenschaften, die vor Umweltstressoren schützen.",
+      "Liefert eine außergewöhnliche Konzentration von 2-4 % an ätherischem Öl und gewährleistet maximale Geschmacksintensität und therapeutische Vorteile in jeder Charge."
+    ],
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Kultiviert durch unseren ganzheitlichen Ansatz, der physikalische, kulturelle, biologische und chemische Kontrollen für ein optimales Schädlingsmanagement integriert, was zu einer gesünderen, nachhaltigeren Premiumernte mit minimalem Eingriff führt.",
+      "Bio: Produziert nach 100 % zertifizierten Bio-Anbaumethoden ohne synthetische Pestizide, Herbizide oder Düngemittel, wobei nur natürliche Methoden zur Schädlings- und Krankheitsbekämpfung eingesetzt werden, um ein reines, sauberes Gewürz von höchster Qualität zu gewährleisten.",
+      "Konventionell: Angebaut nach traditionellen landwirtschaftlichen Methoden mit sorgfältig überwachter Anwendung zugelassener Behandlungen, unter Einhaltung strenger Best-Management-Praktiken, die den Chemikalieneinsatz minimieren und gleichzeitig eine konstant überlegene Qualität aufrechterhalten."
+    ],
+    "container_capacity": [
+      "20-Fuß-Container: 14 MT",
+      "40-Fuß-Container: 27 MT"
+    ],
+    "specifications": [
+      "Typ: Makellose ganze Kreuzkümmelsamen mit außergewöhnlichem Reinheitsgrad",
+      "Farbe: Sattes Braun bis hin zu einem ausgeprägten grau-braunen Farbton, der optimale Reife anzeigt",
+      "Form: Perfekt geformte kleine, längliche Samen mit idealer Konsistenz",
+      "Größe: Einheitlich 3-5 mm (0,12-0,2 Zoll) für konsistente Kochergebnisse",
+      "Geschmack: Unverwechselbar warmes, erdiges Profil mit bemerkenswerter Tiefe",
+      "Aroma: Frisches, lebendiges Kräuterbouquet, das Premiumqualität signalisiert",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisionssortiertechnologie",
+      "Verpackung: Flexible, anpassbare Verpackungslösungen, die Ihren spezifischen Anforderungen entsprechen",
+      "Feuchtigkeit: Kontrolliert auf unter 10 %, um eine verlängerte Haltbarkeit zu garantieren",
+      "Gehalt an ätherischem Öl: Überlegene Konzentration von 2-4 % für maximale Geschmackswirkung"
+    ],
+    "variety": [
+      "Singapur-Qualität: Sorgfältig maschinell/sortex-gereinigt mit minimalem Stielanteil, mit ausgeprägter brauner Färbung und kräftigen aromatischen Eigenschaften, die den strengen Standards des Singapur-Marktes entsprechen.",
+      "Europäische Qualität: Fachmännisch sortierte und präzise geschnittene Samen, die eine konstant braune Farbe und ein intensives Aroma liefern und die strengen Anforderungen der europäischen Kulinarikmärkte erfüllen.",
+      "Bold-Qualität: Premium-Samen in Übergröße, die sowohl im Geschmacksprofil als auch in den aromatischen Eigenschaften eine außergewöhnliche Robustheit für Anwendungen bieten, die eine überlegene Wirkung erfordern."
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Charge wird in unseren hochmodernen Laboreinrichtungen umfassend analysiert, um die konsequente Einhaltung unserer strengen Qualitätsmaßstäbe sicherzustellen.",
+      "Verpackung: Es werden nur lebensmittelechte, branchenführende Verpackungsmaterialien verwendet, um die unverwechselbare Frische und aromatische Integrität unseres Kreuzkümmels von der Produktion bis zur endgültigen Lieferung zu bewahren.",
+      "Transparenz der Lieferkette: Unsere Rückverfolgbarkeit vom Bauernhof bis zum Markt garantiert vollständige Transparenz der Lieferkette mit direkter Beschaffung von Landwirten und zertifizierten Fair-Trade-Praktiken während des gesamten Produktionsprozesses.",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfung durch umfassende regelmäßige Audits stellt die Einhaltung internationaler Standards sicher und identifiziert kontinuierlich Verbesserungspotenziale.",
+      "Geschultes Qualitätskontrollteam: Unsere spezialisierten Qualitätsprüfer wenden strenge Prüfprotokolle an, um die Reinheit und Qualität jeder Sendung zu überprüfen und sicherzustellen, dass nur Premiumprodukte unsere globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung aller relevanten internationalen Lebensmittelsicherheitsrahmenbedingungen, Kennzeichnungsvorschriften und Exportstandards für einen nahtlosen globalen Marktzugang."
+    ]
+  },
+  {
+    "id": "2",
+    "hs_code": "0909",
+    "category": "Gewürze",
+    "name": "Koriandersamen",
+    "image": "images/products/spices/coriander.jpg",
+    "harvest_season": "Oktober bis Februar",
+    "features": [
+      "Revolutioniert die Verdauungsgesundheit durch potente natürliche Verbindungen, die sofort die Darmfunktion beruhigen und optimieren, für maximalen Komfort und Nährstoffaufnahme.",
+      "Beseitigt Entzündungen durch exklusive bioaktive Inhaltsstoffe, die systemische Entzündungsmarker schnell reduzieren und sofortige Linderung sowie langfristigen Schutz bieten.",
+      "Stärkt die Immunantwort dramatisch durch seltene Antioxidantien, die nur in Premium-Koriander aus Indien vorkommen, und schafft so eine undurchdringliche Abwehr gegen saisonale Herausforderungen.",
+      "Enthält eine außergewöhnliche Konzentration von 0,5-1,5 % an ätherischem Öl – deutlich höher als der Industriestandard – und liefert unübertroffene Geschmacksintensität und therapeutische Potenz."
+    ],
+    "description": "Erschließen Sie den Wettbewerbsvorteil unserer exklusiven Premium-Koriandersamen, die während der Hauptwintersaison Indiens (Oktober bis Februar) auf dem Höhepunkt ihrer Perfektion geerntet werden. Direkt aus Indiens begehrtesten Anbaugebieten in Gujarat, Maharashtra und Madhya Pradesh bezogen – weltweit anerkannt als Epizentrum der Premium-Korianderproduktion. Unser Coriandrum sativum wurde unter Verwendung jahrhundertealter Weisheit in Kombination mit modernsten landwirtschaftlichen Techniken angebaut, was zu einem Produkt führt, das auf globalen Märkten Aufmerksamkeit erregt. Der außergewöhnliche Gehalt von 0,5-1,5 % an ätherischem Öl liefert ein unverwechselbar frisches, zitrusartiges Profil, das jede kulinarische Kreation sofort aufwertet. Anspruchsvolle internationale Käufer erkennen unsere Koriandersamen nicht nur als Gewürz an, sondern als strategische Investition in Produktexzellenz, die in gesundheitsbewussten Verbrauchermärkten weltweit einen sofortigen Wettbewerbsvorteil bietet.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Erleben Sie unser revolutionäres ganzheitliches Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen nahtlos integriert und so eine natürlich geschützte Wachstumsumgebung schafft, die zu deutlich saubereren, reineren Samen mit überlegenen Geschmacksprofilen führt.",
+      "Bio: Genießen Sie unsere zertifizierten 100%igen Bio-Koriandersamen, die in reinen Umgebungen angebaut werden, die vollständig frei von schädlichen synthetischen Chemikalien sind, ein reines, sauberes Produkt liefern, das die strengsten globalen Bio-Standards erfüllt und in gesundheitsbewussten Märkten Premiumpreise erzielt.",
+      "Konventionell: Profitieren Sie von unseren präzisionsgesteuerten traditionellen Anbaumethoden, bei denen jede Anwendung von industriezugelassenen Behandlungen sorgfältig überwacht wird, um konstant außergewöhnliche Koriandersamen zu produzieren und gleichzeitig eine verantwortungsvolle Umweltführung zu gewährleisten."
+    ],
+    "container_capacity": [
+      "20 Fuß: 9,5 MT",
+      "40 Fuß: 19 MT"
+    ],
+    "specifications": [
+      "Typ: Ausgewählte ganze Koriandersamen mit garantierter Premiumqualität",
+      "Farbe: Unverwechselbarer braun/grüner Farbton, der optimale Reife und Geschmacksentwicklung bedeutet",
+      "Form: Perfekte kleine, kugelförmige Bildung für konsistente Kochleistung",
+      "Größe: Präzise 2-3 mm (0,08-0,12 Zoll) Kalibrierung für ideale kulinarische Ergebnisse",
+      "Geschmack: Bemerkenswert warmes, leicht süßliches Profil mit komplexen aromatischen Noten",
+      "Aroma: Lebendiges, zitrusartiges Bouquet, das sofort überlegene Qualität signalisiert",
+      "Verarbeitung: Hochmoderne Maschinenreinigung und Sortiertechnologie für unübertroffene Reinheit",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die auf Ihre genauen Marktanforderungen zugeschnitten sind",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um die Haltbarkeit zu maximieren und aromatische Öle zu bewahren",
+      "Gehalt an ätherischem Öl: Premium-Konzentration von 0,5-1,5 %, die eine überlegene Geschmacksintensität liefert"
+    ],
+    "variety": [
+      "Dhana: Exklusive großformatige Koriandersamen mit dominanter Geschmackspräsenz und aromatischer Intensität, perfekt für Premium-Gewürzmischungen und Signature-Gerichte.",
+      "Dhani: Ausgewählte kleinere Samen, die ein unverwechselbares Geschmacksprofil bieten, das speziell für elitäre Gewürzmischungsformulierungen angebaut wird, bei denen nuancierter Geschmack von größter Bedeutung ist.",
+      "Eagle: Raffinierte bräunliche Samen mit präzisem Stielschnitt und maschineller Reinigung, die ein kontrolliert mildes Geschmacksprofil liefern, ideal für subtile kulinarische Anwendungen.",
+      "Eagle Plus: Überlegene bräunlich-grüne Samen mit fachmännischem Stielschnitt und fortschrittlicher Sortex-Reinigung, die eine unverwechselbare Süße bieten, die jedes Gericht aufwertet.",
+      "Scooter: Lebendige grüne Sorte mit kräftiger aromatischer Präsenz, perfekt sortex-gereinigt, liefert intensive Schärfe, die von anspruchsvollen Köchen gesucht wird.",
+      "Parrot: Ultra-Premium-Qualität mit auffälliger grüner Färbung und umfassender Sortex-Reinigung, bietet lebendige optische Attraktivität und außergewöhnlich frischen Geschmack.",
+      "Double Parrot: Unsere exklusivste Sorte mit unvergleichlicher grüner Farbe und sorgfältiger Sortex-Reinigung, bietet wirklich außergewöhnlichen Geschmack und aromatische Wirkung.",
+      "Korianderschale: Spezialisierte Schalenkomponente mit konzentrierten bioaktiven Verbindungen, hochgeschätzt in der traditionellen Medizin und spezialisierten Gewürzpulverformulierungen.",
+      "Koriander gespalten: Präzisionsgespaltene Samen, die fachmännisch für die sofortige Geschmacksfreisetzung in Premium-Gewürzmischungen und Signature-Mischungen verarbeitet werden."
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Charge wird in unserem hochmodernen Labor strengen Analysen unterzogen, wobei fortschrittliche Testprotokolle verwendet werden, die internationale Standards übertreffen.",
+      "Verpackung: Premium-Materialien in Lebensmittelqualität mit fortschrittlichen Feuchtigkeitsbarrieren bewahren die außergewöhnliche Frische und das aromatische Profil während des globalen Versands.",
+      "Transparenz der Lieferkette: Vollständige Rückverfolgbarkeit vom Bauernhof bis zum Kunden mit direkten Partnerschaften mit Landwirten gewährleistet ethische Beschaffung und authentische Qualitätszertifizierung.",
+      "Regelmäßige Audits: Umfassende Qualitätsüberprüfung durch systematische Audits garantiert unerschütterliche Einhaltung der anspruchsvollsten internationalen Standards.",
+      "Geschultes Qualitätskontrollteam: Elite-Qualitätsspezialisten führen sorgfältige Mehrpunktinspektionen durch und stellen sicher, dass nur perfekte Samen unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller internationalen Lebensmittelsicherheitsprotokolle und Kennzeichnungsanforderungen für eine reibungslose Zollabfertigung weltweit."
+    ]
+  },
+  {
+    "id": "3",
+    "hs_code": "0909",
+    "category": "Gewürze",
+    "name": "Fenchelsamen",
+    "image": "images/products/spices/fennel.jpg",
+    "harvest_season": "Oktober bis Februar",
+    "features": [
+      "Transformiert die Verdauungsgesundheit mit sofortiger Linderung von Blähungen und Unwohlsein und bietet eine exklusive Lösung für häufige Verdauungsbeschwerden, die Verbraucher weltweit plagen.",
+      "Beseitigt Entzündungen durch proprietäre bioaktive Verbindungen, die nur in Premium-Fenchel aus Indien vorkommen, und schafft so einen starken Wellness-Vorteil für Ihre Produktlinie.",
+      "Stärkt die Immunabwehr durch seltene Phytonährstoffe, die die natürlichen Abwehrkräfte stärken und die allgemeine Vitalität fördern, und bietet so einen Wettbewerbsvorteil in gesundheitsorientierten Märkten.",
+      "Liefert ein unverwechselbares süßes, anisartiges Geschmacksprofil, das kulinarische Kreationen sofort aufwertet und Ihre Produkte von gewöhnlichen Alternativen abhebt."
+    ],
+    "description": "Sichern Sie sich Ihren Wettbewerbsvorteil mit unseren Elite-Fenchelsamen, die während der optimalen Wintersaison Indiens (Oktober bis Februar) in den renommiertesten Anbaugebieten des Landes in Gujarat, Maharashtra und Madhya Pradesh sorgfältig geerntet werden. Als Weltmarktführer in der Produktion von Premium-Foeniculum vulgare liefern unsere Samen ein außergewöhnliches sensorisches Erlebnis mit ihrem unverwechselbaren süßen, anisartigen Profil, das gewöhnliche Gerichte sofort in kulinarische Meisterwerke verwandelt. Anspruchsvolle internationale Käufer erkennen den strategischen Vorteil, den unser Fenchel bietet – nicht nur als Gewürz, sondern als starkes Unterscheidungsmerkmal in zunehmend wettbewerbsintensiven Märkten. Die außergewöhnlichen verdauungsfördernden Vorteile, die starken entzündungshemmenden Eigenschaften und die immunstärkenden Qualitäten schaffen einen sofortigen Mehrwert für Ihre Produktlinie. Dieses vielseitige Premiumprodukt erfüllt die anspruchsvollsten Standards für kulinarische Anwendungen, ganzheitliche Medizin und Aromatherapie und positioniert Ihre Marke als Anbieter hochwertiger Zutaten für gesundheitsbewusste globale Verbraucher.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Investieren Sie in unser revolutionäres Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen nahtlos integriert, was zu einer außergewöhnlich sauberen, nachhaltigen Ernte führt, die umweltbewusste Premium-Märkte anspricht.",
+      "Bio: Profitieren Sie von unseren zertifizierten 100%igen Bio-Fenchelsamen, die in reinen Umgebungen angebaut werden, die vollständig frei von synthetischen Chemikalien sind, die strengsten Bio-Zertifizierungsstandards weltweit erfüllen und in Luxusmärkten Premiumpreise erzielen.",
+      "Konventionell: Profitieren Sie von unserem präzisionsgesteuerten traditionellen Anbau mit sorgfältig überwachter Anwendung zugelassener Behandlungen, die konstant außergewöhnliche Fenchelsamen produzieren und gleichzeitig eine verantwortungsvolle Umweltführung gewährleisten, die die globalen Importanforderungen erfüllt."
+    ],
+    "container_capacity": [
+      "20 Fuß: 14 MT",
+      "40 Fuß: 27 MT"
+    ],
+    "specifications": [
+      "Typ: Premium ganze Samen mit garantierter Reinheit und Authentizität",
+      "Farbe: Unverwechselbarer grünlich-brauner Farbton, der auf höchste Reife und Geschmacksentwicklung hinweist",
+      "Geschmack: Charakteristisches süßes, anisartiges Profil mit bemerkenswerter aromatischer Komplexität",
+      "Aroma: Frisches, süßes Bouquet, das sofort überlegene Qualität signalisiert",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisions-Sortex-Technologie für unübertroffene Reinheit",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die auf Ihre genauen Marktanforderungen zugeschnitten sind",
+      "Reinheit: Außergewöhnliche garantierte Reinheitsgrade von 99-99,5 %, die internationale Standards übertreffen",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um die Haltbarkeit zu maximieren und flüchtige Verbindungen zu bewahren"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unseren ISO-zertifizierten Laboreinrichtungen umfassend analysiert, um die unerschütterliche Einhaltung der strengsten Qualitätsmaßstäbe zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige, lebensmittelechte, manipulationssichere Verpackungsmaterialien verwendet, die die unverwechselbare Frische und aromatische Integrität während der gesamten globalen Lieferkette bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die das Vertrauen der Verbraucher und die Markentreue stärken.",
+      "Regelmäßige Audits: Systematische Überprüfung durch Dritte durch umfassende Audits gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierlich Möglichkeiten für Wettbewerbsvorteile.",
+      "Geschultes Qualitätskontrollteam: Unsere Elite-Qualitätsspezialisten implementieren strenge mehrstufige Inspektionsprotokolle, um sicherzustellen, dass nur perfekte Fenchelsamen unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Lebensmittelsicherheitsrahmenbedingungen und Exportvorschriften gewährleistet eine reibungslose Zollabfertigung und Marktzugang weltweit."
+    ]
+  },
+  {
+    "id": "4",
+    "hs_code": "09109927",
+    "category": "Gewürze",
+    "name": "Senfsamen",
+    "image": "images/products/spices/mustard_seed.jpg",
+    "harvest_season": "Oktober bis März",
+    "features": [
+      "Fällt durch ein unverwechselbar scharfes, leicht süßliches Geschmacksprofil auf, das gewöhnliche Rezepte sofort in charakteristische Kreationen verwandelt, die Premiumpreise wert sind.",
+      "Bietet unübertroffene Vielseitigkeit für kulinarische, medizinische und kosmetische Anwendungen und liefert außergewöhnlichen Wert und mehrere Einnahmequellen aus einer einzigen Premium-Zutat.",
+      "Behält perfekte Integrität durch wissenschaftlich kontrollierten Feuchtigkeitsgehalt unter 10 % bei und garantiert so eine verlängerte Haltbarkeit und gleichbleibende Qualität in globalen Lieferketten."
+    ],
+    "description": "Dominieren Sie Ihren Markt mit unseren exklusiven Premium-Senfsamen (Brassica juncea), die während der optimalen Wintererntezeit (Oktober bis März) in den renommiertesten Anbaugebieten Indiens in Rajasthan, Gujarat und Madhya Pradesh sorgfältig ausgewählt werden. Wie Beschaffungsführer erkennen, liefert Indiens jahrhundertealte Senfanbautradition in Kombination mit unserem proprietären Auswahlverfahren ein Produkt von unübertroffener Besonderheit auf globalen Märkten. Die bemerkenswerte Schärfe und subtile Süße unserer Senfsamen schaffen ein sofort erkennbares Geschmacksprofil, das anspruchsvolle Verbraucher verlangen. Mit einem präzise kontrollierten Feuchtigkeitsgehalt unter 10 % und einem außergewöhnlichen Ölgehalt von 42 % bieten unsere Premium-Samen in Exportqualität überlegene Leistung für kulinarische Anwendungen, therapeutische Produkte und hochwertige Kosmetika. Kluge internationale Käufer verstehen, dass dieses vielseitige Produkt nicht nur einen Gewürzkauf darstellt, sondern eine strategische Investition in Produktexzellenz, die einen sofortigen Wettbewerbsvorteil bietet.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Profitieren Sie von unserem proprietären Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen nahtlos integriert und so eine natürlich geschützte Wachstumsumgebung schafft, die nachweislich sauberere, reinere Samen mit überlegenen Geschmackseigenschaften liefert.",
+      "Bio: Sichern Sie sich exklusiven Zugang zu unseren zertifizierten 100%igen Bio-Senfsamen, die in reinen Umgebungen angebaut werden, die vollständig frei von synthetischen Chemikalien sind, die strengsten globalen Bio-Standards erfüllen und eine Premium-Positionierung in gesundheitsbewussten Luxusmärkten ermöglichen.",
+      "Konventionell: Nutzen Sie unsere präzisionsgesteuerten traditionellen Anbaumethoden, bei denen jede Anwendung von industriezugelassenen Behandlungen einer strengen Überwachung unterzogen wird, um konstant außergewöhnliche Senfsamen zu produzieren und gleichzeitig eine verantwortungsvolle Umweltführung zu gewährleisten."
+    ],
+    "container_capacity": [
+      "20 Fuß: 20 MT"
+    ],
+    "specifications": [
+      "Typ: Makellose ganze Samen mit außergewöhnlicher Reinheitszertifizierung",
+      "Farbe: Sattes Braun bis Dunkelbraun / leuchtend gelbe Sorten verfügbar, die optimale Reife signalisieren",
+      "Geschmack: Ausgeprägtes scharfes Profil mit subtilen süßen Noten für perfekte kulinarische Balance",
+      "Aroma: Frische, beeindruckende Präsenz, die sofort Premiumqualität signalisiert",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisions-Sortex-Technologie für unübertroffene Reinheit",
+      "Verpackung: Anpassbare Verpackungslösungen, die genau auf Ihre Spezifikationen zugeschnitten sind",
+      "Reinheit: Außergewöhnliche garantierte Reinheitsgrade von 99-99,5 %, die internationale Standards übertreffen",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um die Lagerstabilität zu maximieren",
+      "Ölgehalt: Überlegene Ölkonzentration von 42 % – deutlich über dem Branchendurchschnitt – gewährleistet maximale Geschmackswirkung und Extraktionseffizienz"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unserem ISO-zertifizierten Labor einer strengen Multiparameteranalyse unterzogen, um unerschütterliche Konsistenz und außergewöhnliche Qualität zu gewährleisten.",
+      "Verpackung: Nur hochwertige, lebensmittelechte, manipulationssichere Materialien mit fortschrittlichen Sauerstoffbarrieren bewahren die charakteristische Frische und aromatische Integrität während der gesamten globalen Logistik.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die das Vertrauen der Verbraucher und die Markentreue stärken.",
+      "Regelmäßige Audits: Systematische Überprüfung durch Dritte durch umfassende Audits gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten für Wettbewerbsvorteile.",
+      "Geschultes Qualitätskontrollteam: Unsere Elite-Qualitätsspezialisten implementieren proprietäre mehrstufige Inspektionsprotokolle, um sicherzustellen, dass nur perfekte Senfsamen unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung internationaler Lebensmittelsicherheitsrahmenbedingungen und Exportvorschriften gewährleistet eine reibungslose Zollabfertigung und sofortigen Marktzugang weltweit."
+    ]
+  },
+  {
+    "id": "5",
+    "hs_code": "0910",
+    "category": "Gewürze",
+    "name": "Kurkuma-Finger",
+    "image": "images/products/spices/turmeric.jpg",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Liefert außergewöhnlichen Curcumin-Gehalt (3-5 %) – deutlich über dem Marktdurchschnitt – und bietet überlegene Farbe, Geschmack und nachgewiesene entzündungshemmende Vorteile, die gesundheitsbewusste Verbraucher fordern.",
+      "Beseitigt Entzündungen durch proprietäre bioaktive Verbindungen, die ausschließlich in Premium-Kurkuma aus Indien vorkommen, und bietet so einen sofortigen Wettbewerbsvorteil in auf Wellness ausgerichteten Märkten.",
+      "Schützt Zellen durch starke antioxidative Eigenschaften, die messbaren Schutz vor oxidativem Stress bieten und Möglichkeiten für eine Premium-Positionierung in gesundheitsorientierten Produktlinien schaffen.",
+      "Zeichnet sich durch kulinarische, medizinische und kosmetische Anwendungen aus und bietet unübertroffene Vielseitigkeit und mehrere Einnahmequellen aus einer einzigen Premium-Zutateninvestition."
+    ],
+    "description": "Übernehmen Sie die Marktführerschaft mit unseren exklusiven Premium-Kurkuma-Fingern (Curcuma longa), die während der optimalen Monsunzeit Indiens (Juni bis September) in den angesehensten Anbaugebieten des Landes in Tamil Nadu, Andhra Pradesh und Maharashtra auf dem Höhepunkt ihrer Wirksamkeit geerntet werden. Anspruchsvolle Beschaffungsspezialisten erkennen an, dass unser 4.000-jähriges Anbauerbe in Kombination mit modernsten landwirtschaftlichen Techniken eine Kurkuma von unübertroffener Besonderheit auf globalen Märkten liefert. Der leuchtend gelb-orange Farbton signalisiert sofort überlegene Qualität, während der außergewöhnliche Curcumin-Gehalt von 3-5 % – deutlich über dem Industriestandard – einen messbaren Vorteil bei der Produktwirksamkeit bietet. Dieses strategische Produkt zeichnet sich durch kulinarische Anwendungen, therapeutische Formulierungen und Premium-Kosmetika aus und ermöglicht es innovativen Marken, die wachsende Verbrauchernachfrage nach authentischen, wirksamen Kurkuma-Produkten zu bedienen. Internationale Käufer, die eine wettbewerbsfähige Differenzierung suchen, erkennen an, dass unsere Kurkuma nicht nur einen Gewürzkauf darstellt, sondern eine transformative Zutat, die ganze Produktlinien in den Premium-Kategoriestatus hebt.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Sichern Sie sich exklusiven Zugang zu unserem revolutionären Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen perfekt ausbalanciert, was zu nachweislich saubererer, wirksamerer Kurkuma führt, die die höchsten internationalen Standards erfüllt.",
+      "Bio: Profitieren Sie von unseren zertifizierten 100%igen Bio-Kurkuma-Fingern, die in reinen Umgebungen angebaut werden, die vollständig frei von synthetischen Chemikalien sind, die strengsten globalen Bio-Zertifizierungen erfüllen und eine Premium-Positionierung in luxuriösen Wellness-Märkten ermöglichen.",
+      "Konventionell: Nutzen Sie unseren präzisionsgesteuerten traditionellen Anbau, bei dem jede Anwendung zugelassener Behandlungen einer strengen Überwachung unterzogen wird, um konstant außergewöhnliche Kurkuma zu produzieren und gleichzeitig eine verantwortungsvolle Umweltführung zu gewährleisten, die die Glaubwürdigkeit der Marke stärkt."
+    ],
+    "container_capacity": [
+      "20 Fuß: 18 MT",
+      "40 Fuß: 36 MT"
+    ],
+    "specifications": [
+      "Typ: Premium-Kurkuma in Fingerqualität mit garantierter Wirksamkeit",
+      "Farbe: Leuchtend gelb-oranger Farbton, der auf höchsten Curcumin-Gehalt und optimale Reife hinweist",
+      "Form: Perfekte Fingerbildung mit idealen Koch- und Verarbeitungseigenschaften",
+      "Größe: Einheitlich 2-4 Zoll (5-10 cm) für konsistente kommerzielle Anwendung",
+      "Geschmack: Beeindruckendes scharfes, erdiges Profil mit unverwechselbarer aromatischer Komplexität",
+      "Aroma: Frisches, erdiges Bouquet, das sofort überlegene Qualität signalisiert",
+      "Verarbeitung: Fortschrittliche Maschinentrocknung mit Wahlmöglichkeit zwischen Doppel-/Einzelpoliertechnologie für gezielte Marktanforderungen",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Spezifikationen zugeschnitten sind",
+      "Curcumin-Gehalt: Außergewöhnliche Konzentration von 3-5 % – deutlich über dem Marktdurchschnitt",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um eine verlängerte Lagerstabilität zu garantieren"
+    ],
+    "variety": [
+      "Nizamabad: Exklusive Sorte mit hohem Curcumin-Gehalt, bekannt für ihre außergewöhnliche Wirksamkeit und ihr unverwechselbares scharfes Geschmacksprofil, das von Premium-Gewürzmarken weltweit gesucht wird.",
+      "Salem: Legendäre Sorte, gefeiert für ihre außergewöhnlich leuchtende gelb-orange Farbe und ihr komplexes erdiges Aroma, das sofort auf authentischen indischen Ursprung hinweist.",
+      "Rajapuri: Renommierte Sorte aus Maharashtra, geschätzt für ihre einzigartige süß-scharfe Geschmacksbalance, die in Premium-Gewürzmischungen und -formulierungen charakteristische Noten erzeugt.",
+      "Assam Hybrid: Ertragsstarke Spezialitätssorte aus dem Nordosten Indiens mit kräftiger, erdiger Geschmacksintensität, die in kulinarischen Anwendungen sofortige Wirkung zeigt.",
+      "Ladkong: Seltene Sorte aus Meghalaya mit außergewöhnlich hohem Curcumin-Gehalt und unverwechselbaren Geschmackskomponenten, die in handelsüblicher Kurkuma nicht vorkommen und eine echte Produktdifferenzierung bieten."
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unserem ISO-zertifizierten Labor einer umfassenden Curcumin-Analyse und Schadstoffprüfung unterzogen, um außergewöhnliche Wirksamkeit und Reinheit zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige, lebensmittelechte, lichtschützende Verpackungsmaterialien verwendet, die die leuchtende Farbe und die bioaktiven Verbindungen während der gesamten globalen Lieferkette bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die bei gewissenhaften Verbrauchern Anklang finden.",
+      "Regelmäßige Audits: Systematische Überprüfung durch Dritte durch umfassende Audits gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten.",
+      "Geschultes Qualitätskontrollteam: Unsere Elite-Qualitätsspezialisten implementieren proprietäre Inspektionsprotokolle unter Verwendung fortschrittlicher kolorimetrischer Analysen, um sicherzustellen, dass nur perfekte Kurkuma unsere anspruchsvollen globalen Kunden erreicht.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Lebensmittelsicherheitsrahmenbedingungen, einschließlich strenger Schadstoffprüfungen, gewährleistet eine reibungslose behördliche Zulassung weltweit."
+    ]
+  },
+  {
+    "id": "6",
+    "hs_code": "09109913",
+    "category": "Gewürze",
+    "name": "Dillsamen",
+    "image": "images/products/spices/dill_seed.jpg",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Liefert außergewöhnlichen Gehalt an flüchtigem Öl (3-4 %) – weit über dem Industriestandard – und gewährleistet maximale Geschmackswirkung und therapeutische Potenz in jeder Anwendung.",
+      "Fesselt die Sinne mit einem unverwechselbar frischen, zitrusartigen Geschmacksprofil, das kulinarische Kreationen sofort aufwertet und Premiumprodukte von gewöhnlichen Alternativen unterscheidet.",
+      "Beseitigt Verdauungsbeschwerden durch starke natürliche Verbindungen, die Magen-Darm-Beschwerden schnell lindern und so Wellness-orientierten Verbrauchern sofortigen Nutzen bieten.",
+      "Zeichnet sich durch kulinarische, Einlege- und therapeutische Anwendungen aus und bietet beispiellose Vielseitigkeit und mehrere Einnahmequellen aus einer einzigen Premium-Zutat."
+    ],
+    "description": "Sichern Sie sich einen unbestreitbaren Marktvorteil mit unseren exklusiven Premium-Dillsamen, die während der optimalen Sommersaison Indiens (Juni bis September) in den renommiertesten Anbaugebieten des Landes in Gujarat, Maharashtra und Madhya Pradesh sorgfältig geerntet werden. Anspruchsvolle Beschaffungsspezialisten erkennen an, dass unser 3.000-jähriges Anbauerbe in Kombination mit proprietären landwirtschaftlichen Methoden einen Dillsamen von unübertroffener Besonderheit auf globalen Märkten liefert. Der außergewöhnliche Gehalt an flüchtigem Öl von 3-4 % – deutlich über dem Branchendurchschnitt – bietet sofortige sensorische Wirkung und therapeutische Wirksamkeit, die anspruchsvolle Verbraucher fordern. Diese strategische Investition bietet ein authentisches frisches, zitrusartiges Geschmacksprofil, das gewöhnliche Produkte in Premium-Angebote für kulinarische Anwendungen, handwerkliches Einlegen und therapeutische Formulierungen verwandelt. Vorausschauende internationale Käufer verstehen, dass unsere Premium-Dillsamen nicht nur einen Gewürzkauf darstellen, sondern eine transformative Zutat, die in zunehmend überfüllten Marktplatzkategorien sofortige Wettbewerbsdifferenzierung bietet.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Profitieren Sie von unserem revolutionären Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen perfekt integriert und so eine natürlich geschützte Wachstumsumgebung schafft, die nachweislich sauberere, aromatischere Samen liefert.",
+      "Bio: Sichern Sie sich exklusiven Zugang zu unseren zertifizierten 100%igen Bio-Dillsamen, die in reinen Umgebungen angebaut werden, die vollständig frei von synthetischen Chemikalien sind, die strengsten globalen Bio-Standards erfüllen und eine Premium-Positionierung in gesundheitsbewussten Luxusmärkten ermöglichen.",
+      "Konventionell: Nutzen Sie unsere präzisionsgesteuerten traditionellen Anbaumethoden, bei denen jede Anwendung von industriezugelassenen Behandlungen einer strengen Überwachung unterzogen wird, um konstant außergewöhnliche Dillsamen zu produzieren und gleichzeitig eine verantwortungsvolle Umweltführung zu gewährleisten."
+    ],
+    "container_capacity": [
+      "20 Fuß: 13 MT",
+      "40 Fuß: 27 MT"
+    ],
+    "specifications": [
+      "Typ: Premium ganze Dillsamen mit garantierter Wirksamkeit und Reinheit",
+      "Farbe: Sattes Braun bis unverwechselbarer grünlich-brauner Farbton, der optimale Reife signalisiert",
+      "Form: Perfekt geformte kleine, unregelmäßige Samen mit idealer Geschmacksverteilung",
+      "Größe: Präzise 0,5-1 mm (0,02-0,04 Zoll) Kalibrierung für konsistente kulinarische Leistung",
+      "Geschmack: Beeindruckendes frisches, zitrusartiges Profil mit komplexen aromatischen Noten",
+      "Aroma: Mildes, leicht süßliches Bouquet, das sofort überlegene Qualität signalisiert",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisionssortiertechnologie für unübertroffene Reinheit",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Marktanforderungen zugeschnitten sind",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um die Lagerstabilität zu maximieren und flüchtige Verbindungen zu bewahren",
+      "Gehalt an flüchtigem Öl: Außergewöhnliche Konzentration von 3-4 % – deutlich über dem Marktdurchschnitt"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unseren ISO-zertifizierten Laboreinrichtungen einer umfassenden Analyse des Gehalts an flüchtigem Öl unterzogen, um außergewöhnliche aromatische Wirksamkeit und Reinheitsprofile zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige, lebensmittelechte Verpackungsmaterialien mit Aromaschutz verwendet, die die unverwechselbare Frische und die flüchtigen Verbindungen während der gesamten globalen Lieferkette bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die das Vertrauen der Verbraucher und die Markentreue stärken.",
+      "Regelmäßige Audits: Systematische Überprüfung durch Dritte durch umfassende Audits gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten für Wettbewerbsvorteile.",
+      "Geschultes Qualitätskontrollteam: Unsere Elite-Qualitätsspezialisten implementieren proprietäre mehrstufige Inspektionsprotokolle, um sicherzustellen, dass nur perfekte Dillsamen unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Lebensmittelsicherheitsrahmenbedingungen und Exportvorschriften gewährleistet eine reibungslose Zollabfertigung und sofortigen Marktzugang weltweit."
+    ]
+  },
+  {
+    "id": "7",
+    "hs_code": "0904",
+    "category": "Gewürze",
+    "name": "Roter Chili",
+    "image": "images/products/spices/chilli.png",
+    "harvest_season": "März bis Juni",
+    "features": [
+      "Verwandelt Produkte durch lebendige natürliche Färbung, die den Bedarf an künstlichen Zusatzstoffen eliminiert und die wachsende Verbrauchernachfrage nach Clean-Label-Zutaten erfüllt.",
+      "Liefert potenten Capsaicin-Gehalt, der sowohl einen ausgeprägten Geschmackseffekt als auch nachgewiesene physiologische Vorteile bietet und so mehrere Marketingvorteile schafft.",
+      "Reichert Formulierungen mit außergewöhnlichen Vitamin-C-Spiegeln an, die Nährwertprofile verbessern und starke antioxidative Ansprüche unterstützen.",
+      "Bietet unübertroffene kulinarische Vielseitigkeit für globale Kochanwendungen und liefert eine Premium-Zutat, die vielfältige Produktentwicklungsanforderungen erfüllt."
+    ],
+    "description": "Dominieren Sie wettbewerbsintensive Märkte mit unserem exklusiven Premium Dry Red Chili, der während der optimalen Sommersaison Indiens (März bis Juni) in den renommiertesten Anbaugebieten des Landes in Andhra Pradesh, Telangana und Karnataka auf dem Höhepunkt der Farbintensität geerntet wird. Strategische Beschaffungsspezialisten erkennen an, dass unser 2.000-jähriges Anbauerbe in Kombination mit proprietären Auswahlmethoden einen Chili von unübertroffener Besonderheit auf globalen Märkten liefert. Die beeindruckende leuchtend rote Färbung signalisiert sofort überlegene Qualität, während der außergewöhnliche SHU-Wert von 30.000-50.000 einen messbaren Vorteil bei der Produktwirkung und -wirksamkeit bietet. Dieses Premiumprodukt zeichnet sich durch kulinarische Anwendungen, Gewürzmischungen und farbkritische Formulierungen aus und ermöglicht es innovativen Marken, charakteristische Produkte mit authentischem Charakter zu kreieren. Vorausschauende internationale Käufer verstehen, dass unsere Premium-Chilis nicht nur einen Gewürzkauf darstellen, sondern eine transformative Zutat, die in zunehmend wettbewerbsintensiven Marktplatzkategorien sofortige visuelle und sensorische Differenzierung bietet.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Sichern Sie sich exklusiven Zugang zu unserem revolutionären Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen harmonisch integriert, was zu nachweislich saubereren, lebendigeren Chilis mit überlegenen Farberhaltungseigenschaften führt.",
+      "Bio: Profitieren Sie von unseren zertifizierten 100%igen Bio-Roten Chilis, die in reinen Umgebungen angebaut werden, die vollständig frei von synthetischen Chemikalien sind, die strengsten globalen Bio-Standards erfüllen und eine Premium-Positionierung in Clean-Label-Marktsegmenten ermöglichen.",
+      "Konventionell: Nutzen Sie unsere präzisionsgesteuerten traditionellen Anbaumethoden, bei denen jede Anwendung von industriezugelassenen Behandlungen einer strengen Überwachung unterzogen wird, um konstant außergewöhnliche Chilis zu produzieren und gleichzeitig eine verantwortungsvolle Umweltführung zu gewährleisten."
+    ],
+    "container_capacity": [
+      "20 Fuß: 6,5 MT",
+      "40 Fuß: 13 MT"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Premium ganze getrocknete Chilis mit außergewöhnlicher Farbe und struktureller Integrität für überlegene Präsentation und Verarbeitungsleistung.",
+      "- Typ: Sorgfältig ausgewählte ganze getrocknete Chilis mit verifizierter Authentizität",
+      "- Farbe: Beeindruckender leuchtend roter Farbton mit außergewöhnlichem ASTA-Wert von 150-200",
+      "- Form: Perfekt geformte lange, gekrümmte Struktur, ideal für visuelle Attraktivität",
+      "- Größe: Einheitliche Länge von 7-10 cm gewährleistet konsistente Koch- und Verarbeitungsergebnisse",
+      "- Farbe Asta: Überlegener Wert von 150-200 – deutlich über dem Marktdurchschnitt",
+      "Geschmack und Aroma: Unverwechselbares sensorisches Profil, das Premiumprodukte sofort von gewöhnlichen Alternativen unterscheidet.",
+      "- Geschmack: Intensiv feurig mit komplexer Tiefe, die charakteristische Geschmackserlebnisse schafft",
+      "- Aroma: Scharf mit subtilen süßen Noten, die authentische Qualität signalisieren",
+      "Verarbeitung und Verpackung: Fortschrittliche Handhabungsprotokolle, die maximale Farbe, Geschmack und Potenz bewahren.",
+      "- Verarbeitung: Präzisionsmaschinentrocknung mit temperaturgesteuerten Protokollen zur Maximierung der Farberhaltung",
+      "- Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Spezifikationen zugeschnitten sind",
+      "Qualitätsstandards: Wissenschaftliche Überprüfung wichtiger Qualitätsmarker, die eine konsistente Leistung garantieren.",
+      "- Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um eine verlängerte Farbstabilität zu garantieren",
+      "- Scoville Heat Unit (SHU): Außergewöhnlicher Wert von 30.000-50.000 für starke Wirkung"
+    ],
+    "variety": [
+      "Sannam: Renommierte Sorte aus Andhra Pradesh, weltweit bekannt für ihre intensive Geschmackskomplexität und ihr unverwechselbares aromatisches Profil, das in Premium-Formulierungen charakteristische Akzente setzt.",
+      "Byadgi: Exklusive Sorte aus Karnataka, geschätzt für ihre einzigartig milde Geschmacksbalance und außergewöhnlich leuchtende rote Färbung, die visuelle Wirkung ohne überwältigende Schärfe liefert.",
+      "Warangal: Ertragsstarke Spezialitätssorte aus Telangana mit kräftiger Geschmacksintensität und beeindruckender aromatischer Präsenz, die in Gewürzmischungen sofortige Wirkung zeigt.",
+      "Kashmiri: Legendäre milde Sorte, gefeiert für ihre außergewöhnlich leuchtend rote Farbe und ihren subtilen süßen Geschmack, der visuelle Wirkung perfekt mit sanften Schärfegraden ausbalanciert."
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unseren ISO-zertifizierten Laboreinrichtungen einer umfassenden Farbanalyse und Schärfeprofilierung unterzogen, um eine außergewöhnliche Konsistenz sowohl der visuellen als auch der sensorischen Eigenschaften zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige, lichtschützende Verpackungsmaterialien mit hoher Barrierewirkung verwendet, die die leuchtende Farbe und die aromatischen Verbindungen während der gesamten verlängerten globalen Lieferketten bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die bei den heutigen gewissenhaften Verbrauchern Anklang finden.",
+      "Regelmäßige Audits: Systematische Überprüfung durch Dritte durch umfassende Audits gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten für Wettbewerbsvorteile.",
+      "Geschultes Qualitätskontrollteam: Unsere Elite-Farbspezialisten implementieren proprietäre Inspektionsprotokolle unter Verwendung fortschrittlicher kolorimetrischer Analysen, um sicherzustellen, dass nur perfekte Chilis unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Lebensmittelsicherheitsrahmenbedingungen, einschließlich strenger Schadstoffprüfungen, gewährleistet eine reibungslose behördliche Zulassung in jedem Zielmarkt."
+    ]
+  },
+  {
+    "id": "8",
+    "hs_code": "120740",
+    "category": "Gewürze",
+    "name": "Sesamsamen",
+    "image": "images/products/spices/sesame.jpg",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Beeindruckt durch außergewöhnlichen Ölgehalt (50-60 %) – deutlich über dem Marktdurchschnitt – und liefert überlegene Geschmacksfreisetzung und Extraktionseffizienz für maximalen wirtschaftlichen Wert.",
+      "Fesselt durch ein unverwechselbares nussiges Geschmacksprofil, das gewöhnliche Produkte in erstklassige kulinarische Erlebnisse verwandelt, die von anspruchsvollen globalen Verbrauchern gesucht werden.",
+      "Bietet perfekten Texturkontrast durch charakteristische Knusprigkeit, die das Mundgefühl des Produkts verbessert und unvergessliche sensorische Erlebnisse sowohl in süßen als auch in herzhaften Anwendungen schafft.",
+      "Garantiert authentische Reinheit durch doppelte Zertifizierungen für biologischen Anbau und GVO-freien Status und erfüllt damit kritische Anforderungen für erstklassige internationale Märkte."
+    ],
+    "description": "Sichern Sie sich einen entscheidenden Marktvorteil mit unseren exklusiven Premium-Sesamsamen, die während der optimalen Sommersaison Indiens (Juni bis September) in den renommiertesten Anbaugebieten des Landes in Gujarat, Maharashtra und Madhya Pradesh sorgfältig geerntet werden. Strategische Beschaffungsspezialisten erkennen an, dass unser 3.000-jähriges Anbauerbe in Kombination mit proprietären Auswahlmethoden einen Sesamsamen von unübertroffener Besonderheit auf globalen Märkten liefert. Der außergewöhnliche Ölgehalt von 50-60 % – deutlich über dem Industriestandard – bietet messbare wirtschaftliche Vorteile sowohl bei kulinarischen Anwendungen als auch bei der Ölextraktionseffizienz. Dieses strategische Produkt zeichnet sich durch Back-, Koch- und Ölproduktionskategorien aus und ermöglicht es innovativen Marken, die wachsende Verbrauchernachfrage nach authentischen, hochwertigen Samen mit nachgewiesenen gesundheitlichen Vorteilen zu bedienen. Vorausschauende internationale Käufer verstehen, dass unsere Sesamsamen nicht nur einen Rohstoffkauf darstellen, sondern eine transformative Zutat, die in zunehmend wettbewerbsintensiven Marktplatzkategorien sofortige sensorische und ernährungsphysiologische Differenzierung bietet.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Profitieren Sie von unserem revolutionären Anbausystem, das physikalische, kulturelle, biologische und chemische Kontrollen perfekt integriert, was zu nachweislich saubereren, ölreicheren Samen mit überlegener Geschmacksentwicklung führt.",
+      "Bio: Sichern Sie sich exklusiven Zugang zu unseren zertifizierten 100%igen Bio-Sesamsamen, die in reinen Umgebungen angebaut werden, die vollständig frei von synthetischen Chemikalien sind, die strengsten internationalen Bio-Standards für eine Premium-Positionierung in gesundheitsbewussten Märkten erfüllen.",
+      "Konventionell: Nutzen Sie unsere präzisionsgesteuerten traditionellen Anbaumethoden, bei denen jede Anwendung von industriezugelassenen Behandlungen einer strengen Überwachung unterzogen wird, um konstant außergewöhnliche Sesamsamen zu produzieren und gleichzeitig eine verantwortungsvolle Umweltführung zu gewährleisten."
+    ],
+    "container_capacity": [
+      "20 Fuß: 19 MT",
+      "40 Fuß: 38 MT"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Premium ganze Sesamsamen mit außergewöhnlicher struktureller Integrität und verifizierter Authentizität, um überlegene Produktleistung und visuelle Attraktivität zu gewährleisten.",
+      "Typ: Perfekte ganze Samen mit verifizierter Einheitlichkeit, Farbe: Wählen Sie aus cremeweißen oder unverwechselbaren schwarzen Sorten, Form: Ideale ovale Bildung für konsistente Kochleistung, Größe: Präzise 2-3 mm (0,08-0,12 Zoll) Kalibrierung für zuverlässige Anwendung",
+      "Geschmack und Aroma: Unverwechselbares sensorisches Profil, das Produkte sofort über gewöhnliche Alternativen hinaushebt.",
+      "Geschmack: Reicher nussiger Charakter mit komplexer Tiefe, Aroma: Mildes, leicht süßliches Bouquet, das Premiumqualität signalisiert",
+      "Verarbeitung und Verpackung: Fortschrittliche Handhabungsprotokolle, die maximalen Geschmack und Nährwertintegrität bewahren.",
+      "Verarbeitung: Präzisionsmaschinenreinigung und mehrstufige Sortiertechnologie, Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Spezifikationen zugeschnitten sind",
+      "Qualitätsstandards: Wissenschaftliche Überprüfung wichtiger Qualitätsmarker, die eine konsistente Leistung garantieren.",
+      "Feuchtigkeit: Streng kontrolliert auf unter 5 % – besser als der Industriestandard – für verlängerte Lagerstabilität, Ölgehalt: Außergewöhnliche Konzentration von 50-60 % für überlegene Extraktionseffizienz und Geschmackswirkung"
+    ],
+    "variety": [
+      "Schwarzer Sesam: Exklusive Sorte aus Maharashtra, bekannt für ihre unverwechselbare schwarze Färbung und ihr einzigartig süßes Geschmacksprofil, das in Premium-Anwendungen dramatische visuelle und geschmackliche Kontraste schafft.",
+      "Weißer/Geschälter Sesam: Premium-Samen, die sorgfältig verarbeitet werden, um die äußere Hülle zu entfernen, wodurch eine perfekt cremeweiße Farbe und ein reiner nussiger Geschmack zum Vorschein kommen, ideal für sichtbare Garnituren und feine Anwendungen.",
+      "Natürlicher Sesam: Speziell konservierte Samen mit intakter äußerer Hülle, die eine unverwechselbare natürliche Farbe und einen robusten nussigen Charakter liefern, perfekt für authentische handwerkliche Produkte mit rustikalem Charme."
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unseren ISO-zertifizierten Laboreinrichtungen einer umfassenden Ölgehaltsanalyse unterzogen, um eine außergewöhnliche Konsistenz sowohl des Nährwerts als auch der sensorischen Eigenschaften zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige Verpackungsmaterialien mit Sauerstoffbarriere und Feuchtigkeitsschutz verwendet, die die unverwechselbare Frische bewahren und Ranzigkeit während der gesamten verlängerten globalen Lieferketten verhindern.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die das Vertrauen der Verbraucher stärken und den Ruf der Marke verbessern.",
+      "Regelmäßige Audits: Systematische Überprüfung durch Dritte durch umfassende Audits gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten für Wettbewerbsvorteile.",
+      "Geschultes Qualitätskontrollteam: Unsere Elite-Samenexperten implementieren proprietäre mehrstufige Inspektionsprotokolle unter Verwendung fortschrittlicher Bildanalysen, um sicherzustellen, dass nur perfekte Sesamsamen unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Lebensmittelsicherheitsrahmenbedingungen, einschließlich strenger Allergenprotokolle, gewährleistet eine reibungslose behördliche Zulassung selbst in den anspruchsvollsten Märkten."
+    ]
+  },
+  {
+    "id": "9",
+    "hs_code": "12119032",
+    "category": "Gewürze",
+    "name": "Flohsamenschalen",
+    "image": "images/products/spices/psyllium_husk.png",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Revolutioniert die Verdauungsgesundheit durch starke natürliche Ballaststoffe, die sofortige Linderung und langfristige Verbesserung des Darmmikrobioms schaffen und die explodierende Verbrauchernachfrage nach funktionellen Zutaten erfüllen.",
+      "Stabilisiert den Blutzuckerspiegel durch wissenschaftlich nachgewiesene regulierende Eigenschaften und liefert überzeugende funktionelle Ansprüche für Produkte, die auf den schnell wachsenden Markt für Diabetes-Management abzielen.",
+      "Reduziert Cholesterin dramatisch durch dokumentierte Bindungsmechanismen und ermöglicht so eine starke Positionierung im Bereich Herzgesundheit, die bei zunehmend gesundheitsbewussten Verbrauchern Anklang findet.",
+      "Beschleunigt die Ergebnisse des Gewichtsmanagements durch proprietäre sättigungsfördernde Eigenschaften und schafft so einen sofortigen Wettbewerbsvorteil in der boomenden Produktkategorie zur Gewichtskontrolle."
+    ],
+    "description": "Dominieren Sie wachstumsstarke funktionale Märkte mit unseren exklusiven Premium-Flohsamenschalen, die während der optimalen Sommersaison Indiens (Juni bis September) in den renommiertesten Anbaugebieten des Landes in Gujarat, Maharashtra und Madhya Pradesh strategisch geerntet werden. Anspruchsvolle Beschaffungsspezialisten erkennen an, dass Indiens weltweite Führungsposition im Anbau von Plantago ovata in Kombination mit unseren proprietären Verarbeitungsmethoden Flohsamenschalen von beispielloser Wirksamkeit auf internationalen Märkten liefert. Der außergewöhnliche Ballaststoffgehalt von 80-85 % – deutlich über dem Industriestandard – bietet messbare Vorteile bei funktionellen Lebensmittelanwendungen, pharmazeutischen Formulierungen und Premium-Kosmetika. Diese strategische Zutat befriedigt die explodierende globale Nachfrage nach klinisch belegten Lösungen für die Verdauungsgesundheit, Blutzuckermanagement, Cholesterinsenkung und Gewichtskontrolleigenschaften. Vorausschauende internationale Käufer verstehen, dass unsere Premium-Flohsamenschalen nicht nur einen Kauf einer funktionellen Zutat darstellen, sondern eine transformative Lösung, die in den profitabelsten Gesundheitsproduktkategorien von heute sofortige Wettbewerbsdifferenzierung bietet.",
+    "quality_options": [
+      "Nutzen Sie die außergewöhnliche Kraft von 80-85 % Ballaststoffgehalt – deutlich über dem Industriestandard – und liefern Sie überlegene funktionale Leistung, was geringere Einsatzraten und höhere Gewinnmargen ermöglicht.",
+      "Profitieren Sie von unserer Präzisionsmaschinenreinigung und mehrstufigen Sortiertechnologie, die alle Verunreinigungen beseitigt und so ein makelloses Aussehen und eine vorhersagbare Leistung in Ihren anspruchsvollsten Anwendungen gewährleistet.",
+      "Verlassen Sie sich auf unsere hochwertigen Verpackungssysteme in Lebensmittelqualität mit fortschrittlichen Feuchtigkeitsbarrieren, die die perfekte Produktintegrität während der gesamten verlängerten globalen Lieferketten aufrechterhalten.",
+      "Vertrauen Sie auf unsere umfassende Einhaltung der strengsten internationalen Lebensmittelsicherheitsvorschriften, die einen nahtlosen Zugang selbst zu den am strengsten regulierten globalen Märkten ermöglichen."
+    ],
+    "container_capacity": [
+      "20 Fuß: 9 MT",
+      "40 Fuß: 18 MT"
+    ],
+    "specifications": [
+      "Typ: Makellose ganze Flohsamenschalen mit garantierter funktioneller Wirksamkeit",
+      "Farbe: Perfekter hellbrauner bis cremefarbener Farbton, der auf optimale Verarbeitung hinweist",
+      "Form: Ideal geformte kleine, unregelmäßige Partikel für perfekte Dispersion",
+      "Größe: Präzise 1-2 mm (0,04-0,08 Zoll) Kalibrierung für konsistente Leistung",
+      "Geschmack: Perfekt neutrales Profil, das sich nahtlos in jede Formulierung integriert",
+      "Aroma: Mildes, leicht süßliches Bouquet ohne Fehlnoten oder Unvollkommenheiten",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und mehrstufige Sortiertechnologie",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Spezifikationen zugeschnitten sind",
+      "Ballaststoffgehalt: Außergewöhnliche Konzentration von 80-85 % – deutlich über dem Marktdurchschnitt",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um funktionale Stabilität zu garantieren"
+    ],
+    "variety": [
+      "Premium ganze Flohsamenschalen mit verifizierter Reinheit und funktionaler Leistung"
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unseren hochmodernen Laboreinrichtungen einer umfassenden Ballaststoffanalyse unterzogen, um eine außergewöhnliche Konsistenz der funktionalen Leistung zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige Verpackungsmaterialien mit Feuchtigkeitsbarriere und Lichtschutz verwendet, die die funktionale Integrität während der gesamten verlängerten globalen Vertriebskanäle bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die das Vertrauen der Verbraucher stärken und die Glaubwürdigkeit der Marke verbessern.",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfung durch umfassende Audits durch Dritte gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten.",
+      "Geschultes Qualitätskontrollteam: Unsere spezialisierten Experten für funktionelle Inhaltsstoffe implementieren strenge Inspektionsprotokolle, um sicherzustellen, dass nur perfekte Flohsamenschalen unsere anspruchsvollen globalen Kunden erreichen.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Vorschriften für Ballaststoffe und Kennzeichnungsanforderungen gewährleistet einen nahtlosen Marktzugang weltweit."
+    ]
+  },
+  {
+    "id": "10",
+    "hs_code": "09093119",
+    "category": "Gewürze",
+    "name": "Schwarzkümmel (Kalonji)",
+    "image": "images/products/spices/black_cumin.jpg",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Stärkt die Immunantwort durch leistungsstarke bioaktive Verbindungen, die natürliche Abwehrmechanismen verbessern und die explodierende Nachfrage nach funktionellen Wellness-Zutaten erfüllen.",
+      "Beseitigt Entzündungen durch wissenschaftlich nachgewiesene Modulation wichtiger Entzündungsmarker und liefert überzeugende funktionelle Ansprüche für Premium-Gesundheitsprodukte.",
+      "Optimiert die Verdauungsfunktion durch natürliche Verbindungen, die das Gleichgewicht im Darm wiederherstellen und die Nährstoffaufnahme verbessern, was messbare Vorteile für die Verbraucher bringt.",
+      "Schützt Zellen durch außergewöhnliche antioxidative Kapazität, die nachweislichen Schutz vor Umweltstressoren bietet und starke Marketingvorteile schafft."
+    ],
+    "description": "Erobern Sie Premium-Positionierungen mit unserem exklusiven Kalonji (Schwarzkümmel), der während der optimalen Anbausaison Indiens (Oktober bis Februar) in den renommiertesten Anbaugebieten des Landes in Gujarat, Maharashtra und Madhya Pradesh strategisch geerntet wird. Anspruchsvolle Beschaffungsspezialisten erkennen an, dass unsere Nigella sativa-Samen durch jahrhundertelange selektive Kultivierung in Kombination mit proprietären Verarbeitungsmethoden eine beispiellose Wirksamkeit auf internationalen Märkten liefern. Der außergewöhnliche Ölgehalt von 30-40 % – deutlich über dem Industriestandard – bietet messbare Vorteile bei der therapeutischen Wirksamkeit und dem Geschmackseinfluss bei kulinarischen Anwendungen, medizinischen Formulierungen und Premium-Kosmetika. Diese strategische Zutat befriedigt die explodierende globale Nachfrage nach klinisch belegten entzündungshemmenden, antioxidativen und antibakteriellen Eigenschaften in natürlichen Produktformulierungen. Vorausschauende internationale Käufer verstehen, dass unser Premium-Kalonji nicht nur einen Gewürzkauf darstellt, sondern eine transformative Wellness-Zutat, die in den wettbewerbsintensivsten gesundheitsorientierten Kategorien von heute sofortige Differenzierung bietet.",
+    "quality_options": [
+      "IPM: Sichern Sie sich exklusiven Zugang zu unserem revolutionären Anbausystem des Integrierten Pflanzenschutzes, das ökologische Ansätze harmonisch mit minimalen Eingriffen ausbalanciert, was zu nachweislich saubereren, wirksameren Samen mit überlegenen bioaktiven Profilen führt.",
+      "Bio: Profitieren Sie von unseren zertifizierten 100%igen Bio-Praktiken, die alle synthetischen chemischen Einträge eliminieren und eine reine, kompromisslose Zutat schaffen, die die strengsten internationalen Zertifizierungsstandards erfüllt.",
+      "Konventionell: Nutzen Sie unseren präzisionsgesteuerten traditionellen Anbau mit sorgfältig überwachter Anwendung zugelassener Behandlungen, die konstant außergewöhnlichen Kalonji produzieren und gleichzeitig eine verantwortungsvolle landwirtschaftliche Führung gewährleisten, die die Glaubwürdigkeit der Marke stärkt."
+    ],
+    "container_capacity": [
+      "20 Fuß: 14 MT",
+      "40 Fuß: 27 MT"
+    ],
+    "specifications": [
+      "Typ: Premium ganze Kalonji-Samen mit garantierter Wirksamkeit und Reinheit",
+      "Farbe: Tiefe, glänzende schwarze Färbung, die optimale Reife und Ölgehalt anzeigt",
+      "Form: Perfekt geformte kleine, unregelmäßige Samen mit idealer Geschmacksverteilung",
+      "Größe: Präzise 1-2 mm (0,04-0,08 Zoll) Kalibrierung für konsistente Leistung",
+      "Geschmack: Unverwechselbares nussiges Profil mit perfekt ausbalancierten bitteren Noten",
+      "Aroma: Beeindruckendes scharfes, erdiges Bouquet, das authentische Qualität signalisiert",
+      "Verarbeitung: Fortschrittliche mehrstufige Reinigung und Präzisionssortiertechnologie",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Anforderungen zugeschnitten sind",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um die bioaktive Stabilität zu maximieren",
+      "Ölgehalt: Außergewöhnliche Konzentration von 30-40 % für überlegene therapeutische Wirksamkeit"
+    ],
+    "variety": [
+      "Premium Nigella sativa mit verifizierter Wirksamkeit und authentifiziertem botanischem Ursprung"
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unserem hochmodernen Labor einer umfassenden bioaktiven Profilierung unterzogen, um außergewöhnliche Wirksamkeit und therapeutische Konsistenz zu gewährleisten.",
+      "Verpackung: Es werden nur hochwertige Materialien mit Sauerstoffbarriere und Lichtschutz verwendet, die die kritischen bioaktiven Verbindungen während der gesamten verlängerten globalen Lieferketten bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die das Markenvertrauen in gewissenhaften Märkten stärken.",
+      "Regelmäßige Audits: Systematische Überprüfung durch umfassende Bewertungen durch Dritte gewährleistet eine fehlerfreie Einhaltung und identifiziert kontinuierliche Verbesserungsmöglichkeiten.",
+      "Geschultes Qualitätskontrollteam: Unsere spezialisierten botanischen Experten implementieren proprietäre Inspektionsprotokolle, um sicherzustellen, dass nur perfekter Kalonji unsere anspruchsvollen globalen Kunden erreicht.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Rahmenbedingungen für Naturprodukte und Kennzeichnungsanforderungen gewährleistet eine reibungslose behördliche Zulassung weltweit."
+    ]
+  },
+  {
+    "id": "11",
+    "hs_code": "09109931",
+    "category": "Gewürze",
+    "name": "Kardamom",
+    "harvest_season": "September bis Dezember",
+    "image": "images/products/spices/cardamom.jpg",
+    "features": [
+      "Revolutioniert den Verdauungskomfort durch leistungsstarke natürliche Verbindungen, die Magen-Darm-Beschwerden sofort lindern und so Wellness-bewussten Verbrauchern sofortigen Nutzen bieten.",
+      "Schafft außergewöhnliche Mundfrische durch sein unverwechselbares aromatisches Profil und bietet eine Doppelfunktion als kulinarisches Gewürz und natürlicher Atemerfrischer.",
+      "Schützt Zellen durch potente antioxidative Verbindungen, die messbaren Schutz vor oxidativem Stress bieten und starke gesundheitsorientierte Marketingansprüche ermöglichen.",
+      "Verbessert die Atemfunktion durch natürliche ätherische Öle, die die Atemwege öffnen und die Lungengesundheit unterstützen, und erfüllt so die wachsende Nachfrage nach natürlichen Wellness-Lösungen."
+    ],
+    "description": "Sichern Sie sich eine unbestreitbare Luxuspositionierung mit unserem exklusiven Premium-Kardamom, der in Indiens renommierten Hochland-Anbaugebieten in den grünen Hügeln von Kerala, Tamil Nadu und Karnataka sorgfältig angebaut wird. Anspruchsvolle Beschaffungsspezialisten erkennen an, dass unsere Elettaria cardamomum-Kapseln durch jahrhundertelange traditionelle Anbauexpertise in Kombination mit strengen Auswahlprotokollen eine unübertroffene sensorische Besonderheit liefern. Der außergewöhnliche Gehalt an flüchtigem Öl von 5-7 % – deutlich über dem Industriestandard – bietet sofortige aromatische Wirkung und therapeutische Wirksamkeit für Premium-Kulinarikanwendungen, Süßwaren, Getränke und Wellness-Formulierungen. Diese ikonische Zutat schafft durch ihr einzigartiges süß-herzhaftes Profil charakteristische Geschmackserlebnisse, die Produkte sofort über gewöhnliche Alternativen hinausheben. Vorausschauende internationale Käufer verstehen, dass unser Premium-Kardamom nicht nur einen Gewürzkauf darstellt, sondern eine transformative Zutat, die in den profitabelsten Premium-Produktkategorien von heute sofortige sensorische Differenzierung und Luxuspositionierung bietet.",
+    "quality_options": [
+      "Erleben Sie den außergewöhnlichen Unterschied unseres Gehalts an flüchtigem Öl von 5-7 % – der die Marktstandards deutlich übertrifft – und liefert unübertroffene aromatische Intensität und Geschmackswirkung in jeder Anwendung.",
+      "Profitieren Sie von unserer proprietären Reinigungs- und Präzisionssortiertechnologie, die ein perfektes optisches Erscheinungsbild und eine konsistente Kapselgröße für eine Premium-Präsentation und zuverlässige Leistung garantiert.",
+      "Vertrauen Sie auf unsere fortschrittlichen Verpackungssysteme in Lebensmittelqualität mit spezieller Aromaschutztechnologie, die die unverwechselbaren Duftstoffe während der gesamten verlängerten globalen Lieferketten bewahrt.",
+      "Verlassen Sie sich auf unsere umfassende Einhaltung der strengsten internationalen Qualitätsstandards und -vorschriften, die eine nahtlose Akzeptanz selbst in den anspruchsvollsten Luxusmärkten gewährleistet."
+    ],
+    "container_capacity": [
+      "20 Fuß: 8 MT",
+      "40 Fuß: 16 MT"
+    ],
+    "specifications": [
+      "Typ: Makellose ganze Kardamomkapseln mit verifizierter aromatischer Potenz",
+      "Farbe: Leuchtend grüner Farbton, der höchste Frische und optimale Ernte signalisiert",
+      "Form: Perfekt geformte kleine, unregelmäßige Kapseln mit konsistenten Samenkapseln",
+      "Größe: Präzise 5-9 mm (0,2-0,4 Zoll) Kalibrierung für garantierte Qualität",
+      "Geschmack: Unverwechselbares süß-herzhaftes Profil mit komplexer aromatischer Tiefe",
+      "Aroma: Einzigartig starke, aromatische Präsenz, die sofortige Wirkung erzeugt",
+      "Verarbeitung: Fortschrittliche Reinigungs- und mehrstufige Sortiertechnologie für perfekte Präsentation",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die genau auf Ihre Spezifikationen zugeschnitten sind",
+      "Feuchtigkeit: Wissenschaftlich auf unter 10 % kontrolliert, um flüchtige Verbindungen zu bewahren",
+      "Gehalt an flüchtigem Öl: Außergewöhnliche Konzentration von 5-7 % für überlegene sensorische Leistung"
+    ],
+    "variety": [
+      "Grüner Kardamom: Unsere Flaggschiff-Sorte mit brillanter smaragdgrüner Färbung und außergewöhnlicher aromatischer Komplexität, die von Premium-Weltmarken gesucht wird.",
+      "Schwarzer Kardamom: Unverwechselbare rauchige Sorte mit robustem Geschmacksprofil, ideal für charakteristische herzhafte Anwendungen und authentische ethnische Formulierungen."
+    ],
+    "quality_assurance": [
+      "Labortests: Jede Produktionscharge wird in unserem hochmodernen Labor einer umfassenden Analyse des Gehalts an flüchtigem Öl unterzogen, um außergewöhnliche aromatische Potenz und sensorische Konsistenz zu gewährleisten.",
+      "Verpackung: Es werden nur spezielle, aromadichte, dreilagige Schutzmaterialien verwendet, die die empfindlichen ätherischen Öle während der anspruchsvollsten globalen Lieferketten bewahren.",
+      "Transparenz der Lieferkette: Unser exklusives Modell der direkten Beschaffung vom Bauernhof garantiert vollständige Rückverfolgbarkeit mit zertifizierten Fair-Trade-Praktiken, die die Markenpositionierung in Premium-Märkten verbessern.",
+      "Regelmäßige Audits: Systematische Überprüfung durch umfassende Bewertungen durch Dritte gewährleistet eine fehlerfreie Einhaltung und hebt kontinuierlich die Qualitätsstandards an.",
+      "Geschultes Qualitätskontrollteam: Unsere spezialisierten Experten für aromatische Gewürze implementieren proprietäre multisensorische Inspektionsprotokolle, um sicherzustellen, dass nur perfekter Kardamom unsere anspruchsvollsten globalen Kunden erreicht.",
+      "Einhaltung von Vorschriften: Absolute Einhaltung aller relevanten internationalen Rahmenbedingungen und Kennzeichnungsanforderungen der Gewürzindustrie gewährleistet eine reibungslose behördliche Zulassung in jedem Zielmarkt."
+    ]
+  },
+  {
+    "id": "12",
+    "hs_code": "0910",
+    "category": "Gewürze",
+    "name": "Bockshornkleesamen",
+    "image": "images/products/spices/fenugreek_seed.jpg",
+    "harvest_season": "Oktober bis Februar",
+    "features": [
+      "Potente entzündungshemmende Eigenschaften, die das allgemeine Wohlbefinden und die Gelenkgesundheit fördern",
+      "Überlegenes Verdauungshilfsmittel, das die Nährstoffaufnahme und das Gleichgewicht des Darmmikrobioms verbessert",
+      "Klinisch erwiesen zur Unterstützung ausgeglichener Blutzuckerspiegel und der Stoffwechselgesundheit",
+      "Außergewöhnlicher Protein- und Ballaststoffgehalt, der die meisten vergleichbaren Samen übertrifft"
+    ],
+    "description": "Unsere Premium-Bockshornkleesamen stellen die feinste Ernte aus Indiens legendären Gewürzanbaugebieten Gujarat, Maharashtra und Madhya Pradesh dar. Während der optimalen Wintersaison (Oktober bis Februar) angebaut, profitieren unsere Samen von Indiens Position als weltweit führender Bockshornkleeproduzent. Abgeleitet von der makellosen Pflanze Trigonella foenum-graecum, verkörpern diese Samen Jahrhunderte traditioneller medizinischer Weisheit und kulinarischer Exzellenz. Ihre bemerkenswerten entzündungshemmenden Eigenschaften, verdauungsfördernden Fähigkeiten und Blutzucker regulierenden Vorteile machen sie zu einem Eckpfeiler für anspruchsvolle globale Käufer. Mit beeindruckend hohem Protein- und Ballaststoffgehalt liefern unsere Bockshornkleesamen in Exportqualität außergewöhnlichen Wert für vielfältige Anwendungen – von Gourmetküche und funktionellen Lebensmitteln bis hin zu pharmazeutischen Formulierungen und Premium-Tiernahrungsergänzungsmitteln.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Umweltverträglicher Anbau, der eine optimale Schädlingsbekämpfung bei minimaler ökologischer Auswirkung gewährleistet",
+      "Bio: Zertifizierte Produktionsmethoden frei von synthetischen Zusätzen, die sich an bewusste Verbraucher weltweit richten",
+      "Konventionell: Traditioneller Anbau, der gleichbleibende Qualität und wettbewerbsfähige Preise liefert"
+    ],
+    "container_capacity": [
+      "20 Fuß: 13 MT Premiumprodukt mit optimaler Raumausnutzung",
+      "40 Fuß: 27 MT, die wirtschaftliche Massengutversandlösungen gewährleisten"
+    ],
+    "specifications": [
+      "Typ: Makellose ganze Bockshornkleesamen mit gleichbleibender Qualität",
+      "Farbe: Sattes Gelbbraun, das perfekte Reife anzeigt",
+      "Form: Unverwechselbare kleine, unregelmäßige Form, charakteristisch für Premiumqualität",
+      "Größe: Präzise 2-3 mm (0,08-0,12 Zoll) für optimale kulinarische und industrielle Anwendungen",
+      "Geschmack: Angenehm bitter mit subtilen süßen Untertönen, die die kulinarische Komplexität verbessern",
+      "Aroma: Unverwechselbares nussiges und erdiges Bouquet, das Authentizität bedeutet",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Sortierung für unübertroffene Reinheit",
+      "Verpackung: Flexible Verpackungslösungen, die auf Ihre spezifischen Anforderungen zugeschnitten sind",
+      "Feuchtigkeit: Sorgfältig unter 10 % kontrolliert, um maximale Haltbarkeit zu gewährleisten",
+      "Proteingehalt: Außergewöhnliche Proteinkonzentration von 20-25 % für überlegenen Nährwert"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests: Hochmoderne Laboranalysen garantieren gleichbleibende Qualitäts- und Reinheitsstandards",
+      "Verpackung: Premium-Materialien in Lebensmittelqualität, die speziell entwickelt wurden, um Aroma und Frische während des globalen Transports zu bewahren",
+      "Transparenz der Lieferkette: Umfassende Dokumentation vom Bauernhof bis zum Hafen mit direkter Beschaffung und verifizierter Fair-Trade-Zertifizierung",
+      "Regelmäßige Audits: Systematische Überwachung der Qualitätskonformität, die kontinuierliche Verbesserung und gleichbleibende Exzellenz gewährleistet",
+      "Geschultes Qualitätskontrollteam: Fachspezialisten, die in jeder Produktionsphase strenge Inspektionen durchführen",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsprotokolle und länderspezifischer Kennzeichnungsanforderungen"
+    ]
+  },
+  {
+    "id": "13",
+    "hs_code": "09109914",
+    "category": "Gewürze",
+    "name": "Ajwain",
+    "image": "images/products/spices/ajwain.png",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Revolutionärer Verdauungskatalysator, der die Darmgesundheit transformiert und die Nährstoffaufnahme verbessert",
+      "Leistungsstarkes natürliches Heilmittel, das sich gegen saisonale Atemwegserkrankungen als wirksam erwiesen hat",
+      "Außergewöhnlicher Stärker des Immunsystems mit natürlichen antimikrobiellen Eigenschaften",
+      "Potentes entzündungshemmendes Mittel, das ganzheitliches Wohlbefinden fördert"
+    ],
+    "description": "Unser Ajwain (Königskümmelsamen) in Exportqualität stellt den krönenden Abschluss der indischen Sommerernte (Juni bis September) dar und wird ausschließlich aus den Hauptanbaugebieten Gujarat, Maharashtra und Madhya Pradesh bezogen. Als einer der weltweit bedeutendsten Ajwain-Produzenten bietet Indien das ideale Terroir für die Entwicklung dieser außergewöhnlichen Trachyspermum ammi-Samen. Seit Jahrhunderten in ayurvedischen Traditionen geschätzt, liefert unser Ajwain unübertroffene therapeutische Vorteile – revolutioniert die Verdauungsgesundheit, bietet überlegene Linderung der Atemwege und stärkt die Immunfunktion durch seine natürlichen antimikrobiellen Eigenschaften. Mit einer beeindruckenden Konzentration an ätherischem Öl von 2-4 % übertrifft unser Premium-Ajwain Industriestandards und bietet außergewöhnliche Vielseitigkeit für kulinarische Anwendungen, pharmazeutische Formulierungen und therapeutische Aromatherapie. Wählen Sie unseren Ajwain, um Ihre Produktangebote mit authentischer indischer Qualität zu verbessern, die anspruchsvolle globale Verbraucher fordern.",
+    "quality_options": [],
+    "container_capacity": [
+      "20 Fuß: 13,5 MT, die optimale Logistikeffizienz bieten",
+      "40 Fuß: 27 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Typ: Premium ganze Ajwain-Samen mit unübertroffener Reinheit",
+      "Farbe: Sattes Braun bis unverwechselbares Grau-Braun, das perfekte Reife anzeigt",
+      "Form: Charakteristische kleine, unregelmäßige Form von authentischem Ajwain",
+      "Größe: Konsistente 1-2 mm (0,04-0,08 Zoll) für ideale Geschmacksfreisetzung",
+      "Geschmack: Kräftig scharf mit perfekt ausbalancierten bitteren Noten, die kulinarische Anwendungen verbessern",
+      "Aroma: Kräftiges, erdiges Bouquet mit unverwechselbaren Thymol-Noten",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisionssortierung für überlegene Qualität",
+      "Verpackung: Anpassbare Verpackungslösungen, die spezifische Marktanforderungen erfüllen",
+      "Feuchtigkeit: Sorgfältig unter 10 % gehalten, um eine verlängerte Lagerstabilität zu gewährleisten",
+      "Gehalt an ätherischem Öl: Außergewöhnliche Konzentration von 2-4 %, die überlegenen Geschmack und therapeutische Vorteile garantiert"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests: Umfassende Analysen in unserem hochmodernen Labor gewährleisten die Einhaltung der strengsten internationalen Qualitätsparameter",
+      "Verpackung: Überlegene Materialien in Lebensmittelqualität, die speziell entwickelt wurden, um die unverwechselbare Frische und das aromatische Profil während des globalen Transports zu bewahren",
+      "Transparenz der Lieferkette: Direkte Partnerschaften mit Landwirten mit vollständiger Dokumentation, die ethische Beschaffung und authentische Fair-Trade-Zertifizierung gewährleisten",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfungsprotokolle mit kontinuierlicher Überwachung zur Aufrechterhaltung kompromissloser Exzellenz",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Fachleute, die sorgfältige mehrstufige Inspektionen durchführen, um sicherzustellen, dass nur Premiumprodukte internationale Märkte erreichen",
+      "Einhaltung von Vorschriften: Umfassende Einhaltung globaler Lebensmittelsicherheitsstandards und marktspezifischer Kennzeichnungsanforderungen"
+    ]
+  },
+  {
+    "id": "14",
+    "hs_code": "12079990",
+    "category": "Gewürze",
+    "name": "Chiasamen",
+    "image": "images/products/spices/chia_seed.jpg",
+    "harvest_season": "Juni bis September",
+    "features": [
+      "Außergewöhnliche Konzentration an Omega-3-Fettsäuren, die das kardiovaskuläre Wohlbefinden unterstützt und Entzündungen reduziert",
+      "Überlegener Ballaststoffgehalt, der die Verdauungsgesundheit revolutioniert und Gewichtsmanagementprogramme verbessert",
+      "Vollständiges Proteinprofil mit antioxidantienreicher Formulierung für umfassende ernährungsphysiologische Vorteile",
+      "Unübertroffene Vielseitigkeit für Premium-Anwendungen in Bäckereien, Getränken und Nutrazeutika-Formulierungen"
+    ],
+    "description": "Unsere Chiasamen in Exportqualität stellen den Höhepunkt der indischen Sommerernte (Juni bis September) dar und werden in den fruchtbaren Kernländern von Gujarat, Maharashtra und Madhya Pradesh angebaut. Als führender globaler Produzent von Premium-Chia bietet Indien die perfekten Wachstumsbedingungen für diese außergewöhnlichen Salvia hispanica-Samen. Unsere Chiasamen liefern ein beispielloses Nährwertprofil – mit bemerkenswerten Konzentrationen an essentiellen Ballaststoffen, vollständigem Protein, Omega-3-Fettsäuren und leistungsstarken Antioxidantien. Dieses Nährstoffkraftpaket verbessert jede Produktlinie durch außergewöhnliche Funktionalität und Marktfähigkeit für vielfältige Anwendungen – von handwerklichem Backen und Premium-Getränkeformulierungen bis hin zu hochmodernen Nahrungsergänzungsmitteln, die bei gesundheitsbewussten Verbrauchern weltweit Anklang finden. Partnern Sie mit uns, um Zugang zu Indiens feinsten Chiasamen zu erhalten und Ihre Marke im wettbewerbsintensiven globalen Superfood-Markt zu differenzieren.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Fortschrittlicher umweltbewusster Anbau, der eine außergewöhnliche Erntequalität gewährleistet und gleichzeitig das ökologische Gleichgewicht bewahrt",
+      "Bio: Zertifizierter Anbau ohne synthetische Chemikalien, der die strengsten internationalen Bio-Standards erfüllt",
+      "Konventionell: Traditionelle Anbaumethoden mit sorgfältigem Input-Management, das gleichbleibende Qualität und wettbewerbsfähige Preise gewährleistet"
+    ],
+    "container_capacity": [
+      "20 Fuß: 18 MT, die optimale Effizienz beim Massengutversand bieten"
+    ],
+    "specifications": [
+      "Typ: Premium ganze Chiasamen mit außergewöhnlichen Reinheitsstandards",
+      "Farbe: Perfektes Grau-Braun bis Schwarz, das optimale Reife und Nährstoffdichte anzeigt",
+      "Form: Klassische ovale Bildung, charakteristisch für hochwertigste Chia",
+      "Größe: Einheitlich 1-2 mm (0,04-0,08 Zoll) für konsistente Leistung in allen Anwendungen",
+      "Protein: Überlegene Konzentration von 15-20 % für verbesserten Nährwert",
+      "Ballaststoffe: Außergewöhnlicher Gehalt von 30-40 %, der Ansprüche an die Verdauungs- und Stoffwechselgesundheit unterstützt",
+      "Omega-3-Fettsäuren: Premium-Profil von 20-30 %, das hervorragende Vorteile für die Herzgesundheit bietet",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisionssortierung gewährleisten unübertroffene Reinheit",
+      "Verpackung: Anpassbare Verpackungslösungen, die für Ihre spezifischen Marktanforderungen entwickelt wurden",
+      "Feuchtigkeit: Wissenschaftlich unter 10 % gehalten für maximale Lagerstabilität",
+      "Verunreinigungen: Garantiert weniger als 1 % für pharmazeutische Qualität"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests: Umfassende Analysen in fortschrittlichen Labors gewährleisten die konsequente Einhaltung internationaler Qualitätsmaßstäbe",
+      "Verpackung: Premium-Materialien in Lebensmittelqualität, die speziell entwickelt wurden, um die Nährwertintegrität und Frische während des globalen Transports zu bewahren",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit direkten Partnerschaften mit Landwirten, die ethische Beschaffung und authentische Rückverfolgbarkeit gewährleisten",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfungsprotokolle mit kontinuierlicher Überwachung zur Aufrechterhaltung kompromissloser Exzellenz",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die mehrstufige Inspektionen durchführen, um sicherzustellen, dass nur Premiumprodukte globale Märkte erreichen",
+      "Einhaltung von Vorschriften: Umfassende Einhaltung internationaler Sicherheitsprotokolle und marktspezifischer Kennzeichnungsanforderungen"
+    ]
+  },
+  {
+    "id": "15",
+    "hs_code": "09109911",
+    "category": "Gewürze",
+    "name": "Selleriesamen",
+    "image": "images/products/spices/celery_seed.jpg",
+    "harvest_season": "Oktober bis Februar",
+    "features": [
+      "Leistungsstarkes natürliches entzündungshemmendes Mittel, das auf mehrere Entzündungswege abzielt",
+      "Überlegener Verdauungskatalysator, der das Gleichgewicht des Darmmikrobioms und die Nährstoffaufnahme verbessert",
+      "Fortgeschrittene Unterstützung des Immunsystems mit breitspektralen antimikrobiellen Eigenschaften",
+      "Außergewöhnliches Profil an ätherischem Öl und Antioxidantien, das Industriestandards übertrifft"
+    ],
+    "description": "Unsere Premium-Selleriesamen stellen die feinste Winterernte (Oktober bis Februar) aus Indiens renommierten Anbaugebieten Gujarat, Maharashtra und Madhya Pradesh dar. Als weltweit führendes Unternehmen in der Selleriesamenproduktion bietet Indien das ideale Klima für die Entwicklung dieser außergewöhnlichen Apium graveolens-Samen. Jahrhunderte traditioneller medizinischer Anwendung haben bestätigt, was moderne Forschung bestätigt – unsere Selleriesamen bieten bemerkenswerte entzündungshemmende Vorteile, überlegene Verdauungsförderung und umfassende Immununterstützung. Mit einer beeindruckenden Konzentration an ätherischem Öl von 1-3 % übertrifft unser Produkt in Exportqualität internationale Qualitätsmaßstäbe und bietet außergewöhnliche Vielseitigkeit für kulinarische Anwendungen, pharmazeutische Formulierungen und Aromatherapie-Lösungen. Partnern Sie mit uns, um Zugang zu Indiens feinsten Selleriesamen zu erhalten und Ihre Produktangebote mit authentischer Qualität zu verbessern, die anspruchsvolle globale Verbraucher fordern.",
+    "quality_options": [
+      "IPM (Integrierter Pflanzenschutz): Fortschrittlicher ökologischer Anbau, der Premiumqualität bei minimaler Umweltbelastung gewährleistet",
+      "Bio: Zertifizierte Produktionsmethoden, die Freiheit von synthetischen Chemikalien garantieren",
+      "Konventionell: Traditioneller Anbau, der gleichbleibende Qualität und wettbewerbsfähige Preise liefert"
+    ],
+    "container_capacity": [
+      "20 Fuß: 13 MT, die optimale Logistikeffizienz bieten",
+      "40 Fuß: 27 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Typ: Premium ganze Selleriesamen mit außergewöhnlicher Reinheit",
+      "Farbe: Sattes Braun bis perfektes Hellbraun, das optimale Erntezeit anzeigt",
+      "Form: Charakteristische kleine, unregelmäßige Form von authentischem Selleriesamen",
+      "Größe: Konsistente 0,5-1 mm (0,02-0,04 Zoll) für ideale Geschmacksfreisetzung",
+      "Geschmack: Perfekt warm mit ausgewogenen bitteren Noten, die die kulinarische Tiefe verbessern",
+      "Aroma: Lebendiges, kräuteriges Bouquet mit unverwechselbaren frischen Noten",
+      "Verarbeitung: Fortschrittliche Maschinenreinigung und Präzisionssortierung für überlegene Qualität",
+      "Verpackung: Maßgeschneiderte Verpackungslösungen, die spezifische Marktanforderungen erfüllen",
+      "Feuchtigkeit: Wissenschaftlich unter 10 % gehalten, um eine verlängerte Lagerstabilität zu gewährleisten",
+      "Gehalt an ätherischem Öl: Premium-Konzentration von 1-3 %, die überlegenen Geschmack und therapeutische Vorteile garantiert"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Labortests in hochmodernen Einrichtungen mit umfassenden analytischen Protokollen gewährleisten konsistente Qualitätsmaßstäbe",
+      "Verwendung von hochwertigen Verpackungsmaterialien in Lebensmittelqualität, die speziell entwickelt wurden, um aromatische Verbindungen zu bewahren und die Haltbarkeit zu verlängern",
+      "Transparenz der Lieferkette mit vollständiger Dokumentation vom Bauernhof bis zum Export und direkten Partnerschaften mit Landwirten",
+      "Regelmäßige Audits durch unabhängige Qualitätssicherungsexperten gewährleisten eine kontinuierliche Verbesserung der Einhaltung",
+      "Geschultes Qualitätskontrollteam, das strenge mehrstufige Inspektionsprotokolle implementiert",
+      "Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "16",
+    "hs_code": "0907",
+    "category": "Gewürze",
+    "name": "Nelken",
+    "image": "images/products/spices/clove.jpg",
+    "harvest_season": "September bis Januar",
+    "features": [
+      "Außergewöhnliche Antioxidantienkonzentration, die eine überlegene Immunfunktion und Zellschutz fördert",
+      "Leistungsstarke natürliche analgetische Eigenschaften, die sie für Mundpflegeformulierungen unverzichtbar machen",
+      "Unverwechselbares aromatisches Profil, das kulinarische Kreationen und Premium-Getränke verwandelt",
+      "Potente antimikrobielle und entzündungshemmende Verbindungen mit breiten therapeutischen Anwendungen"
+    ],
+    "description": "Unsere Premium-Nelken stellen den Höhepunkt der Qualität aus den weltweit besten Anbaugebieten in Indien und Madagaskar dar, wo ideale klimatische Bedingungen und fachkundige Anbautechniken kombiniert werden, um diese außergewöhnlichen getrockneten Blütenknospen von Syzygium aromaticum zu produzieren. Ursprünglich auf den Maluku-Inseln Indonesiens beheimatet, liefern unsere sorgfältig ausgewählten Nelken eine Intensität von Geschmack und Aroma, die wirklich überlegene Produkte auszeichnet. Die bemerkenswerte Potenz unserer Nelken in Exportqualität macht sie in mehreren Branchen unverzichtbar – von Gourmet-Kulinarikanwendungen und Premium-Getränkeformulierungen bis hin zu pharmazeutischen Präparaten und therapeutischen Aromatherapie-Lösungen. Wählen Sie unsere Nelken, um Zugang zu unvergleichlicher Qualität zu erhalten, die Ihre Produktangebote aufwertet und die Anforderungen der anspruchsvollsten globalen Märkte erfüllt.",
+    "quality_options": [
+      "Bio: Unter strengen zertifizierten Bio-Protokollen angebaut, vollständig frei von synthetischen Chemikalien und Pestiziden, erfüllt die höchsten internationalen Standards",
+      "Konventionell: Nach traditionellen Methoden angebaut mit sorgfältig überwachten landwirtschaftlichen Inputs, die gleichbleibende Qualität und wettbewerbsfähige Marktpositionierung gewährleisten"
+    ],
+    "container_capacity": [
+      "20 Fuß: 11 MT mit optimaler Ladekonfiguration für Produktintegrität",
+      "40 Fuß: 22 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Makellose ganze Nelken mit satter brauner Färbung und perfekter Knospenbildung, die optimale Erntezeit anzeigen",
+      "Geschmack und Aroma: Außergewöhnlich starkes, scharfes Profil mit ausgewogenen warmen Noten, die Premiumqualität bedeuten",
+      "Feuchtigkeit: Wissenschaftlich unter 10 % kontrolliert, um maximale Lagerstabilität und Wirksamkeitserhaltung zu gewährleisten",
+      "Gehalt an flüchtigem Öl: Überlegene Konzentration von 15-20 %, die Industriestandards für Geschmacksintensität und therapeutische Wirksamkeit übertrifft",
+      "Verpackungsoptionen: Anpassbare Lösungen, die entwickelt wurden, um aromatische Verbindungen während des internationalen Transports zu bewahren"
+    ],
+    "variety": [
+      "Indonesische Nelken: Weltbekannt für außergewöhnliche Qualität und unübertroffene Geschmacksintensität, sorgfältig ausgewählt aus der historischen Produktion der Maluku-Inseln",
+      "Madagassische Nelken: Ausgezeichnet durch ihr einzigartiges aromatisches Profil und ihre gleichbleibende Qualität aus Madagaskars idealen Anbaubedingungen",
+      "Indische Nelken: Premium-Auswahl aus Kerala und Tamil Nadu mit überlegenem Gehalt an ätherischem Öl und unverwechselbaren Geschmackseigenschaften"
+    ],
+    "quality_assurance": [
+      "Labortests: Umfassende analytische Protokolle in fortschrittlichen Labors gewährleisten die konsequente Einhaltung der strengsten internationalen Qualitätsparameter",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit verifizierter Fair-Trade-Zertifizierung und ethischen Beschaffungspraktiken",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfung gewährleistet kontinuierliche Überwachung und Verbesserung in allen Produktionsphasen",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die mehrstufige Inspektionsprotokolle implementieren, um sicherzustellen, dass nur Premiumprodukte globale Märkte erreichen",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "17",
+    "hs_code": "0910",
+    "category": "Gewürze",
+    "name": "Sternanis",
+    "image": "images/products/spices/star_anise.jpg",
+    "harvest_season": "Februar bis September",
+    "features": [
+      "Außergewöhnliches Antioxidantienprofil, das umfassenden Zellschutz und Anti-Aging-Vorteile bietet",
+      "Überlegene verdauungsfördernde Eigenschaften, die Beschwerden lindern und die Nährstoffaufnahme optimieren",
+      "Potente natürliche antimikrobielle Verbindungen, die eine breitspektrale Immununterstützung bieten",
+      "Unverwechselbares süßes, lakritzartiges Geschmacksprofil, das kulinarische Kreationen und Backanwendungen aufwertet"
+    ],
+    "description": "Unser Premium-Sternanis stellt die feinste Auswahl aus Chinas und Indiens angesehensten Anbaugebieten dar und wird sorgfältig zum optimalen Reifezeitpunkt geerntet, um außergewöhnliche Qualität zu gewährleisten. Diese unverwechselbaren sternförmigen Früchte des Illicium verum-Baumes stammen aus Chinas und Südostasiens idealen Anbauumgebungen. Unser Sternanis in Exportqualität liefert ein unverwechselbares süßes, lakritzartiges Geschmacksprofil, das kulinarische Anwendungen von einfach bis außergewöhnlich verwandelt. Über seine kulinarische Vielseitigkeit hinaus bietet dieses bemerkenswerte Gewürz beeindruckende therapeutische Vorteile, die es in mehreren Branchen unverzichtbar machen – von der Gourmet-Lebensmittelproduktion und der handwerklichen Getränkeformulierung bis hin zu pharmazeutischen Präparaten und traditionellen medizinischen Anwendungen. Partnern Sie mit uns, um Zugang zu Weltklasse-Sternanis zu erhalten, der Ihre Produkte in wettbewerbsintensiven globalen Märkten hervorheben wird.",
+    "quality_options": [
+      "Bio: Unter strengen zertifizierten Bio-Protokollen angebaut, vollständig frei von synthetischen Pestiziden, Herbiziden und Düngemitteln, erfüllt die höchsten internationalen Standards",
+      "Konventionell: Nach traditionellen Methoden angebaut mit sorgfältig überwachten landwirtschaftlichen Inputs, die gleichbleibende Qualität und wettbewerbsfähige Marktpositionierung gewährleisten"
+    ],
+    "container_capacity": [
+      "20 Fuß: 10 MT mit optimaler Ladekonfiguration zur Aufrechterhaltung der Produktintegrität",
+      "40 Fuß: 20 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Perfekte ganze Sternanisfrüchte mit satter brauner Färbung und unverwechselbarer Sternform, die optimale Reife anzeigen",
+      "Geschmack und Aroma: Außergewöhnliches süßes, lakritzartiges Profil mit ausgewogenen aromatischen Noten, die Premiumqualität bedeuten",
+      "Feuchtigkeit: Wissenschaftlich unter 10 % gehalten, um maximale Lagerstabilität und Geschmackserhaltung zu gewährleisten",
+      "Gehalt an flüchtigem Öl: Überlegene Konzentration von 5-7 %, die Industriestandards für Geschmacksintensität und therapeutische Wirksamkeit übertrifft",
+      "Verpackungsoptionen: Anpassbare Lösungen, die entwickelt wurden, um zerbrechliche Sternstrukturen während des internationalen Transports zu bewahren"
+    ],
+    "variety": [
+      "Chinesischer Sternanis: Weltbekannt für unübertroffene Qualität und unverwechselbares Geschmacksprofil, sorgfältig ausgewählt aus den Premium-Ernten der Provinzen Guangdong und Guangxi",
+      "Indischer Sternanis: Ausgezeichnet durch außergewöhnliche Süße und perfekt ausbalancierte Lakritznoten, bezogen aus den spezialisierten Anbaugebieten von Kerala und Tamil Nadu"
+    ],
+    "quality_assurance": [
+      "Labortests: Umfassende analytische Protokolle in hochmodernen Labors gewährleisten die konsequente Einhaltung der strengsten internationalen Qualitätsparameter",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit direkten Partnerschaften mit Landwirten, die ethische Beschaffung und authentische Rückverfolgbarkeit gewährleisten",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfungsprotokolle gewährleisten kontinuierliche Überwachung und Verbesserung in allen Produktionsphasen",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die mehrstufige Inspektionsprotokolle implementieren, um sicherzustellen, dass nur Premiumprodukte globale Märkte erreichen",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "18",
+    "hs_code": "0908",
+    "category": "Gewürze",
+    "name": "Muskatnuss",
+    "image": "images/products/spices/nutmeg.jpg",
+    "harvest_season": "Juni-August",
+    "features": [
+      "Leistungsstarkes immunstärkendes Antioxidantienprofil, das natürliche Abwehrsysteme stärkt",
+      "Überlegener Verdauungskatalysator, der Blähungen beseitigt und die Magen-Darm-Funktion optimiert",
+      "Potente entzündungshemmende Verbindungen, die auf Gelenkbeschwerden und chronische Entzündungen abzielen",
+      "Natürliche angstlösende Eigenschaften, die geistige Klarheit und Stressreduktion fördern"
+    ],
+    "description": "Unsere Premium-Muskatnuss stellt die feinste Auswahl von Indonesiens legendären Gewürzinseln dar, wo ideale Wachstumsbedingungen die weltweit außergewöhnlichsten Myristica fragrans-Samen hervorbringen. Ursprünglich auf den historischen Banda-Inseln beheimatet, liefert unsere sorgfältig ausgewählte Muskatnuss eine Intensität von warmem, leicht süßlichem Geschmack und Aroma, die wirklich überlegene Produkte auszeichnet. Die bemerkenswerte Vielseitigkeit unserer Muskatnuss in Exportqualität macht sie in mehreren Branchen unverzichtbar – von Gourmet-Kulinarikanwendungen und Premium-Backwaren bis hin zu therapeutischen Aromatherapie-Formulierungen und traditionellen medizinischen Präparaten. Partnern Sie mit uns, um Zugang zu Indonesiens feinster Muskatnuss zu erhalten, die Ihre Produktangebote aufwertet und die Erwartungen der anspruchsvollsten globalen Märkte erfüllt.",
+    "quality_options": [
+      "Bio: Unter strengen zertifizierten Bio-Protokollen angebaut, vollständig frei von synthetischen Chemikalien und Pestiziden, erfüllt die höchsten internationalen Standards",
+      "Konventionell: Nach traditionellen Methoden angebaut mit sorgfältig überwachten landwirtschaftlichen Inputs, die gleichbleibende Qualität und wettbewerbsfähige Marktpositionierung gewährleisten"
+    ],
+    "container_capacity": [
+      "20 Fuß: 13 MT mit optimaler Ladekonfiguration für Produktintegrität",
+      "40 Fuß: 27 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Perfekte ganze Muskatnusssamen mit satter brauner Färbung und konsistenter ovaler Form, die optimale Reife anzeigen",
+      "Geschmack und Aroma: Außergewöhnliches warmes, leicht süßliches Profil mit ausgewogenen aromatischen Noten, die Premiumqualität bedeuten",
+      "Feuchtigkeit: Wissenschaftlich unter 10 % kontrolliert, um maximale Lagerstabilität und Wirksamkeitserhaltung zu gewährleisten",
+      "Gehalt an flüchtigem Öl: Überlegene Konzentration von 7-12 %, die Industriestandards für Geschmacksintensität und therapeutische Wirksamkeit übertrifft",
+      "Verpackungsoptionen: Anpassbare Lösungen, die entwickelt wurden, um aromatische Verbindungen während des internationalen Transports zu bewahren"
+    ],
+    "variety": [
+      "Indonesische Muskatnuss: Weltbekannt für unübertroffene Qualität und unverwechselbares Geschmacksprofil, sorgfältig ausgewählt aus Sumatras Premium-Produktionsregionen",
+      "Indische Muskatnuss: Ausgezeichnet durch außergewöhnliche Wärme und perfekt ausbalancierte süße Noten, bezogen aus Keralas spezialisierten Anbaugebieten"
+    ],
+    "quality_assurance": [
+      "Labortests: Umfassende analytische Protokolle in hochmodernen Einrichtungen gewährleisten die konsequente Einhaltung der strengsten internationalen Qualitätsparameter",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit direkten Partnerschaften mit Landwirten, die ethische Beschaffung und authentische Rückverfolgbarkeit gewährleisten",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfung gewährleistet kontinuierliche Überwachung und Verbesserung in allen Produktionsphasen",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die mehrstufige Inspektionsprotokolle implementieren, um sicherzustellen, dass nur Premiumprodukte globale Märkte erreichen",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "19",
+    "hs_code": "090611",
+    "category": "Gewürze",
+    "name": "Zimt",
+    "image": "images/products/spices/cinnamon.jpg",
+    "harvest_season": "Mai, September bis November",
+    "features": [
+      "Außergewöhnliches warmes, süßes Geschmacksprofil, das gewöhnliche Rezepte in Premium-Kreationen verwandelt",
+      "Vielseitiges Anwendungspotenzial in süßen und herzhaften kulinarischen Traditionen weltweit",
+      "Ausschließlich aus Sri Lankas und Indonesiens besten Anbaugebieten für unübertroffene Qualität bezogen",
+      "Erhältlich in zertifizierten Bio- und Premium-konventionellen Sorten, um vielfältige Marktanforderungen zu erfüllen"
+    ],
+    "description": "Unsere Premium-Zimtstangen stellen den Höhepunkt der Qualität aus Sri Lankas und Indonesiens angesehensten Anbaugebieten dar, wo Generationen von Fachwissen die weltweit feinste Cinnamomum verum-Rinde produzieren. Ursprünglich in Sri Lanka beheimatet, liefert unser sorgfältig geernteter Zimt ein unvergleichliches warmes, süßes und würziges Profil, das wirklich außergewöhnliche Produkte definiert. Die bemerkenswerte Vielseitigkeit unseres Zimts in Exportqualität macht ihn in mehreren Branchen unverzichtbar – von handwerklichem Backen und Gourmetküche bis hin zu traditionellen medizinischen Formulierungen und Premium-Getränkeentwicklung. Wählen Sie unseren Zimt, um Zugang zu unvergleichlicher Qualität zu erhalten, die Ihre Produktangebote aufwertet und die Erwartungen der anspruchsvollsten globalen Märkte erfüllt.",
+    "quality_options": [
+      "Bio: Unter strengen zertifizierten Bio-Protokollen angebaut, vollständig frei von synthetischen Chemikalien, erfüllt die höchsten internationalen Standards",
+      "Konventionell: Nach traditionellen Methoden angebaut mit sorgfältig überwachten landwirtschaftlichen Inputs, die gleichbleibende Qualität und wettbewerbsfähige Preise gewährleisten"
+    ],
+    "container_capacity": [
+      "20-Fuß-Container: 7 MT mit spezieller Ladekonfiguration zur Aufrechterhaltung der Stangenintegrität",
+      "40-Fuß-Container: 14 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Perfekte ganze Zimtstangen mit satter brauner Färbung und präziser zylindrischer Form",
+      "Größe: Premium-Auswahl im Bereich von 10-20 cm Länge und 2-3 cm Durchmesser für gleichbleibende Qualität",
+      "Geschmack und Aroma: Außergewöhnliches warmes, süßes und würziges Profil mit ausgewogener Komplexität, das eine überlegene Güteklasse bedeutet",
+      "Feuchtigkeit: Wissenschaftlich unter 13 % kontrolliert, um maximale Lagerstabilität und Geschmackserhaltung zu gewährleisten",
+      "Verpackungsoptionen: Anpassbare Lösungen, die entwickelt wurden, um empfindliche Quills während des internationalen Transports zu schützen"
+    ],
+    "variety": [
+      "Ceylon-Zimt: Der wahre Zimt für Kenner, weltweit bekannt für seinen zarten Geschmack und seine unverwechselbare Qualität, exklusiv aus Sri Lankas führenden Anbaugebieten",
+      "Indonesischer Zimt: Ausgezeichnet durch außergewöhnliche Wärme und perfekt ausbalancierte süße Noten, sorgfältig ausgewählt aus Sumatras spezialisierten Produktionsgebieten"
+    ],
+    "quality_assurance": [
+      "Labortests: Umfassende analytische Protokolle in hochmodernen Einrichtungen gewährleisten die konsequente Einhaltung der strengsten internationalen Qualitätsparameter",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit direkten Partnerschaften mit Landwirten, die ethische Beschaffung und authentische Rückverfolgbarkeit gewährleisten",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfung gewährleistet kontinuierliche Überwachung und Verbesserung in allen Produktionsphasen",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die mehrstufige Inspektionsprotokolle implementieren, um sicherzustellen, dass nur Premiumprodukte globale Märkte erreichen",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "20",
+    "hs_code": "1204",
+    "category": "Gewürze",
+    "name": "Leinsamen",
+    "image": "images/products/spices/flax_seed.jpg",
+    "harvest_season": "Februar und März",
+    "features": [
+      "Außergewöhnliches Omega-3-Fettsäureprofil, das eine überlegene kardiovaskuläre Gesundheit fördert und Entzündungen reduziert",
+      "Premium-Ballaststoffgehalt, der das Verdauungswohl revolutioniert und Gewichtsmanagementprogramme unterstützt",
+      "Unübertroffene Vielseitigkeit für Premium-Lebensmittelformulierungen, spezialisierte Tierernährung und industrielle Anwendungen",
+      "Erhältlich in zertifizierten Bio- und Premium-konventionellen Sorten, um vielfältige Marktanforderungen zu erfüllen"
+    ],
+    "description": "Unsere Premium-Leinsamen stellen die feinste Ernte aus Indiens spezialisierten Anbaugebieten Madhya Pradesh und Rajasthan dar, wo ideale klimatische Bedingungen eine außergewöhnliche Qualität hervorbringen. Diese ernährungsphysiologisch überlegenen Ölsaaten liefern ein beeindruckendes Profil an Omega-3-Fettsäuren, Ballaststoffen und pflanzlichem Protein, das wirklich Premiumprodukte auszeichnet. Der außergewöhnliche nussige Geschmack und die zufriedenstellende Textur unserer Leinsamen in Exportqualität machen sie für vielfältige Anwendungen unverzichtbar – von der Entwicklung funktioneller Lebensmittel und dem handwerklichen Backen bis hin zu Premium-Tiernahrungsformulierungen und spezialisierten industriellen Anwendungen. Partnern Sie mit uns, um Zugang zu Indiens feinsten Leinsamen zu erhalten und Ihre Produktangebote durch ernährungsphysiologische Exzellenz aufzuwerten, die den Anforderungen gesundheitsbewusster globaler Märkte entspricht.",
+    "quality_options": [
+      "Bio: Unter strengen zertifizierten Bio-Protokollen angebaut, vollständig frei von synthetischen Chemikalien, erfüllt die höchsten internationalen Standards",
+      "Konventionell: Nach traditionellen Methoden angebaut mit sorgfältig überwachten landwirtschaftlichen Inputs, die gleichbleibende Qualität und wettbewerbsfähige Marktpositionierung gewährleisten"
+    ],
+    "container_capacity": [
+      "20-Fuß-Container: 10 MT mit spezieller Ladekonfiguration zur Aufrechterhaltung der Samenintegrität",
+      "40-Fuß-Container: 20 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Perfekte ganze Leinsamen, die von sattem Braun bis zu goldenem Bernstein reichen, mit konsistenter ovaler Form, die Premiumqualität anzeigt",
+      "Größe: Erhältlich in präzise gradierten kleinen, mittleren und großen Auswahlen, um spezifische Anwendungsanforderungen zu erfüllen",
+      "Ölgehalt: Außergewöhnliche Konzentration von 30-40 %, die überlegenen Nährwert und funktionale Leistung liefert",
+      "Proteingehalt: Premium-Profil von 20-25 %, das Industriestandards für Ernährungsanwendungen übertrifft",
+      "Ballaststoffgehalt: Bemerkenswerter Gehalt von 20-25 %, der Ansprüche an die Verdauungsgesundheit und funktionelle Lebensmittelformulierungen unterstützt",
+      "Verpackungsoptionen: Anpassbare Lösungen, die entwickelt wurden, um die Nährwertintegrität während des internationalen Transports zu bewahren"
+    ],
+    "variety": [
+      "Madhya Pradesh Leinsamen: Ausgezeichnet durch außergewöhnlich hohen Ölgehalt und unverwechselbares Geschmacksprofil, sorgfältig ausgewählt aus Madhya Pradeshs Premium-Anbaugebieten",
+      "Rajasthan Leinsamen: Bekannt für überlegene Qualität und konsistente Nährstoffdichte, sorgfältig bezogen aus Rajasthans spezialisierten Produktionsgebieten"
+    ],
+    "quality_assurance": [
+      "Labortests: Umfassende analytische Protokolle in hochmodernen Labors gewährleisten die konsequente Einhaltung der strengsten internationalen Qualitätsparameter",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit direkten Partnerschaften mit Landwirten, die ethische Beschaffung und authentische Rückverfolgbarkeit gewährleisten",
+      "Regelmäßige Audits: Systematische Qualitätsüberprüfung gewährleistet kontinuierliche Überwachung und Verbesserung in allen Produktionsphasen",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die mehrstufige Inspektionsprotokolle implementieren, um sicherzustellen, dass nur Premiumprodukte globale Märkte erreichen",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "21",
+    "hs_code": "10085000",
+    "category": "Gewürze",
+    "name": "Schwarzer Pfeffer",
+    "image": "images/products/spices/black_pepper.jpg",
+    "harvest_season": "November bis März",
+    "features": [
+      "Unverwechselbares scharfes Geschmacksprofil, das gewöhnliche Gerichte in kulinarische Meisterwerke verwandelt",
+      "Außergewöhnliche Vielseitigkeit für globale Küchentraditionen und pharmazeutische Anwendungen",
+      "Überlegene Piperin-Konzentration, die eine verbesserte Bioverfügbarkeit und therapeutische Vorteile bietet",
+      "Ausschließlich aus Indiens und Vietnams führenden Anbaugebieten für unübertroffene Qualität bezogen"
+    ],
+    "description": "Unser Premium-Schwarzer Pfeffer stellt den Höhepunkt der Qualität aus Indiens und Vietnams angesehensten Anbaugebieten dar, wo ideale klimatische Bedingungen und Generationen von Fachwissen kombiniert werden, um die weltweit feinsten Piper nigrum-Früchte hervorzubringen. Zum optimalen Reifezeitpunkt geerntet und fachmännisch getrocknet, liefert unser sorgfältig ausgewählter Schwarzer Pfeffer ein unvergleichliches scharfes, stechendes Profil, das wirklich außergewöhnliche Produkte definiert. Die bemerkenswerte Vielseitigkeit unseres Schwarzen Pfeffers in Exportqualität macht ihn in globalen Küchen und mehreren Branchen unverzichtbar – von der Gourmet-Lebensmittelproduktion und handwerklichen Gewürzmischungen bis hin zu traditionellen medizinischen Formulierungen und Nutrazeutika-Anwendungen. Partnern Sie mit uns, um Zugang zu unvergleichlicher Schwarzer-Pfeffer-Qualität zu erhalten, die Ihre Produktangebote aufwertet und die Erwartungen der anspruchsvollsten globalen Märkte erfüllt.",
+    "quality_options": [
+      "Bio: Unter strengen zertifizierten Bio-Protokollen angebaut, vollständig frei von synthetischen Zusätzen, erfüllt die höchsten internationalen Standards",
+      "Konventionell: Nach traditionellen Methoden angebaut mit sorgfältig überwachten landwirtschaftlichen Praktiken, die gleichbleibende Qualität und wettbewerbsfähige Preise gewährleisten"
+    ],
+    "container_capacity": [
+      "20-Fuß-Container: 6 MT mit spezieller Ladekonfiguration zur Aufrechterhaltung der Produktintegrität",
+      "40-Fuß-Container: 12 MT, die wirtschaftliche Massengutversandlösungen bieten"
+    ],
+    "specifications": [
+      "Physikalische Eigenschaften: Perfekte ganze schwarze Pfefferkörner mit satter dunkelbrauner bis schwarzer Färbung und konsistenter kugelförmiger Form, die optimale Reife anzeigen",
+      "Geschmack und Aroma: Außergewöhnliches scharfes, stechendes Profil mit ausgewogener Komplexität, das eine Premium-Güteklasse bedeutet",
+      "Feuchtigkeit: Wissenschaftlich unter 10 % kontrolliert, um maximale Lagerstabilität und Wirksamkeitserhaltung zu gewährleisten",
+      "Piperin-Gehalt: Überlegene Konzentration von 4-6 %, die Industriestandards für Geschmacksintensität und therapeutische Wirksamkeit übertrifft",
+      "Verpackungsoptionen: Anpassbare Lösungen, die entwickelt wurden, um aromatische Verbindungen während des internationalen Transports zu bewahren"
+    ],
+    "variety": [
+      "Indischer Schwarzer Pfeffer: Weltbekannt für unübertroffene Qualität und unverwechselbares Geschmacksprofil, sorgfältig ausgewählt aus Keralas und Tamil Nadus Premium-Ernten",
+      "Vietnamesischer Schwarzer Pfeffer: Ausgezeichnet durch außergewöhnliche Schärfe und perfekt ausbalancierte Schärfe, sorgfältig bezogen aus Dak Laks und Gia Lais spezialisierten Anbaugebieten"
+    ],
+    "quality_assurance": [
+      "Labortests: Strenge analytische Verfahren in unserem fortschrittlichen Labor gewährleisten die konsequente Einhaltung globaler Qualitätsmaßstäbe",
+      "Transparenz der Lieferkette: Vollständige Dokumentation vom Bauernhof bis zum Export mit Überprüfung der ethischen Beschaffung",
+      "Regelmäßige Audits: Systematische Qualitätsüberwachungsprogramme gewährleisten kontinuierliche Verbesserung in allen Produktionsphasen",
+      "Geschultes Qualitätskontrollteam: Spezialisierte Experten, die in jeder Phase umfassende Inspektionsprotokolle implementieren",
+      "Einhaltung von Vorschriften: Vollständige Einhaltung internationaler Lebensmittelsicherheitsstandards und marktspezifischer regulatorischer Anforderungen"
+    ]
+  },
+  {
+    "id": "22",
+    "category": "Gewürze",
+    "name": "Quinoa",
+    "image": "images/products/spices/quinoa_seed.jpg",
+    "harvest_season": "August und September",
+    "features": [
+      "Überlegener Proteingehalt (15-20%)",
+      "Reich an Ballaststoffen (5-7%)",
+      "Erhältlich in weißen, roten und schwarzen Sorten",
+      "Sowohl biologische als auch konventionelle Optionen"
+    ],
+    "description": "Erleben Sie Premium-Quinoa von Indiens besten Farmen in Rajasthan und Madhya Pradesh. Unser nährstoffreiches Superfood bietet außergewöhnliches Protein, Ballaststoffe und Mineralien mit einem unverwechselbaren nussigen Geschmack. Perfekt für kulinarische, ernährungsphysiologische und industrielle Anwendungen. Indiens feinste Quinoa in Exportqualität, geerntet auf dem Höhepunkt der Perfektion.",
+    "quality_options": [
+      "Bio: Zertifizierter Anbau ohne synthetische Zusätze, vollständige Rückverfolgbarkeit",
+      "Konventionell: Präzisionsanbau unter Verwendung kontrollierter Praktiken für gleichbleibende Qualität"
+    ],
+    "container_capacity": [
+      "20-Fuß-Container: 7 MT",
+      "40-Fuß-Container: 14 MT"
+    ],
+    "specifications": [
+      "Physikalisch: Ganze Körner, weiß bis braun, unregelmäßige Form",
+      "Größe: Erhältlich in kleinen, mittleren und großen Güteklassen",
+      "Protein: Hoher Gehalt (15-20%)",
+      "Ballaststoffe: Hoher Gehalt (5-7%)",
+      "Verpackung: Vollständig anpassbar"
+    ],
+    "variety": [
+      "Weiße Quinoa: Milder Geschmack, weiche Textur, ideal für Salate und Beilagen",
+      "Rote Quinoa: Nussiger Geschmack, knackige Textur, perfekt für Salate und Pfannengerichte",
+      "Schwarze Quinoa: Erdiger Geschmack, feste Textur, ausgezeichnet für Suppen und Eintöpfe"
+    ],
+    "quality_assurance": [
+      "Labortests: ISO-zertifizierte Analyse gewährleistet die Einhaltung internationaler Standards",
+      "Lieferkette: Direkte Beschaffung von Landwirten mit dokumentierter Produktkette",
+      "Audits: Regelmäßige Qualitätsüberprüfungsprotokolle durch Dritte",
+      "Qualitätskontrolle: Engagierte Spezialisten gewährleisten die Auswahl in Exportqualität",
+      "Konformität: Einhaltung globaler Lebensmittelsicherheitsstandards einschließlich HACCP und ISO"
+    ]
+  }
+]

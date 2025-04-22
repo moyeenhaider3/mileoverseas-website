@@ -1,0 +1,998 @@
+[
+  {
+    "id": "1",
+    "hs_code": "0909",
+    "category": "Especias",
+    "name": "Semillas de Comino",
+    "description": "Experimente el pináculo del comino indio con nuestras semillas premium de grado de exportación, meticulosamente cosechadas durante la temporada invernal principal (octubre a febrero) en las regiones de cultivo más fértiles de India en Gujarat, Maharashtra y Madhya Pradesh. Como líder mundial en la producción de comino, nuestro Cuminum cyminum cuidadosamente seleccionado ofrece un contenido excepcional de aceite esencial del 2-4%, brindando una intensidad aromática y un perfil de sabor superiores. Apreciadas durante siglos en las tradiciones culinarias y la medicina holística en todos los continentes, nuestras semillas de comino proporcionan notables beneficios para la salud, incluida una mejor digestión, reducción de la inflamación y apoyo al sistema inmunológico. Este versátil producto premium supera los estándares internacionales tanto para aplicaciones culinarias como para uso terapéutico, convirtiéndolo en la elección preferente para compradores globales conscientes de la calidad.",
+    "image": "images/products/spices/cumin.jpg",
+    "harvest_season": "Octubre a Febrero",
+    "features": [
+      "Mejora la salud digestiva con potentes enzimas naturales que estimulan las secreciones gástricas para una absorción óptima de nutrientes.",
+      "Contiene potentes compuestos antiinflamatorios que ayudan a reducir la inflamación sistémica y apoyan el bienestar general.",
+      "Fortalece la función inmunológica a través de micronutrientes esenciales y propiedades antioxidantes que protegen contra los factores de estrés ambiental.",
+      "Ofrece una concentración excepcional de aceite esencial del 2-4%, asegurando la máxima intensidad de sabor y beneficios terapéuticos en cada lote."
+    ],
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Cultivado mediante nuestro enfoque holístico que integra controles físicos, culturales, biológicos y químicos para un manejo óptimo de plagas, resultando en un cultivo premium más saludable y sostenible con mínima intervención.",
+      "Orgánico: Producido utilizando prácticas agrícolas 100% orgánicas certificadas sin pesticidas, herbicidas ni fertilizantes sintéticos, empleando únicamente métodos naturales para el control de plagas y enfermedades para asegurar una especia pura y limpia de la más alta calidad.",
+      "Convencional: Cultivado siguiendo métodos agrícolas tradicionales con un uso cuidadosamente monitoreado de tratamientos aprobados, adhiriéndose a estrictas mejores prácticas de manejo que minimizan el uso de químicos mientras se mantiene una calidad consistentemente superior."
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 14 TM",
+      "Contenedor de 40 pies: 27 TM"
+    ],
+    "specifications": [
+      "Tipo: Semillas de comino enteras prístinas con niveles de pureza excepcionales",
+      "Color: Tono marrón intenso a marrón grisáceo distinguido que indica madurez óptima",
+      "Forma: Semillas pequeñas y alargadas perfectamente formadas con consistencia ideal",
+      "Tamaño: Uniforme 3-5 mm (0.12-0.2 pulgadas) para resultados de cocción consistentes",
+      "Sabor: Perfil distintivamente cálido y terroso con notable profundidad",
+      "Aroma: Bouquet herbal fresco y vibrante que indica calidad premium",
+      "Proceso: Limpieza avanzada a máquina y tecnología de clasificación de precisión",
+      "Empaque: Soluciones de empaque flexibles y personalizables para satisfacer sus requisitos específicos",
+      "Humedad: Controlada a menos del 10% para garantizar una vida útil prolongada",
+      "Contenido de Aceite Esencial: Concentración superior del 2-4% para un impacto máximo de sabor"
+    ],
+    "variety": [
+      "Calidad Singapur: Meticulosamente limpiado a máquina/sortex con mínima presencia de cola, presentando una distinguida coloración marrón y potentes propiedades aromáticas que cumplen con los exigentes estándares del mercado de Singapur.",
+      "Calidad Europea: Semillas expertamente clasificadas y cortadas con precisión que ofrecen un color marrón consistente y un aroma intenso, cumpliendo con los estrictos requisitos de los mercados culinarios europeos.",
+      "Calidad Bold: Semillas premium de gran tamaño que ofrecen una robustez excepcional tanto en perfil de sabor como en cualidades aromáticas para aplicaciones que requieren un impacto superior."
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote se somete a un análisis exhaustivo en nuestras instalaciones de laboratorio de última generación, asegurando una adherencia consistente a nuestros rigurosos estándares de calidad.",
+      "Empaque: Solo se utilizan materiales de empaque de grado alimenticio líderes en la industria, preservando la frescura distintiva y la integridad aromática de nuestro comino desde la producción hasta la entrega final.",
+      "Transparencia de la Cadena de Suministro: Nuestra trazabilidad del campo al mercado garantiza una visibilidad completa de la cadena de suministro con abastecimiento directo de agricultores y prácticas certificadas de comercio justo en todo el proceso de producción.",
+      "Auditorías Regulares: La verificación sistemática de la calidad a través de auditorías regulares exhaustivas asegura el cumplimiento de los estándares internacionales mientras identifica continuamente oportunidades de mejora.",
+      "Equipo de Control de Calidad Capacitado: Nuestros inspectores de calidad especializados emplean rigurosos protocolos de examen para verificar la pureza y calidad de cada envío, garantizando que solo los productos premium lleguen a nuestros clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia total a todos los marcos internacionales relevantes de seguridad alimentaria, regulaciones de etiquetado y estándares de exportación para un acceso sin problemas al mercado global."
+    ]
+  },
+  {
+    "id": "2",
+    "hs_code": "0909",
+    "category": "Especias",
+    "name": "Semillas de Cilantro",
+    "image": "images/products/spices/coriander.jpg",
+    "harvest_season": "Octubre a Febrero",
+    "features": [
+      "Revoluciona la salud digestiva con potentes compuestos naturales que alivian instantáneamente y optimizan la función intestinal para máximo confort y absorción de nutrientes.",
+      "Elimina la inflamación a través de ingredientes bioactivos exclusivos que reducen rápidamente los marcadores de inflamación sistémica, proporcionando alivio inmediato y protección a largo plazo.",
+      "Fortalece drásticamente la respuesta inmune con antioxidantes raros que solo se encuentran en el cilantro indio premium, creando una defensa impenetrable contra los desafíos estacionales.",
+      "Contiene una concentración excepcional de aceite esencial del 0.5-1.5% – significativamente más alta que el estándar de la industria – entregando una intensidad de sabor y potencia terapéutica inigualables."
+    ],
+    "description": "Desbloquee la ventaja competitiva de nuestras exclusivas Semillas de Cilantro Premium, cosechadas en su punto óptimo durante la principal temporada invernal de la India (octubre a febrero). Obtenidas directamente de las regiones de cultivo más codiciadas de la India en Gujarat, Maharashtra y Madhya Pradesh, reconocidas mundialmente como el epicentro de la producción de cilantro premium. Nuestro Coriandrum sativum ha sido cultivado utilizando sabiduría ancestral combinada con técnicas agrícolas de vanguardia, resultando en un producto que atrae la atención en los mercados globales. El extraordinario contenido de aceite esencial del 0.5-1.5% ofrece un perfil distintivamente fresco y cítrico que eleva instantáneamente cualquier creación culinaria. Los compradores internacionales exigentes reconocen nuestras semillas de cilantro no simplemente como una especia, sino como una inversión estratégica en la excelencia del producto que proporciona una ventaja competitiva inmediata en los mercados de consumidores conscientes de la salud en todo el mundo.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Experimente nuestro revolucionario sistema de cultivo holístico que integra sin problemas controles físicos, culturales, biológicos y químicos, creando un entorno de cultivo naturalmente protegido que resulta en semillas significativamente más limpias y puras con perfiles de sabor superiores.",
+      "Orgánico: Deléitese con nuestras semillas de cilantro 100% orgánicas certificadas, cultivadas en entornos prístinos completamente libres de químicos sintéticos dañinos, entregando un producto puro y limpio que cumple con los estándares orgánicos globales más estrictos y exige precios premium en mercados conscientes de la salud.",
+      "Convencional: Benefíciese de nuestras prácticas agrícolas tradicionales controladas con precisión, donde cada aplicación de tratamientos aprobados por la industria se monitorea meticulosamente para producir semillas de cilantro consistentemente excepcionales mientras se mantiene una gestión ambiental responsable."
+    ],
+    "container_capacity": [
+      "20 pies : 9.5 TM",
+      "40 pies : 19 TM"
+    ],
+    "specifications": [
+      "Tipo: Semillas de cilantro enteras selectas con calidad premium garantizada",
+      "Color: Tono distintivo marrón/verde que significa madurez óptima y desarrollo del sabor",
+      "Forma: Formación esférica pequeña y perfecta para un rendimiento de cocción consistente",
+      "Tamaño: Calibración precisa de 2-3 mm (0.08-0.12 pulgadas) para resultados culinarios ideales",
+      "Sabor: Perfil notablemente cálido, ligeramente dulce con complejas notas aromáticas",
+      "Aroma: Bouquet vibrante y cítrico que señala inmediatamente calidad superior",
+      "Proceso: Tecnología de limpieza y clasificación a máquina de última generación para una pureza inigualable",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus requisitos exactos de mercado",
+      "Humedad: Controlada científicamente a menos del 10% para maximizar la vida útil y preservar los aceites aromáticos",
+      "Contenido de Aceite Esencial: Concentración premium del 0.5-1.5% que ofrece una intensidad de sabor superior"
+    ],
+    "variety": [
+      "Dhana: Exclusivas semillas de cilantro de gran tamaño con presencia de sabor dominante e intensidad aromática, perfectas para mezclas de especias premium y platos de autor.",
+      "Dhani: Semillas selectas más pequeñas que ofrecen un perfil de sabor distintivo cultivado específicamente para formulaciones de mezclas de especias de élite donde el sabor matizado es primordial.",
+      "Eagle: Semillas parduscas refinadas con corte de cola preciso y limpieza a máquina, que ofrecen un perfil de sabor suave controlado ideal para aplicaciones culinarias sutiles.",
+      "Eagle Plus: Semillas superiores de color marrón verdoso con corte de cola experto y limpieza sortex avanzada, que proporcionan una dulzura distintiva que realza cualquier plato.",
+      "Scooter: Variedad verde vibrante con potente presencia aromática, limpiada a la perfección con sortex, que ofrece el intenso picante buscado por los chefs exigentes.",
+      "Parrot: Calidad ultra premium con llamativa coloración verde y limpieza sortex completa, que ofrece un atractivo visual vibrante y un sabor extraordinariamente fresco.",
+      "Double Parrot: Nuestra variedad más exclusiva que presenta un color verde incomparable y una limpieza sortex meticulosa, proporcionando un sabor y un impacto aromático verdaderamente excepcionales.",
+      "Cáscara de Cilantro: Componente de cáscara especializado con compuestos bioactivos concentrados, muy valorado en la medicina tradicional y formulaciones especializadas de especias en polvo.",
+      "Cilantro Partido: Semillas partidas con precisión procesadas expertamente para una liberación inmediata del sabor en mezclas de especias premium y mezclas de autor."
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote se somete a un análisis riguroso en nuestro laboratorio de última generación utilizando protocolos de prueba avanzados que superan los estándares internacionales.",
+      "Empaque: Materiales premium de grado alimenticio con barreras avanzadas contra la humedad preservan la frescura excepcional y el perfil aromático durante el envío global.",
+      "Transparencia de la Cadena de Suministro: Trazabilidad completa del campo al cliente con asociaciones directas de agricultores asegura un abastecimiento ético y una certificación de calidad auténtica.",
+      "Auditorías Regulares: La verificación integral de la calidad a través de auditorías sistemáticas garantiza un cumplimiento inquebrantable con los estándares internacionales más exigentes.",
+      "Equipo de Control de Calidad Capacitado: Especialistas de calidad de élite realizan inspecciones meticulosas de múltiples puntos, asegurando que solo las semillas perfectas lleguen a nuestra exigente clientela global.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los protocolos internacionales de seguridad alimentaria y requisitos de etiquetado para un despacho de aduanas sin problemas en todo el mundo."
+    ]
+  },
+  {
+    "id": "3",
+    "hs_code": "0909",
+    "category": "Especias",
+    "name": "Semillas de Hinojo",
+    "image": "images/products/spices/fennel.jpg",
+    "harvest_season": "Octubre a Febrero",
+    "features": [
+      "Transforma la salud digestiva con alivio inmediato de la hinchazón y el malestar, proporcionando una solución exclusiva a las quejas digestivas comunes que afectan a los consumidores en todo el mundo.",
+      "Elimina la inflamación a través de compuestos bioactivos patentados que solo se encuentran en el hinojo indio premium, creando una poderosa ventaja de bienestar para su línea de productos.",
+      "Impulsa la resiliencia inmunológica con fitonutrientes raros que fortalecen las defensas naturales y promueven la vitalidad general, ofreciendo una ventaja competitiva en mercados centrados en la salud.",
+      "Ofrece un inconfundible perfil de sabor dulce, similar al anís, que eleva instantáneamente las creaciones culinarias y distingue sus productos de las alternativas ordinarias."
+    ],
+    "description": "Asegure su ventaja competitiva con nuestras Semillas de Hinojo de Élite, meticulosamente cosechadas durante la temporada invernal óptima de la India (octubre a febrero) en las regiones de cultivo más prestigiosas del país en Gujarat, Maharashtra y Madhya Pradesh. Como líderes del mercado global en la producción premium de Foeniculum vulgare, nuestras semillas ofrecen una experiencia sensorial extraordinaria con su distintivo perfil dulce, similar al anís, que transforma instantáneamente platos ordinarios en obras maestras culinarias. Los compradores internacionales exigentes reconocen la ventaja estratégica que proporciona nuestro hinojo, no simplemente como una especia, sino como un poderoso diferenciador en mercados cada vez más competitivos. Los excepcionales beneficios digestivos, las potentes propiedades antiinflamatorias y las cualidades de refuerzo inmunológico crean un valor añadido inmediato para su línea de productos. Este versátil producto premium cumple con los estándares más exigentes para aplicaciones culinarias, medicina holística y aromaterapia, posicionando su marca como proveedora de ingredientes de calidad superior para consumidores globales conscientes de la salud.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Invierta en nuestro revolucionario sistema de cultivo que integra sin problemas controles físicos, culturales, biológicos y químicos, resultando en un cultivo excepcionalmente limpio y sostenible que atrae a los mercados premium conscientes del medio ambiente.",
+      "Orgánico: Capitalice nuestras semillas de hinojo 100% orgánicas certificadas, cultivadas en entornos prístinos completamente libres de químicos sintéticos, cumpliendo con los estándares de certificación orgánica más estrictos del mundo y exigiendo precios premium en mercados de lujo.",
+      "Convencional: Benefíciese de nuestra agricultura tradicional controlada con precisión con una aplicación cuidadosamente monitoreada de tratamientos aprobados, produciendo semillas de hinojo consistentemente excepcionales mientras se mantiene una gestión ambiental responsable que cumple con los requisitos globales de importación."
+    ],
+    "container_capacity": [
+      "20 pies : 14 TM",
+      "40 pies : 27 TM"
+    ],
+    "specifications": [
+      "Tipo: Semillas enteras premium con pureza y autenticidad garantizadas",
+      "Color: Tono distintivo marrón verdoso que indica máxima madurez y desarrollo del sabor",
+      "Sabor: Perfil característico dulce, similar al anís, con notable complejidad aromática",
+      "Aroma: Bouquet fresco y dulce que señala inmediatamente calidad superior",
+      "Proceso: Limpieza avanzada a máquina y tecnología sortex de precisión para una pureza inigualable",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus requisitos exactos de mercado",
+      "Pureza: Niveles excepcionales de pureza garantizada del 99-99.5% que superan los estándares internacionales",
+      "Humedad: Controlada científicamente a menos del 10% para maximizar la vida útil y preservar los compuestos volátiles"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo en nuestras instalaciones de laboratorio certificadas ISO, asegurando una adherencia inquebrantable a los estándares de calidad más estrictos.",
+      "Empaque: Solo se utilizan materiales de empaque premium de grado alimenticio y a prueba de manipulaciones, preservando la frescura distintiva y la integridad aromática en toda la cadena de suministro global.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que generan confianza en el consumidor y lealtad a la marca.",
+      "Auditorías Regulares: La verificación sistemática por terceros a través de auditorías exhaustivas asegura un cumplimiento impecable mientras identifica continuamente oportunidades para obtener ventajas competitivas.",
+      "Equipo de Control de Calidad Capacitado: Nuestros especialistas de calidad de élite implementan rigurosos protocolos de inspección de múltiples etapas para verificar que solo las semillas de hinojo perfectas lleguen a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de seguridad alimentaria y regulaciones de exportación asegura un despacho de aduanas fluido y acceso al mercado en todo el mundo."
+    ]
+  },
+  {
+    "id": "4",
+    "hs_code": "09109927",
+    "category": "Especias",
+    "name": "Semillas de Mostaza",
+    "image": "images/products/spices/mustard_seed.jpg",
+    "harvest_season": "Octubre a Marzo",
+    "features": [
+      "Atrae la atención con un perfil de sabor distintivamente picante y ligeramente dulce que transforma instantáneamente recetas ordinarias en creaciones de autor dignas de precios premium.",
+      "Ofrece una versatilidad inigualable en aplicaciones culinarias, medicinales y cosméticas, proporcionando un valor excepcional y múltiples fuentes de ingresos a partir de un solo ingrediente premium.",
+      "Mantiene una integridad perfecta con un contenido de humedad controlado científicamente por debajo del 10%, garantizando una vida útil prolongada y una calidad consistente en las cadenas de suministro globales."
+    ],
+    "description": "Domine su mercado con nuestras Exclusivas Semillas de Mostaza Premium (Brassica juncea), meticulosamente seleccionadas de las regiones de cultivo más prestigiosas de la India en Rajasthan, Gujarat y Madhya Pradesh durante la temporada óptima de cosecha invernal (octubre a marzo). Como reconocen los líderes en adquisiciones, la tradición centenaria de cultivo de mostaza de la India combinada con nuestro proceso de selección patentado ofrece un producto de distinción inigualable en los mercados globales. El notable picante y la sutil dulzura de nuestras semillas de mostaza crean una firma de sabor inmediatamente reconocible que exigen los consumidores exigentes. Con un contenido de humedad controlado con precisión por debajo del 10% y un excepcional contenido de aceite del 42%, nuestras semillas premium de grado de exportación proporcionan un rendimiento superior en aplicaciones culinarias, productos terapéuticos y cosméticos de alta gama. Los compradores internacionales astutos comprenden que este versátil producto representa no simplemente una compra de especias, sino una inversión estratégica en la excelencia del producto que ofrece una ventaja competitiva inmediata.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Capitalice nuestro sistema de cultivo patentado que integra sin problemas controles físicos, culturales, biológicos y químicos, creando un entorno de cultivo naturalmente protegido que produce semillas demostrablemente más limpias y puras con características de sabor superiores.",
+      "Orgánico: Asegure el acceso exclusivo a nuestras semillas de mostaza 100% orgánicas certificadas, cultivadas en entornos prístinos completamente libres de químicos sintéticos, cumpliendo con los estándares orgánicos globales más estrictos y logrando un posicionamiento premium en mercados de lujo conscientes de la salud.",
+      "Convencional: Aproveche nuestras prácticas agrícolas tradicionales controladas con precisión, donde cada aplicación de tratamientos aprobados por la industria se somete a un riguroso monitoreo para producir semillas de mostaza consistentemente excepcionales mientras se mantiene una gestión ambiental responsable."
+    ],
+    "container_capacity": [
+      "20 pies : 20 TM"
+    ],
+    "specifications": [
+      "Tipo: Semillas enteras prístinas con certificación de pureza excepcional",
+      "Color: Variedades marrón intenso a marrón oscuro / amarillo vibrante disponibles, señalando madurez óptima",
+      "Sabor: Perfil picante distinguido con sutiles notas dulces para un equilibrio culinario perfecto",
+      "Aroma: Presencia fresca y dominante que señala inmediatamente calidad premium",
+      "Proceso: Limpieza avanzada a máquina y tecnología sortex de precisión para una pureza inigualable",
+      "Empaque: Soluciones de empaque personalizables diseñadas según sus especificaciones exactas",
+      "Pureza: Niveles excepcionales de pureza garantizada del 99-99.5% que superan los estándares internacionales",
+      "Humedad: Controlada científicamente a menos del 10% para maximizar la estabilidad en almacenamiento",
+      "Contenido de Aceite: Concentración superior de aceite del 42% – significativamente por encima del promedio de la industria – asegurando un impacto máximo de sabor y eficiencia de extracción"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un riguroso análisis multiparamétrico en nuestro laboratorio certificado ISO, asegurando una consistencia inquebrantable y una calidad excepcional.",
+      "Empaque: Solo materiales premium de grado alimenticio, a prueba de manipulaciones y con barreras avanzadas contra el oxígeno preservan la frescura característica y la integridad aromática durante la logística global.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que generan confianza en el consumidor y lealtad a la marca.",
+      "Auditorías Regulares: La verificación sistemática por terceros a través de auditorías exhaustivas asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua para obtener ventajas competitivas.",
+      "Equipo de Control de Calidad Capacitado: Nuestros especialistas de calidad de élite implementan protocolos de inspección patentados de múltiples etapas para verificar que solo las semillas de mostaza perfectas lleguen a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a los marcos internacionales de seguridad alimentaria y regulaciones de exportación asegura un despacho de aduanas sin problemas y acceso inmediato al mercado en todo el mundo."
+    ]
+  },
+  {
+    "id": "5",
+    "hs_code": "0910",
+    "category": "Especias",
+    "name": "Cúrcuma en Dedo",
+    "image": "images/products/spices/turmeric.jpg",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Ofrece un contenido excepcional de curcumina (3-5%) – significativamente por encima del promedio del mercado – proporcionando color, sabor superiores y beneficios antiinflamatorios probados que demandan los consumidores conscientes de la salud.",
+      "Erradica la inflamación a través de compuestos bioactivos patentados que se encuentran exclusivamente en la cúrcuma india premium, ofreciendo una ventaja competitiva inmediata en mercados centrados en el bienestar.",
+      "Protege las células con potentes propiedades antioxidantes que proporcionan protección medible contra el estrés oxidativo, creando oportunidades para un posicionamiento premium en líneas de productos orientadas a la salud.",
+      "Sobresale en aplicaciones culinarias, medicinales y cosméticas, ofreciendo una versatilidad inigualable y múltiples fuentes de ingresos a partir de una única inversión en un ingrediente premium."
+    ],
+    "description": "Lidere el mercado con nuestra Exclusiva Cúrcuma en Dedo Premium (Curcuma longa), cosechada en su punto máximo de potencia durante la temporada óptima del monzón en la India (junio a septiembre) en las regiones de cultivo más veneradas del país en Tamil Nadu, Andhra Pradesh y Maharashtra. Los especialistas en adquisiciones exigentes reconocen que nuestra herencia de cultivo de 4,000 años combinada con técnicas agrícolas de vanguardia ofrece una cúrcuma de distinción inigualable en los mercados globales. El vibrante tono amarillo-naranja señala instantáneamente una calidad superior, mientras que el excepcional contenido de curcumina del 3-5% – significativamente por encima del estándar de la industria – proporciona una ventaja medible en la efectividad del producto. Este producto estratégico sobresale en aplicaciones culinarias, formulaciones terapéuticas y cosméticos premium, permitiendo a las marcas innovadoras capturar la creciente demanda de los consumidores por productos de cúrcuma auténticos y efectivos. Los compradores internacionales que buscan diferenciación competitiva reconocen que nuestra cúrcuma representa no simplemente una compra de especias, sino un ingrediente transformador que eleva líneas enteras de productos al estatus de categoría premium.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Asegure el acceso exclusivo a nuestro revolucionario sistema de cultivo que equilibra perfectamente los controles físicos, culturales, biológicos y químicos, resultando en una cúrcuma demostrablemente más limpia y potente que cumple con los más altos estándares internacionales.",
+      "Orgánico: Capitalice nuestra cúrcuma en dedo 100% orgánica certificada, cultivada en entornos prístinos completamente libres de químicos sintéticos, cumpliendo con las certificaciones orgánicas globales más estrictas y logrando un posicionamiento premium en mercados de bienestar de lujo.",
+      "Convencional: Aproveche nuestra agricultura tradicional controlada con precisión, donde cada aplicación de tratamientos aprobados se somete a un riguroso monitoreo para producir cúrcuma consistentemente excepcional mientras se mantiene una gestión ambiental responsable que construye la credibilidad de la marca."
+    ],
+    "container_capacity": [
+      "20 pies : 18 TM",
+      "40 pies : 36 TM"
+    ],
+    "specifications": [
+      "Tipo: Cúrcuma de grado dedo premium con potencia garantizada",
+      "Color: Tono vibrante amarillo-naranja que señala el contenido máximo de curcumina y la madurez óptima",
+      "Forma: Formación perfecta en dedo con características ideales para cocinar y procesar",
+      "Tamaño: Uniforme 2-4 pulgadas (5-10 cm) para aplicación comercial consistente",
+      "Sabor: Perfil dominante picante y terroso con distintiva complejidad aromática",
+      "Aroma: Bouquet fresco y terroso que señala inmediatamente calidad superior",
+      "Proceso: Secado avanzado a máquina con opción de tecnología de pulido doble/simple para requisitos de mercado específicos",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus especificaciones exactas",
+      "Contenido de Curcumina: Concentración excepcional del 3-5% – significativamente por encima del promedio del mercado",
+      "Humedad: Controlada científicamente a menos del 10% para garantizar una estabilidad prolongada en almacenamiento"
+    ],
+    "variety": [
+      "Nizamabad: Variedad exclusiva alta en curcumina reconocida por su potencia excepcional y su distintivo perfil de sabor picante buscado por marcas de especias premium en todo el mundo.",
+      "Salem: Variedad legendaria celebrada por su color amarillo-naranja extraordinariamente brillante y complejo aroma terroso que señala inmediatamente el origen indio auténtico.",
+      "Rajapuri: Prestigiosa variedad de Maharashtra apreciada por su equilibrio único de sabor dulce-picante que crea notas características en mezclas y formulaciones de especias premium.",
+      "Híbrido de Assam: Variedad especial de alto rendimiento del noreste de la India, que presenta una intensidad de sabor audaz y terrosa que ofrece un impacto inmediato en aplicaciones culinarias.",
+      "Ladkong: Rara variedad de Meghalaya con contenido de curcumina extraordinariamente alto y compuestos de sabor distintivos no encontrados en la cúrcuma común, ofreciendo una verdadera diferenciación del producto."
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo de curcumina y detección de contaminantes en nuestro laboratorio certificado ISO, asegurando una potencia y pureza excepcionales.",
+      "Empaque: Solo se utilizan materiales de empaque premium de grado alimenticio y protectores de la luz, preservando el color vibrante y los compuestos bioactivos en toda la cadena de suministro global.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que resuenan con los consumidores conscientes.",
+      "Auditorías Regulares: La verificación sistemática por terceros a través de auditorías exhaustivas asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua.",
+      "Equipo de Control de Calidad Capacitado: Nuestros especialistas de calidad de élite implementan protocolos de inspección patentados utilizando análisis colorimétricos avanzados para verificar que solo la cúrcuma perfecta llegue a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de seguridad alimentaria, incluidas pruebas estrictas de contaminantes, asegura una aprobación regulatoria sin problemas en todo el mundo."
+    ]
+  },
+  {
+    "id": "6",
+    "hs_code": "09109913",
+    "category": "Especias",
+    "name": "Semillas de Eneldo",
+    "image": "images/products/spices/dill_seed.jpg",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Ofrece un contenido extraordinario de aceite volátil (3-4%) – muy por encima del estándar de la industria – asegurando un impacto máximo de sabor y potencia terapéutica en cada aplicación.",
+      "Cautiva los sentidos con un perfil de sabor distintivo fresco, similar a los cítricos, que eleva instantáneamente las creaciones culinarias y separa los productos premium de las alternativas ordinarias.",
+      "Elimina el malestar digestivo a través de potentes compuestos naturales que alivian rápidamente el malestar gastrointestinal, proporcionando un valor inmediato para los consumidores centrados en el bienestar.",
+      "Sobresale en aplicaciones culinarias, de encurtido y terapéuticas, ofreciendo una versatilidad sin precedentes y múltiples fuentes de ingresos a partir de un solo ingrediente premium."
+    ],
+    "description": "Asegure una ventaja de mercado innegable con nuestras Exclusivas Semillas de Eneldo Premium, meticulosamente cosechadas durante la temporada óptima de verano de la India (junio a septiembre) en las regiones de cultivo más prestigiosas del país en Gujarat, Maharashtra y Madhya Pradesh. Los especialistas en adquisiciones exigentes reconocen que nuestra herencia de cultivo de 3,000 años combinada con métodos agrícolas patentados ofrece una semilla de eneldo de distinción inigualable en los mercados globales. El excepcional contenido de aceite volátil del 3-4% – significativamente por encima del promedio de la industria – proporciona un impacto sensorial inmediato y una eficacia terapéutica que demandan los consumidores exigentes. Esta inversión estratégica proporciona un auténtico perfil de sabor fresco y cítrico que transforma productos ordinarios en ofertas premium en aplicaciones culinarias, encurtidos artesanales y formulaciones terapéuticas. Los compradores internacionales con visión de futuro comprenden que nuestras semillas de eneldo premium representan no simplemente una compra de especias, sino un ingrediente transformador que proporciona una diferenciación competitiva inmediata en categorías de mercado cada vez más saturadas.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Capitalice nuestro revolucionario sistema de cultivo que integra perfectamente controles físicos, culturales, biológicos y químicos, creando un entorno de cultivo naturalmente protegido que produce semillas demostrablemente más limpias y aromáticas.",
+      "Orgánico: Asegure el acceso exclusivo a nuestras semillas de eneldo 100% orgánicas certificadas, cultivadas en entornos prístinos completamente libres de químicos sintéticos, cumpliendo con los estándares orgánicos globales más estrictos y logrando un posicionamiento premium en mercados de lujo conscientes de la salud.",
+      "Convencional: Aproveche nuestras prácticas agrícolas tradicionales controladas con precisión, donde cada aplicación de tratamientos aprobados por la industria se somete a un riguroso monitoreo para producir semillas de eneldo consistentemente excepcionales mientras se mantiene una gestión ambiental responsable."
+    ],
+    "container_capacity": [
+      "20 pies : 13 TM",
+      "40 pies : 27 TM"
+    ],
+    "specifications": [
+      "Tipo: Semillas de eneldo enteras premium con potencia y pureza garantizadas",
+      "Color: Tono marrón intenso a marrón verdoso distintivo que señala madurez óptima",
+      "Forma: Semillas pequeñas e irregulares perfectamente formadas con dispersión ideal del sabor",
+      "Tamaño: Calibración precisa de 0.5-1 mm (0.02-0.04 pulgadas) para un rendimiento culinario consistente",
+      "Sabor: Perfil dominante fresco y cítrico con complejas notas aromáticas",
+      "Aroma: Bouquet suave, ligeramente dulce que señala inmediatamente calidad superior",
+      "Proceso: Limpieza avanzada a máquina y tecnología de clasificación de precisión para una pureza inigualable",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus requisitos exactos de mercado",
+      "Humedad: Controlada científicamente a menos del 10% para maximizar la estabilidad en almacenamiento y preservar los compuestos volátiles",
+      "Contenido de Aceite Volátil: Concentración excepcional del 3-4% – sustancialmente por encima del promedio del mercado"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo de aceite volátil en nuestras instalaciones de laboratorio certificadas ISO, asegurando una potencia aromática y perfiles de pureza excepcionales.",
+      "Empaque: Solo se utilizan materiales de empaque premium de grado alimenticio con bloqueo de aroma, preservando la frescura distintiva y los compuestos volátiles en toda la cadena de suministro global.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que generan confianza en el consumidor y lealtad a la marca.",
+      "Auditorías Regulares: La verificación sistemática por terceros a través de auditorías exhaustivas asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua para obtener ventajas competitivas.",
+      "Equipo de Control de Calidad Capacitado: Nuestros especialistas de calidad de élite implementan protocolos de inspección patentados de múltiples etapas para verificar que solo las semillas de eneldo perfectas lleguen a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de seguridad alimentaria y regulaciones de exportación asegura un despacho de aduanas sin problemas y acceso inmediato al mercado en todo el mundo."
+    ]
+  },
+  {
+    "id": "7",
+    "hs_code": "0904",
+    "category": "Especias",
+    "name": "Chile Rojo",
+    "image": "images/products/spices/chilli.png",
+    "harvest_season": "Marzo a Junio",
+    "features": [
+      "Transforma productos con una vibrante coloración natural que elimina la necesidad de aditivos artificiales, satisfaciendo la creciente demanda de los consumidores por ingredientes de etiqueta limpia.",
+      "Ofrece un potente contenido de capsaicina que proporciona tanto un impacto de sabor distintivo como beneficios fisiológicos probados, creando múltiples ventajas de marketing.",
+      "Enriquece las formulaciones con niveles excepcionales de Vitamina C que mejoran los perfiles nutricionales y respaldan potentes afirmaciones antioxidantes.",
+      "Ofrece una versatilidad culinaria inigualable en aplicaciones de cocina global, proporcionando un ingrediente premium que satisface diversas necesidades de desarrollo de productos."
+    ],
+    "description": "Domine los mercados competitivos con nuestro Exclusivo Chile Rojo Seco Premium, cosechado en su punto máximo de intensidad de color durante la temporada óptima de verano de la India (marzo a junio) en las regiones de cultivo más prestigiosas del país en Andhra Pradesh, Telangana y Karnataka. Los especialistas en adquisiciones estratégicas reconocen que nuestra herencia de cultivo de 2,000 años combinada con métodos de selección patentados ofrece un chile de distinción inigualable en los mercados globales. La imponente y vibrante coloración roja señala instantáneamente una calidad superior, mientras que la excepcional calificación SHU de 30,000-50,000 proporciona una ventaja medible en el impacto y la efectividad del producto. Este producto premium sobresale en aplicaciones culinarias, mezclas de especias y formulaciones críticas en color, permitiendo a las marcas innovadoras crear productos de autor con carácter auténtico. Los compradores internacionales con visión de futuro comprenden que nuestros chiles premium representan no simplemente una compra de especias, sino un ingrediente transformador que proporciona una diferenciación visual y sensorial inmediata en categorías de mercado cada vez más competitivas.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Asegure el acceso exclusivo a nuestro revolucionario sistema de cultivo que integra armoniosamente controles físicos, culturales, biológicos y químicos, resultando en chiles demostrablemente más limpios y vibrantes con propiedades superiores de retención del color.",
+      "Orgánico: Capitalice nuestros chiles rojos 100% orgánicos certificados, cultivados en entornos prístinos completamente libres de químicos sintéticos, cumpliendo con los estándares orgánicos globales más estrictos y logrando un posicionamiento premium en segmentos de mercado de etiqueta limpia.",
+      "Convencional: Aproveche nuestras prácticas agrícolas tradicionales controladas con precisión, donde cada aplicación de tratamientos aprobados por la industria se somete a un riguroso monitoreo para producir chiles consistentemente excepcionales mientras se mantiene una gestión ambiental responsable."
+    ],
+    "container_capacity": [
+      "20 pies : 6.5 TM",
+      "40 pies : 13 TM"
+    ],
+    "specifications": [
+      "Características Físicas: Chiles secos enteros premium con color excepcional e integridad estructural para una presentación y rendimiento de procesamiento superiores.",
+      "- Tipo: Chiles secos enteros meticulosamente seleccionados con autenticidad verificada",
+      "- Color: Imponente tono rojo vibrante con valor ASTA excepcional de 150-200",
+      "- Forma: Estructura larga y curva perfectamente formada ideal para el atractivo visual",
+      "- Tamaño: Longitud uniforme de 7-10 cm que asegura resultados consistentes en cocción y procesamiento",
+      "- Color Asta: Calificación superior 150-200 – sustancialmente por encima del promedio del mercado",
+      "Sabor y Aroma: Perfil sensorial distintivo que distingue inmediatamente los productos premium de las alternativas ordinarias.",
+      "- Sabor: Intensamente picante con profundidad compleja que crea experiencias de sabor de autor",
+      "- Aroma: Picante con sutiles notas dulces que señalan calidad auténtica",
+      "Procesamiento y Empaque: Protocolos de manejo avanzados que preservan el máximo color, sabor y potencia.",
+      "- Proceso: Secado a máquina de precisión con protocolos de control de temperatura para maximizar la retención del color",
+      "- Empaque: Soluciones de empaque a medida diseñadas según sus especificaciones exactas",
+      "Estándares de Calidad: Verificación científica de marcadores clave de calidad que garantizan un rendimiento consistente.",
+      "- Humedad: Controlada científicamente a menos del 10% para garantizar una estabilidad prolongada del color",
+      "- Unidad de Calor Scoville (SHU): Calificación excepcional de 30,000-50,000 para un impacto potente"
+    ],
+    "variety": [
+      "Sannam: Prestigiosa variedad de Andhra Pradesh reconocida mundialmente por su intensa complejidad de sabor y su distintivo perfil aromático que crea un impacto característico en formulaciones premium.",
+      "Byadgi: Variedad exclusiva de Karnataka apreciada por su equilibrio de sabor singularmente suave y su coloración roja excepcionalmente vibrante que ofrece impacto visual sin un picor abrumador.",
+      "Warangal: Variedad especial de alto rendimiento de Telangana que presenta una intensidad de sabor audaz y una presencia aromática imponente que proporciona un impacto inmediato en mezclas de especias.",
+      "Kashmiri: Legendaria variedad suave celebrada por su color rojo extraordinariamente brillante y su sutil sabor dulce que equilibra perfectamente el impacto visual con niveles de picor suaves."
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo de color y perfil de picor en nuestras instalaciones de laboratorio certificadas ISO, asegurando una consistencia excepcional tanto en características visuales como sensoriales.",
+      "Empaque: Solo se utilizan materiales de empaque premium protectores de la luz y de alta barrera, preservando el color vibrante y los compuestos aromáticos a lo largo de extensas cadenas de suministro globales.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que resuenan con los consumidores conscientes de hoy.",
+      "Auditorías Regulares: La verificación sistemática por terceros a través de auditorías exhaustivas asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua para obtener ventajas competitivas.",
+      "Equipo de Control de Calidad Capacitado: Nuestros especialistas de élite en color implementan protocolos de inspección patentados utilizando análisis colorimétricos avanzados para verificar que solo los chiles perfectos lleguen a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de seguridad alimentaria, incluidas pruebas estrictas de contaminantes, asegura una aprobación regulatoria sin problemas en cada mercado objetivo."
+    ]
+  },
+  {
+    "id": "8",
+    "hs_code": "120740",
+    "category": "Especias",
+    "name": "Semillas de Sésamo",
+    "image": "images/products/spices/sesame.jpg",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Posee un contenido excepcional de aceite (50-60%) – sustancialmente por encima del promedio del mercado – ofreciendo una liberación de sabor superior y eficiencia de extracción para un máximo valor económico.",
+      "Cautiva con un distintivo perfil de sabor a nuez que transforma productos ordinarios en experiencias culinarias premium buscadas por consumidores globales exigentes.",
+      "Proporciona un contraste textural perfecto con su crujido característico que eleva la sensación en boca del producto y crea experiencias sensoriales memorables tanto en aplicaciones dulces como saladas.",
+      "Garantiza pureza auténtica con doble certificación para cultivo orgánico y estado no-GMO, cumpliendo requisitos críticos para mercados internacionales premium."
+    ],
+    "description": "Asegure una ventaja de mercado decisiva con nuestras Exclusivas Semillas de Sésamo Premium, meticulosamente cosechadas durante la temporada óptima de verano de la India (junio a septiembre) en las regiones de cultivo más prestigiosas del país en Gujarat, Maharashtra y Madhya Pradesh. Los especialistas en adquisiciones estratégicas reconocen que nuestra herencia de cultivo de 3,000 años combinada con métodos de selección patentados ofrece una semilla de sésamo de distinción inigualable en los mercados globales. El excepcional contenido de aceite del 50-60% – significativamente por encima del estándar de la industria – proporciona una ventaja económica medible tanto en aplicaciones culinarias como en la eficiencia de extracción de aceite. Este producto estratégico sobresale en las categorías de panadería, cocina y producción de aceite, permitiendo a las marcas innovadoras capturar la creciente demanda de los consumidores por semillas auténticas de calidad premium con beneficios para la salud comprobados. Los compradores internacionales con visión de futuro comprenden que nuestras semillas de sésamo representan no simplemente una compra de materia prima, sino un ingrediente transformador que proporciona una diferenciación sensorial y nutricional inmediata en categorías de mercado cada vez más competitivas.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Capitalice nuestro revolucionario sistema de cultivo que integra perfectamente controles físicos, culturales, biológicos y químicos, resultando en semillas demostrablemente más limpias, ricas en aceite y con un desarrollo superior del sabor.",
+      "Orgánico: Asegure el acceso exclusivo a nuestras semillas de sésamo 100% orgánicas certificadas, cultivadas en entornos prístinos completamente libres de químicos sintéticos, cumpliendo con los estándares orgánicos internacionales más estrictos para un posicionamiento premium en mercados conscientes de la salud.",
+      "Convencional: Aproveche nuestras prácticas agrícolas tradicionales controladas con precisión, donde cada aplicación de tratamientos aprobados por la industria se somete a un riguroso monitoreo para producir semillas de sésamo consistentemente excepcionales mientras se mantiene una gestión ambiental responsable."
+    ],
+    "container_capacity": [
+      "20 pies: 19 TM",
+      "40 pies: 38 TM"
+    ],
+    "specifications": [
+      "Características Físicas: Semillas de sésamo enteras premium con integridad estructural excepcional y autenticidad verificada para asegurar un rendimiento superior del producto y atractivo visual.",
+      "Tipo: Semillas enteras perfectas con uniformidad verificada, Color: Elija entre variedades blanco cremoso o negro distintivo, Forma: Formación ovalada ideal para un rendimiento de cocción consistente, Tamaño: Calibración precisa de 2-3 mm (0.08-0.12 pulgadas) para una aplicación confiable",
+      "Sabor y Aroma: Perfil sensorial distintivo que eleva inmediatamente los productos por encima de las alternativas ordinarias.",
+      "Sabor: Carácter rico a nuez con profundidad compleja, Aroma: Bouquet suave, ligeramente dulce que señala calidad premium",
+      "Procesamiento y Empaque: Protocolos de manejo avanzados que preservan el máximo sabor e integridad nutricional.",
+      "Proceso: Limpieza a máquina de precisión y tecnología de clasificación multietapa, Empaque: Soluciones de empaque a medida adaptadas a sus especificaciones exactas",
+      "Estándares de Calidad: Verificación científica de marcadores clave de calidad que garantizan un rendimiento consistente.",
+      "Humedad: Estrictamente controlada a menos del 5% – mejor que el estándar de la industria – para una estabilidad prolongada en almacenamiento, Contenido de Aceite: Concentración excepcional del 50-60% para una eficiencia de extracción superior e impacto de sabor"
+    ],
+    "variety": [
+      "Sésamo Negro: Variedad exclusiva de Maharashtra reconocida por su distintiva coloración negra y perfil de sabor singularmente dulce que crea un contraste visual y de sabor dramático en aplicaciones premium.",
+      "Sésamo Blanco/Pelado: Semillas premium meticulosamente procesadas para eliminar la cáscara exterior, revelando un color blanco perfectamente cremoso y un sabor puro a nuez ideal para guarniciones visibles y aplicaciones delicadas.",
+      "Sésamo Natural: Semillas especialmente preservadas con la cáscara exterior intacta, ofreciendo un color natural distintivo y un carácter robusto a nuez perfecto para productos artesanales auténticos con atractivo rústico."
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo del contenido de aceite en nuestras instalaciones de laboratorio certificadas ISO, asegurando una consistencia excepcional tanto en valor nutricional como en características sensoriales.",
+      "Empaque: Solo se utilizan materiales de empaque premium con barrera de oxígeno y protectores de humedad, preservando la frescura distintiva y previniendo la rancidez a lo largo de extensas cadenas de suministro globales.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que generan confianza en el consumidor y mejoran la reputación de la marca.",
+      "Auditorías Regulares: La verificación sistemática por terceros a través de auditorías exhaustivas asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua para obtener ventajas competitivas.",
+      "Equipo de Control de Calidad Capacitado: Nuestros especialistas de élite en semillas implementan protocolos de inspección patentados de múltiples etapas utilizando análisis de imágenes avanzado para verificar que solo las semillas de sésamo perfectas lleguen a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de seguridad alimentaria, incluidos protocolos estrictos de alérgenos, asegura una aprobación regulatoria sin problemas incluso en los mercados más exigentes."
+    ]
+  },
+  {
+    "id": "9",
+    "hs_code": "12119032",
+    "category": "Especias",
+    "name": "Cáscara de Psyllium",
+    "image": "images/products/spices/psyllium_husk.png",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Revoluciona la salud digestiva a través de una potente fibra natural que crea alivio inmediato y mejora a largo plazo del bioma intestinal, satisfaciendo la explosiva demanda de los consumidores por ingredientes funcionales.",
+      "Estabiliza los niveles de azúcar en sangre con propiedades reguladoras científicamente verificadas, proporcionando afirmaciones funcionales convincentes para productos dirigidos al mercado de rápido crecimiento del manejo de la diabetes.",
+      "Reduce drásticamente el colesterol a través de mecanismos de unión documentados, permitiendo un potente posicionamiento para la salud cardíaca que resuena con los consumidores cada vez más conscientes de la salud.",
+      "Acelera los resultados del manejo del peso a través de propiedades patentadas que mejoran la saciedad, creando una ventaja competitiva inmediata en la floreciente categoría de productos para el control de peso."
+    ],
+    "description": "Domine los mercados funcionales de alto crecimiento con nuestra Exclusiva Cáscara de Psyllium Premium, cosechada estratégicamente durante la temporada óptima de verano de la India (junio a septiembre) en las regiones de cultivo más renombradas del país en Gujarat, Maharashtra y Madhya Pradesh. Los especialistas en adquisiciones exigentes reconocen que el liderazgo global de la India en el cultivo de Plantago ovata, combinado con nuestros métodos de procesamiento patentados, ofrece una cáscara de psyllium de eficacia incomparable en los mercados internacionales. El excepcional contenido de fibra del 80-85% – significativamente por encima del estándar de la industria – proporciona una ventaja medible en aplicaciones de alimentos funcionales, formulaciones farmacéuticas y cosméticos premium. Este ingrediente estratégico satisface la explosiva demanda global de soluciones de salud digestiva clínicamente probadas, manejo del azúcar en sangre, reducción del colesterol y propiedades de control de peso. Los compradores internacionales con visión de futuro comprenden que nuestra cáscara de psyllium premium representa no simplemente una compra de ingrediente funcional, sino una solución transformadora que proporciona una diferenciación competitiva inmediata en las categorías de productos de salud más rentables de la actualidad.",
+    "quality_options": [
+      "Aproveche el poder excepcional del contenido de fibra del 80-85% – sustancialmente por encima del estándar de la industria – ofreciendo un rendimiento funcional superior y permitiendo tasas de uso reducidas y mayores márgenes de beneficio.",
+      "Benefíciese de nuestra limpieza a máquina de precisión y tecnología de clasificación multietapa que elimina todas las impurezas, asegurando una apariencia prístina y un rendimiento predecible en sus aplicaciones más exigentes.",
+      "Confíe en nuestros sistemas de empaque premium de grado alimenticio con barreras avanzadas contra la humedad que mantienen la integridad perfecta del producto a lo largo de extensas cadenas de suministro globales.",
+      "Confíe en nuestro cumplimiento integral con las regulaciones internacionales de seguridad alimentaria más rigurosas, proporcionando una entrada sin problemas incluso en los mercados globales más estrictamente regulados."
+    ],
+    "container_capacity": [
+      "20 pies : 9 TM",
+      "40 pies : 18 TM"
+    ],
+    "specifications": [
+      "Tipo: Cáscara de psyllium entera prístina con eficacia funcional garantizada",
+      "Color: Tono perfecto marrón claro a blanquecino que indica un procesamiento óptimo",
+      "Forma: Partículas pequeñas e irregulares idealmente formadas para una dispersión perfecta",
+      "Tamaño: Calibración precisa de 1-2 mm (0.04-0.08 pulgadas) para un rendimiento consistente",
+      "Sabor: Perfil perfectamente neutro que se integra sin problemas con cualquier formulación",
+      "Aroma: Bouquet suave, ligeramente dulce sin notas extrañas ni imperfecciones",
+      "Proceso: Limpieza avanzada a máquina y tecnología de clasificación multietapa",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus especificaciones exactas",
+      "Contenido de Fibra: Concentración excepcional del 80-85% – sustancialmente por encima del promedio del mercado",
+      "Humedad: Controlada científicamente a menos del 10% para garantizar la estabilidad funcional"
+    ],
+    "variety": [
+      "Cáscara de psyllium entera premium con pureza y rendimiento funcional verificados"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo de fibra en nuestras instalaciones de laboratorio de última generación, asegurando una consistencia excepcional en el rendimiento funcional.",
+      "Empaque: Solo se utilizan materiales de empaque premium con barrera de humedad y protectores de la luz, preservando la integridad funcional a lo largo de extensos canales de distribución globales.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo garantiza una trazabilidad completa con prácticas certificadas de comercio justo que generan confianza en el consumidor y mejoran la credibilidad de la marca.",
+      "Auditorías Regulares: La verificación sistemática de la calidad a través de auditorías exhaustivas por terceros asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua.",
+      "Equipo de Control de Calidad Capacitado: Nuestros expertos especializados en ingredientes funcionales implementan rigurosos protocolos de inspección para verificar que solo la cáscara de psyllium perfecta llegue a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todas las regulaciones internacionales relevantes sobre fibra dietética y requisitos de etiquetado asegura un acceso al mercado sin problemas en todo el mundo."
+    ]
+  },
+  {
+    "id": "10",
+    "hs_code": "09093119",
+    "category": "Especias",
+    "name": "Comino Negro (Kalonji)",
+    "image": "images/products/spices/black_cumin.jpg",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Fortalece la respuesta inmune a través de potentes compuestos bioactivos que mejoran los mecanismos de defensa naturales, satisfaciendo la demanda explosiva de ingredientes funcionales para el bienestar.",
+      "Elimina la inflamación a través de la modulación científicamente verificada de marcadores inflamatorios clave, proporcionando afirmaciones funcionales convincentes para productos de salud premium.",
+      "Optimiza la función digestiva con compuestos naturales que restauran el equilibrio intestinal y mejoran la absorción de nutrientes, brindando beneficios medibles para el consumidor.",
+      "Protege las células con una capacidad antioxidante excepcional que proporciona protección demostrable contra los factores de estrés ambiental, creando poderosas ventajas de marketing."
+    ],
+    "description": "Comande un posicionamiento premium con nuestro Exclusivo Kalonji (Comino Negro), cosechado estratégicamente durante la temporada de crecimiento óptima de la India (octubre a febrero) en las regiones de cultivo más prestigiosas del país en Gujarat, Maharashtra y Madhya Pradesh. Los especialistas en adquisiciones exigentes reconocen que nuestras semillas de Nigella sativa ofrecen una potencia incomparable en los mercados internacionales a través de siglos de cultivo selectivo combinado con métodos de procesamiento patentados. El excepcional contenido de aceite del 30-40% – significativamente por encima del estándar de la industria – proporciona una ventaja medible en la potencia terapéutica y el impacto del sabor en aplicaciones culinarias, formulaciones medicinales y cosméticos premium. Este ingrediente estratégico satisface la explosiva demanda global de propiedades antiinflamatorias, antioxidantes y antibacterianas clínicamente probadas en formulaciones de productos naturales. Los compradores internacionales con visión de futuro comprenden que nuestro kalonji premium representa no simplemente una compra de especias, sino un ingrediente de bienestar transformador que proporciona una diferenciación inmediata en las categorías centradas en la salud más competitivas de la actualidad.",
+    "quality_options": [
+      "IPM: Asegure el acceso exclusivo a nuestro revolucionario sistema de cultivo de Manejo Integrado de Plagas que equilibra armoniosamente los enfoques ecológicos con una intervención mínima, resultando en semillas demostrablemente más limpias y potentes con perfiles bioactivos superiores.",
+      "Orgánico: Capitalice nuestras prácticas 100% orgánicas certificadas que eliminan todos los insumos químicos sintéticos, creando un ingrediente puro y sin concesiones que cumple con los estándares de certificación internacionales más estrictos.",
+      "Convencional: Aproveche nuestra agricultura tradicional controlada con precisión con una aplicación cuidadosamente monitoreada de tratamientos aprobados, produciendo kalonji consistentemente excepcional mientras se mantiene una gestión agrícola responsable que construye la credibilidad de la marca."
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 14 TM",
+      "Contenedor de 40 pies: 27 TM"
+    ],
+    "specifications": [
+      "Tipo: Semillas de kalonji enteras premium con potencia y pureza garantizadas",
+      "Color: Coloración negra profunda y lustrosa que indica madurez óptima y contenido de aceite",
+      "Forma: Semillas pequeñas e irregulares perfectamente formadas con dispersión ideal del sabor",
+      "Tamaño: Calibración precisa de 1-2 mm (0.04-0.08 pulgadas) para un rendimiento consistente",
+      "Sabor: Perfil distintivo a nuez con notas amargas perfectamente equilibradas",
+      "Aroma: Bouquet dominante picante y terroso que señala calidad auténtica",
+      "Proceso: Limpieza avanzada multietapa y tecnología de clasificación de precisión",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus requisitos exactos",
+      "Humedad: Controlada científicamente a menos del 10% para maximizar la estabilidad bioactiva",
+      "Contenido de Aceite: Concentración excepcional del 30-40% para una eficacia terapéutica superior"
+    ],
+    "variety": [
+      "Nigella sativa premium con potencia verificada y origen botánico autenticado"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un perfilado bioactivo completo en nuestro laboratorio de última generación, asegurando una potencia excepcional y consistencia terapéutica.",
+      "Empaque: Solo se utilizan materiales premium con barrera de oxígeno y protectores de la luz, preservando los compuestos bioactivos críticos a lo largo de extensas cadenas de suministro globales.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo garantiza una trazabilidad completa con prácticas certificadas de comercio justo que mejoran la confianza de la marca en mercados conscientes.",
+      "Auditorías Regulares: La verificación sistemática a través de evaluaciones exhaustivas por terceros asegura un cumplimiento impecable mientras identifica oportunidades de mejora continua.",
+      "Equipo de Control de Calidad Capacitado: Nuestros expertos botánicos especializados implementan protocolos de inspección patentados para verificar que solo el kalonji perfecto llegue a nuestros exigentes clientes globales.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de productos naturales y requisitos de etiquetado asegura una aprobación regulatoria sin problemas en todo el mundo."
+    ]
+  },
+  {
+    "id": "11",
+    "hs_code": "09109931",
+    "category": "Especias",
+    "name": "Cardamomo",
+    "harvest_season": "Septiembre a Diciembre",
+    "image": "images/products/spices/cardamom.jpg",
+    "features": [
+      "Revoluciona el confort digestivo a través de potentes compuestos naturales que alivian instantáneamente el malestar gastrointestinal, proporcionando valor inmediato a los consumidores conscientes del bienestar.",
+      "Crea una extraordinaria frescura oral con su distintivo perfil aromático, ofreciendo funcionalidad de doble propósito como especia culinaria y ambientador natural.",
+      "Protege las células con potentes compuestos antioxidantes que proporcionan protección medible contra el estrés oxidativo, permitiendo potentes afirmaciones de marketing centradas en la salud.",
+      "Mejora la función respiratoria a través de aceites esenciales naturales que abren las vías respiratorias y apoyan la salud pulmonar, satisfaciendo la creciente demanda de soluciones de bienestar natural."
+    ],
+    "description": "Asegure un posicionamiento de lujo innegable con nuestro Exclusivo Cardamomo Premium, meticulosamente cultivado en las prestigiosas regiones de cultivo de gran altitud de la India en las verdes colinas de Kerala, Tamil Nadu y Karnataka. Los especialistas en adquisiciones exigentes reconocen que nuestras vainas de Elettaria cardamomum ofrecen una distinción sensorial inigualable a través de siglos de experiencia en cultivo tradicional combinada con estrictos protocolos de selección. El excepcional contenido de aceite volátil del 5-7% – sustancialmente por encima del estándar de la industria – proporciona un impacto aromático inmediato y una eficacia terapéutica en aplicaciones culinarias premium, confitería, bebidas y formulaciones de bienestar. Este ingrediente icónico crea experiencias de sabor únicas con su perfil único dulce-salado que eleva instantáneamente los productos por encima de las alternativas ordinarias. Los compradores internacionales con visión de futuro comprenden que nuestro cardamomo premium representa no simplemente una compra de especias, sino un ingrediente transformador que proporciona una diferenciación sensorial inmediata y un posicionamiento de lujo en las categorías de productos premium más rentables de la actualidad.",
+    "quality_options": [
+      "Experimente la extraordinaria diferencia de nuestro contenido de aceite volátil del 5-7% – superando significativamente los estándares del mercado – ofreciendo una intensidad aromática y un impacto de sabor inigualables en cada aplicación.",
+      "Benefíciese de nuestra tecnología patentada de limpieza y clasificación de precisión que garantiza una apariencia visual perfecta y un tamaño de vaina consistente para una presentación premium y un rendimiento confiable.",
+      "Confíe en nuestros avanzados sistemas de empaque de grado alimenticio con tecnología especializada de bloqueo de aroma que preserva los distintivos compuestos de fragancia a lo largo de extensas cadenas de suministro globales.",
+      "Confíe en nuestro cumplimiento integral con los estándares y regulaciones internacionales de calidad más estrictos, asegurando una aceptación sin problemas incluso en los mercados de lujo más exigentes."
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 8 TM",
+      "Contenedor de 40 pies: 16 TM"
+    ],
+    "specifications": [
+      "Tipo: Vainas de cardamomo enteras prístinas con potencia aromática verificada",
+      "Color: Tono verde vibrante que señala frescura máxima y cosecha óptima",
+      "Forma: Vainas pequeñas e irregulares perfectamente formadas con cámaras de semillas consistentes",
+      "Tamaño: Calibración precisa de 5-9 mm (0.2-0.4 pulgadas) para calidad garantizada",
+      "Sabor: Perfil distintivo dulce-salado con profundidad aromática compleja",
+      "Aroma: Presencia aromática única y poderosa que crea un impacto inmediato",
+      "Proceso: Tecnología avanzada de limpieza y clasificación multietapa para una presentación perfecta",
+      "Empaque: Soluciones de empaque a medida adaptadas a sus especificaciones exactas",
+      "Humedad: Controlada científicamente a menos del 10% para preservar los compuestos volátiles",
+      "Contenido de Aceite Volátil: Concentración excepcional del 5-7% para un rendimiento sensorial superior"
+    ],
+    "variety": [
+      "Cardamomo Verde: Nuestra variedad insignia con brillante coloración esmeralda y extraordinaria complejidad aromática buscada por marcas globales premium.",
+      "Cardamomo Negro: Variedad ahumada distintiva con perfil de sabor robusto ideal para aplicaciones saladas de autor y formulaciones étnicas auténticas."
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Cada lote de producción se somete a un análisis exhaustivo de aceite volátil en nuestro laboratorio de última generación, asegurando una potencia aromática y consistencia sensorial excepcionales.",
+      "Empaque: Solo se emplean materiales protectores especializados de triple capa con sello de aroma, preservando los delicados aceites esenciales a lo largo de las cadenas de suministro globales más desafiantes.",
+      "Transparencia de la Cadena de Suministro: Nuestro exclusivo modelo de abastecimiento directo desde la granja garantiza una trazabilidad completa con prácticas certificadas de comercio justo que mejoran el posicionamiento de la marca en mercados premium.",
+      "Auditorías Regulares: La verificación sistemática a través de evaluaciones exhaustivas por terceros asegura un cumplimiento impecable mientras eleva continuamente los estándares de calidad.",
+      "Equipo de Control de Calidad Capacitado: Nuestros expertos especializados en especias aromáticas implementan protocolos de inspección multisensoriales patentados para verificar que solo el cardamomo perfecto llegue a nuestros clientes globales más exigentes.",
+      "Cumplimiento de Regulaciones: Adherencia absoluta a todos los marcos internacionales relevantes de la industria de especias y requisitos de etiquetado asegura una aprobación regulatoria sin problemas en cada mercado objetivo."
+    ]
+  },
+  {
+    "id": "12",
+    "hs_code": "0910",
+    "category": "Especias",
+    "name": "Semillas de Fenogreco",
+    "image": "images/products/spices/fenugreek_seed.jpg",
+    "harvest_season": "Octubre a Febrero",
+    "features": [
+      "Potentes propiedades antiinflamatorias que promueven el bienestar general y la salud articular",
+      "Ayuda digestiva superior que mejora la absorción de nutrientes y el equilibrio del microbioma intestinal",
+      "Clínicamente probado para apoyar niveles equilibrados de azúcar en sangre y salud metabólica",
+      "Contenido excepcional de proteínas y fibra que supera a la mayoría de las semillas comparables"
+    ],
+    "description": "Nuestras semillas premium de Fenogreco representan la mejor cosecha de las legendarias regiones productoras de especias de la India en Gujarat, Maharashtra y Madhya Pradesh. Cultivadas durante la temporada invernal óptima (octubre a febrero), nuestras semillas se benefician de la posición de la India como el principal productor mundial de fenogreco. Derivadas de la prístina planta Trigonella foenum-graecum, estas semillas encarnan siglos de sabiduría medicinal tradicional y excelencia culinaria. Sus notables propiedades antiinflamatorias, capacidades de mejora digestiva y beneficios de regulación del azúcar en sangre las convierten en un ingrediente fundamental para compradores globales exigentes. Con un contenido impresionantemente alto de proteínas y fibra, nuestras Semillas de Fenogreco de grado de exportación ofrecen un valor excepcional en múltiples aplicaciones, desde cocina gourmet y alimentos funcionales hasta formulaciones farmacéuticas y suplementos de nutrición animal premium.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Cultivo ambientalmente armonioso que garantiza un control óptimo de plagas con un impacto ecológico mínimo",
+      "Orgánico: Métodos de producción certificados libres de insumos sintéticos, dirigidos a consumidores conscientes en todo el mundo",
+      "Convencional: Cultivo tradicional que ofrece calidad constante y precios competitivos"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 13 TM de producto premium con utilización óptima del espacio",
+      "Contenedor de 40 pies: 27 TM asegurando soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Tipo: Semillas de fenogreco enteras prístinas con calidad constante",
+      "Color: Marrón amarillento intenso que indica madurez perfecta",
+      "Forma: Forma pequeña e irregular distintiva característica de calidad premium",
+      "Tamaño: Preciso 2-3 mm (0.08-0.12 pulgadas) para aplicaciones culinarias e industriales óptimas",
+      "Sabor: Agradablemente amargo con sutiles matices dulces que realzan la complejidad culinaria",
+      "Aroma: Bouquet distintivo a nuez y terroso que significa autenticidad",
+      "Proceso: Limpieza y clasificación avanzada a máquina para una pureza incomparable",
+      "Empaque: Soluciones de empaque flexibles adaptadas a sus requisitos específicos",
+      "Humedad: Cuidadosamente controlada por debajo del 10% para garantizar la máxima vida útil",
+      "Contenido de Proteína: Concentración excepcional de proteína del 20-25% para un valor nutricional superior"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Análisis de laboratorio de última generación que garantizan estándares de calidad y pureza constantes",
+      "Empaque: Materiales premium de grado alimenticio diseñados específicamente para preservar el aroma y la frescura durante el tránsito global",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo al puerto con abastecimiento directo y certificación verificada de comercio justo",
+      "Auditorías Regulares: Monitoreo sistemático del cumplimiento de la calidad que garantiza la mejora continua y la excelencia constante",
+      "Equipo de Control de Calidad Capacitado: Especialistas expertos que realizan inspecciones rigurosas en cada etapa de producción",
+      "Cumplimiento de Regulaciones: Adherencia total a los protocolos internacionales de seguridad alimentaria y requisitos de etiquetado específicos de cada país"
+    ]
+  },
+  {
+    "id": "13",
+    "hs_code": "09109914",
+    "category": "Especias",
+    "name": "Ajwain",
+    "image": "images/products/spices/ajwain.png",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Catalizador digestivo revolucionario que transforma la salud intestinal y mejora la absorción de nutrientes",
+      "Potente remedio natural probado eficaz contra las afecciones respiratorias estacionales",
+      "Fortalecedor excepcional del sistema inmunológico con propiedades antimicrobianas naturales",
+      "Potente agente antiinflamatorio que promueve el bienestar holístico"
+    ],
+    "description": "Nuestro Ajwain de grado de exportación (Semillas de Carom) representa el logro culminante de la cosecha de verano de la India (junio a septiembre), obtenido exclusivamente de las principales regiones de cultivo de Gujarat, Maharashtra y Madhya Pradesh. Como uno de los productores preeminentes de ajwain del mundo, la India proporciona el terruño ideal para desarrollar estas excepcionales semillas de Trachyspermum ammi. Apreciado durante siglos en las tradiciones ayurvédicas, nuestro Ajwain ofrece beneficios terapéuticos incomparables: revoluciona la salud digestiva, proporciona un alivio respiratorio superior y refuerza la función inmunológica a través de sus propiedades antimicrobianas naturales. Con una impresionante concentración de aceite esencial del 2-4%, nuestro Ajwain premium supera los estándares de la industria y ofrece una versatilidad excepcional en aplicaciones culinarias, formulaciones farmacéuticas y aromaterapia terapéutica. Elija nuestro Ajwain para elevar sus ofertas de productos con la auténtica calidad india que demandan los exigentes consumidores globales.",
+    "quality_options": [],
+    "container_capacity": [
+      "Contenedor de 20 pies: 13.5 TM proporcionando una eficiencia logística óptima",
+      "Contenedor de 40 pies: 27 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Tipo: Semillas de ajwain enteras premium con pureza inigualable",
+      "Color: Marrón intenso a marrón grisáceo distintivo que indica madurez perfecta",
+      "Forma: Forma pequeña e irregular característica del ajwain auténtico",
+      "Tamaño: Consistente 1-2 mm (0.04-0.08 pulgadas) para una liberación ideal del sabor",
+      "Sabor: Audazmente picante con notas amargas perfectamente equilibradas que realzan las aplicaciones culinarias",
+      "Aroma: Bouquet potente y terroso con distintivas notas de timol",
+      "Proceso: Limpieza avanzada a máquina y clasificación de precisión para una calidad superior",
+      "Empaque: Soluciones de empaque personalizables que cumplen con los requisitos específicos del mercado",
+      "Humedad: Cuidadosamente mantenida por debajo del 10% asegurando una estabilidad prolongada en almacenamiento",
+      "Contenido de Aceite Esencial: Concentración excepcional del 2-4% garantizando sabor superior y beneficios terapéuticos"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Análisis exhaustivos en nuestro laboratorio de última generación aseguran el cumplimiento de los parámetros de calidad internacionales más estrictos",
+      "Empaque: Materiales superiores de grado alimenticio diseñados específicamente para preservar la frescura distintiva y el perfil aromático durante el tránsito global",
+      "Transparencia de la Cadena de Suministro: Asociaciones directas con agricultores con documentación completa que garantiza un abastecimiento ético y una auténtica certificación de comercio justo",
+      "Auditorías Regulares: Protocolos sistemáticos de verificación de calidad con monitoreo continuo para mantener una excelencia intransigente",
+      "Equipo de Control de Calidad Capacitado: Profesionales especializados que realizan inspecciones meticulosas de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados internacionales",
+      "Cumplimiento de Regulaciones: Adherencia integral a los estándares globales de seguridad alimentaria y requisitos de etiquetado específicos del mercado"
+    ]
+  },
+  {
+    "id": "14",
+    "hs_code": "12079990",
+    "category": "Especias",
+    "name": "Semillas de Chía",
+    "image": "images/products/spices/chia_seed.jpg",
+    "harvest_season": "Junio a Septiembre",
+    "features": [
+      "Concentración excepcional de ácidos grasos Omega-3 que apoya el bienestar cardiovascular y reduce la inflamación",
+      "Contenido superior de fibra que revoluciona la salud digestiva y mejora los programas de control de peso",
+      "Perfil completo de proteínas con formulación rica en antioxidantes para beneficios nutricionales integrales",
+      "Versatilidad inigualable para aplicaciones premium en panadería, bebidas y formulaciones nutracéuticas"
+    ],
+    "description": "Nuestras Semillas de Chía de calidad de exportación representan el pináculo de la cosecha de verano de la India (junio a septiembre), cultivadas en las fértiles tierras centrales de Gujarat, Maharashtra y Madhya Pradesh. Como productor global líder de chía premium, la India proporciona las condiciones de crecimiento perfectas para estas excepcionales semillas de Salvia hispanica. Nuestras Semillas de Chía ofrecen un perfil nutricional incomparable, con notables concentraciones de fibra esencial, proteína completa, ácidos grasos omega-3 y potentes antioxidantes. Esta potencia nutricional mejora cualquier línea de productos con una funcionalidad y comerciabilidad excepcionales en múltiples aplicaciones, desde panadería artesanal y formulaciones de bebidas premium hasta suplementos dietéticos de vanguardia que resuenan con los consumidores conscientes de la salud en todo el mundo. Asóciese con nosotros para acceder a las mejores semillas de chía de la India y distinguir su marca en el competitivo mercado global de superalimentos.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Cultivo avanzado consciente del medio ambiente que garantiza una calidad excepcional del cultivo preservando el equilibrio ecológico",
+      "Orgánico: Cultivo certificado sin químicos sintéticos, cumpliendo con los estándares orgánicos internacionales más estrictos",
+      "Convencional: Métodos de cultivo tradicionales con gestión cuidadosa de insumos que garantizan calidad constante y precios competitivos"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 18 TM proporcionando una eficiencia óptima de envío a granel"
+    ],
+    "specifications": [
+      "Tipo: Semillas de chía enteras premium con estándares de pureza excepcionales",
+      "Color: Marrón grisáceo perfecto a negro que indica madurez óptima y densidad de nutrientes",
+      "Forma: Formación ovalada clásica característica de la chía de grado superior",
+      "Tamaño: Uniforme 1-2 mm (0.04-0.08 pulgadas) para un rendimiento consistente en todas las aplicaciones",
+      "Proteína: Concentración superior del 15-20% para un valor nutricional mejorado",
+      "Fibra: Contenido excepcional del 30-40% que respalda las afirmaciones de salud digestiva y metabólica",
+      "Ácidos Grasos Omega-3: Perfil premium del 20-30% que ofrece excelentes beneficios para la salud cardíaca",
+      "Proceso: Limpieza avanzada a máquina y clasificación de precisión asegurando una pureza inigualable",
+      "Empaque: Soluciones de empaque personalizables diseñadas para sus requisitos específicos de mercado",
+      "Humedad: Mantenida científicamente por debajo del 10% para una máxima estabilidad en almacenamiento",
+      "Impurezas: Garantizado menos del 1% para calidad de grado farmacéutico"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Análisis exhaustivos en laboratorios avanzados que garantizan el cumplimiento constante de los puntos de referencia de calidad internacionales",
+      "Empaque: Materiales premium de grado alimenticio diseñados específicamente para preservar la integridad nutricional y la frescura durante el tránsito global",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo a la exportación con asociaciones directas de agricultores que garantizan un abastecimiento ético y una trazabilidad auténtica",
+      "Auditorías Regulares: Protocolos sistemáticos de verificación de calidad con monitoreo continuo para mantener una excelencia intransigente",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados que realizan inspecciones de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados globales",
+      "Cumplimiento de Regulaciones: Adherencia integral a los protocolos internacionales de seguridad y requisitos de etiquetado específicos del mercado"
+    ]
+  },
+  {
+    "id": "15",
+    "hs_code": "09109911",
+    "category": "Especias",
+    "name": "Semillas de Apio",
+    "image": "images/products/spices/celery_seed.jpg",
+    "harvest_season": "Octubre a Febrero",
+    "features": [
+      "Potente agente antiinflamatorio natural dirigido a múltiples vías inflamatorias",
+      "Catalizador digestivo superior que mejora el equilibrio del microbioma intestinal y la absorción de nutrientes",
+      "Soporte avanzado del sistema inmunológico con propiedades antimicrobianas de amplio espectro",
+      "Perfil excepcional de aceite esencial y antioxidante que supera los estándares de la industria"
+    ],
+    "description": "Nuestra Semilla de Apio premium representa la mejor cosecha de invierno (octubre a febrero) de las renombradas regiones de cultivo de la India en Gujarat, Maharashtra y Madhya Pradesh. Como líder mundial en la producción de semillas de apio, la India proporciona el clima ideal para desarrollar estas excepcionales semillas de Apium graveolens. Siglos de aplicación medicinal tradicional han validado lo que la investigación moderna confirma: nuestra Semilla de Apio ofrece notables beneficios antiinflamatorios, mejora digestiva superior y soporte inmunológico integral. Con una impresionante concentración de aceite esencial del 1-3%, nuestro producto de grado de exportación supera los puntos de referencia de calidad internacionales y ofrece una versatilidad excepcional en aplicaciones culinarias, formulaciones farmacéuticas y soluciones de aromaterapia. Asóciese con nosotros para acceder a la mejor semilla de apio de la India y elevar sus ofertas de productos con la auténtica calidad que demandan los exigentes consumidores globales.",
+    "quality_options": [
+      "IPM (Manejo Integrado de Plagas): Cultivo ecológico avanzado que garantiza una calidad premium con un impacto ambiental mínimo",
+      "Orgánico: Métodos de producción certificados que garantizan la ausencia de químicos sintéticos",
+      "Convencional: Cultivo tradicional que ofrece calidad constante y precios competitivos"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 13 TM proporcionando una eficiencia logística óptima",
+      "Contenedor de 40 pies: 27 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Tipo: Semillas de apio enteras premium con pureza excepcional",
+      "Color: Marrón intenso a tostado perfecto que indica el momento óptimo de cosecha",
+      "Forma: Forma pequeña e irregular característica de la semilla de apio auténtica",
+      "Tamaño: Consistente 0.5-1 mm (0.02-0.04 pulgadas) para una liberación ideal del sabor",
+      "Sabor: Perfectamente cálido con notas amargas equilibradas que realzan la profundidad culinaria",
+      "Aroma: Bouquet vibrante y herbal con distintivas notas frescas",
+      "Proceso: Limpieza avanzada a máquina y clasificación de precisión para una calidad superior",
+      "Empaque: Soluciones de empaque a medida que cumplen con los requisitos específicos del mercado",
+      "Humedad: Mantenida científicamente por debajo del 10% asegurando una estabilidad prolongada en almacenamiento",
+      "Contenido de Aceite Esencial: Concentración premium del 1-3% garantizando sabor superior y beneficios terapéuticos"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Pruebas de Laboratorio en instalaciones de vanguardia con protocolos analíticos exhaustivos que garantizan puntos de referencia de calidad constantes",
+      "Uso de materiales de empaque premium de grado alimenticio diseñados específicamente para preservar los compuestos aromáticos y extender la vida útil",
+      "Transparencia de la Cadena de Suministro con documentación completa del campo a la exportación y asociaciones directas con agricultores",
+      "Auditorías Regulares realizadas por profesionales independientes de aseguramiento de la calidad que garantizan la mejora continua del cumplimiento",
+      "Equipo de Control de Calidad Capacitado implementando rigurosos protocolos de inspección de múltiples etapas",
+      "Cumplimiento de los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "16",
+    "hs_code": "0907",
+    "category": "Especias",
+    "name": "Clavos",
+    "image": "images/products/spices/clove.jpg",
+    "harvest_season": "Septiembre a Enero",
+    "features": [
+      "Concentración excepcional de antioxidantes que promueve una función inmune superior y protección celular",
+      "Potentes propiedades analgésicas naturales que lo hacen indispensable para las formulaciones de cuidado bucal",
+      "Perfil aromático distintivo que transforma creaciones culinarias y bebidas premium",
+      "Potentes compuestos antimicrobianos y antiinflamatorios con amplias aplicaciones terapéuticas"
+    ],
+    "description": "Nuestros Clavos premium representan el pináculo de la calidad de las mejores regiones de cultivo del mundo en India y Madagascar, donde las condiciones climáticas ideales y las técnicas expertas de cultivo se combinan para producir estos excepcionales botones florales secos de Syzygium aromaticum. Originarios de las Islas Molucas de Indonesia, nuestros Clavos cuidadosamente seleccionados ofrecen una intensidad de sabor y aroma que distingue al producto verdaderamente superior. La notable potencia de nuestros Clavos de grado de exportación los hace indispensables en múltiples industrias, desde aplicaciones culinarias gourmet y formulaciones de bebidas premium hasta preparaciones farmacéuticas y soluciones terapéuticas de aromaterapia. Elija nuestros Clavos para acceder a una calidad incomparable que elevará sus ofertas de productos y satisfará las demandas de los mercados globales más exigentes.",
+    "quality_options": [
+      "Orgánico: Cultivado bajo estrictos protocolos orgánicos certificados, completamente libre de químicos y pesticidas sintéticos, cumpliendo los más altos estándares internacionales",
+      "Convencional: Cultivado utilizando métodos tradicionales con insumos agrícolas cuidadosamente monitoreados, asegurando calidad constante y posicionamiento competitivo en el mercado"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 11 TM con configuración de carga óptima para la integridad del producto",
+      "Contenedor de 40 pies: 22 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Características Físicas: Clavos enteros prístinos con rica coloración marrón y perfecta formación de botones que indican el momento óptimo de cosecha",
+      "Sabor y Aroma: Perfil excepcionalmente fuerte y picante con notas cálidas equilibradas que significan calidad premium",
+      "Humedad: Controlada científicamente por debajo del 10% asegurando máxima estabilidad en almacenamiento y retención de potencia",
+      "Contenido de Aceite Volátil: Concentración superior del 15-20% que supera los estándares de la industria en intensidad de sabor y eficacia terapéutica",
+      "Opciones de Empaque: Soluciones personalizables diseñadas para preservar los compuestos aromáticos durante el tránsito internacional"
+    ],
+    "variety": [
+      "Clavos Indonesios: Reconocidos mundialmente por su calidad excepcional e intensidad de sabor inigualable, cuidadosamente seleccionados de la producción histórica de las Islas Molucas",
+      "Clavos de Madagascar: Distinguidos por su perfil aromático único y calidad constante de las condiciones de cultivo ideales de Madagascar",
+      "Clavos Indios: Selecciones premium de Kerala y Tamil Nadu que presentan un contenido superior de aceite esencial y características de sabor distintivas"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Protocolos analíticos exhaustivos en laboratorios avanzados que garantizan la adherencia constante a los parámetros de calidad internacionales más estrictos",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo a la exportación con certificación verificada de comercio justo y prácticas de abastecimiento ético",
+      "Auditorías Regulares: Verificación sistemática de la calidad que garantiza el monitoreo continuo y la mejora en todas las etapas de producción",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados que implementan protocolos de inspección de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados globales",
+      "Cumplimiento de Regulaciones: Adherencia total a los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "17",
+    "hs_code": "0910",
+    "category": "Especias",
+    "name": "Anís Estrellado",
+    "image": "images/products/spices/star_anise.jpg",
+    "harvest_season": "Febrero a Septiembre",
+    "features": [
+      "Perfil antioxidante excepcional que ofrece protección celular completa y beneficios antienvejecimiento",
+      "Propiedades superiores de mejora digestiva que alivian el malestar y optimizan la absorción de nutrientes",
+      "Potentes compuestos antimicrobianos naturales que proporcionan soporte inmunológico de amplio espectro",
+      "Perfil de sabor distintivo dulce, similar al regaliz, que eleva las creaciones culinarias y las aplicaciones de panadería"
+    ],
+    "description": "Nuestro Anís Estrellado premium representa la mejor selección de las regiones de cultivo más respetadas de China e India, meticulosamente cosechado en su punto máximo de madurez para garantizar una calidad excepcional. Estos distintivos frutos en forma de estrella del árbol Illicium verum provienen de los entornos de cultivo ideales de China y el sudeste asiático. Nuestro Anís Estrellado de grado de exportación ofrece un inconfundible perfil de sabor dulce, similar al regaliz, que transforma las aplicaciones culinarias de simples a extraordinarias. Más allá de su versatilidad culinaria, esta notable especia ofrece impresionantes beneficios terapéuticos, haciéndola invaluable en múltiples industrias, desde la producción de alimentos gourmet y la formulación de bebidas artesanales hasta preparaciones farmacéuticas y aplicaciones de medicina tradicional. Asóciese con nosotros para acceder a Anís Estrellado de clase mundial que distinguirá sus productos en los competitivos mercados globales.",
+    "quality_options": [
+      "Orgánico: Cultivado bajo estrictos protocolos orgánicos certificados completamente libres de pesticidas, herbicidas y fertilizantes sintéticos, cumpliendo los más altos estándares internacionales",
+      "Convencional: Cultivado utilizando métodos tradicionales con insumos agrícolas cuidadosamente monitoreados asegurando calidad constante y posicionamiento competitivo en el mercado"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 10 TM con configuración de carga óptima para mantener la integridad del producto",
+      "Contenedor de 40 pies: 20 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Características Físicas: Frutos de anís estrellado enteros perfectos con rica coloración marrón y distintiva formación de estrella que indica madurez óptima",
+      "Sabor y Aroma: Perfil excepcional dulce, similar al regaliz, con notas aromáticas equilibradas que significan calidad premium",
+      "Humedad: Mantenida científicamente por debajo del 10% asegurando máxima estabilidad en almacenamiento y retención de sabor",
+      "Contenido de Aceite Volátil: Concentración superior del 5-7% que supera los estándares de la industria en intensidad de sabor y eficacia terapéutica",
+      "Opciones de Empaque: Soluciones personalizables diseñadas para preservar las frágiles estructuras de estrella durante el tránsito internacional"
+    ],
+    "variety": [
+      "Anís Estrellado Chino: Reconocido mundialmente por su calidad inigualable y perfil de sabor distintivo, meticulosamente seleccionado de las cosechas premium de las provincias de Guangdong y Guangxi",
+      "Anís Estrellado Indio: Distinguido por su dulzura excepcional y notas de regaliz perfectamente equilibradas, obtenido de las regiones de cultivo especializadas de Kerala y Tamil Nadu"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Protocolos analíticos exhaustivos en laboratorios de última generación que garantizan la adherencia constante a los parámetros de calidad internacionales más estrictos",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo a la exportación con asociaciones directas de agricultores asegurando abastecimiento ético y trazabilidad auténtica",
+      "Auditorías Regulares: Protocolos sistemáticos de verificación de calidad asegurando monitoreo continuo y mejora en todas las etapas de producción",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados implementando protocolos de inspección de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados globales",
+      "Cumplimiento de Regulaciones: Adherencia total a los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "18",
+    "hs_code": "0908",
+    "category": "Especias",
+    "name": "Nuez Moscada",
+    "image": "images/products/spices/nutmeg.jpg",
+    "harvest_season": "Junio-Agosto",
+    "features": [
+      "Potente perfil antioxidante que mejora el sistema inmunológico y fortalece los sistemas de defensa naturales",
+      "Catalizador digestivo superior que elimina la hinchazón y optimiza la función gastrointestinal",
+      "Potentes compuestos antiinflamatorios dirigidos al malestar articular y la inflamación crónica",
+      "Propiedades ansiolíticas naturales que promueven la claridad mental y la reducción del estrés"
+    ],
+    "description": "Nuestra Nuez Moscada premium representa la mejor selección de las legendarias islas de las especias de Indonesia, donde las condiciones de cultivo ideales producen las semillas de Myristica fragrans más excepcionales del mundo. Originaria de las históricas Islas Banda, nuestra Nuez Moscada cuidadosamente seleccionada ofrece una intensidad de sabor cálido, ligeramente dulce y aroma que distingue al producto verdaderamente superior. La notable versatilidad de nuestra Nuez Moscada de grado de exportación la hace indispensable en múltiples industrias, desde aplicaciones culinarias gourmet y productos de panadería premium hasta formulaciones terapéuticas de aromaterapia y preparaciones de medicina tradicional. Asóciese con nosotros para acceder a la mejor Nuez Moscada de Indonesia que elevará sus ofertas de productos y satisfará las expectativas de los mercados globales más exigentes.",
+    "quality_options": [
+      "Orgánico: Cultivado bajo estrictos protocolos orgánicos certificados completamente libres de químicos y pesticidas sintéticos, cumpliendo los más altos estándares internacionales",
+      "Convencional: Cultivado utilizando métodos tradicionales con insumos agrícolas cuidadosamente monitoreados asegurando calidad constante y posicionamiento competitivo en el mercado"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 pies: 13 TM con configuración de carga óptima para la integridad del producto",
+      "Contenedor de 40 pies: 27 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Características Físicas: Semillas de nuez moscada enteras perfectas con rica coloración marrón y forma ovalada consistente que indica madurez óptima",
+      "Sabor y Aroma: Perfil excepcional cálido, ligeramente dulce con notas aromáticas equilibradas que significan calidad premium",
+      "Humedad: Controlada científicamente por debajo del 10% asegurando máxima estabilidad en almacenamiento y retención de potencia",
+      "Contenido de Aceite Volátil: Concentración superior del 7-12% que supera los estándares de la industria en intensidad de sabor y eficacia terapéutica",
+      "Opciones de Empaque: Soluciones personalizables diseñadas para preservar los compuestos aromáticos durante el tránsito internacional"
+    ],
+    "variety": [
+      "Nuez Moscada Indonesia: Reconocida mundialmente por su calidad inigualable y perfil de sabor distintivo, meticulosamente seleccionada de las regiones de producción premium de Sumatra",
+      "Nuez Moscada India: Distinguida por su calidez excepcional y notas dulces perfectamente equilibradas, obtenida de las áreas de cultivo especializadas de Kerala"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Protocolos analíticos exhaustivos en instalaciones de última generación asegurando la adherencia constante a los parámetros de calidad internacionales más estrictos",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo a la exportación con asociaciones directas de agricultores asegurando abastecimiento ético y trazabilidad auténtica",
+      "Auditorías Regulares: Verificación sistemática de la calidad asegurando monitoreo continuo y mejora en todas las etapas de producción",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados implementando protocolos de inspección de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados globales",
+      "Cumplimiento de Regulaciones: Adherencia total a los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "19",
+    "hs_code": "090611",
+    "category": "Especias",
+    "name": "Canela",
+    "image": "images/products/spices/cinnamon.jpg",
+    "harvest_season": "Mayo, Septiembre a Noviembre",
+    "features": [
+      "Extraordinario perfil de sabor cálido y dulce que transforma recetas ordinarias en creaciones premium",
+      "Potencial de aplicación versátil en tradiciones culinarias dulces y saladas en todo el mundo",
+      "Obtenida exclusivamente de las mejores regiones de cultivo de Sri Lanka e Indonesia para una calidad inigualable",
+      "Disponible en variedades orgánicas certificadas y convencionales premium para satisfacer diversas demandas del mercado"
+    ],
+    "description": "Nuestras Ramas de Canela premium representan el pináculo de la calidad de las regiones de cultivo más distinguidas de Sri Lanka e Indonesia, donde generaciones de experiencia producen la mejor corteza de Cinnamomum verum del mundo. Originaria de Sri Lanka, nuestra Canela cuidadosamente cosechada ofrece un incomparable perfil cálido, dulce y especiado que define un producto verdaderamente excepcional. La notable versatilidad de nuestra Canela de grado de exportación la hace esencial en múltiples industrias, desde panadería artesanal y cocina gourmet hasta formulaciones de medicina tradicional y desarrollo de bebidas premium. Elija nuestra Canela para acceder a una calidad incomparable que elevará sus ofertas de productos y cumplirá con las expectativas de los mercados globales más exigentes.",
+    "quality_options": [
+      "Orgánico: Cultivado bajo estrictos protocolos orgánicos certificados completamente libres de químicos sintéticos, cumpliendo los más altos estándares internacionales",
+      "Convencional: Cultivado utilizando métodos tradicionales con insumos agrícolas cuidadosamente monitoreados asegurando calidad constante y precios competitivos"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 Pies: 7 TM con configuración de carga especializada para mantener la integridad de las ramas",
+      "Contenedor de 40 Pies: 14 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Características Físicas: Ramas de canela enteras perfectas con rica coloración marrón y precisa formación cilíndrica",
+      "Tamaño: Selección premium que varía de 10-20 cm de longitud y 2-3 cm de diámetro para una calidad constante",
+      "Sabor y Aroma: Perfil excepcional cálido, dulce y especiado con complejidad equilibrada que significa grado superior",
+      "Humedad: Controlada científicamente por debajo del 13% asegurando máxima estabilidad en almacenamiento y retención de sabor",
+      "Opciones de Empaque: Soluciones personalizables diseñadas para proteger las delicadas ramas durante el tránsito internacional"
+    ],
+    "variety": [
+      "Canela de Ceilán: La verdadera canela de los conocedores, reconocida mundialmente por su delicado sabor y calidad distintiva, exclusiva de las principales regiones de cultivo de Sri Lanka",
+      "Canela Indonesia: Distinguida por su calidez excepcional y notas dulces perfectamente equilibradas, cuidadosamente seleccionada de las áreas de producción especializadas de Sumatra"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Protocolos analíticos exhaustivos en instalaciones de última generación asegurando la adherencia constante a los parámetros de calidad internacionales más estrictos",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo a la exportación con asociaciones directas de agricultores asegurando abastecimiento ético y trazabilidad auténtica",
+      "Auditorías Regulares: Verificación sistemática de la calidad asegurando monitoreo continuo y mejora en todas las etapas de producción",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados implementando protocolos de inspección de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados globales",
+      "Cumplimiento de Regulaciones: Adherencia total a los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "20",
+    "hs_code": "1204",
+    "category": "Especias",
+    "name": "Semilla de Lino",
+    "image": "images/products/spices/flax_seed.jpg",
+    "harvest_season": "Febrero y Marzo",
+    "features": [
+      "Perfil excepcional de ácidos grasos omega-3 que promueve una salud cardiovascular superior y reduce la inflamación",
+      "Contenido premium de fibra que revoluciona el bienestar digestivo y apoya los programas de control de peso",
+      "Versatilidad inigualable en formulaciones alimentarias premium, nutrición animal especializada y aplicaciones industriales",
+      "Disponible en variedades orgánicas certificadas y convencionales premium para satisfacer diversos requisitos del mercado"
+    ],
+    "description": "Nuestra Linaza premium representa la mejor cosecha de las regiones de cultivo especializadas de la India en Madhya Pradesh y Rajasthan, donde las condiciones climáticas ideales producen una calidad excepcional. Estas oleaginosas nutricionalmente superiores ofrecen un impresionante perfil de ácidos grasos omega-3, fibra dietética y proteína vegetal que distingue al producto verdaderamente premium. El excepcional sabor a nuez y la textura satisfactoria de nuestra Linaza de grado de exportación la hacen invaluable en múltiples aplicaciones, desde el desarrollo de alimentos funcionales y panadería artesanal hasta formulaciones de nutrición animal premium y usos industriales especializados. Asóciese con nosotros para acceder a la mejor Linaza de la India y elevar sus ofertas de productos con excelencia nutricional que satisface las demandas de los mercados globales conscientes de la salud.",
+    "quality_options": [
+      "Orgánico: Cultivado bajo estrictos protocolos orgánicos certificados completamente libres de químicos sintéticos, cumpliendo los más altos estándares internacionales",
+      "Convencional: Cultivado utilizando métodos tradicionales con insumos agrícolas cuidadosamente monitoreados asegurando calidad constante y posicionamiento competitivo en el mercado"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 Pies: 10 TM con configuración de carga especializada para mantener la integridad de la semilla",
+      "Contenedor de 40 Pies: 20 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Características Físicas: Semillas de lino enteras perfectas que varían de marrón intenso a ámbar dorado, con formación ovalada consistente que indica calidad premium",
+      "Tamaño: Disponible en selecciones pequeñas, medianas y grandes clasificadas con precisión para satisfacer requisitos específicos de aplicación",
+      "Contenido de Aceite: Concentración excepcional del 30-40% que ofrece un valor nutricional superior y rendimiento funcional",
+      "Contenido de Proteína: Perfil premium del 20-25% que supera los estándares de la industria para aplicaciones nutricionales",
+      "Contenido de Fibra: Contenido notable del 20-25% que respalda las afirmaciones de salud digestiva y las formulaciones de alimentos funcionales",
+      "Opciones de Empaque: Soluciones personalizables diseñadas para preservar la integridad nutricional durante el tránsito internacional"
+    ],
+    "variety": [
+      "Linaza de Madhya Pradesh: Distinguida por un contenido de aceite excepcionalmente alto y un perfil de sabor distintivo, meticulosamente seleccionada de las regiones de cultivo premium de Madhya Pradesh",
+      "Linaza de Rajasthan: Reconocida por su calidad superior y densidad de nutrientes constante, cuidadosamente obtenida de las áreas de producción especializadas de Rajasthan"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Protocolos analíticos exhaustivos en laboratorios de última generación asegurando la adherencia constante a los parámetros de calidad internacionales más estrictos",
+      "Transparencia de la Cadena de Suministro: Documentación completa del campo a la exportación con asociaciones directas de agricultores asegurando abastecimiento ético y trazabilidad auténtica",
+      "Auditorías Regulares: Verificación sistemática de la calidad asegurando monitoreo continuo y mejora en todas las etapas de producción",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados implementando protocolos de inspección de múltiples etapas para garantizar que solo los productos premium lleguen a los mercados globales",
+      "Cumplimiento de Regulaciones: Adherencia total a los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "21",
+    "hs_code": "10085000",
+    "category": "Especias",
+    "name": "Pimienta Negra",
+    "image": "images/products/spices/black_pepper.jpg",
+    "harvest_season": "Noviembre a Marzo",
+    "features": [
+      "Perfil de sabor picante distintivo que transforma platos ordinarios en obras maestras culinarias",
+      "Versatilidad excepcional en tradiciones culinarias globales y aplicaciones farmacéuticas",
+      "Concentración superior de piperina que ofrece biodisponibilidad mejorada y beneficios terapéuticos",
+      "Obtenida exclusivamente de las principales regiones de cultivo de India y Vietnam para una calidad inigualable"
+    ],
+    "description": "Nuestra Pimienta Negra premium representa el pináculo de la calidad de las regiones de cultivo más distinguidas de India y Vietnam, donde las condiciones climáticas ideales y generaciones de experiencia se combinan para producir los mejores frutos de Piper nigrum del mundo. Cosechada en su punto máximo de madurez y secada expertamente, nuestra Pimienta Negra cuidadosamente seleccionada ofrece un incomparable perfil picante y penetrante que define un producto verdaderamente excepcional. La notable versatilidad de nuestra Pimienta Negra de grado de exportación la hace esencial en cocinas globales y múltiples industrias, desde la producción de alimentos gourmet y mezclas de condimentos artesanales hasta formulaciones de medicina tradicional y aplicaciones nutracéuticas. Asóciese con nosotros para acceder a una calidad de Pimienta Negra incomparable que elevará sus ofertas de productos y satisfará las expectativas de los mercados globales más exigentes.",
+    "quality_options": [
+      "Orgánico: Cultivado bajo estrictos protocolos orgánicos certificados completamente libres de insumos sintéticos, cumpliendo los más altos estándares internacionales",
+      "Convencional: Cultivado utilizando métodos tradicionales con prácticas agrícolas cuidadosamente monitoreadas asegurando calidad constante y precios competitivos"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 Pies: 6 TM con configuración de carga especializada para mantener la integridad del producto",
+      "Contenedor de 40 Pies: 12 TM ofreciendo soluciones económicas de envío a granel"
+    ],
+    "specifications": [
+      "Características Físicas: Granos de pimienta negra enteros perfectos con rica coloración marrón oscuro a negro y forma esférica consistente que indica madurez óptima",
+      "Sabor y Aroma: Perfil excepcional picante y penetrante con complejidad equilibrada que significa grado premium",
+      "Humedad: Controlada científicamente por debajo del 10% asegurando máxima estabilidad en almacenamiento y retención de potencia",
+      "Contenido de Piperina: Concentración superior del 4-6% que supera los estándares de la industria en intensidad de sabor y eficacia terapéutica",
+      "Opciones de Empaque: Soluciones personalizables diseñadas para preservar los compuestos aromáticos durante el tránsito internacional"
+    ],
+    "variety": [
+      "Pimienta Negra India: Reconocida mundialmente por su calidad incomparable y perfil de sabor distintivo, meticulosamente seleccionada de las cosechas premium de Kerala y Tamil Nadu",
+      "Pimienta Negra Vietnamita: Distinguida por su excepcional pungencia y agudeza perfectamente equilibrada, cuidadosamente obtenida de las regiones de cultivo especializadas de Dak Lak y Gia Lai"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Rigurosos procedimientos analíticos en nuestro laboratorio avanzado asegurando la adherencia constante a los puntos de referencia de calidad globales",
+      "Transparencia de la Cadena de Suministro: Documentación completa desde la granja hasta la exportación con verificación de abastecimiento ético",
+      "Auditorías Regulares: Programas sistemáticos de monitoreo de calidad asegurando la mejora continua en todas las etapas de producción",
+      "Equipo de Control de Calidad Capacitado: Expertos especializados implementando protocolos de inspección exhaustivos en cada etapa",
+      "Cumplimiento de Regulaciones: Adherencia completa a los estándares internacionales de seguridad alimentaria y requisitos regulatorios específicos del mercado"
+    ]
+  },
+  {
+    "id": "22",
+    "category": "Especias",
+    "name": "Quinoa",
+    "image": "images/products/spices/quinoa_seed.jpg",
+    "harvest_season": "Agosto y Septiembre",
+    "features": [
+      "Contenido superior de proteínas (15-20%)",
+      "Rica en fibra dietética (5-7%)",
+      "Disponible en variedades blanca, roja y negra",
+      "Opciones tanto orgánicas como convencionales"
+    ],
+    "description": "Experimente la Quinoa premium de las mejores granjas de la India en Rajasthan y Madhya Pradesh. Nuestro superalimento rico en nutrientes ofrece proteínas, fibra y minerales excepcionales con un distintivo sabor a nuez. Perfecto para aplicaciones culinarias, nutricionales e industriales. La mejor Quinoa de grado de exportación de la India, cosechada en su punto óptimo.",
+    "quality_options": [
+      "Orgánico: Cultivo certificado sin insumos sintéticos, trazabilidad completa",
+      "Convencional: Cultivado con precisión utilizando prácticas controladas para una calidad constante"
+    ],
+    "container_capacity": [
+      "Contenedor de 20 Pies: 7 TM",
+      "Contenedor de 40 Pies: 14 TM"
+    ],
+    "specifications": [
+      "Físico: Granos enteros, de blanco a marrón, forma irregular",
+      "Tamaño: Disponible en grados pequeño, mediano y grande",
+      "Proteína: Alto contenido (15-20%)",
+      "Fibra: Rico contenido (5-7%)",
+      "Empaque: Totalmente personalizable"
+    ],
+    "variety": [
+      "Quinoa Blanca: Sabor suave, textura blanda, ideal para ensaladas y guarniciones",
+      "Quinoa Roja: Sabor a nuez, textura crujiente, perfecta para ensaladas y salteados",
+      "Quinoa Negra: Sabor terroso, textura firme, excelente para sopas y guisos"
+    ],
+    "quality_assurance": [
+      "Pruebas de Laboratorio: Análisis certificado ISO asegura el cumplimiento de estándares internacionales",
+      "Cadena de Suministro: Adquisición directa de agricultores con cadena de custodia documentada",
+      "Auditorías: Protocolos regulares de verificación de calidad por terceros",
+      "Control de Calidad: Especialistas dedicados aseguran la selección de grado de exportación",
+      "Cumplimiento: Adherencia a estándares globales de seguridad alimentaria incluyendo HACCP e ISO"
+    ]
+  }
+]

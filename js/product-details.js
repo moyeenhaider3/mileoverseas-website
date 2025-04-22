@@ -35,6 +35,23 @@ async function renderEnhancedProductDetail(product) {
     }
   }
 
+  // Add HS Code display if available
+  if (scarcityBadge) {
+    // Remove existing HS Code element if present
+    const existingHs = document.getElementById('hs-code');
+    if (existingHs) {
+      existingHs.remove();
+    }
+    if (product.hs_code) {
+      const hsCodeEl = document.createElement('div');
+      hsCodeEl.id = 'hs-code';
+      // Use same CSS classes as scarcityBadge
+      hsCodeEl.className = scarcityBadge.className;
+      hsCodeEl.textContent = `${t('hs_code', 'HS Code')}: ${product.hs_code}`;
+      scarcityBadge.parentNode.insertBefore(hsCodeEl, scarcityBadge.nextSibling);
+    }
+  }
+
   // Category Chip
   document.getElementById('category-chip').textContent = product.category;
 
@@ -329,12 +346,9 @@ async function loadProductDetail(lang = 'en') {
   if (!productId) return;
   
   try {
-    const response = await fetch('js/data.json');
+    const response = await fetch(`js/data.${lang}.json`);
     const data = await response.json();
-    
-    // Use language from localStorage, document, or parameter
-    const currentLang = localStorage.getItem('language') || document.documentElement.lang || lang;
-    const products = data[currentLang] || data['en'];
+    const products = Array.isArray(data) ? data : [];
     
     // Safety check for products array
     if (!Array.isArray(products)) {

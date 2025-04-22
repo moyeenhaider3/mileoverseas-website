@@ -523,5 +523,8 @@ const koTranslations = {
   quality_assurance: "품질 보증",
   variety: "품종",
   container_capacity: "컨테이너 용량",
+  hs_code:"HS코드",
 
 };
+
+export default koTranslations;

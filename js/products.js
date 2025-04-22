@@ -6,9 +6,9 @@ let productsData = [];
 // Fetch and cache the product data
 async function loadProductsData(lang = 'en') {
     try {
-        const response = await fetch('js/data.json');
+        const response = await fetch(`js/data.${lang}.json`);
         const data = await response.json();
-        productsData = Array.isArray(data[lang]) ? data[lang] : [];
+        productsData = Array.isArray(data) ? data : [];
         return productsData;
     } catch (error) {
         console.error('Error loading product data:', error);
@@ -146,25 +146,22 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // --- Language Switch Logic for Products Page ---
-function setupLanguageSwitcher(productsData) {
+function setupLanguageSwitcher() {
     const langDropdown = document.querySelector('.language-dropdown-content');
     if (!langDropdown) return;
     langDropdown.querySelectorAll('a[data-lang]').forEach(link => {
-        link.addEventListener('click', function(e) {
+        link.addEventListener('click', async function(e) {
             e.preventDefault();
             const lang = this.getAttribute('data-lang');
-            if (lang && productsData[lang]) {
-                // Set language in localStorage
-                localStorage.setItem('language', lang);
-                // Fire global languageChanged event
-                window.dispatchEvent(new Event('languageChanged'));
-                // If LocalizationManager is available, apply language globally
-                if (typeof LocalizationManager !== 'undefined' && window.localizationManager) {
-                    window.localizationManager.applyLanguage(lang);
-                }
-                // Show all available products for selected language (redundant, but ensures immediate update)
-                renderProductsList(productsData[lang]);
-                setupProductSearch(productsData[lang], 'productSearch', 'products-list');
+            if (lang) {
+                // Load and apply translations, then dispatch event
+                await window.localizationManager.changeLanguage(lang);
+                // Update custom spice section translation
+                renderCustomSpiceSection('custom-spice-form');
+                // Load and render product data for selected language
+                const productsData = await loadProductsData(lang);
+                renderProductsList(productsData);
+                setupProductSearch(productsData, 'productSearch', 'products-list');
             }
         });
     });
@@ -172,22 +169,25 @@ function setupLanguageSwitcher(productsData) {
 
 // --- Main Page Initialization ---
 document.addEventListener('DOMContentLoaded', async () => {
-    const productsData = await fetch('js/data.json').then(res => res.json());
     let lang = localStorage.getItem('language') || 'en';
-    renderProductsList(productsData[lang]);
-    setupProductSearch(productsData[lang], 'productSearch', 'products-list');
-    setupLanguageSwitcher(productsData);
-    // Store globally for languageChanged event
-    window._productsData = productsData;
+    // Show loader until products are fetched
+    const container = document.getElementById('products-list');
+    if (container) container.innerHTML = `<p class="loading">${window.localizationManager.translate('products_loading')}</p>`;
+    const productsData = await loadProductsData(lang);
+    renderProductsList(productsData);
+    setupProductSearch(productsData, 'productSearch', 'products-list');
+    setupLanguageSwitcher();
 });
 
 // Listen for language changes and re-render product list
-window.addEventListener('languageChanged', function() {
-    if (window._productsData) {
-        let lang = localStorage.getItem('language') || 'en';
-        renderProductsList(window._productsData[lang]);
-        setupProductSearch(window._productsData[lang], 'productSearch', 'products-list');
-    }
+window.addEventListener('languageChanged', async function() {
+    let lang = localStorage.getItem('language') || 'en';
+    // Show loader until products are fetched
+    const container = document.getElementById('products-list');
+    if (container) container.innerHTML = `<p class="loading">${window.localizationManager.translate('products_loading')}</p>`;
+    const productsData = await loadProductsData(lang);
+    renderProductsList(productsData);
+    setupProductSearch(productsData, 'productSearch', 'products-list');
 });
 
 window.renderCustomSpiceSection = renderCustomSpiceSection;

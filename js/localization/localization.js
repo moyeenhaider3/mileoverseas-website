@@ -2,38 +2,67 @@
 class LocalizationManager {
   constructor() {
     this.currentLanguage = "en"; // Default language
-    this.translations = {
-      en: enTranslations,
-      ar: arTranslations,
-      zh: zhTranslations,
-      ms: msTranslations,
-      th: thTranslations,
-      de: deTranslations,
-      es: esTranslations,
-      bn: bnTranslations,
-      ko: koTranslations,
-      ja: jaTranslations,
-      tr: trTranslations,
-      uz: uzTranslations,
-    };
-    this.isRTL = false;
-    this.init();
+    this.supportedLanguages = [
+      "ar", "bn", "de", "en", "es", "ja", "ko", "ms", "th", "tr", "uz", "zh"
+    ];
+    this.translations = {};
+    this.fallbackTranslations = {};
+  }
+
+  // Detect system/browser locale and return supported language or 'en'
+  detectSystemLocale() {
+    const browserLang = (navigator.languages && navigator.languages.length)
+      ? navigator.languages[0]
+      : (navigator.language || navigator.userLanguage || "en");
+    const normalized = browserLang.split("-")[0].toLowerCase();
+    return this.supportedLanguages.includes(normalized) ? normalized : "en";
+  }
+
+  // Load translations dynamically
+  async loadTranslations(lang) {
+    try {
+      const mod = await import(`./${lang}.js`);
+      this.translations = mod.default || {};
+    } catch (e) {
+      console.error('Failed to load translations for', lang, e);
+      this.translations = {};
+    }
+  }
+
+  // Load default English fallback translations
+  async loadFallbackTranslations() {
+    try {
+      const mod = await import(`./en.js`);
+      this.fallbackTranslations = mod.default || {};
+    } catch (e) {
+      console.error('Failed to load fallback translations for en', e);
+      this.fallbackTranslations = {};
+    }
   }
 
   // Initialize localization
-  init() {
+  async init() {
+    // Preload English fallback to cover missing keys
+    await this.loadFallbackTranslations();
     // Get language from localStorage if available
-    const savedLanguage = localStorage.getItem("language");
-    if (savedLanguage) {
-      this.currentLanguage = savedLanguage;
+    let savedLanguage = localStorage.getItem("language");
+    if (!savedLanguage) {
+      // Try to detect system locale if not saved
+      savedLanguage = this.detectSystemLocale();
+      localStorage.setItem("language", savedLanguage);
     }
+    this.currentLanguage = savedLanguage;
 
-    // Apply saved language
+    // Load and apply saved/detected language
+    await this.loadTranslations(this.currentLanguage);
     this.applyLanguage(this.currentLanguage);
+    // Trigger initial languageChanged event to render custom sections after translations are loaded
+    window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang: this.currentLanguage } }));
 
     // Setup event listeners for language switch
     document.addEventListener("DOMContentLoaded", () => {
       this.setupLanguageSwitcher();
+      this.changeLanguage(this.currentLanguage);
     });
   }
 
@@ -44,26 +73,29 @@ class LocalizationManager {
       // Add event listeners for language selection
       const languageOptions = languageDropdown.querySelectorAll("a");
       languageOptions.forEach((option) => {
-        option.addEventListener("click", (e) => {
+        option.addEventListener("click", async (e) => {
           e.preventDefault();
           const lang = option.getAttribute("data-lang");
-          this.switchLanguage(lang);
+          if (lang) await this.changeLanguage(lang);
         });
       });
     }
   }
 
-  // Get translation for a key
+  // Get translation for a key with fallback to English
   translate(key) {
-    return this.translations[this.currentLanguage][key] || key;
+    if (this.translations.hasOwnProperty(key)) return this.translations[key];
+    if (this.fallbackTranslations.hasOwnProperty(key)) return this.fallbackTranslations[key];
+    return key;
   }
 
   // Switch language
-  switchLanguage(lang) {
+  async switchLanguage(lang) {
     if (this.currentLanguage === lang) return;
-
+    // Update currentLanguage state
     this.currentLanguage = lang;
     localStorage.setItem("language", lang);
+    await this.loadTranslations(lang);
     this.applyLanguage(lang);
   }
 
@@ -110,6 +142,35 @@ class LocalizationManager {
       }
     });
   }
+
+  async changeLanguage(lang) {
+    // Set the language preference (use only 'language' for consistency)
+    localStorage.setItem("language", lang);
+
+    // Update HTML dir attribute for RTL support
+    document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+
+    // Load and apply translations
+    await this.switchLanguage(lang);
+
+    // Update the language selector dropdowns
+    const select = document.getElementById("languageSelect");
+    if (select) select.value = lang;
+    const mobileSelect = document.getElementById("mobileLanguageSelect");
+    if (mobileSelect) mobileSelect.value = lang;
+
+    // Update .active class on dropdown links (for custom dropdowns)
+    document.querySelectorAll('.language-dropdown-content a[data-lang]').forEach(link => {
+      if(link.getAttribute('data-lang') === lang) {
+        link.classList.add('active');
+      } else {
+        link.classList.remove('active');
+      }
+    });
+
+    // Fire custom event for listeners (e.g., products page custom spice section)
+    window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
+  }
 }
 
 // Initialize localization manager
@@ -117,3 +178,6 @@ const localizationManager = new LocalizationManager();
 
 // Make it globally accessible
 window.localizationManager = localizationManager;
+
+// Initialize after module load
+localizationManager.init();

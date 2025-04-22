@@ -1,6 +1,26 @@
+// Google tag (gtag.js)
+(function(){
+  var gtid = "G-THTJH5GMEL";
+  var s = document.createElement("script");
+  s.src = "https://www.googletagmanager.com/gtag/js?id=" + gtid;
+  s.async = true;
+  document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  window.gtag = gtag;
+  gtag("js", new Date());
+  gtag("config", gtid);
+})();
+
 document.addEventListener("DOMContentLoaded", function () {
   // Initialize language from localStorage or default to English
-  const savedLang = localStorage.getItem("language") || "en";
+  let savedLang = localStorage.getItem("language");
+  if (!savedLang && window.localizationManager) {
+    // Detect system locale if no language saved
+    savedLang = window.localizationManager.detectSystemLocale();
+    localStorage.setItem("language", savedLang);
+  }
+  if (!savedLang) savedLang = "en";
   document.documentElement.lang = savedLang;
   document.documentElement.dir = savedLang === "ar" ? "rtl" : "ltr";
 

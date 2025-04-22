@@ -1,0 +1,999 @@
+[
+  {
+    "id": "1",
+    "category": "Spices",
+    "name": "Cumin Seeds",
+    "description": "Experience the pinnacle of Indian cumin with our premium export-grade seeds, meticulously harvested during the prime winter season (October to February) from India's most fertile cultivation regions in Gujarat, Maharashtra, and Madhya Pradesh. As a global leader in cumin production, our carefully selected Cuminum cyminum delivers an exceptional 2-4% essential oil content, offering superior aromatic intensity and flavor profile. Treasured for centuries in culinary traditions and holistic medicine across continents, our cumin seeds provide remarkable health benefits including enhanced digestion, reduced inflammation, and immune system support. This versatile premium commodity exceeds international standards for both culinary applications and therapeutic usage, making it the discerning choice for quality-conscious global buyers.",
+    "image": "images/products/spices/cumin.jpg",
+    "harvest_season": "October to February",
+    "hs_code": "0909",
+    "features": [
+      "Enhances digestive health with powerful natural enzymes that stimulate gastric secretions for optimal nutrient absorption.",
+      "Contains potent anti-inflammatory compounds that help reduce systemic inflammation and support overall wellness.",
+      "Fortifies immune function through essential micronutrients and antioxidant properties that protect against environmental stressors.",
+      "Delivers exceptional 2-4% essential oil concentration, ensuring maximum flavor intensity and therapeutic benefits in every batch."
+    ],
+    "quality_options": [
+      "IPM (Integrated Pest Management): Cultivated through our holistic approach integrating physical, cultural, biological, and chemical controls for optimal pest management, resulting in a healthier, more sustainable premium crop with minimal intervention.",
+      "Organic: Produced using 100% certified organic farming practices with zero synthetic pesticides, herbicides, or fertilizers, employing only natural methods for pest and disease control to ensure pure, clean spice of the highest quality.",
+      "Conventional: Grown following traditional agricultural methods with carefully monitored use of approved treatments, adhering to strict best management practices that minimize chemical usage while maintaining consistently superior quality."
+    ],
+    "container_capacity": [
+      "20 ft container: 14 MT",
+      "40 ft container: 27 MT"
+    ],
+    "specifications": [
+      "Type: Pristine whole cumin seeds with exceptional purity levels",
+      "Color: Rich brown to distinguished grayish-brown hue indicating optimal maturity",
+      "Shape: Perfectly formed small, elongated seeds with ideal consistency",
+      "Size: Uniform 3-5 mm (0.12-0.2 inches) for consistent cooking results",
+      "Flavor: Distinctively warm, earthy profile with remarkable depth",
+      "Aroma: Fresh, vibrant herbal bouquet that signals premium quality",
+      "Process: Advanced machine cleaning and precision sorting technology",
+      "Packing: Flexible, customizable packaging solutions to meet your specific requirements",
+      "Moisture: Controlled at less than 10% to guarantee extended shelf life",
+      "Essential Oil Content: Superior 2-4% concentration for maximum flavor impact"
+    ],
+    "variety": [
+      "Singapore Quality: Meticulously machine/sortex cleaned with minimal tail presence, featuring distinguished brown coloration and powerful aromatic properties that meet exacting Singapore market standards.",
+      "European Quality: Expertly sorted and precisely cut seeds delivering consistently brown color and intense aroma, meeting the stringent requirements of European culinary markets.",
+      "Bold Quality: Premium oversized seeds offering exceptional robustness in both flavor profile and aromatic qualities for applications requiring superior impact."
+    ],
+    "quality_assurance": [
+      "Lab Testing: Every batch undergoes comprehensive analysis in our state-of-the-art laboratory facilities, ensuring consistent adherence to our rigorous quality benchmarks.",
+      "Packaging: Only food-grade, industry-leading packaging materials are used, preserving the distinctive freshness and aromatic integrity of our cumin from production to final delivery.",
+      "Supply Chain Transparency: Our farm-to-market traceability guarantees complete supply chain visibility with direct farmer sourcing and certified fair trade practices throughout the production process.",
+      "Regular Audits: Systematic quality verification through comprehensive regular audits ensures compliance with international standards while continuously identifying enhancement opportunities.",
+      "Trained Quality Control Team: Our specialized quality inspectors employ rigorous examination protocols to verify the purity and quality of every shipment, guaranteeing only premium products reach our global customers.",
+      "Compliance with Regulations: Full adherence to all relevant international food safety frameworks, labeling regulations, and export standards for seamless global market access."
+    ]
+  },
+  {
+    "id": "2",
+    "category": "Spices",
+    "name": "Coriander Seeds",
+    "image": "images/products/spices/coriander.jpg",
+    "harvest_season": "October to February",
+    "hs_code": "0909",
+    "features": [
+      "Revolutionizes digestive health with potent natural compounds that instantly soothe and optimize gut function for maximum comfort and nutrient absorption.",
+      "Eliminates inflammation through exclusive bioactive ingredients that rapidly reduce systemic inflammation markers, providing immediate relief and long-term protection.",
+      "Dramatically strengthens immune response with rare antioxidants found only in premium Indian coriander, creating an impenetrable defense against seasonal challenges.",
+      "Contains exceptional 0.5-1.5% essential oil concentration – significantly higher than industry standard – delivering unmatched flavor intensity and therapeutic potency."
+    ],
+    "description": "Unlock the competitive advantage of our exclusive Premium Coriander Seeds, harvested at peak perfection during India's prime winter season (October to February). Sourced directly from India's most coveted growing regions in Gujarat, Maharashtra, and Madhya Pradesh – globally recognized as the epicenter of premium coriander production. Our Coriandrum sativum has been cultivated using centuries-old wisdom combined with cutting-edge agricultural techniques, resulting in a product that commands attention in global markets. The extraordinary 0.5-1.5% essential oil content delivers a distinctively fresh, citrusy profile that instantly elevates any culinary creation. Discerning international buyers recognize our coriander seeds not merely as a spice, but as a strategic investment in product excellence that provides immediate competitive advantage in health-conscious consumer markets worldwide.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Experience our revolutionary holistic cultivation system that seamlessly integrates physical, cultural, biological, and chemical controls, creating a naturally protected growing environment that results in significantly cleaner, purer seeds with superior flavor profiles.",
+      "Organic: Indulge in our certified 100% organic coriander seeds, cultivated in pristine environments completely free from harmful synthetic chemicals, delivering a pure, clean product that meets the most stringent global organic standards and commands premium pricing in health-conscious markets.",
+      "Conventional: Benefit from our precision-controlled traditional farming practices, where each application of industry-approved treatments is meticulously monitored to produce consistently exceptional coriander seeds while maintaining responsible environmental stewardship."
+    ],
+    "container_capacity": [
+      "20 ft : 9.5 MT",
+      "40 ft : 19 MT"
+    ],
+    "specifications": [
+      "Type: Select whole coriander seeds with guaranteed premium quality",
+      "Color: Distinctive brown/green hue signifying optimal maturity and flavor development",
+      "Shape: Perfect small, spherical formation for consistent cooking performance",
+      "Size: Precise 2-3 mm (0.08-0.12 inches) calibration for ideal culinary results",
+      "Flavor: Remarkably warm, slightly sweet profile with complex aromatic notes",
+      "Aroma: Vibrant, citrusy bouquet that immediately signals superior quality",
+      "Process: State-of-the-art machine cleaning and sorting technology for unmatched purity",
+      "Packing: Bespoke packaging solutions tailored to your exact market requirements",
+      "Moisture: Scientifically controlled at less than 10% to maximize shelf life and preserve aromatic oils",
+      "Essential Oil Content: Premium 0.5-1.5% concentration delivering superior flavor intensity"
+    ],
+    "variety": [
+      "Dhana: Exclusive large-sized coriander seeds with commanding flavor presence and aromatic intensity, perfect for premium spice blends and signature dishes.",
+      "Dhani: Select smaller seeds offering a distinctive flavor profile specifically cultivated for elite spice blend formulations where nuanced taste is paramount.",
+      "Eagle: Refined brownish seeds with precise tail cut and machine cleaned, delivering a controlled mild flavor profile ideal for subtle culinary applications.",
+      "Eagle Plus: Superior brownish-green seeds with expert tail cut and advanced sortex cleaning, providing a distinctive sweetness that elevates any dish.",
+      "Scooter: Vibrant green variety with powerful aromatic presence, sortex cleaned to perfection, delivering intense pungency sought by discerning chefs.",
+      "Parrot: Ultra-premium quality with striking green coloration and comprehensive sortex cleaning, offering vibrant visual appeal and extraordinarily fresh flavor.",
+      "Double Parrot: Our most exclusive variety featuring unparalleled green color and meticulous sortex cleaning, providing truly exceptional flavor and aromatic impact.",
+      "Coriander Husk: Specialized husk component with concentrated bioactive compounds, highly valued in traditional medicine and specialized spice powder formulations.",
+      "Coriander Split: Precision-split seeds expertly processed for immediate flavor release in premium spice blends and signature mixes."
+    ],
+    "quality_assurance": [
+      "Lab Testing: Every batch undergoes rigorous analysis in our state-of-the-art laboratory using advanced testing protocols that exceed international standards.",
+      "Packaging: Premium food-grade materials with advanced moisture barriers preserve the exceptional freshness and aromatic profile throughout global shipping.",
+      "Supply Chain Transparency: Complete farm-to-customer traceability with direct farmer partnerships ensures ethical sourcing and authentic quality certification.",
+      "Regular Audits: Comprehensive quality verification through systematic audits guarantees unwavering compliance with the most demanding international standards.",
+      "Trained Quality Control Team: Elite quality specialists conduct meticulous multi-point inspections, ensuring only perfect seeds reach our discerning global clientele.",
+      "Compliance with Regulations: Absolute adherence to all international food safety protocols and labeling requirements for seamless customs clearance worldwide."
+    ]
+  },
+  {
+    "id": "3",
+    "category": "Spices",
+    "name": "Fennel Seeds",
+    "hs_code": "0909",
+    "image": "images/products/spices/fennel.jpg",
+    "harvest_season": "October to February",
+    "features": [
+      "Transforms digestive health with immediate relief from bloating and discomfort, providing an exclusive solution to common digestive complaints that plague consumers worldwide.",
+      "Eliminates inflammation through proprietary bioactive compounds found only in premium Indian fennel, creating a powerful wellness advantage for your product line.",
+      "Boosts immune resilience with rare phytonutrients that strengthen natural defenses and promote overall vitality, offering a competitive edge in health-focused markets.",
+      "Delivers an unmistakable sweet, anise-like flavor profile that instantly elevates culinary creations and sets your products apart from ordinary alternatives."
+    ],
+    "description": "Secure your competitive advantage with our Elite Fennel Seeds, meticulously harvested during India's optimal winter season (October to February) from the country's most prestigious growing regions in Gujarat, Maharashtra, and Madhya Pradesh. As global market leaders in premium Foeniculum vulgare production, our seeds deliver an extraordinary sensory experience with their distinctive sweet, anise-like profile that instantly transforms ordinary dishes into culinary masterpieces. Discerning international buyers recognize the strategic advantage our fennel provides – not merely as a spice, but as a powerful differentiator in increasingly competitive markets. The exceptional digestive benefits, powerful anti-inflammatory properties, and immune-boosting qualities create immediate added value for your product line. This versatile premium commodity meets the most exacting standards for culinary applications, holistic medicine, and aromatherapy, positioning your brand as a provider of superior quality ingredients to health-conscious global consumers.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Invest in our revolutionary cultivation system that seamlessly integrates physical, cultural, biological, and chemical controls, resulting in an exceptionally clean, sustainable crop that appeals to environmentally conscious premium markets.",
+      "Organic: Capitalize on our certified 100% organic fennel seeds, cultivated in pristine environments completely free from synthetic chemicals, meeting the most stringent organic certification standards worldwide and commanding premium pricing in luxury markets.",
+      "Conventional: Benefit from our precision-controlled traditional farming with carefully monitored application of approved treatments, producing consistently exceptional fennel seeds while maintaining responsible environmental stewardship that meets global import requirements."
+    ],
+    "container_capacity": [
+      "20 ft : 14 MT",
+      "40 ft : 27 MT"
+    ],
+    "specifications": [
+      "Type: Premium whole seeds with guaranteed purity and authenticity",
+      "Color: Distinctive greenish-brown hue indicating peak maturity and flavor development",
+      "Flavor: Signature sweet, anise-like profile with remarkable aromatic complexity",
+      "Aroma: Fresh, sweet bouquet that immediately signals superior quality",
+      "Process: Advanced machine cleaning and precision sortex technology for unmatched purity",
+      "Packing: Bespoke packaging solutions tailored to your exact market requirements",
+      "Purity: Exceptional 99-99.5% guaranteed purity levels exceeding international standards",
+      "Moisture: Scientifically controlled at less than 10% to maximize shelf life and preserve volatile compounds"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing: Each production batch undergoes comprehensive analysis in our ISO-certified laboratory facilities, ensuring unwavering adherence to the most stringent quality benchmarks.",
+      "Packaging: Only premium food-grade, tamper-evident packaging materials are used, preserving the distinctive freshness and aromatic integrity throughout the global supply chain.",
+      "Supply Chain Transparency: Our exclusive farm-direct sourcing model guarantees complete traceability with certified fair trade practices that build consumer trust and brand loyalty.",
+      "Regular Audits: Systematic third-party verification through comprehensive audits ensures flawless compliance while continuously identifying opportunities for competitive advantage.",
+      "Trained Quality Control Team: Our elite quality specialists implement rigorous multi-stage inspection protocols to verify that only perfect fennel seeds reach our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international food safety frameworks and export regulations ensures smooth customs clearance and market access worldwide."
+    ]
+  },
+  {
+    "id": "4",
+    "category": "Spices",
+    "name": "Mustard Seeds",
+    "hs_code": "09109927",
+    "image": "images/products/spices/mustard_seed.jpg",
+    "harvest_season": "October to March",
+    "features": [
+      "Commands attention with a distinctively pungent, slightly sweet flavor profile that instantly transforms ordinary recipes into signature creations worthy of premium pricing.",
+      "Delivers unmatched versatility across culinary, medicinal, and cosmetic applications, providing exceptional value and multiple revenue streams from a single premium ingredient.",
+      "Maintains perfect integrity with scientifically controlled moisture content below 10%, guaranteeing extended shelf life and consistent quality in global supply chains."
+    ],
+    "description": "Dominate your market with our Exclusive Premium Mustard Seeds (Brassica juncea), meticulously selected from India's most prestigious growing regions in Rajasthan, Gujarat, and Madhya Pradesh during the optimal winter harvest season (October to March). As procurement leaders recognize, India's centuries-old mustard cultivation tradition combined with our proprietary selection process delivers a product of unmatched distinction in global markets. Our mustard seeds' remarkable pungency and subtle sweetness create an immediately recognizable flavor signature that discerning consumers demand. With precisely controlled moisture content below 10% and exceptional oil content of 42%, our premium export-grade seeds provide superior performance across culinary applications, therapeutic products, and high-end cosmetics. Astute international buyers understand that this versatile commodity represents not merely a spice purchase, but a strategic investment in product excellence that delivers immediate competitive advantage.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Capitalize on our proprietary cultivation system that seamlessly integrates physical, cultural, biological, and chemical controls, creating a naturally protected growing environment that yields demonstrably cleaner, purer seeds with superior flavor characteristics.",
+      "Organic: Secure exclusive access to our certified 100% organic mustard seeds, cultivated in pristine environments completely free from synthetic chemicals, meeting the most stringent global organic standards and commanding premium positioning in luxury health-conscious markets.",
+      "Conventional: Leverage our precision-controlled traditional farming practices, where each application of industry-approved treatments undergoes rigorous monitoring to produce consistently exceptional mustard seeds while maintaining responsible environmental stewardship."
+    ],
+    "container_capacity": [
+      "20 feet : 20 MT"
+    ],
+    "specifications": [
+      "Type: Pristine whole seeds with exceptional purity certification",
+      "Color: Rich brown to dark brown / vibrant yellow varieties available, signaling optimal maturity",
+      "Flavor: Distinguished pungent profile with subtle sweet notes for perfect culinary balance",
+      "Aroma: Fresh, commanding presence that immediately signals premium quality",
+      "Process: Advanced machine cleaning and precision sortex technology for unmatched purity",
+      "Packing: Customizable packaging solutions designed to your exact specifications",
+      "Purity: Exceptional 99-99.5% guaranteed purity levels exceeding international standards",
+      "Moisture: Scientifically controlled at less than 10% to maximize shelf stability",
+      "Oil Content: Superior 42% oil concentration – significantly above industry average – ensuring maximum flavor impact and extraction efficiency"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing: Every production batch undergoes rigorous multi-parameter analysis in our ISO-certified laboratory, ensuring unwavering consistency and exceptional quality.",
+      "Packaging: Only premium food-grade, tamper-evident materials with advanced oxygen barriers preserve the signature freshness and aromatic integrity throughout global logistics.",
+      "Supply Chain Transparency: Our exclusive direct-from-farm sourcing model guarantees complete traceability with certified fair trade practices that build consumer confidence and brand loyalty.",
+      "Regular Audits: Systematic third-party verification through comprehensive audits ensures flawless compliance while identifying continuous improvement opportunities for competitive advantage.",
+      "Trained Quality Control Team: Our elite quality specialists implement proprietary multi-stage inspection protocols to verify only perfect mustard seeds reach our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to international food safety frameworks and export regulations ensures seamless customs clearance and immediate market access worldwide."
+    ]
+  },
+  {
+    "id": "5",
+    "category": "Spices",
+    "name": "Turmeric Finger",
+    "hs_code": "0910",
+    "image": "images/products/spices/turmeric.jpg",
+    "harvest_season": "June to September",
+    "features": [
+      "Delivers exceptional curcumin content (3-5%) – significantly above market average – providing superior color, flavor, and proven anti-inflammatory benefits that health-conscious consumers demand.",
+      "Eradicates inflammation through proprietary bioactive compounds found exclusively in premium Indian turmeric, offering immediate competitive advantage in wellness-focused markets.",
+      "Shields cells with powerful antioxidant properties that provide measurable protection against oxidative stress, creating opportunities for premium positioning in health-forward product lines.",
+      "Excels across culinary, medicinal, and cosmetic applications, offering unparalleled versatility and multiple revenue streams from a single premium ingredient investment."
+    ],
+    "description": "Command market leadership with our Exclusive Premium Turmeric Finger (Curcuma longa), harvested at peak potency during India's optimal monsoon season (June to September) from the country's most revered growing regions in Tamil Nadu, Andhra Pradesh, and Maharashtra. Discerning procurement specialists recognize that our 4,000-year cultivation heritage combined with cutting-edge agricultural techniques delivers a turmeric of unmatched distinction in global markets. The vibrant yellow-orange hue instantly signals superior quality while the exceptional 3-5% curcumin content – significantly above industry standard – provides measurable advantage in product effectiveness. This strategic commodity excels across culinary applications, therapeutic formulations, and premium cosmetics, allowing innovative brands to capture growing consumer demand for authentic, effective turmeric products. International buyers seeking competitive differentiation recognize that our turmeric represents not merely a spice purchase, but a transformative ingredient that elevates entire product lines to premium category status.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Secure exclusive access to our revolutionary cultivation system that perfectly balances physical, cultural, biological, and chemical controls, resulting in demonstrably cleaner, more potent turmeric that meets the highest international standards.",
+      "Organic: Capitalize on our certified 100% organic turmeric fingers, cultivated in pristine environments completely free from synthetic chemicals, meeting the most stringent global organic certifications and commanding premium positioning in luxury wellness markets.",
+      "Conventional: Leverage our precision-controlled traditional farming, where each application of approved treatments undergoes rigorous monitoring to produce consistently exceptional turmeric while maintaining responsible environmental stewardship that builds brand credibility."
+    ],
+    "container_capacity": [
+      "20 ft : 18 MT",
+      "40 ft : 36 MT"
+    ],
+    "specifications": [
+      "Type: Premium finger-grade turmeric with guaranteed potency",
+      "Color: Vibrant yellow-orange hue signaling peak curcumin content and optimal maturity",
+      "Shape: Perfect finger formation with ideal cooking and processing characteristics",
+      "Size: Uniform 2-4 inches (5-10 cm) for consistent commercial application",
+      "Flavor: Commanding pungent, earthy profile with distinctive aromatic complexity",
+      "Aroma: Fresh, earthy bouquet that immediately signals superior quality",
+      "Process: Advanced machine drying with choice of double/single polish technology for targeted market requirements",
+      "Packing: Bespoke packaging solutions tailored to your exact specifications",
+      "Curcumin Content: Exceptional 3-5% concentration – significantly above market average",
+      "Moisture: Scientifically controlled at less than 10% to guarantee extended shelf stability"
+    ],
+    "variety": [
+      "Nizamabad: Exclusive high-curcumin variety renowned for its exceptional potency and distinctive pungent flavor profile sought by premium spice brands worldwide.",
+      "Salem: Legendary variety celebrated for its extraordinarily bright yellow-orange color and complex earthy aroma that immediately signals authentic Indian origin.",
+      "Rajapuri: Prestigious Maharashtra variety prized for its unique sweet-pungent flavor balance that creates signature notes in premium spice blends and formulations.",
+      "Assam Hybrid: High-yield specialty variety from India's northeast, featuring bold, earthy flavor intensity that delivers immediate impact in culinary applications.",
+      "Ladkong: Rare Meghalaya variety with extraordinarily high curcumin content and distinctive flavor compounds not found in commodity turmeric, offering true product differentiation."
+    ],
+    "quality_assurance": [
+      "Lab Testing: Each production batch undergoes comprehensive curcumin analysis and contaminant screening in our ISO-certified laboratory, ensuring exceptional potency and purity.",
+      "Packaging: Only premium food-grade, light-protective packaging materials are used, preserving the vibrant color and bioactive compounds throughout the global supply chain.",
+      "Supply Chain Transparency: Our exclusive direct-from-farm sourcing model guarantees complete traceability with certified fair trade practices that resonate with conscientious consumers.",
+      "Regular Audits: Systematic third-party verification through comprehensive audits ensures flawless compliance while identifying continuous improvement opportunities.",
+      "Trained Quality Control Team: Our elite quality specialists implement proprietary inspection protocols using advanced colorimetric analysis to verify that only perfect turmeric reaches our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international food safety frameworks, including strict testing for contaminants, ensures seamless regulatory approval worldwide."
+    ]
+  },
+  {
+    "id": "6",
+    "category": "Spices",
+    "name": "Dill Seeds",
+    "hs_code": "09109913",
+    "image": "images/products/spices/dill_seed.jpg",
+    "harvest_season": "June to September",
+    "features": [
+      "Delivers extraordinary volatile oil content (3-4%) – well above industry standard – ensuring maximum flavor impact and therapeutic potency in every application.",
+      "Captivates senses with a distinctive fresh, citrus-like flavor profile that instantly elevates culinary creations and separates premium products from ordinary alternatives.",
+      "Eliminates digestive discomfort through powerful natural compounds that rapidly soothe gastrointestinal distress, providing immediate value for wellness-focused consumers.",
+      "Excels across culinary, pickling, and therapeutic applications, offering unprecedented versatility and multiple revenue streams from a single premium ingredient."
+    ],
+    "description": "Secure undeniable market advantage with our Exclusive Premium Dill Seeds, meticulously harvested during India's optimal summer season (June to September) from the country's most prestigious growing regions in Gujarat, Maharashtra, and Madhya Pradesh. Discerning procurement specialists recognize that our 3,000-year cultivation heritage combined with proprietary agricultural methods delivers a dill seed of unmatched distinction in global markets. The exceptional 3-4% volatile oil content – significantly above industry average – provides immediate sensory impact and therapeutic efficacy that discerning consumers demand. This strategic investment provides an authentic fresh, citrusy flavor profile that transforms ordinary products into premium offerings across culinary applications, artisanal pickling, and therapeutic formulations. Forward-thinking international buyers understand that our premium dill seeds represent not merely a spice purchase, but a transformative ingredient that provides immediate competitive differentiation in increasingly crowded marketplace categories.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Capitalize on our revolutionary cultivation system that perfectly integrates physical, cultural, biological, and chemical controls, creating a naturally protected growing environment that yields demonstrably cleaner, more aromatic seeds.",
+      "Organic: Secure exclusive access to our certified 100% organic dill seeds, cultivated in pristine environments completely free from synthetic chemicals, meeting the most stringent global organic standards and commanding premium positioning in luxury health-conscious markets.",
+      "Conventional: Leverage our precision-controlled traditional farming practices, where each application of industry-approved treatments undergoes rigorous monitoring to produce consistently exceptional dill seeds while maintaining responsible environmental stewardship."
+    ],
+    "container_capacity": [
+      "20 ft : 13 MT",
+      "40 ft : 27 MT"
+    ],
+    "specifications": [
+      "Type: Premium whole dill seeds with guaranteed potency and purity",
+      "Color: Rich brown to distinctive greenish-brown hue signaling optimal maturity",
+      "Shape: Perfectly formed small, irregular seeds with ideal flavor dispersion",
+      "Size: Precise 0.5-1 mm (0.02-0.04 inches) calibration for consistent culinary performance",
+      "Flavor: Commanding fresh, citrusy profile with complex aromatic notes",
+      "Aroma: Mild, slightly sweet bouquet that immediately signals superior quality",
+      "Process: Advanced machine cleaning and precision sorting technology for unmatched purity",
+      "Packing: Bespoke packaging solutions tailored to your exact market requirements",
+      "Moisture: Scientifically controlled at less than 10% to maximize shelf stability and preserve volatile compounds",
+      "Volatile Oil Content: Exceptional 3-4% concentration – substantially above market average"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing: Every production batch undergoes comprehensive volatile oil analysis in our ISO-certified laboratory facilities, ensuring exceptional aromatic potency and purity profiles.",
+      "Packaging: Only premium food-grade, aroma-lock packaging materials are used, preserving the distinctive freshness and volatile compounds throughout the global supply chain.",
+      "Supply Chain Transparency: Our exclusive farm-direct sourcing model guarantees complete traceability with certified fair trade practices that build consumer trust and brand loyalty.",
+      "Regular Audits: Systematic third-party verification through comprehensive audits ensures flawless compliance while identifying continuous improvement opportunities for competitive advantage.",
+      "Trained Quality Control Team: Our elite quality specialists implement proprietary multi-stage inspection protocols to verify that only perfect dill seeds reach our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international food safety frameworks and export regulations ensures seamless customs clearance and immediate market access worldwide."
+    ]
+  },
+  {
+    "id": "7",
+    "category": "Spices",
+    "name": "Red Chilli",
+    "hs_code": "0904",
+    "image": "images/products/spices/chilli.png",
+    "harvest_season": "March to June",
+    "features": [
+      "Transforms products with vibrant natural coloration that eliminates the need for artificial additives, meeting growing consumer demand for clean-label ingredients.",
+      "Delivers potent capsaicin content that provides both distinct flavor impact and proven physiological benefits, creating multiple marketing advantages.",
+      "Enriches formulations with exceptional Vitamin C levels that boost nutritional profiles and support powerful antioxidant claims.",
+      "Offers unmatched culinary versatility across global cuisine applications, providing one premium ingredient that satisfies diverse product development needs."
+    ],
+    "description": "Dominate competitive markets with our Exclusive Premium Dry Red Chilly, harvested at peak color intensity during India's optimal summer season (March to June) from the country's most prestigious growing regions in Andhra Pradesh, Telangana, and Karnataka. Strategic procurement specialists recognize that our 2,000-year cultivation heritage combined with proprietary selection methods delivers a chili of unmatched distinction in global markets. The commanding vibrant red coloration instantly signals superior quality while the exceptional SHU rating of 30,000-50,000 provides measurable advantage in product impact and effectiveness. This premium commodity excels across culinary applications, spice blends, and color-critical formulations, allowing innovative brands to create signature products with authentic character. Forward-thinking international buyers understand that our premium chilies represent not merely a spice purchase, but a transformative ingredient that provides immediate visual and sensory differentiation in increasingly competitive marketplace categories.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Secure exclusive access to our revolutionary cultivation system that harmoniously integrates physical, cultural, biological, and chemical controls, resulting in demonstrably cleaner, more vibrant chilies with superior color retention properties.",
+      "Organic: Capitalize on our certified 100% organic red chilies, cultivated in pristine environments completely free from synthetic chemicals, meeting the most stringent global organic standards and commanding premium positioning in clean-label market segments.",
+      "Conventional: Leverage our precision-controlled traditional farming practices, where each application of industry-approved treatments undergoes rigorous monitoring to produce consistently exceptional chilies while maintaining responsible environmental stewardship."
+    ],
+    "container_capacity": [
+      "20 ft : 6.5 MT",
+      "40 ft : 13 MT"
+    ],
+    "specifications": [
+      "Physical Characteristics: Premium whole dried chilies with exceptional color and structural integrity for superior presentation and processing performance.",
+      "- Type: Meticulously selected whole dried chilies with verified authenticity",
+      "- Color: Commanding vibrant red hue with exceptional ASTA value of 150-200",
+      "- Shape: Perfectly formed long, curved structure ideal for visual appeal",
+      "- Size: Uniform 7-10 cm length ensuring consistent cooking and processing results",
+      "- Color Asta: Superior 150-200 rating – substantially above market average",
+      "Flavor and Aroma: Distinctive sensory profile that immediately distinguishes premium products from ordinary alternatives.",
+      "- Flavor: Intensely fiery with complex depth that creates signature taste experiences",
+      "- Aroma: Pungent with subtle sweet notes that signal authentic quality",
+      "Processing and Packaging: Advanced handling protocols that preserve maximum color, flavor and potency.",
+      "- Process: Precision machine drying with temperature-controlled protocols to maximize color retention",
+      "- Packing: Bespoke packaging solutions designed to your exact specifications",
+      "Quality Standards: Scientific verification of key quality markers that guarantee consistent performance.",
+      "- Moisture: Scientifically controlled at less than 10% to guarantee extended color stability",
+      "- Scoville Heat Unit (SHU): Exceptional 30,000-50,000 rating for powerful impact"
+    ],
+    "variety": [
+      "Sannam: Prestigious variety from Andhra Pradesh renowned worldwide for its intense flavor complexity and distinctive aromatic profile that creates signature impact in premium formulations.",
+      "Byadgi: Exclusive Karnataka variety prized for its uniquely mild flavor balance and exceptionally vibrant red coloration that delivers visual impact without overwhelming heat.",
+      "Warangal: High-yield specialty variety from Telangana featuring bold flavor intensity and commanding aromatic presence that provides immediate impact in spice blends.",
+      "Kashmiri: Legendary mild variety celebrated for its extraordinarily bright red color and subtle sweet flavor that perfectly balances visual impact with gentle heat levels."
+    ],
+    "quality_assurance": [
+      "Lab Testing: Each production batch undergoes comprehensive color analysis and heat profiling in our ISO-certified laboratory facilities, ensuring exceptional consistency in both visual and sensory characteristics.",
+      "Packaging: Only premium light-protective, high-barrier packaging materials are used, preserving the vibrant color and aromatic compounds throughout extended global supply chains.",
+      "Supply Chain Transparency: Our exclusive direct-from-farm sourcing model guarantees complete traceability with certified fair trade practices that resonate with today's conscientious consumers.",
+      "Regular Audits: Systematic third-party verification through comprehensive audits ensures flawless compliance while identifying continuous improvement opportunities for competitive advantage.",
+      "Trained Quality Control Team: Our elite color specialists implement proprietary inspection protocols using advanced colorimetric analysis to verify that only perfect chilies reach our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international food safety frameworks, including strict testing for contaminants, ensures seamless regulatory approval in every target market."
+    ]
+  },
+  {
+    "id": "8",
+    "category": "Spices",
+    "name": "Sesame Seeds",
+    "hs_code": "120740",
+    "image": "images/products/spices/sesame.jpg",
+    "harvest_season": "June to September",
+    "features": [
+      "Commands exceptional oil content (50-60%) – substantially above market average – delivering superior flavor release and extraction efficiency for maximum economic value.",
+      "Captivates with a distinctive nutty flavor profile that transforms ordinary products into premium culinary experiences sought by discerning global consumers.",
+      "Provides perfect textural contrast with signature crunchiness that elevates product mouthfeel and creates memorable sensory experiences in both sweet and savory applications.",
+      "Guarantees authentic purity with dual certifications for organic cultivation and non-GMO status, meeting critical requirements for premium international markets."
+    ],
+    "description": "Secure decisive market advantage with our Exclusive Premium Sesame Seeds, meticulously harvested during India's optimal summer season (June to September) from the country's most prestigious growing regions in Gujarat, Maharashtra, and Madhya Pradesh. Strategic procurement specialists recognize that our 3,000-year cultivation heritage combined with proprietary selection methods delivers a sesame seed of unmatched distinction in global markets. The exceptional 50-60% oil content – significantly above industry standard – provides measurable economic advantage in both culinary applications and oil extraction efficiency. This strategic commodity excels across baking, cooking, and oil production categories, allowing innovative brands to capture growing consumer demand for authentic, premium-quality seeds with proven health benefits. Forward-thinking international buyers understand that our sesame seeds represent not merely a commodity purchase, but a transformative ingredient that provides immediate sensory and nutritional differentiation in increasingly competitive marketplace categories.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Capitalize on our revolutionary cultivation system that perfectly integrates physical, cultural, biological, and chemical controls, resulting in demonstrably cleaner, more oil-rich seeds with superior flavor development.",
+      "Organic: Secure exclusive access to our certified 100% organic sesame seeds, cultivated in pristine environments completely free from synthetic chemicals, meeting the most stringent international organic standards for premium positioning in health-conscious markets.",
+      "Conventional: Leverage our precision-controlled traditional farming practices, where each application of industry-approved treatments undergoes rigorous monitoring to produce consistently exceptional sesame seeds while maintaining responsible environmental stewardship."
+    ],
+    "container_capacity": [
+      "20 ft: 19 MT",
+      "40 ft: 38 MT"
+    ],
+    "specifications": [
+      "Physical Characteristics: Premium whole sesame seeds with exceptional structural integrity and verified authenticity to ensure superior product performance and visual appeal.",
+      "Type: Perfect whole seeds with verified uniformity, Color: Choose from creamy white or distinctive black varieties, Shape: Ideal oval formation for consistent cooking performance, Size: Precise 2-3 mm (0.08-0.12 inches) calibration for reliable application",
+      "Flavor and Aroma: Distinctive sensory profile that immediately elevates products beyond ordinary alternatives.",
+      "Flavor: Rich nutty character with complex depth, Aroma: Mild, slightly sweet bouquet that signals premium quality",
+      "Processing and Packaging: Advanced handling protocols that preserve maximum flavor and nutritional integrity.",
+      "Process: Precision machine cleaning and multi-stage sorting technology, Packing: Bespoke packaging solutions tailored to your exact specifications",
+      "Quality Standards: Scientific verification of key quality markers that guarantee consistent performance.",
+      "Moisture: Strictly controlled at less than 5% – better than industry standard – for extended shelf stability, Oil Content: Exceptional 50-60% concentration for superior extraction efficiency and flavor impact"
+    ],
+    "variety": [
+      "Black Sesame: Exclusive Maharashtra variety renowned for its distinctive black coloration and uniquely sweet flavor profile that creates dramatic visual and taste contrast in premium applications.",
+      "White/Hulled Sesame: Premium seeds meticulously processed to remove the outer hull, revealing a perfectly creamy white color and pure nutty flavor ideal for visible garnishes and delicate applications.",
+      "Natural Sesame: Specially preserved seeds with intact outer hull, delivering a distinctive natural color and robust nutty character perfect for authentic artisanal products with rustic appeal."
+    ],
+    "quality_assurance": [
+      "Lab Testing: Every production batch undergoes comprehensive oil content analysis in our ISO-certified laboratory facilities, ensuring exceptional consistency in both nutritional value and sensory characteristics.",
+      "Packaging: Only premium oxygen-barrier, moisture-protective packaging materials are used, preserving the distinctive freshness and preventing rancidity throughout extended global supply chains.",
+      "Supply Chain Transparency: Our exclusive direct-from-farm sourcing model guarantees complete traceability with certified fair trade practices that build consumer trust and enhance brand reputation.",
+      "Regular Audits: Systematic third-party verification through comprehensive audits ensures flawless compliance while identifying continuous improvement opportunities for competitive advantage.",
+      "Trained Quality Control Team: Our elite seed specialists implement proprietary multi-stage inspection protocols using advanced image analysis to verify that only perfect sesame seeds reach our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international food safety frameworks, including strict allergen protocols, ensures seamless regulatory approval in even the most demanding markets."
+    ]
+  },
+  {
+    "id": "9",
+    "category": "Spices",
+    "name": "Psyllium Husk",
+    "hs_code": "12119032",
+    "image": "images/products/spices/psyllium_husk.png",
+    "harvest_season": "June to September",
+    "features": [
+      "Revolutionizes digestive health through powerful natural fiber that creates immediate relief and long-term gut biome improvement, meeting explosive consumer demand for functional ingredients.",
+      "Stabilizes blood sugar levels with scientifically verified regulatory properties, providing compelling functional claims for products targeting the rapidly growing diabetes-management market.",
+      "Dramatically reduces cholesterol through documented binding mechanisms, enabling powerful heart-health positioning that resonates with increasingly health-conscious consumers.",
+      "Accelerates weight management results through proprietary satiety-enhancing properties, creating immediate competitive advantage in the booming weight-control product category."
+    ],
+    "description": "Dominate high-growth functional markets with our Exclusive Premium Psyllium Husk, strategically harvested during India's optimal summer season (June to September) from the country's most renowned growing regions in Gujarat, Maharashtra, and Madhya Pradesh. Discerning procurement specialists recognize that India's global leadership in Plantago ovata cultivation combined with our proprietary processing methods delivers a psyllium husk of unparalleled effectiveness in international markets. The exceptional 80-85% fiber content – significantly above industry standard – provides measurable advantage in functional food applications, pharmaceutical formulations, and premium cosmetics. This strategic ingredient satisfies exploding global demand for clinically substantiated digestive health solutions, blood sugar management, cholesterol reduction, and weight control properties. Forward-thinking international buyers understand that our premium psyllium husk represents not merely a functional ingredient purchase, but a transformative solution that provides immediate competitive differentiation in today's most profitable health product categories.",
+    "quality_options": [
+      "Harness the exceptional power of 80-85% fiber content – substantially above industry standard – delivering superior functional performance and allowing for reduced usage rates and higher profit margins.",
+      "Benefit from our precision machine cleaning and multi-stage sorting technology that eliminates all impurities, ensuring pristine appearance and predictable performance in your most demanding applications.",
+      "Rely on our premium food-grade packaging systems with advanced moisture barriers that maintain perfect product integrity throughout extended global supply chains.",
+      "Trust our comprehensive compliance with the most rigorous international food safety regulations, providing seamless entry into even the most stringently regulated global markets."
+    ],
+    "container_capacity": [
+      "20 ft : 9 MT",
+      "40 ft : 18 MT"
+    ],
+    "specifications": [
+      "Type: Pristine whole psyllium husk with guaranteed functional efficacy",
+      "Color: Perfect light brown to off-white hue indicating optimal processing",
+      "Shape: Ideally formed small, irregular particles for perfect dispersion",
+      "Size: Precise 1-2 mm (0.04-0.08 inches) calibration for consistent performance",
+      "Flavor: Perfectly neutral profile that integrates seamlessly with any formulation",
+      "Aroma: Mild, slightly sweet bouquet with no off-notes or imperfections",
+      "Process: Advanced machine cleaning and multi-stage sorting technology",
+      "Packing: Bespoke packaging solutions tailored to your exact specifications",
+      "Fiber Content: Exceptional 80-85% concentration – substantially above market average",
+      "Moisture: Scientifically controlled at less than 10% to guarantee functional stability"
+    ],
+    "variety": [
+      "Premium whole psyllium husk with verified purity and functional performance"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Every production batch undergoes comprehensive fiber analysis in our state-of-the-art laboratory facilities, ensuring exceptional consistency in functional performance.",
+      "Packaging: Only premium moisture-barrier, light-protective packaging materials are used, preserving the functional integrity throughout extended global distribution channels.",
+      "Supply Chain Transparency: Our exclusive direct-sourcing model guarantees complete traceability with certified fair trade practices that build consumer trust and enhance brand credibility.",
+      "Regular Audits: Systematic quality verification through comprehensive third-party audits ensures flawless compliance while identifying continuous improvement opportunities.",
+      "Trained Quality Control Team: Our specialized functional ingredient experts implement rigorous inspection protocols to verify that only perfect psyllium husk reaches our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international dietary fiber regulations and labeling requirements ensures seamless market access worldwide."
+    ]
+  },
+  {
+    "id": "10",
+    "category": "Spices",
+    "name": "Black Cumin (Kalonji)",
+    "hs_code": "09093119",
+    "image": "images/products/spices/black_cumin.jpg",
+    "harvest_season": "June to September",
+    "features": [
+      "Strengthens immune response through powerful bioactive compounds that enhance natural defense mechanisms, meeting explosive demand for functional wellness ingredients.",
+      "Eliminates inflammation through scientifically verified modulation of key inflammatory markers, providing compelling functional claims for premium health products.",
+      "Optimizes digestive function with natural compounds that restore gut balance and enhance nutrient absorption, delivering measurable consumer benefits.",
+      "Shields cells with exceptional antioxidant capacity that provides demonstrable protection against environmental stressors, creating powerful marketing advantages."
+    ],
+    "description": "Command premium positioning with our Exclusive Kalonji (Black Cumin), strategically harvested during India's optimal growing season (October to February) from the country's most prestigious cultivation regions in Gujarat, Maharashtra, and Madhya Pradesh. Discerning procurement specialists recognize that our Nigella sativa seeds deliver unparalleled potency in international markets through centuries of selective cultivation combined with proprietary processing methods. The exceptional 30-40% oil content – significantly above industry standard – provides measurable advantage in therapeutic potency and flavor impact across culinary applications, medicinal formulations, and premium cosmetics. This strategic ingredient satisfies exploding global demand for clinically substantiated anti-inflammatory, antioxidant, and antibacterial properties in natural product formulations. Forward-thinking international buyers understand that our premium kalonji represents not merely a spice purchase, but a transformative wellness ingredient that provides immediate differentiation in today's most competitive health-focused categories.",
+    "quality_options": [
+      "IPM: Secure exclusive access to our revolutionary Integrated Pest Management cultivation system that harmoniously balances ecological approaches with minimal intervention, resulting in demonstrably cleaner, more potent seeds with superior bioactive profiles.",
+      "Organic: Capitalize on our certified 100% organic practices that eliminate all synthetic chemical inputs, creating a pure, uncompromised ingredient that meets the most stringent international certification standards.",
+      "Conventional: Leverage our precision-controlled traditional farming with carefully monitored application of approved treatments, producing consistently exceptional kalonji while maintaining responsible agricultural stewardship that builds brand credibility."
+    ],
+    "container_capacity": [
+      "20 ft : 14 MT",
+      "40 ft : 27 MT"
+    ],
+    "specifications": [
+      "Type: Premium whole kalonji seeds with guaranteed potency and purity",
+      "Color: Deep, lustrous black coloration indicating optimal maturity and oil content",
+      "Shape: Perfectly formed small, irregular seeds with ideal flavor dispersion",
+      "Size: Precise 1-2 mm (0.04-0.08 inches) calibration for consistent performance",
+      "Flavor: Distinctive nutty profile with perfectly balanced bitter notes",
+      "Aroma: Commanding pungent, earthy bouquet that signals authentic quality",
+      "Process: Advanced multi-stage cleaning and precision sorting technology",
+      "Packing: Bespoke packaging solutions tailored to your exact requirements",
+      "Moisture: Scientifically controlled at less than 10% to maximize bioactive stability",
+      "Oil Content: Exceptional 30-40% concentration for superior therapeutic efficacy"
+    ],
+    "variety": [
+      "Premium Nigella sativa with verified potency and authenticated botanical origin"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Every production batch undergoes comprehensive bioactive profiling in our state-of-the-art laboratory, ensuring exceptional potency and therapeutic consistency.",
+      "Packaging: Only premium oxygen-barrier, light-protective materials are used, preserving the critical bioactive compounds throughout extended global supply chains.",
+      "Supply Chain Transparency: Our exclusive direct-sourcing model guarantees complete traceability with certified fair trade practices that enhance brand trust in conscientious markets.",
+      "Regular Audits: Systematic verification through comprehensive third-party evaluations ensures flawless compliance while identifying continuous improvement opportunities.",
+      "Trained Quality Control Team: Our specialized botanical experts implement proprietary inspection protocols to verify that only perfect kalonji reaches our discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international natural product frameworks and labeling requirements ensures seamless regulatory approval worldwide."
+    ]
+  },
+  {
+    "id": "11",
+    "category": "Spices",
+    "name": "Cardamom",
+    "hs_code": "09109931",
+    "harvest_season": "September to December",
+    "image": "images/products/spices/cardamom.jpg",
+    "features": [
+      "Revolutionizes digestive comfort through powerful natural compounds that instantly soothe gastrointestinal distress, providing immediate value to wellness-conscious consumers.",
+      "Creates extraordinary oral freshness with its distinctive aromatic profile, offering dual-purpose functionality as both culinary spice and natural breath freshener.",
+      "Shields cells with potent antioxidant compounds that provide measurable protection against oxidative stress, enabling powerful health-focused marketing claims.",
+      "Enhances respiratory function through natural essential oils that open airways and support lung health, meeting growing demand for natural wellness solutions."
+    ],
+    "description": "Secure undeniable luxury positioning with our Exclusive Premium Cardamom, meticulously cultivated in India's prestigious high-altitude growing regions across the verdant hills of Kerala, Tamil Nadu, and Karnataka. Discerning procurement specialists recognize that our Elettaria cardamomum pods deliver unmatched sensory distinction through centuries of traditional cultivation expertise combined with stringent selection protocols. The exceptional 5-7% volatile oil content – substantially above industry standard – provides immediate aromatic impact and therapeutic efficacy across premium culinary applications, confectionery, beverages, and wellness formulations. This iconic ingredient creates signature flavor experiences with its unique sweet-savory profile that instantly elevates products beyond ordinary alternatives. Forward-thinking international buyers understand that our premium cardamom represents not merely a spice purchase, but a transformative ingredient that provides immediate sensory differentiation and luxury positioning in today's most profitable premium product categories.",
+    "quality_options": [
+      "Experience the extraordinary difference of our 5-7% volatile oil content – significantly exceeding market standards – delivering unmatched aromatic intensity and flavor impact in every application.",
+      "Benefit from our proprietary cleaning and precision sorting technology that guarantees perfect visual appearance and consistent pod size for premium presentation and reliable performance.",
+      "Trust our advanced food-grade packaging systems with specialized aroma-lock technology that preserves the distinctive fragrance compounds throughout extended global supply chains.",
+      "Rely on our comprehensive compliance with the most stringent international quality standards and regulations, ensuring seamless acceptance in even the most demanding luxury markets."
+    ],
+    "container_capacity": [
+      "20 ft : 8 MT",
+      "40 ft : 16 MT"
+    ],
+    "specifications": [
+      "Type: Pristine whole cardamom pods with verified aromatic potency",
+      "Color: Vibrant green hue that signals peak freshness and optimal harvesting",
+      "Shape: Perfectly formed small, irregular pods with consistent seed chambers",
+      "Size: Precise 5-9 mm (0.2-0.4 inches) calibration for guaranteed quality",
+      "Flavor: Distinctive sweet-savory profile with complex aromatic depth",
+      "Aroma: Uniquely powerful, aromatic presence that creates immediate impact",
+      "Process: Advanced cleaning and multi-stage sorting technology for perfect presentation",
+      "Packing: Bespoke packaging solutions tailored to your exact specifications",
+      "Moisture: Scientifically controlled at less than 10% to preserve volatile compounds",
+      "Volatile Oil Content: Exceptional 5-7% concentration for superior sensory performance"
+    ],
+    "variety": [
+      "Green Cardamom: Our flagship variety with brilliant emerald coloration and extraordinary aromatic complexity sought by premium global brands.",
+      "Black Cardamom: Distinctive smoky variety with robust flavor profile ideal for signature savory applications and authentic ethnic formulations."
+    ],
+    "quality_assurance": [
+      "Lab Testing: Each production batch undergoes comprehensive volatile oil analysis in our state-of-the-art laboratory, ensuring exceptional aromatic potency and sensory consistency.",
+      "Packaging: Only specialized aroma-seal, triple-layer protective materials are employed, preserving the delicate essential oils throughout the most challenging global supply chains.",
+      "Supply Chain Transparency: Our exclusive direct-from-farm sourcing model guarantees complete traceability with certified fair trade practices that enhance brand positioning in premium markets.",
+      "Regular Audits: Systematic verification through comprehensive third-party evaluations ensures flawless compliance while continuously elevating quality standards.",
+      "Trained Quality Control Team: Our specialized aromatic spice experts implement proprietary multi-sensory inspection protocols to verify that only perfect cardamom reaches our most discriminating global customers.",
+      "Compliance with Regulations: Absolute adherence to all relevant international spice industry frameworks and labeling requirements ensures seamless regulatory approval in every target market."
+    ]
+  },
+  {
+    "id": "12",
+    "hs_code": "0910",
+    "category": "Spices",
+    "name": "Fenugreek Seeds",
+    "image": "images/products/spices/fenugreek_seed.jpg",
+    "harvest_season": "October to February",
+    "features": [
+      "Potent anti-inflammatory properties that promote overall wellness and joint health",
+      "Superior digestive aid that enhances nutrient absorption and gut microbiome balance",
+      "Clinically proven to support balanced blood sugar levels and metabolic health",
+      "Exceptional protein and fiber content that surpasses most comparable seeds"
+    ],
+    "description": "Our premium Fenugreek Seeds represent the finest harvest from India's legendary spice-growing regions of Gujarat, Maharashtra, and Madhya Pradesh. Cultivated during the optimal winter season (October to February), our seeds benefit from India's position as the world's foremost fenugreek producer. Derived from the pristine Trigonella foenum-graecum plant, these seeds embody centuries of traditional medicinal wisdom and culinary excellence. Their remarkable anti-inflammatory properties, digestive enhancement capabilities, and blood sugar regulation benefits make them a cornerstone ingredient for discerning global buyers. With impressively high protein and fiber content, our export-grade Fenugreek Seeds deliver exceptional value across multiple applications—from gourmet cuisine and functional foods to pharmaceutical formulations and premium animal nutrition supplements.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Environmentally harmonious cultivation ensuring optimal pest control with minimal ecological impact",
+      "Organic: Certified production methods free from synthetic inputs, catering to conscious consumers worldwide",
+      "Conventional: Traditional cultivation delivering consistent quality and competitive pricing"
+    ],
+    "container_capacity": [
+      "20 ft : 13 MT of premium product with optimal space utilization",
+      "40 ft : 27 MT ensuring economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Type: Pristine whole fenugreek seeds with consistent quality",
+      "Color: Rich yellowish-brown indicating perfect maturity",
+      "Shape: Distinctive small, irregular form characteristic of premium quality",
+      "Size: Precise 2-3 mm (0.08-0.12 inches) for optimal culinary and industrial applications",
+      "Flavor: Pleasantly bitter with subtle sweet undertones that enhance culinary complexity",
+      "Aroma: Distinctive nutty and earthy bouquet that signifies authenticity",
+      "Process: Advanced machine cleaning and sorting for unparalleled purity",
+      "Packing: Flexible packaging solutions tailored to your specific requirements",
+      "Moisture: Carefully controlled below 10% to ensure maximum shelf life",
+      "Protein Content: Exceptional 20-25% protein concentration for superior nutritional value"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing: State-of-the-art laboratory analysis guarantees consistent quality and purity standards",
+      "Packaging: Premium food-grade materials specifically designed to preserve aroma and freshness during global transit",
+      "Supply Chain Transparency: Comprehensive farm-to-port documentation with direct sourcing and verified fair trade certification",
+      "Regular Audits: Systematic quality compliance monitoring ensuring continuous improvement and consistent excellence",
+      "Trained Quality Control Team: Expert specialists conducting rigorous inspections at every production stage",
+      "Compliance with Regulations: Full adherence to international food safety protocols and country-specific labeling requirements"
+    ]
+  },
+  {
+    "id": "13",
+    "category": "Spices",
+    "hs_code": "09109914",
+    "name": "Ajwain ",
+    "image": "images/products/spices/ajwain.png",
+    "harvest_season": "June to September",
+    "features": [
+      "Revolutionary digestive catalyst that transforms gut health and enhances nutrient absorption",
+      "Powerful natural remedy proven effective against seasonal respiratory conditions",
+      "Exceptional immune system fortifier with natural antimicrobial properties",
+      "Potent anti-inflammatory agent promoting holistic wellness"
+    ],
+    "description": "Our export-grade Ajwain (Carom Seeds) represents the crowning achievement of India's summer harvest (June to September), sourced exclusively from the prime growing regions of Gujarat, Maharashtra, and Madhya Pradesh. As one of the world's preeminent ajwain producers, India provides the ideal terroir for developing these exceptional Trachyspermum ammi seeds. Treasured for centuries in Ayurvedic traditions, our Ajwain delivers unmatched therapeutic benefits—revolutionizing digestive health, providing superior respiratory relief, and bolstering immune function through its natural antimicrobial properties. With an impressive essential oil concentration of 2-4%, our premium Ajwain exceeds industry standards and delivers exceptional versatility across culinary applications, pharmaceutical formulations, and therapeutic aromatherapy. Choose our Ajwain to elevate your product offerings with authentic Indian quality that discerning global consumers demand.",
+    "quality_options": [],
+    "container_capacity": [
+      "20 ft : 13.5 MT providing optimal logistics efficiency",
+      "40 ft : 27 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Type: Premium whole ajwain seeds with unmatched purity",
+      "Color: Rich brown to distinctive grayish-brown indicating perfect maturity",
+      "Shape: Characteristic small, irregular form of authentic ajwain",
+      "Size: Consistent 1-2 mm (0.04-0.08 inches) for ideal flavor release",
+      "Flavor: Boldly pungent with perfectly balanced bitter notes that enhance culinary applications",
+      "Aroma: Powerful, earthy bouquet with distinctive thymol notes",
+      "Process: Advanced machine cleaning and precision sorting for superior quality",
+      "Packing: Customizable packaging solutions meeting specific market requirements",
+      "Moisture: Carefully maintained below 10% ensuring extended shelf stability",
+      "Essential Oil Content: Exceptional 2-4% concentration guaranteeing superior flavor and therapeutic benefits"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analysis in our state-of-the-art laboratory ensures compliance with the strictest international quality parameters",
+      "Packaging: Superior food-grade materials specifically engineered to preserve the distinctive freshness and aromatic profile during global transit",
+      "Supply Chain Transparency: Direct farmer partnerships with complete documentation ensuring ethical sourcing and authentic fair trade certification",
+      "Regular Audits: Systematic quality verification protocols with continuous monitoring to maintain uncompromising excellence",
+      "Trained Quality Control Team: Specialized professionals conducting meticulous multi-stage inspections to guarantee only premium products reach international markets",
+      "Compliance with Regulations: Comprehensive adherence to global food safety standards and market-specific labeling requirements"
+    ]
+  },
+  {
+    "id": "14",
+    "category": "Spices",
+    "name": "Chia seeds",
+    "hs_code": "12079990",
+    "image": "images/products/spices/chia_seed.jpg",
+    "harvest_season": "June to September",
+    "features": [
+      "Exceptional Omega-3 fatty acids concentration supporting cardiovascular wellness and reducing inflammation",
+      "Superior fiber content that revolutionizes digestive health and enhances weight management programs",
+      "Complete protein profile with antioxidant-rich formulation for comprehensive nutritional benefits",
+      "Unmatched versatility for premium applications in bakery, beverages, and nutraceutical formulations"
+    ],
+    "description": "Our export-quality Chia Seeds represent the pinnacle of India's summer harvest (June to September), cultivated in the fertile heartlands of Gujarat, Maharashtra, and Madhya Pradesh. As a leading global producer of premium chia, India provides the perfect growing conditions for these exceptional Salvia hispanica seeds. Our Chia Seeds deliver an unparalleled nutritional profile—boasting remarkable concentrations of essential fiber, complete protein, omega-3 fatty acids, and powerful antioxidants. This nutritional powerhouse enhances any product line with exceptional functionality and marketability across multiple applications—from artisanal baking and premium beverage formulations to cutting-edge dietary supplements that resonate with health-conscious consumers worldwide. Partner with us to access India's finest chia seeds and distinguish your brand in the competitive global superfood marketplace.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Advanced environmentally-conscious cultivation ensuring exceptional crop quality while preserving ecological balance",
+      "Organic: Certified cultivation without synthetic chemicals, meeting the strictest international organic standards",
+      "Conventional: Traditional growing methods with careful input management ensuring consistent quality and competitive pricing"
+    ],
+    "container_capacity": [
+      "20 ft: 18 MT providing optimal bulk shipment efficiency"
+    ],
+    "specifications": [
+      "Type: Premium whole chia seeds with exceptional purity standards",
+      "Color: Perfect grayish-brown to black indicating optimal maturity and nutrient density",
+      "Shape: Classic oval formation characteristic of highest-grade chia",
+      "Size: Uniform 1-2 mm (0.04-0.08 inches) for consistent performance in all applications",
+      "Protein: Superior 15-20% concentration for enhanced nutritional value",
+      "Fiber: Exceptional 30-40% content supporting digestive and metabolic health claims",
+      "Omega-3 Fatty Acids: Premium 20-30% profile delivering outstanding heart health benefits",
+      "Process: Advanced machine cleaning and precision sorting ensuring unmatched purity",
+      "Packing: Customizable packaging solutions designed for your specific market requirements",
+      "Moisture: Scientifically maintained below 10% for maximum shelf stability",
+      "Impurities: Guaranteed less than 1% for pharmaceutical-grade quality"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analysis in advanced laboratories ensuring consistent compliance with international quality benchmarks",
+      "Packaging: Premium food-grade materials specifically engineered to preserve nutritional integrity and freshness during global transit",
+      "Supply Chain Transparency: Complete farm-to-export documentation with direct farmer partnerships ensuring ethical sourcing and authentic traceability",
+      "Regular Audits: Systematic quality verification protocols with continuous monitoring to maintain uncompromising excellence",
+      "Trained Quality Control Team: Specialized experts conducting multi-stage inspections to guarantee only premium products reach global markets",
+      "Compliance with Regulations: Comprehensive adherence to international safety protocols and market-specific labeling requirements"
+    ]
+  },
+  {
+    "id": "15",
+    "category": "Spices",
+    "name": "Celery seeds",
+    "hs_code": "09109911",
+    "image": "images/products/spices/celery_seed.jpg",
+    "harvest_season": "October to February",
+    "features": [
+      "Powerful natural anti-inflammatory agent targeting multiple inflammatory pathways",
+      "Superior digestive catalyst enhancing gut microbiome balance and nutrient absorption",
+      "Advanced immune system support with broad-spectrum antimicrobial properties",
+      "Exceptional essential oil and antioxidant profile surpassing industry standards"
+    ],
+    "description": "Our premium Celery Seed represents the finest winter harvest (October to February) from India's renowned growing regions of Gujarat, Maharashtra, and Madhya Pradesh. As a global leader in celery seed production, India provides the ideal climate for developing these exceptional Apium graveolens seeds. Centuries of traditional medicinal application have validated what modern research confirms—our Celery Seed delivers remarkable anti-inflammatory benefits, superior digestive enhancement, and comprehensive immune support. With an impressive essential oil concentration of 1-3%, our export-grade product exceeds international quality benchmarks and offers exceptional versatility across culinary applications, pharmaceutical formulations, and aromatherapy solutions. Partner with us to access India's finest celery seed and elevate your product offerings with authentic quality that discerning global consumers demand.",
+    "quality_options": [
+      "IPM (Integrated Pest Management): Advanced ecological cultivation ensuring premium quality with minimal environmental impact",
+      "Organic: Certified production methods guaranteeing freedom from synthetic chemicals",
+      "Conventional: Traditional cultivation delivering consistent quality and competitive pricing"
+    ],
+    "container_capacity": [
+      "20 ft : 13 MT providing optimal logistics efficiency",
+      "40 ft : 27 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Type: Premium whole celery seeds with exceptional purity",
+      "Color: Rich brown to perfect tan indicating optimal harvest timing",
+      "Shape: Characteristic small, irregular form of authentic celery seed",
+      "Size: Consistent 0.5-1 mm (0.02-0.04 inches) for ideal flavor release",
+      "Flavor: Perfectly warm with balanced bitter notes enhancing culinary depth",
+      "Aroma: Vibrant, herbal bouquet with distinctive fresh notes",
+      "Process: Advanced machine cleaning and precision sorting for superior quality",
+      "Packing: Tailored packaging solutions meeting specific market requirements",
+      "Moisture: Scientifically maintained below 10% ensuring extended shelf stability",
+      "Essential Oil Content: Premium 1-3% concentration guaranteeing superior flavor and therapeutic benefits"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Lab Testing in cutting-edge facilities with comprehensive analytical protocols ensuring consistent quality benchmarks",
+      "Use of premium food-grade packaging materials specifically designed to preserve aromatic compounds and extend shelf life",
+      "Supply Chain Transparency with complete farm-to-export documentation and direct farmer partnerships",
+      "Regular Audits conducted by independent quality assurance professionals ensuring continuous compliance improvement",
+      "Trained Quality Control Team implementing rigorous multi-stage inspection protocols",
+      "Compliance with international food safety standards and market-specific regulatory requirements"
+    ]
+  },
+  {
+    "id": "16",
+    "category": "Spices",
+    "name": "Cloves",
+    "hs_code": "0907",
+    "image": "images/products/spices/clove.jpg",
+    "harvest_season": "September to January",
+    "features": [
+      "Exceptional antioxidant concentration promoting superior immune function and cellular protection",
+      "Powerful natural analgesic properties making it indispensable for oral care formulations",
+      "Distinctive aromatic profile that transforms culinary creations and premium beverages",
+      "Potent antimicrobial and anti-inflammatory compounds with broad therapeutic applications"
+    ],
+    "description": "Our premium Cloves represent the pinnacle of quality from the world's finest growing regions in India and Madagascar, where ideal climate conditions and expert cultivation techniques combine to produce these exceptional dried flower buds of Syzygium aromaticum. Originally native to Indonesia's Maluku Islands, our carefully selected Cloves deliver an intensity of flavor and aroma that distinguishes truly superior product. The remarkable potency of our export-grade Cloves makes them indispensable across multiple industries—from gourmet culinary applications and premium beverage formulations to pharmaceutical preparations and therapeutic aromatherapy solutions. Choose our Cloves to access unparalleled quality that will elevate your product offerings and satisfy the demands of the most discerning global markets.",
+    "quality_options": [
+      "Organic: Cultivated under strict certified organic protocols, completely free from synthetic chemicals and pesticides, meeting the highest international standards",
+      "Conventional: Grown using traditional methods with carefully monitored agricultural inputs ensuring consistent quality and competitive market positioning"
+    ],
+    "container_capacity": [
+      "20 ft: 11 MT with optimal loading configuration for product integrity",
+      "40 ft: 22 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Physical Characteristics: Pristine whole cloves featuring rich brown coloration and perfect bud formation indicating optimal harvest timing",
+      "Flavor and Aroma: Exceptionally strong, pungent profile with balanced warm notes that signify premium quality",
+      "Moisture: Scientifically controlled below 10% ensuring maximum shelf stability and potency retention",
+      "Volatile Oil Content: Superior 15-20% concentration exceeding industry standards for flavor intensity and therapeutic efficacy",
+      "Packaging Options: Customizable solutions designed to preserve aromatic compounds during international transit"
+    ],
+    "variety": [
+      "Indonesian Cloves: World-renowned for exceptional quality and unmatched flavor intensity, carefully selected from the historic Maluku Islands production",
+      "Madagascar Cloves: Distinguished by their unique aromatic profile and consistent quality from Madagascar's ideal growing conditions",
+      "Indian Cloves: Premium selections from Kerala and Tamil Nadu featuring superior essential oil content and distinctive flavor characteristics"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analytical protocols in advanced laboratories ensuring consistent adherence to the strictest international quality parameters",
+      "Supply Chain Transparency: Complete farm-to-export documentation with verified fair trade certification and ethical sourcing practices",
+      "Regular Audits: Systematic quality verification ensuring continuous monitoring and improvement across all production stages",
+      "Trained Quality Control Team: Specialized experts implementing multi-stage inspection protocols to guarantee only premium products reach global markets",
+      "Compliance with Regulations: Full adherence to international food safety standards and market-specific regulatory requirements"
+    ]
+  },
+  {
+    "id": "17",
+    "category": "Spices",
+    "name": "Star Anise",
+    "hs_code": "0910",
+    "image": "images/products/spices/star_anise.jpg",
+    "harvest_season": "February to September",
+    "features": [
+      "Exceptional antioxidant profile delivering comprehensive cellular protection and anti-aging benefits",
+      "Superior digestive enhancement properties that alleviate discomfort and optimize nutrient absorption",
+      "Potent natural antimicrobial compounds providing broad-spectrum immune support",
+      "Distinctive sweet, licorice-like flavor profile that elevates culinary creations and bakery applications"
+    ],
+    "description": "Our premium Star Anise represents the finest selection from China and India's most respected growing regions, meticulously harvested at peak ripeness to ensure exceptional quality. These distinctive star-shaped fruits of the Illicium verum tree originate from China and Southeast Asia's ideal growing environments. Our export-grade Star Anise delivers an unmistakable sweet, licorice-like flavor profile that transforms culinary applications from simple to extraordinary. Beyond its culinary versatility, this remarkable spice offers impressive therapeutic benefits, making it invaluable across multiple industries—from gourmet food production and artisanal beverage formulation to pharmaceutical preparations and traditional medicine applications. Partner with us to access world-class Star Anise that will distinguish your products in competitive global markets.",
+    "quality_options": [
+      "Organic: Cultivated under strict certified organic protocols completely free from synthetic pesticides, herbicides, and fertilizers, meeting the highest international standards",
+      "Conventional: Grown using traditional methods with carefully monitored agricultural inputs ensuring consistent quality and competitive market positioning"
+    ],
+    "container_capacity": [
+      "20 ft : 10 MT with optimal loading configuration to maintain product integrity",
+      "40 ft : 20 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Physical Characteristics: Perfect whole star anise fruits featuring rich brown coloration and distinctive star formation indicating optimal maturity",
+      "Flavor and Aroma: Exceptional sweet, licorice-like profile with balanced aromatic notes that signify premium quality",
+      "Moisture: Scientifically maintained below 10% ensuring maximum shelf stability and flavor retention",
+      "Volatile Oil Content: Superior 5-7% concentration exceeding industry standards for flavor intensity and therapeutic efficacy",
+      "Packaging Options: Customizable solutions designed to preserve fragile star structures during international transit"
+    ],
+    "variety": [
+      "Chinese Star Anise: World-renowned for unmatched quality and distinctive flavor profile, meticulously selected from Guangdong and Guangxi provinces' premium harvests",
+      "Indian Star Anise: Distinguished by exceptional sweetness and perfectly balanced licorice notes, sourced from Kerala and Tamil Nadu's specialized growing regions"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analytical protocols in state-of-the-art laboratories ensuring consistent adherence to the strictest international quality parameters",
+      "Supply Chain Transparency: Complete farm-to-export documentation with direct farmer partnerships ensuring ethical sourcing and authentic traceability",
+      "Regular Audits: Systematic quality verification protocols ensuring continuous monitoring and improvement across all production stages",
+      "Trained Quality Control Team: Specialized experts implementing multi-stage inspection protocols to guarantee only premium products reach global markets",
+      "Compliance with Regulations: Full adherence to international food safety standards and market-specific regulatory requirements"
+    ]
+  },
+  {
+    "id": "18",
+    "category": "Spices",
+    "hs_code": "0908",
+    "name": "Nutmeg",
+    "image": "images/products/spices/nutmeg.jpg",
+    "harvest_season": "June-August",
+    "features": [
+      "Powerful immune-enhancing antioxidant profile that strengthens natural defense systems",
+      "Superior digestive catalyst that eliminates bloating and optimizes gastrointestinal function",
+      "Potent anti-inflammatory compounds targeting joint discomfort and chronic inflammation",
+      "Natural anxiolytic properties promoting mental clarity and stress reduction"
+    ],
+    "description": "Our premium Nutmeg represents the finest selection from Indonesia's legendary spice islands, where ideal growing conditions produce the world's most exceptional Myristica fragrans seeds. Originally native to the historic Banda Islands, our carefully selected Nutmeg delivers an intensity of warm, slightly sweet flavor and aroma that distinguishes truly superior product. The remarkable versatility of our export-grade Nutmeg makes it indispensable across multiple industries—from gourmet culinary applications and premium bakery products to therapeutic aromatherapy formulations and traditional medicine preparations. Partner with us to access Indonesia's finest Nutmeg that will elevate your product offerings and satisfy the expectations of the most discerning global markets.",
+    "quality_options": [
+      "Organic: Cultivated under strict certified organic protocols completely free from synthetic chemicals and pesticides, meeting the highest international standards",
+      "Conventional: Grown using traditional methods with carefully monitored agricultural inputs ensuring consistent quality and competitive market positioning"
+    ],
+    "container_capacity": [
+      "20 ft: 13 MT with optimal loading configuration for product integrity",
+      "40 ft: 27 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Physical Characteristics: Perfect whole nutmeg seeds featuring rich brown coloration and consistent oval shape indicating optimal maturity",
+      "Flavor and Aroma: Exceptional warm, slightly sweet profile with balanced aromatic notes that signify premium quality",
+      "Moisture: Scientifically controlled below 10% ensuring maximum shelf stability and potency retention",
+      "Volatile Oil Content: Superior 7-12% concentration exceeding industry standards for flavor intensity and therapeutic efficacy",
+      "Packaging Options: Customizable solutions designed to preserve aromatic compounds during international transit"
+    ],
+    "variety": [
+      "Indonesian Nutmeg: World-renowned for unmatched quality and distinctive flavor profile, meticulously selected from Sumatra's premium production regions",
+      "Indian Nutmeg: Distinguished by exceptional warmth and perfectly balanced sweet notes, sourced from Kerala's specialized growing areas"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analytical protocols in state-of-the-art facilities ensuring consistent adherence to the strictest international quality parameters",
+      "Supply Chain Transparency: Complete farm-to-export documentation with direct farmer partnerships ensuring ethical sourcing and authentic traceability",
+      "Regular Audits: Systematic quality verification ensuring continuous monitoring and improvement across all production stages",
+      "Trained Quality Control Team: Specialized experts implementing multi-stage inspection protocols to guarantee only premium products reach global markets",
+      "Compliance with Regulations: Full adherence to international food safety standards and market-specific labeling requirements"
+    ]
+  },
+  {
+    "id": "19",
+    "category": "Spices",
+    "hs_code": "090611",
+    "name": "Cinnamon",
+    "image": "images/products/spices/cinnamon.jpg",
+    "harvest_season": "May, September to November",
+    "features": [
+      "Extraordinary warm, sweet flavor profile that transforms ordinary recipes into premium creations",
+      "Versatile application potential across sweet and savory culinary traditions worldwide",
+      "Sourced exclusively from Sri Lanka and Indonesia's finest growing regions for unmatched quality",
+      "Available in both certified organic and premium conventional varieties to meet diverse market demands"
+    ],
+    "description": "Our premium Cinnamon Sticks represent the pinnacle of quality from Sri Lanka and Indonesia's most distinguished growing regions, where generations of expertise produce the world's finest Cinnamomum verum bark. Originally native to Sri Lanka, our carefully harvested Cinnamon delivers an incomparable warm, sweet, and spicy profile that defines truly exceptional product. The remarkable versatility of our export-grade Cinnamon makes it essential across multiple industries—from artisanal baking and gourmet cuisine to traditional medicine formulations and premium beverage development. Choose our Cinnamon to access unparalleled quality that will elevate your product offerings and meet the expectations of the most discriminating global markets.",
+    "quality_options": [
+      "Organic: Cultivated under strict certified organic protocols completely free from synthetic chemicals, meeting the highest international standards",
+      "Conventional: Grown using traditional methods with carefully monitored agricultural inputs ensuring consistent quality and competitive pricing"
+    ],
+    "container_capacity": [
+      "20 Feet Container: 7 MT with specialized loading configuration to maintain stick integrity",
+      "40 Feet Container: 14 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Physical Characteristics: Perfect whole cinnamon sticks featuring rich brown coloration and precise cylindrical formation",
+      "Size: Premium selection ranging from 10-20 cm in length and 2-3 cm in diameter for consistent quality",
+      "Flavor and Aroma: Exceptional warm, sweet, and spicy profile with balanced complexity that signifies superior grade",
+      "Moisture: Scientifically controlled below 13% ensuring maximum shelf stability and flavor retention",
+      "Packaging Options: Customizable solutions designed to protect delicate quills during international transit"
+    ],
+    "variety": [
+      "Ceylon Cinnamon: The true cinnamon of connoisseurs, renowned globally for its delicate flavor and distinctive quality, exclusive to Sri Lanka's premier growing regions",
+      "Indonesian Cinnamon: Distinguished by exceptional warmth and perfectly balanced sweet notes, carefully selected from Sumatra's specialized production areas"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analytical protocols in state-of-the-art facilities ensuring consistent adherence to the strictest international quality parameters",
+      "Supply Chain Transparency: Complete farm-to-export documentation with direct farmer partnerships ensuring ethical sourcing and authentic traceability",
+      "Regular Audits: Systematic quality verification ensuring continuous monitoring and improvement across all production stages",
+      "Trained Quality Control Team: Specialized experts implementing multi-stage inspection protocols to guarantee only premium products reach global markets",
+      "Compliance with Regulations: Full adherence to international food safety standards and market-specific regulatory requirements"
+    ]
+  },
+  {
+    "id": "20",
+    "category": "Spices",
+    "name": "Flax Seed",
+    "hs_code": "1204",
+    "image": "images/products/spices/flax_seed.jpg",
+    "harvest_season": "February and March",
+    "features": [
+      "Exceptional omega-3 fatty acid profile promoting superior cardiovascular health and reduced inflammation",
+      "Premium fiber content that revolutionizes digestive wellness and supports weight management programs",
+      "Unmatched versatility across premium food formulations, specialized animal nutrition, and industrial applications",
+      "Available in both certified organic and premium conventional varieties to meet diverse market requirements"
+    ],
+    "description": "Our premium Flaxseed represents the finest harvest from India's specialized growing regions of Madhya Pradesh and Rajasthan, where ideal climate conditions produce exceptional quality. These nutritionally superior oilseeds deliver an impressive profile of omega-3 fatty acids, dietary fiber, and plant protein that distinguishes truly premium product. The exceptional nutty flavor and satisfying texture of our export-grade Flaxseed make it invaluable across multiple applications—from functional food development and artisanal baking to premium animal nutrition formulations and specialized industrial uses. Partner with us to access India's finest Flaxseed and elevate your product offerings with nutritional excellence that meets the demands of health-conscious global markets.",
+    "quality_options": [
+      "Organic: Cultivated under strict certified organic protocols completely free from synthetic chemicals, meeting the highest international standards",
+      "Conventional: Grown using traditional methods with carefully monitored agricultural inputs ensuring consistent quality and competitive market positioning"
+    ],
+    "container_capacity": [
+      "20 Feet Container: 10 MT with specialized loading configuration to maintain seed integrity",
+      "40 Feet Container: 20 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Physical Characteristics: Perfect whole flaxseeds ranging from rich brown to golden amber, with consistent oval formation indicating premium quality",
+      "Size: Available in precisely graded small, medium, and large selections to meet specific application requirements",
+      "Oil Content: Exceptional 30-40% concentration delivering superior nutritional value and functional performance",
+      "Protein Content: Premium 20-25% profile exceeding industry standards for nutritional applications",
+      "Fiber Content: Remarkable 20-25% content supporting digestive health claims and functional food formulations",
+      "Packaging Options: Customizable solutions designed to preserve nutritional integrity during international transit"
+    ],
+    "variety": [
+      "Madhya Pradesh Flaxseed: Distinguished by exceptionally high oil content and distinctive flavor profile, meticulously selected from Madhya Pradesh's premium growing regions",
+      "Rajasthan Flaxseed: Renowned for superior quality and consistent nutrient density, carefully sourced from Rajasthan's specialized production areas"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Comprehensive analytical protocols in state-of-the-art laboratories ensuring consistent adherence to the strictest international quality parameters",
+      "Supply Chain Transparency: Complete farm-to-export documentation with direct farmer partnerships ensuring ethical sourcing and authentic traceability",
+      "Regular Audits: Systematic quality verification ensuring continuous monitoring and improvement across all production stages",
+      "Trained Quality Control Team: Specialized experts implementing multi-stage inspection protocols to guarantee only premium products reach global markets",
+      "Compliance with Regulations: Full adherence to international food safety standards and market-specific regulatory requirements"
+    ]
+  },
+  {
+    "id": "21",
+    "category": "Spices",
+    "name": "Black Pepper",
+    "hs_code": "0904",
+    "image": "images/products/spices/black_pepper.jpg",
+    "harvest_season": "November to March",
+    "features": [
+      "Distinctive sharp flavor profile that transforms ordinary dishes into culinary masterpieces",
+      "Exceptional versatility across global cuisine traditions and pharmaceutical applications",
+      "Superior piperine concentration delivering enhanced bioavailability and therapeutic benefits",
+      "Sourced exclusively from India and Vietnam's premier growing regions for unmatched quality"
+    ],
+    "description": "Our premium Black Pepper represents the pinnacle of quality from India and Vietnam's most distinguished growing regions, where ideal climate conditions and generations of expertise combine to produce the world's finest Piper nigrum fruits. Harvested at peak ripeness and expertly dried, our carefully selected Black Pepper delivers an incomparable sharp, pungent profile that defines truly exceptional product. The remarkable versatility of our export-grade Black Pepper makes it essential across global cuisines and multiple industries—from gourmet food production and artisanal seasoning blends to traditional medicine formulations and nutraceutical applications. Partner with us to access unparalleled Black Pepper quality that will elevate your product offerings and satisfy the expectations of the most discerning global markets.",
+    "quality_options": [
+      "Organic: Cultivated under strict certified organic protocols completely free from synthetic inputs, meeting the highest international standards",
+      "Conventional: Grown using traditional methods with carefully monitored agricultural practices ensuring consistent quality and competitive pricing"
+    ],
+    "container_capacity": [
+      "20 Feet Container: 6 MT with specialized loading configuration to maintain product integrity",
+      "40 Feet Container: 12 MT offering economical bulk shipping solutions"
+    ],
+    "specifications": [
+      "Physical Characteristics: Perfect whole black peppercorns featuring rich dark brown to black coloration and consistent spherical shape indicating optimal maturity",
+      "Flavor and Aroma: Exceptional sharp, pungent profile with balanced complexity that signifies premium grade",
+      "Moisture: Scientifically controlled below 10% ensuring maximum shelf stability and potency retention",
+      "Piperine Content: Superior 4-6% concentration exceeding industry standards for flavor intensity and therapeutic efficacy",
+      "Packaging Options: Customizable solutions designed to preserve aromatic compounds during international transit"
+    ],
+    "variety": [
+      "Indian Black Pepper: World-renowned for unparalleled quality and distinctive flavor profile, meticulously selected from Kerala and Tamil Nadu's premium harvests",
+      "Vietnamese Black Pepper: Distinguished by exceptional pungency and perfectly balanced sharpness, carefully sourced from Dak Lak and Gia Lai's specialized growing regions"
+    ],
+    "quality_assurance": [
+      "Lab Testing: Rigorous analytical procedures in our advanced laboratory ensuring consistent adherence to global quality benchmarks",
+      "Supply Chain Transparency: Complete documentation from farm to export with ethical sourcing verification",
+      "Regular Audits: Systematic quality monitoring programs ensuring continuous improvement across all production stages",
+      "Trained Quality Control Team: Specialized experts implementing comprehensive inspection protocols at every stage",
+      "Compliance with Regulations: Complete adherence to international food safety standards and market-specific regulatory requirements"
+    ]
+  },
+  {
+    "id": "22",
+    "category": "Spices",
+    "name": "Quinoa",
+    "hs_code": "10085000",
+    "image": "images/products/spices/quinoa_seed.jpg",
+    "harvest_season": "August and September",
+    "features": [
+      "Superior protein content (15-20%)",
+      "Rich dietary fiber (5-7%)",
+      "Available in white, red, and black varieties",
+      "Both organic and conventional options"
+    ],
+    "description": "Experience premium Quinoa from India's finest farms in Rajasthan and Madhya Pradesh. Our nutrient-rich superfood offers exceptional protein, fiber, and minerals with a distinctive nutty flavor. Perfect for culinary, nutritional, and industrial applications. India's finest export-grade Quinoa, harvested at peak perfection.",
+    "quality_options": [
+      "Organic: Certified cultivation without synthetic inputs, complete traceability",
+      "Conventional: Precision-grown using controlled practices for consistent quality"
+    ],
+    "container_capacity": [
+      "20 Feet Container: 7 MT",
+      "40 Feet Container: 14 MT"
+    ],
+    "specifications": [
+      "Physical: Whole grains, white to brown, irregular shape",
+      "Size: Available in small, medium, and large grades",
+      "Protein: High content (15-20%)",
+      "Fiber: Rich content (5-7%)",
+      "Packaging: Fully customizable"
+    ],
+    "variety": [
+      "White Quinoa: Mild flavor, soft texture, ideal for salads and sides",
+      "Red Quinoa: Nutty taste, crunchy texture, perfect for salads and stir-fries",
+      "Black Quinoa: Earthy flavor, firm texture, excellent for soups and stews"
+    ],
+    "quality_assurance": [
+      "Lab Testing: ISO-certified analysis ensures international standard compliance",
+      "Supply Chain: Direct farmer procurement with documented chain-of-custody",
+      "Audits: Regular third-party quality verification protocols",
+      "Quality Control: Dedicated specialists ensure export-grade selection",
+      "Compliance: Adherence to global food safety standards including HACCP and ISO"
+    ]
+  }
+]
