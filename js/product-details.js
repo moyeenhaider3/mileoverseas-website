@@ -319,6 +319,9 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Set up language switcher
   setupLanguageSwitcher();
+
+  // Initialize static collapsible panels
+  initCollapsiblePanels();
   
   // Listen for language changes
   window.addEventListener('languageChanged', function() {
