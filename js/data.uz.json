@@ -1,0 +1,998 @@
+[
+  {
+    "id": "1",
+    "hs_code": "0909",
+    "category": "Ziravorlar",
+    "name": "Zira urugʻlari",
+    "description": "Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng unumdor yetishtirish hududlaridan asosiy qish mavsumida (oktabrdan fevralgacha) sinchkovlik bilan yigʻib olingan yuqori sifatli eksport navli urugʻlarimiz bilan hind zirasining choʻqqisini his eting. Zira ishlab chiqarish boʻyicha jahon yetakchisi sifatida, bizning ehtiyotkorlik bilan tanlangan Cuminum cyminum urugʻlarimiz 2-4% gacha ajoyib efir moyi tarkibiga ega boʻlib, yuqori aromatik intensivlik va lazzat profilini taqdim etadi. Qitʼalar boʻylab pazandachilik anʼanalari va yaxlit tibbiyotda asrlar davomida qadrlanib kelingan zira urugʻlarimiz ovqat hazm qilishni yaxshilash, yalligʻlanishni kamaytirish va immun tizimini qoʻllab-quvvatlash kabi ajoyib sogʻliq uchun foydalarni taqdim etadi. Ushbu koʻp qirrali yuqori sifatli tovar ham pazandachilik, ham terapevtik foydalanish uchun xalqaro standartlardan oshib ketadi, bu esa uni sifatni qadrlaydigan global xaridorlar uchun aqlli tanlovga aylantiradi.",
+    "image": "images/products/spices/cumin.webp",
+    "harvest_season": "Oktyabrdan fevralgacha",
+    "features": [
+      "Optimal ozuqa moddalarini singdirish uchun oshqozon sekretsiyasini ragʻbatlantiradigan kuchli tabiiy fermentlar bilan ovqat hazm qilish salomatligini yaxshilaydi.",
+      "Tizimli yalligʻlanishni kamaytirishga va umumiy salomatlikni qoʻllab-quvvatlashga yordam beradigan kuchli yalligʻlanishga qarshi birikmalarni oʻz ichiga oladi.",
+      "Atrof-muhit stress omillaridan himoya qiladigan muhim mikroelementlar va antioksidant xususiyatlar orqali immun funktsiyasini mustahkamlaydi.",
+      "Har bir partiyada maksimal lazzat intensivligi va terapevtik foydalarni taʼminlaydigan ajoyib 2-4% efir moyi konsentratsiyasini taqdim etadi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Optimal zararkunandalarga qarshi kurash uchun fizikaviy, madaniy, biologik va kimyoviy nazoratlarni birlashtirgan yaxlit yondashuvimiz orqali yetishtirilgan, natijada minimal aralashuv bilan yanada sogʻlom, barqaror yuqori sifatli hosil olinadi.",
+      "Organik: Sintetik pestitsidlar, gerbitsidlar yoki oʻgʻitlardan foydalanmasdan 100% sertifikatlangan organik dehqonchilik amaliyotlari yordamida ishlab chiqarilgan, eng yuqori sifatli toza, pokiza ziravorni taʼminlash uchun zararkunandalar va kasalliklarga qarshi kurashda faqat tabiiy usullardan foydalanilgan.",
+      "Anʼanaviy: Tasdiqlangan muolajalarni diqqat bilan kuzatilgan holda qoʻllash orqali anʼanaviy qishloq xoʻjaligi usullariga rioya qilingan holda yetishtirilgan, kimyoviy moddalardan foydalanishni minimallashtiradigan va shu bilan birga doimiy yuqori sifatni saqlaydigan qatʼiy eng yaxshi boshqaruv amaliyotlariga rioya qilingan."
+    ],
+    "container_capacity": [
+      "20 futlik konteyner: 14 MT",
+      "40 futlik konteyner: 27 MT"
+    ],
+    "specifications": [
+      "Turi: Ajoyib tozalik darajasiga ega boʻlgan toza butun zira urugʻlari",
+      "Rangi: Optimal yetuklikni koʻrsatadigan boy jigarrangdan ajralib turadigan kulrang-jigarrang tusgacha",
+      "Shakli: Ideal konsistensiyaga ega mukammal shakllangan kichik, choʻzinchoq urugʻlar",
+      "Hajmi: Bir xil pishirish natijalari uchun bir xil 3-5 mm (0,12-0,2 dyuym)",
+      "Lazzati: Ajoyib chuqurlikka ega boʻlgan oʻziga xos issiq, tuproqli profil",
+      "Xushboʻyligi: Yuqori sifatni bildiruvchi yangi, jonli oʻsimlik guldastasi",
+      "Jarayon: Ilgʻor mashinada tozalash va aniq saralash texnologiyasi",
+      "Qadoqlash: Maxsus talablaringizni qondirish uchun moslashuvchan, sozlanishi mumkin boʻlgan qadoqlash yechimlari",
+      "Namlik: Uzoq saqlash muddatini kafolatlash uchun 10% dan kam nazorat qilinadi",
+      "Efir moyi tarkibi: Maksimal lazzat taʼsiri uchun yuqori 2-4% konsentratsiya"
+    ],
+    "variety": [
+      "Singapur sifati: Minimal dum mavjudligi bilan sinchkovlik bilan mashinada/sortexda tozalangan, Singapur bozorining qatʼiy standartlariga javob beradigan ajralib turadigan jigarrang rang va kuchli aromatik xususiyatlarga ega.",
+      "Yevropa sifati: Yevropa pazandachilik bozorlarining qatʼiy talablariga javob beradigan, doimiy ravishda jigarrang rang va kuchli xushboʻylikni taʼminlaydigan mutaxassislar tomonidan saralangan va aniq kesilgan urugʻlar.",
+      "Bold sifati: Yuqori taʼsir talab qiladigan ilovalar uchun ham lazzat profilida, ham aromatik sifatlarda ajoyib mustahkamlikni taklif qiluvchi yuqori sifatli katta oʻlchamdagi urugʻlar."
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir partiya bizning zamonaviy laboratoriya jihozlarimizda keng qamrovli tahlildan oʻtkaziladi, bu bizning qatʼiy sifat mezonlarimizga doimiy rioya qilishni taʼminlaydi.",
+      "Qadoqlash: Ishlab chiqarishdan yakuniy yetkazib berishgacha ziramizning oʻziga xos yangiligi va aromatik yaxlitligini saqlab qolish uchun faqat oziq-ovqat darajasidagi, sanoatning yetakchi qadoqlash materiallari ishlatiladi.",
+      "Taʼminot zanjirining shaffofligi: Bizning fermadan bozorga kuzatuvimiz toʻgʻridan-toʻgʻri fermer manbalari va ishlab chiqarish jarayoni davomida sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq taʼminot zanjiri koʻrinishini kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli muntazam auditlar orqali tizimli sifat tekshiruvi xalqaro standartlarga muvofiqlikni taʼminlaydi va shu bilan birga doimiy ravishda yaxshilash imkoniyatlarini aniqlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning ixtisoslashgan sifat inspektorlarimiz har bir joʻnatmaning tozaligi va sifatini tekshirish uchun qattiq tekshirish protokollarini qoʻllaydilar, bu esa faqat yuqori sifatli mahsulotlarning global mijozlarimizga yetib borishini kafolatlaydi.",
+      "Qoidalarga rioya qilish: Global bozorga uzluksiz kirish uchun barcha tegishli xalqaro oziq-ovqat xavfsizligi asoslari, yorliqlash qoidalari va eksport standartlariga toʻliq rioya qilish."
+    ]
+  },
+  {
+    "id": "2",
+    "hs_code": "0909",
+    "category": "Ziravorlar",
+    "name": "Kashnich urugʻlari",
+    "description": "Hindistonning asosiy qish mavsumida (oktabrdan fevralgacha) eng yuqori darajada yigʻib olingan eksklyuziv Premium Kashnich urugʻlarimizning raqobatdosh ustunligini oching. Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng koʻp talab qilinadigan yetishtirish hududlaridan toʻgʻridan-toʻgʻri olingan - global miqyosda yuqori sifatli kashnich ishlab chiqarish markazi sifatida tan olingan. Bizning Coriandrum sativum asrlar davomida oʻtgan donolik va zamonaviy qishloq xoʻjaligi texnikalari bilan birgalikda yetishtirilgan boʻlib, global bozorlarda eʼtiborni tortadigan mahsulotni yaratdi. Favqulodda 0,5-1,5% efir moyi tarkibi har qanday pazandachilik ijodini darhol yaxshilaydigan oʻziga xos yangi, sitrusli profilni taqdim etadi. Aqlli xalqaro xaridorlar bizning kashnich urugʻlarimizni shunchaki ziravor emas, balki butun dunyo boʻylab sogʻliqni saqlashga eʼtiborli isteʼmolchilar bozorlarida darhol raqobatdosh ustunlikni taʼminlaydigan mahsulot mukammalligiga strategik sarmoya sifatida tan olishadi.",
+    "image": "images/products/spices/coriander.webp",
+    "harvest_season": "Oktyabrdan fevralgacha",
+    "features": [
+      "Maksimal qulaylik va ozuqa moddalarini singdirish uchun ichak funktsiyasini darhol tinchlantiradigan va optimallashtiradigan kuchli tabiiy birikmalar bilan ovqat hazm qilish salomatligini inqilob qiladi.",
+      "Tizimli yalligʻlanish belgilarini tezda kamaytiradigan eksklyuziv bioaktiv ingredientlar orqali yalligʻlanishni yoʻq qiladi, darhol yengillik va uzoq muddatli himoyani taʼminlaydi.",
+      "Faqat yuqori sifatli hind kashnichida topilgan noyob antioksidantlar bilan immun javobini keskin kuchaytiradi, mavsumiy qiyinchiliklarga qarshi oʻtkazib boʻlmaydigan himoyani yaratadi.",
+      "Sanoat standartidan ancha yuqori boʻlgan ajoyib 0,5-1,5% efir moyi konsentratsiyasini oʻz ichiga oladi - tengsiz lazzat intensivligi va terapevtik quvvatni taqdim etadi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni uzluksiz birlashtiradigan inqilobiy yaxlit yetishtirish tizimimizni sinab koʻring, tabiiy himoyalangan oʻsish muhitini yaratadi, bu esa yuqori lazzat profillariga ega sezilarli darajada toza, pokiza urugʻlarni beradi.",
+      "Organik: Zararli sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik kashnich urugʻlarimizdan bahramand boʻling, eng qattiq global organik standartlarga javob beradigan va sogʻliqni saqlashga eʼtiborli bozorlarda yuqori narxlarni talab qiladigan toza, pokiza mahsulotni taqdim etadi.",
+      "Anʼanaviy: Bizning aniqlik bilan boshqariladigan anʼanaviy dehqonchilik amaliyotlarimizdan foydalaning, bu yerda sanoat tomonidan tasdiqlangan muolajalarning har bir qoʻllanilishi masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib kashnich urugʻlarini ishlab chiqarish uchun sinchkovlik bilan kuzatiladi."
+    ],
+    "container_capacity": [
+      "20 fut: 9,5 MT",
+      "40 fut: 19 MT"
+    ],
+    "specifications": [
+      "Turi: Kafolatlangan yuqori sifatli tanlangan butun kashnich urugʻlari",
+      "Rangi: Optimal yetuklik va lazzat rivojlanishini bildiruvchi oʻziga xos jigarrang/yashil tus",
+      "Shakli: Bir xil pishirish samaradorligi uchun mukammal kichik, sharsimon shakllanish",
+      "Hajmi: Ideal pazandachilik natijalari uchun aniq 2-3 mm (0,08-0,12 dyuym) kalibrlash",
+      "Lazzati: Murakkab aromatik notalar bilan ajoyib darajada issiq, biroz shirin profil",
+      "Xushboʻyligi: Yuqori sifatni darhol bildiruvchi jonli, sitrusli guldasta",
+      "Jarayon: Tengsiz tozalik uchun zamonaviy mashinada tozalash va saralash texnologiyasi",
+      "Qadoqlash: Sizning aniq bozor talablaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Namlik: Saqlash muddatini maksimal darajada oshirish va aromatik moylarni saqlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi",
+      "Efir moyi tarkibi: Yuqori lazzat intensivligini taʼminlaydigan yuqori sifatli 0,5-1,5% konsentratsiya"
+    ],
+    "variety": [
+      "Dhana: Yuqori sifatli ziravor aralashmalari va oʻziga xos taomlar uchun mukammal boʻlgan, kuchli lazzat mavjudligi va aromatik intensivligiga ega eksklyuziv katta oʻlchamli kashnich urugʻlari.",
+      "Dhani: Nozik taʼm muhim boʻlgan elita ziravor aralashmasi formulalari uchun maxsus yetishtirilgan oʻziga xos lazzat profilini taklif qiluvchi tanlangan kichikroq urugʻlar.",
+      "Eagle: Aniq dum kesilgan va mashinada tozalangan, nozik pazandachilik ilovalari uchun ideal boʻlgan nazorat ostidagi yumshoq lazzat profilini taʼminlaydigan tozalangan jigarrang urugʻlar.",
+      "Eagle Plus: Mutaxassis dum kesilgan va ilgʻor sortex tozalash bilan yuqori sifatli jigarrang-yashil urugʻlar, har qanday taomni yaxshilaydigan oʻziga xos shirinlikni taʼminlaydi.",
+      "Scooter: Kuchli aromatik mavjudlikka ega jonli yashil nav, mukammallikka erishish uchun sortexda tozalangan, aqlli oshpazlar tomonidan qidiriladigan kuchli oʻtkirlikni taʼminlaydi.",
+      "Parrot: Ajablanarli yashil rang va keng qamrovli sortex tozalash bilan ultra yuqori sifatli, jonli vizual jozibadorlik va gʻayrioddiy yangi lazzatni taklif qiladi.",
+      "Double Parrot: Tengsiz yashil rang va sinchkovlik bilan sortex tozalashni oʻz ichiga olgan bizning eng eksklyuziv navimiz, haqiqatan ham ajoyib lazzat va aromatik taʼsirni taʼminlaydi.",
+      "Kashnich poʻstlogʻi: Anʼanaviy tibbiyot va ixtisoslashgan ziravor kukuni formulalarida yuqori baholanadigan konsentrlangan bioaktiv birikmalarga ega ixtisoslashgan poʻstloq komponenti.",
+      "Kashnich boʻlingan: Yuqori sifatli ziravor aralashmalari va oʻziga xos aralashmalarda darhol lazzat chiqarish uchun mutaxassislar tomonidan qayta ishlangan aniq boʻlingan urugʻlar."
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir partiya xalqaro standartlardan oshib ketadigan ilgʻor sinov protokollari yordamida bizning zamonaviy laboratoriyamizda qattiq tahlildan oʻtkaziladi.",
+      "Qadoqlash: Ilgʻor namlik toʻsiqlariga ega yuqori sifatli oziq-ovqat materiallari global yuk tashish davomida ajoyib yangilik va aromatik profilni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Toʻgʻridan-toʻgʻri fermer hamkorliklari bilan toʻliq fermadan mijozgacha kuzatuv etik manbalarni va haqiqiy sifat sertifikatlashini taʼminlaydi.",
+      "Muntazam auditlar: Tizimli auditlar orqali keng qamrovli sifat tekshiruvi eng talabchan xalqaro standartlarga qatʼiy rioya qilishni kafolatlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Elita sifat mutaxassislari sinchkovlik bilan koʻp nuqtali tekshiruvlarni oʻtkazadilar, faqat mukammal urugʻlarning bizning aqlli global mijozlarimizga yetib borishini taʼminlaydilar.",
+      "Qoidalarga rioya qilish: Butun dunyo boʻylab uzluksiz bojxona rasmiylashtiruvi uchun barcha xalqaro oziq-ovqat xavfsizligi protokollari va yorliqlash talablariga mutlaq rioya qilish."
+    ]
+  },
+  {
+    "id": "3",
+    "hs_code": "0909",
+    "category": "Ziravorlar",
+    "name": "Arpabodiyon urugʻlari",
+    "description": "Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng nufuzli yetishtirish hududlaridan optimal qish mavsumida (oktabrdan fevralgacha) sinchkovlik bilan yigʻib olingan elita Arpabodiyon urugʻlarimiz bilan raqobatbardosh ustunligingizni taʼminlang. Yuqori sifatli Foeniculum vulgare ishlab chiqarish boʻyicha jahon bozorining yetakchilari sifatida, bizning urugʻlarimiz oʻziga xos shirin, qizilmiya hidli profili bilan gʻayrioddiy hissiy tajribani taqdim etadi, bu esa oddiy taomlarni darhol pazandachilik durdonalariga aylantiradi. Aqlli xalqaro xaridorlar bizning arpabodiyonimiz taqdim etadigan strategik ustunlikni tan olishadi - shunchaki ziravor emas, balki tobora raqobatbardosh bozorlarda kuchli farqlovchi sifatida. Ajoyib ovqat hazm qilish foydalari, kuchli yalligʻlanishga qarshi xususiyatlari va immunitetni kuchaytiruvchi fazilatlari sizning mahsulot qatoringiz uchun darhol qoʻshimcha qiymat yaratadi. Ushbu koʻp qirrali yuqori sifatli tovar pazandachilik ilovalari, yaxlit tibbiyot va aromaterapiya uchun eng qatʼiy standartlarga javob beradi, bu esa sizning brendingizni sogʻliqni saqlashga eʼtiborli global isteʼmolchilarga yuqori sifatli ingredientlar yetkazib beruvchisi sifatida joylashtiradi.",
+    "image": "images/products/spices/fennel.webp",
+    "harvest_season": "Oktyabrdan fevralgacha",
+    "features": [
+      "Dunyo boʻylab isteʼmolchilarni qiynaydigan umumiy ovqat hazm qilish shikoyatlariga eksklyuziv yechim taqdim etib, shishiradi va noqulaylikdan darhol xalos boʻlish orqali ovqat hazm qilish salomatligini oʻzgartiradi.",
+      "Faqat yuqori sifatli hind arpabodiyonida topilgan mulkiy bioaktiv birikmalar orqali yalligʻlanishni yoʻq qiladi, sizning mahsulot qatoringiz uchun kuchli salomatlik afzalligini yaratadi.",
+      "Tabiiy himoyani kuchaytiradigan va umumiy hayotiylikni ragʻbatlantiradigan noyob fitonutrientlar bilan immunitet chidamliligini oshiradi, sogʻliqni saqlashga yoʻnaltirilgan bozorlarda raqobatdosh ustunlikni taklif qiladi.",
+      "Oddiy muqobillardan mahsulotlaringizni ajratib turadigan va pazandachilik ijodini darhol yaxshilaydigan shubhasiz shirin, qizilmiya hidli lazzat profilini taqdim etadi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni uzluksiz birlashtiradigan inqilobiy yetishtirish tizimimizga sarmoya kiriting, natijada atrof-muhitga eʼtiborli yuqori sifatli bozorlarga murojaat qiladigan gʻayrioddiy toza, barqaror hosil olinadi.",
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik arpabodiyon urugʻlarimizdan foydalaning, butun dunyo boʻylab eng qatʼiy organik sertifikatlash standartlariga javob beradi va hashamatli bozorlarda yuqori narxlarni talab qiladi.",
+      "Anʼanaviy: Tasdiqlangan muolajalarni diqqat bilan kuzatilgan holda qoʻllash orqali aniqlik bilan boshqariladigan anʼanaviy dehqonchilikimizdan foydalaning, global import talablariga javob beradigan masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib arpabodiyon urugʻlarini ishlab chiqaradi."
+    ],
+    "container_capacity": [
+      "20 fut: 14 MT",
+      "40 fut: 27 MT"
+    ],
+    "specifications": [
+      "Turi: Kafolatlangan tozalik va haqiqiylikka ega yuqori sifatli butun urugʻlar",
+      "Rangi: Eng yuqori yetuklik va lazzat rivojlanishini koʻrsatadigan oʻziga xos yashil-jigarrang tus",
+      "Lazzati: Ajoyib aromatik murakkablikka ega boʻlgan oʻziga xos shirin, qizilmiya hidli profil",
+      "Xushboʻyligi: Yuqori sifatni darhol bildiruvchi yangi, shirin guldasta",
+      "Jarayon: Tengsiz tozalik uchun ilgʻor mashinada tozalash va aniq sortex texnologiyasi",
+      "Qadoqlash: Sizning aniq bozor talablaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Tozaligi: Xalqaro standartlardan oshib ketadigan ajoyib 99-99,5% kafolatlangan tozalik darajalari",
+      "Namlik: Saqlash muddatini maksimal darajada oshirish va uchuvchi birikmalarni saqlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning ISO sertifikatiga ega laboratoriya jihozlarimizda keng qamrovli tahlildan oʻtkaziladi, bu eng qatʼiy sifat mezonlariga qatʼiy rioya qilishni taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli oziq-ovqat darajasidagi, buzilishga qarshi qadoqlash materiallari ishlatiladi, bu esa butun dunyo boʻylab taʼminot zanjiri davomida oʻziga xos yangilik va aromatik yaxlitlikni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv fermadan toʻgʻridan-toʻgʻri manba modeli isteʼmolchilar ishonchini va brend sodiqligini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli auditlar orqali tizimli uchinchi tomon tekshiruvi raqobatdosh ustunlik uchun imkoniyatlarni doimiy ravishda aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning elita sifat mutaxassislarimiz faqat mukammal arpabodiyon urugʻlari bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun qattiq koʻp bosqichli tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Barcha tegishli xalqaro oziq-ovqat xavfsizligi asoslari va eksport qoidalariga mutlaq rioya qilish butun dunyo boʻylab bojxona rasmiylashtiruvini va bozorga kirishni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "4",
+    "hs_code": "09109927",
+    "category": "Ziravorlar",
+    "name": "Xantal urugʻlari",
+    "description": "Hindistonning Rajasthan, Gujarat va Madhya Pradeshdagi eng nufuzli yetishtirish hududlaridan optimal qishki hosil mavsumida (oktabrdan martgacha) sinchkovlik bilan tanlangan eksklyuziv Premium Xantal urugʻlarimiz (Brassica juncea) bilan bozoringizni egallang. Xarid qilish boʻyicha yetakchilar tan olganidek, Hindistonning asrlar davomida davom etgan xantal yetishtirish anʼanasi bizning mulkiy tanlov jarayonimiz bilan birgalikda global bozorlarda tengsiz ajralib turadigan mahsulotni taqdim etadi. Bizning xantal urugʻlarimizning ajoyib oʻtkirligi va nozik shirinligi aqlli isteʼmolchilar talab qiladigan darhol tanib olinadigan lazzat imzosini yaratadi. Namlik miqdori 10% dan past aniq nazorat qilingan va 42% ajoyib yogʻ miqdori bilan bizning yuqori sifatli eksport navli urugʻlarimiz pazandachilik ilovalari, terapevtik mahsulotlar va yuqori darajadagi kosmetika boʻyicha yuqori samaradorlikni taʼminlaydi. Aqlli xalqaro xaridorlar bu koʻp qirrali tovar shunchaki ziravor xaridi emas, balki darhol raqobatdosh ustunlikni taʼminlaydigan mahsulot mukammalligiga strategik sarmoya ekanligini tushunishadi.",
+    "image": "images/products/spices/mustard_seed.webp",
+    "harvest_season": "Oktyabrdan martgacha",
+    "features": [
+      "Oddiy retseptlarni darhol yuqori narxga loyiq boʻlgan oʻziga xos ijodlarga aylantiradigan oʻziga xos oʻtkir, biroz shirin lazzat profili bilan eʼtiborni tortadi.",
+      "Pazandachilik, dorivor va kosmetik ilovalar boʻyicha tengsiz koʻp qirralilikni taqdim etadi, bitta yuqori sifatli ingredientdan ajoyib qiymat va koʻp daromad manbalarini taʼminlaydi.",
+      "Namlik miqdori 10% dan past ilmiy jihatdan nazorat qilingan holda mukammal yaxlitlikni saqlaydi, bu esa global taʼminot zanjirlarida uzoq saqlash muddatini va doimiy sifatni kafolatlaydi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni uzluksiz birlashtiradigan mulkiy yetishtirish tizimimizdan foydalaning, tabiiy himoyalangan oʻsish muhitini yaratadi, bu esa yuqori lazzat xususiyatlariga ega sezilarli darajada toza, pokiza urugʻlarni beradi.",
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik xantal urugʻlarimizga eksklyuziv kirishni taʼminlang, eng qatʼiy global organik standartlarga javob beradi va hashamatli sogʻliqni saqlashga eʼtiborli bozorlarda yuqori mavqeni talab qiladi.",
+      "Anʼanaviy: Bizning aniqlik bilan boshqariladigan anʼanaviy dehqonchilik amaliyotlarimizdan foydalaning, bu yerda sanoat tomonidan tasdiqlangan muolajalarning har bir qoʻllanilishi masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib xantal urugʻlarini ishlab chiqarish uchun qattiq kuzatuvdan oʻtkaziladi."
+    ],
+    "container_capacity": [
+      "20 fut: 20 MT"
+    ],
+    "specifications": [
+      "Turi: Ajoyib tozalik sertifikatiga ega boʻlgan toza butun urugʻlar",
+      "Rangi: Optimal yetuklikni bildiruvchi boy jigarrangdan quyuq jigarranggacha / jonli sariq navlar mavjud",
+      "Lazzati: Mukammal pazandachilik muvozanati uchun nozik shirin notalar bilan ajralib turadigan oʻtkir profil",
+      "Xushboʻyligi: Yuqori sifatni darhol bildiruvchi yangi, buyruq beruvchi mavjudlik",
+      "Jarayon: Tengsiz tozalik uchun ilgʻor mashinada tozalash va aniq sortex texnologiyasi",
+      "Qadoqlash: Sizning aniq texnik xususiyatlaringizga moslashtirilgan sozlanishi mumkin boʻlgan qadoqlash yechimlari",
+      "Tozaligi: Xalqaro standartlardan oshib ketadigan ajoyib 99-99,5% kafolatlangan tozalik darajalari",
+      "Namlik: Saqlash barqarorligini maksimal darajada oshirish uchun ilmiy jihatdan 10% dan kam nazorat qilinadi",
+      "Yogʻ tarkibi: Sanoat oʻrtachasidan ancha yuqori boʻlgan 42% yuqori yogʻ konsentratsiyasi - maksimal lazzat taʼsiri va ekstraktsiya samaradorligini taʼminlaydi"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning ISO sertifikatiga ega laboratoriyamizda qattiq koʻp parametrli tahlildan oʻtkaziladi, bu esa qatʼiy barqarorlik va ajoyib sifatni taʼminlaydi.",
+      "Qadoqlash: Faqat ilgʻor kislorod toʻsiqlariga ega yuqori sifatli oziq-ovqat darajasidagi, buzilishga qarshi materiallar global logistika davomida oʻziga xos yangilik va aromatik yaxlitlikni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri fermadan manba modeli isteʼmolchilar ishonchini va brend sodiqligini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli auditlar orqali tizimli uchinchi tomon tekshiruvi raqobatdosh ustunlik uchun doimiy yaxshilash imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning elita sifat mutaxassislarimiz faqat mukammal xantal urugʻlari bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun mulkiy koʻp bosqichli tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi asoslari va eksport qoidalariga mutlaq rioya qilish butun dunyo boʻylab uzluksiz bojxona rasmiylashtiruvini va darhol bozorga kirishni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "5",
+    "hs_code": "0910",
+    "category": "Ziravorlar",
+    "name": "Zerdeçal barmoqchasi",
+    "description": "Hindistonning Tamil Nadu, Andhra Pradesh va Maharashtradagi eng hurmatga sazovor yetishtirish hududlaridan optimal musson mavsumida (iyundan sentyabrgacha) eng yuqori quvvatda yigʻib olingan eksklyuziv Premium Zerdeçal barmoqchamiz (Curcuma longa) bilan bozor yetakchiligini boshqaring. Aqlli xarid qilish boʻyicha mutaxassislar bizning 4000 yillik yetishtirish merosimiz zamonaviy qishloq xoʻjaligi texnikalari bilan birgalikda global bozorlarda tengsiz ajralib turadigan zerdeçalni taqdim etishini tan olishadi. Jonli sariq-toʻq sariq rang darhol yuqori sifatni bildiradi, sanoat standartidan ancha yuqori boʻlgan ajoyib 3-5% kurkumin miqdori esa mahsulot samaradorligida oʻlchanadigan afzallikni taʼminlaydi. Ushbu strategik tovar pazandachilik ilovalari, terapevtik formulalar va yuqori sifatli kosmetika boʻyicha ustunlik qiladi, bu esa innovatsion brendlarga haqiqiy, samarali zerdeçal mahsulotlariga boʻlgan ortib borayotgan isteʼmolchilar talabini qondirishga imkon beradi. Raqobatbardosh farqlanishni qidirayotgan xalqaro xaridorlar bizning zerdeçalimiz shunchaki ziravor xaridi emas, balki butun mahsulot qatorlarini yuqori toifadagi maqomga koʻtaradigan oʻzgartiruvchi ingredient ekanligini tan olishadi.",
+    "image": "images/products/spices/turmeric.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Bozor oʻrtachasidan ancha yuqori boʻlgan ajoyib kurkumin miqdorini (3-5%) taqdim etadi - sogʻliqni saqlashga eʼtiborli isteʼmolchilar talab qiladigan yuqori rang, lazzat va tasdiqlangan yalligʻlanishga qarshi foydalarni taʼminlaydi.",
+      "Faqat yuqori sifatli hind zerdeçalida topilgan mulkiy bioaktiv birikmalar orqali yalligʻlanishni yoʻq qiladi, salomatlikka yoʻnaltirilgan bozorlarda darhol raqobatdosh ustunlikni taklif qiladi.",
+      "Oksidlovchi stressdan oʻlchanadigan himoyani taʼminlaydigan kuchli antioksidant xususiyatlar bilan hujayralarni himoya qiladi, sogʻliqni saqlashga yoʻnaltirilgan mahsulot qatorlarida yuqori mavqega ega boʻlish imkoniyatlarini yaratadi.",
+      "Pazandachilik, dorivor va kosmetik ilovalar boʻyicha ustunlik qiladi, bitta yuqori sifatli ingredient sarmoyasidan tengsiz koʻp qirralilik va koʻp daromad manbalarini taklif qiladi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni mukammal muvozanatlashtiradigan inqilobiy yetishtirish tizimimizga eksklyuziv kirishni taʼminlang, natijada eng yuqori xalqaro standartlarga javob beradigan sezilarli darajada toza, kuchliroq zerdeçal olinadi.",
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik zerdeçal barmoqchalarimizdan foydalaning, eng qatʼiy global organik sertifikatlarga javob beradi va hashamatli salomatlik bozorlarida yuqori mavqeni talab qiladi.",
+      "Anʼanaviy: Bizning aniqlik bilan boshqariladigan anʼanaviy dehqonchilikimizdan foydalaning, bu yerda tasdiqlangan muolajalarning har bir qoʻllanilishi brend ishonchliligini oshiradigan masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib zerdeçal ishlab chiqarish uchun qattiq kuzatuvdan oʻtkaziladi."
+    ],
+    "container_capacity": [
+      "20 fut: 18 MT",
+      "40 fut: 36 MT"
+    ],
+    "specifications": [
+      "Turi: Kafolatlangan quvvatga ega yuqori sifatli barmoq navli zerdeçal",
+      "Rangi: Eng yuqori kurkumin miqdori va optimal yetuklikni bildiruvchi jonli sariq-toʻq sariq rang",
+      "Shakli: Ideal pishirish va qayta ishlash xususiyatlariga ega mukammal barmoq shakllanishi",
+      "Hajmi: Doimiy tijorat ilovasi uchun bir xil 2-4 dyuym (5-10 sm)",
+      "Lazzati: Oʻziga xos aromatik murakkablikka ega boʻlgan buyruq beruvchi oʻtkir, tuproqli profil",
+      "Xushboʻyligi: Yuqori sifatni darhol bildiruvchi yangi, tuproqli guldasta",
+      "Jarayon: Maqsadli bozor talablari uchun ikki/bir martalik jilo texnologiyasini tanlash bilan ilgʻor mashinada quritish",
+      "Qadoqlash: Sizning aniq texnik xususiyatlaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Kurkumin tarkibi: Bozor oʻrtachasidan ancha yuqori boʻlgan ajoyib 3-5% konsentratsiya",
+      "Namlik: Uzoq saqlash barqarorligini kafolatlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi"
+    ],
+    "variety": [
+      "Nizamabad: Butun dunyo boʻylab yuqori sifatli ziravor brendlari tomonidan qidiriladigan ajoyib quvvati va oʻziga xos oʻtkir lazzat profili bilan mashhur boʻlgan eksklyuziv yuqori kurkuminli nav.",
+      "Salem: Haqiqiy hind kelib chiqishini darhol bildiruvchi gʻayrioddiy yorqin sariq-toʻq sariq rangi va murakkab tuproqli xushboʻyligi bilan mashhur boʻlgan afsonaviy nav.",
+      "Rajapuri: Yuqori sifatli ziravor aralashmalari va formulalarida oʻziga xos notalarni yaratadigan noyob shirin-oʻtkir lazzat muvozanati uchun qadrlanadigan nufuzli Maharashtra navi.",
+      "Assam gibridi: Hindistonning shimoli-sharqidan yuqori hosildor maxsus nav, pazandachilik ilovalarida darhol taʼsir koʻrsatadigan kuchli, tuproqli lazzat intensivligiga ega.",
+      "Ladkong: Haqiqiy mahsulot farqlanishini taklif qiluvchi, tovar zerdeçalida topilmaydigan gʻayrioddiy yuqori kurkumin miqdori va oʻziga xos lazzat birikmalariga ega noyob Meghalaya navi."
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning ISO sertifikatiga ega laboratoriyamizda keng qamrovli kurkumin tahlili va ifloslantiruvchi moddalarni skriningdan oʻtkazadi, bu esa ajoyib quvvat va tozalikni taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli oziq-ovqat darajasidagi, yorugʻlikdan himoyalangan qadoqlash materiallari ishlatiladi, bu esa butun dunyo boʻylab taʼminot zanjiri davomida jonli rang va bioaktiv birikmalarni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri fermadan manba modeli vijdonli isteʼmolchilar bilan rezonanslashadigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli auditlar orqali tizimli uchinchi tomon tekshiruvi doimiy takomillashtirish imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning elita sifat mutaxassislarimiz faqat mukammal zerdeçal bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun ilgʻor kolorimetrik tahlildan foydalangan holda mulkiy tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Ifloslantiruvchi moddalar uchun qatʼiy sinovlarni oʻz ichiga olgan barcha tegishli xalqaro oziq-ovqat xavfsizligi asoslariga mutlaq rioya qilish butun dunyo boʻylab uzluksiz tartibga solishni tasdiqlashni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "6",
+    "hs_code": "09109913",
+    "category": "Ziravorlar",
+    "name": "Shivit urugʻlari",
+    "description": "Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng nufuzli yetishtirish hududlaridan optimal yoz mavsumida (iyundan sentyabrgacha) sinchkovlik bilan yigʻib olingan eksklyuziv Premium Shivit urugʻlarimiz bilan shubhasiz bozor ustunligini taʼminlang. Aqlli xarid qilish boʻyicha mutaxassislar bizning 3000 yillik yetishtirish merosimiz mulkiy qishloq xoʻjaligi usullari bilan birgalikda global bozorlarda tengsiz ajralib turadigan shivit urugʻini taqdim etishini tan olishadi. Sanoat oʻrtachasidan ancha yuqori boʻlgan ajoyib 3-4% uchuvchi moy miqdori aqlli isteʼmolchilar talab qiladigan darhol hissiy taʼsir va terapevtik samaradorlikni taʼminlaydi. Ushbu strategik sarmoya pazandachilik ilovalari, hunarmandchilik tuzlamalari va terapevtik formulalar boʻyicha oddiy mahsulotlarni yuqori sifatli takliflarga aylantiradigan haqiqiy yangi, sitrusli lazzat profilini taqdim etadi. Kelajakka intiluvchan xalqaro xaridorlar bizning yuqori sifatli shivit urugʻlarimiz shunchaki ziravor xaridi emas, balki tobora gavjum bozor toifalarida darhol raqobatdosh farqlanishni taʼminlaydigan oʻzgartiruvchi ingredient ekanligini tushunishadi.",
+    "image": "images/products/spices/dill_seed.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Sanoat standartidan ancha yuqori boʻlgan gʻayrioddiy uchuvchi moy miqdorini (3-4%) taqdim etadi - har bir ilovada maksimal lazzat taʼsiri va terapevtik quvvatni taʼminlaydi.",
+      "Oddiy muqobillardan yuqori sifatli mahsulotlarni ajratib turadigan va pazandachilik ijodini darhol yaxshilaydigan oʻziga xos yangi, sitrusga oʻxshash lazzat profili bilan hislarni maftun etadi.",
+      "Oshqozon-ichak traktidagi bezovtalikni tezda tinchlantiradigan kuchli tabiiy birikmalar orqali ovqat hazm qilishdagi noqulaylikni yoʻq qiladi, salomatlikka yoʻnaltirilgan isteʼmolchilarga darhol qiymat beradi.",
+      "Pazandachilik, tuzlama va terapevtik ilovalar boʻyicha ustunlik qiladi, bitta yuqori sifatli ingredientdan misli koʻrilmagan koʻp qirralilik va koʻp daromad manbalarini taklif qiladi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni mukammal birlashtiradigan inqilobiy yetishtirish tizimimizdan foydalaning, tabiiy himoyalangan oʻsish muhitini yaratadi, bu esa sezilarli darajada toza, xushboʻyroq urugʻlarni beradi.",
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik shivit urugʻlarimizga eksklyuziv kirishni taʼminlang, eng qatʼiy global organik standartlarga javob beradi va hashamatli sogʻliqni saqlashga eʼtiborli bozorlarda yuqori mavqeni talab qiladi.",
+      "Anʼanaviy: Bizning aniqlik bilan boshqariladigan anʼanaviy dehqonchilik amaliyotlarimizdan foydalaning, bu yerda sanoat tomonidan tasdiqlangan muolajalarning har bir qoʻllanilishi masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib shivit urugʻlarini ishlab chiqarish uchun qattiq kuzatuvdan oʻtkaziladi."
+    ],
+    "container_capacity": [
+      "20 fut: 13 MT",
+      "40 fut: 27 MT"
+    ],
+    "specifications": [
+      "Turi: Kafolatlangan quvvat va tozalikka ega yuqori sifatli butun shivit urugʻlari",
+      "Rangi: Optimal yetuklikni bildiruvchi boy jigarrangdan oʻziga xos yashil-jigarrang tusgacha",
+      "Shakli: Ideal lazzat tarqalishi uchun mukammal shakllangan kichik, tartibsiz urugʻlar",
+      "Hajmi: Bir xil pazandachilik samaradorligi uchun aniq 0,5-1 mm (0,02-0,04 dyuym) kalibrlash",
+      "Lazzati: Murakkab aromatik notalar bilan buyruq beruvchi yangi, sitrusli profil",
+      "Xushboʻyligi: Yuqori sifatni darhol bildiruvchi yumshoq, biroz shirin guldasta",
+      "Jarayon: Tengsiz tozalik uchun ilgʻor mashinada tozalash va aniq saralash texnologiyasi",
+      "Qadoqlash: Sizning aniq bozor talablaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Namlik: Saqlash barqarorligini maksimal darajada oshirish va uchuvchi birikmalarni saqlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi",
+      "Uchuvchi moy tarkibi: Bozor oʻrtachasidan ancha yuqori boʻlgan ajoyib 3-4% konsentratsiya"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning ISO sertifikatiga ega laboratoriya jihozlarimizda keng qamrovli uchuvchi moy tahlilidan oʻtkaziladi, bu esa ajoyib aromatik quvvat va tozalik profillarini taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli oziq-ovqat darajasidagi, aromani saqlaydigan qadoqlash materiallari ishlatiladi, bu esa butun dunyo boʻylab taʼminot zanjiri davomida oʻziga xos yangilik va uchuvchi birikmalarni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv fermadan toʻgʻridan-toʻgʻri manba modeli isteʼmolchilar ishonchini va brend sodiqligini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli auditlar orqali tizimli uchinchi tomon tekshiruvi raqobatdosh ustunlik uchun doimiy yaxshilash imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning elita sifat mutaxassislarimiz faqat mukammal shivit urugʻlari bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun mulkiy koʻp bosqichli tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Barcha tegishli xalqaro oziq-ovqat xavfsizligi asoslari va eksport qoidalariga mutlaq rioya qilish butun dunyo boʻylab uzluksiz bojxona rasmiylashtiruvini va darhol bozorga kirishni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "7",
+    "hs_code": "0904",
+    "category": "Ziravorlar",
+    "name": "Qizil qalampir",
+    "description": "Hindistonning Andhra Pradesh, Telangana va Karnataka shtatlaridagi eng nufuzli yetishtirish hududlaridan optimal yoz mavsumida (martdan iyungacha) eng yuqori rang intensivligida yigʻib olingan eksklyuziv Premium Quruq Qizil Qalampirimiz bilan raqobatbardosh bozorlarni egallang. Strategik xarid qilish boʻyicha mutaxassislar bizning 2000 yillik yetishtirish merosimiz mulkiy tanlov usullari bilan birgalikda global bozorlarda tengsiz ajralib turadigan qalampirni taqdim etishini tan olishadi. Buyruq beruvchi jonli qizil rang darhol yuqori sifatni bildiradi, 30 000-50 000 ajoyib SHU reytingi esa mahsulot taʼsiri va samaradorligida oʻlchanadigan afzallikni taʼminlaydi. Ushbu yuqori sifatli tovar pazandachilik ilovalari, ziravor aralashmalari va rangga muhim formulalar boʻyicha ustunlik qiladi, bu esa innovatsion brendlarga haqiqiy xarakterga ega boʻlgan oʻziga xos mahsulotlarni yaratishga imkon beradi. Kelajakka intiluvchan xalqaro xaridorlar bizning yuqori sifatli qalampirlarimiz shunchaki ziravor xaridi emas, balki tobora raqobatbardosh bozor toifalarida darhol vizual va hissiy farqlanishni taʼminlaydigan oʻzgartiruvchi ingredient ekanligini tushunishadi.",
+    "image": "images/products/spices/chilli.webp",
+    "harvest_season": "Martdan iyungacha",
+    "features": [
+      "Sunʼiy qoʻshimchalarga boʻlgan ehtiyojni yoʻq qiladigan jonli tabiiy rang berish orqali mahsulotlarni oʻzgartiradi, toza yorliqli ingredientlarga boʻlgan ortib borayotgan isteʼmolchilar talabini qondiradi.",
+      "Ham oʻziga xos lazzat taʼsirini, ham tasdiqlangan fiziologik foydalarni taʼminlaydigan kuchli kapsaitsin miqdorini taqdim etadi, koʻp marketing afzalliklarini yaratadi.",
+      "Oziqlantirish profillarini oshiradigan va kuchli antioksidant daʼvolarini qoʻllab-quvvatlaydigan ajoyib C vitamini darajalari bilan formulalarni boyitadi.",
+      "Turli xil mahsulot ishlab chiqish ehtiyojlarini qondiradigan bitta yuqori sifatli ingredientni taʼminlab, global oshxona ilovalari boʻyicha tengsiz pazandachilik koʻp qirraliligini taklif qiladi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni uygʻunlashtiradigan inqilobiy yetishtirish tizimimizga eksklyuziv kirishni taʼminlang, natijada yuqori rang saqlash xususiyatlariga ega sezilarli darajada toza, jonliroq qalampirlar olinadi.",
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik qizil qalampirlarimizdan foydalaning, eng qatʼiy global organik standartlarga javob beradi va toza yorliqli bozor segmentlarida yuqori mavqeni talab qiladi.",
+      "Anʼanaviy: Bizning aniqlik bilan boshqariladigan anʼanaviy dehqonchilik amaliyotlarimizdan foydalaning, bu yerda sanoat tomonidan tasdiqlangan muolajalarning har bir qoʻllanilishi masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib qalampirlarni ishlab chiqarish uchun qattiq kuzatuvdan oʻtkaziladi."
+    ],
+    "container_capacity": [
+      "20 fut: 6,5 MT",
+      "40 fut: 13 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Yuqori taqdimot va qayta ishlash samaradorligi uchun ajoyib rang va strukturaviy yaxlitlikka ega yuqori sifatli butun quritilgan qalampirlar.",
+      "- Turi: Tasdiqlangan haqiqiylikka ega sinchkovlik bilan tanlangan butun quritilgan qalampirlar",
+      "- Rangi: 150-200 ajoyib ASTA qiymatiga ega buyruq beruvchi jonli qizil rang",
+      "- Shakli: Vizual jozibadorlik uchun ideal boʻlgan mukammal shakllangan uzun, egri struktura",
+      "- Hajmi: Bir xil pishirish va qayta ishlash natijalarini taʼminlaydigan bir xil 7-10 sm uzunlik",
+      "- Rang Asta: Bozor oʻrtachasidan ancha yuqori boʻlgan 150-200 yuqori reyting",
+      "Lazzati va xushboʻyligi: Yuqori sifatli mahsulotlarni oddiy muqobillardan darhol ajratib turadigan oʻziga xos hissiy profil.",
+      "- Lazzati: Oʻziga xos taʼm tajribalarini yaratadigan murakkab chuqurlikka ega kuchli olovli",
+      "- Xushboʻyligi: Haqiqiy sifatni bildiruvchi nozik shirin notalar bilan oʻtkir",
+      "Qayta ishlash va qadoqlash: Maksimal rang, lazzat va quvvatni saqlaydigan ilgʻor ishlov berish protokollari.",
+      "- Jarayon: Rang saqlanishini maksimal darajada oshirish uchun harorat nazorat qilinadigan protokollar bilan aniq mashinada quritish",
+      "- Qadoqlash: Sizning aniq texnik xususiyatlaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Sifat standartlari: Doimiy samaradorlikni kafolatlaydigan asosiy sifat belgilarining ilmiy tekshiruvi.",
+      "- Namlik: Uzoq rang barqarorligini kafolatlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi",
+      "- Scoville issiqlik birligi (SHU): Kuchli taʼsir uchun ajoyib 30 000-50 000 reyting"
+    ],
+    "variety": [
+      "Sannam: Yuqori sifatli formulalarda oʻziga xos taʼsir yaratadigan kuchli lazzat murakkabligi va oʻziga xos aromatik profili bilan butun dunyoga mashhur boʻlgan Andhra Pradeshdan nufuzli nav.",
+      "Byadgi: Haddan tashqari issiqliksiz vizual taʼsir koʻrsatadigan noyob yumshoq lazzat muvozanati va gʻayrioddiy jonli qizil rangi uchun qadrlanadigan eksklyuziv Karnataka navi.",
+      "Warangal: Ziravor aralashmalarida darhol taʼsir koʻrsatadigan kuchli lazzat intensivligi va buyruq beruvchi aromatik mavjudlikka ega Telanganadan yuqori hosildor maxsus nav.",
+      "Kashmir: Vizual taʼsirni yumshoq issiqlik darajalari bilan mukammal muvozanatlashtiradigan gʻayrioddiy yorqin qizil rangi va nozik shirin lazzati bilan mashhur boʻlgan afsonaviy yumshoq nav."
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning ISO sertifikatiga ega laboratoriya jihozlarimizda keng qamrovli rang tahlili va issiqlik profillashdan oʻtkaziladi, bu esa ham vizual, ham hissiy xususiyatlarda ajoyib barqarorlikni taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli yorugʻlikdan himoyalangan, yuqori toʻsiqli qadoqlash materiallari ishlatiladi, bu esa kengaytirilgan global taʼminot zanjirlari davomida jonli rang va aromatik birikmalarni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri fermadan manba modeli bugungi vijdonli isteʼmolchilar bilan rezonanslashadigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli auditlar orqali tizimli uchinchi tomon tekshiruvi raqobatdosh ustunlik uchun doimiy yaxshilash imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning elita rang mutaxassislarimiz faqat mukammal qalampirlar bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun ilgʻor kolorimetrik tahlildan foydalangan holda mulkiy tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Ifloslantiruvchi moddalar uchun qatʼiy sinovlarni oʻz ichiga olgan barcha tegishli xalqaro oziq-ovqat xavfsizligi asoslariga mutlaq rioya qilish har bir maqsadli bozorda uzluksiz tartibga solishni tasdiqlashni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "8",
+    "hs_code": "120740",
+    "category": "Ziravorlar",
+    "name": "Kunjut urugʻlari",
+    "description": "Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng nufuzli yetishtirish hududlaridan optimal yoz mavsumida (iyundan sentyabrgacha) sinchkovlik bilan yigʻib olingan eksklyuziv Premium Kunjut urugʻlarimiz bilan hal qiluvchi bozor ustunligini taʼminlang. Strategik xarid qilish boʻyicha mutaxassislar bizning 3000 yillik yetishtirish merosimiz mulkiy tanlov usullari bilan birgalikda global bozorlarda tengsiz ajralib turadigan kunjut urugʻini taqdim etishini tan olishadi. Sanoat standartidan ancha yuqori boʻlgan ajoyib 50-60% yogʻ miqdori ham pazandachilik ilovalari, ham yogʻ ekstraktsiyasi samaradorligida oʻlchanadigan iqtisodiy afzallikni taʼminlaydi. Ushbu strategik tovar pishirish, pishirish va yogʻ ishlab chiqarish toifalari boʻyicha ustunlik qiladi, bu esa innovatsion brendlarga tasdiqlangan sogʻliq uchun foydalari boʻlgan haqiqiy, yuqori sifatli urugʻlarga boʻlgan ortib borayotgan isteʼmolchilar talabini qondirishga imkon beradi. Kelajakka intiluvchan xalqaro xaridorlar bizning kunjut urugʻlarimiz shunchaki tovar xaridi emas, balki tobora raqobatbardosh bozor toifalarida darhol hissiy va ozuqaviy farqlanishni taʼminlaydigan oʻzgartiruvchi ingredient ekanligini tushunishadi.",
+    "image": "images/products/spices/sesame.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Bozor oʻrtachasidan ancha yuqori boʻlgan ajoyib yogʻ miqdorini (50-60%) boshqaradi - maksimal iqtisodiy qiymat uchun yuqori lazzat chiqarish va ekstraktsiya samaradorligini taʼminlaydi.",
+      "Oddiy mahsulotlarni aqlli global isteʼmolchilar tomonidan qidiriladigan yuqori sifatli pazandachilik tajribalariga aylantiradigan oʻziga xos yongʻoq lazzati profili bilan maftun etadi.",
+      "Mahsulotning ogʻizdagi hissiyotini yaxshilaydigan va ham shirin, ham shoʻr ilovalarda esda qolarli hissiy tajribalarni yaratadigan oʻziga xos qarsillash bilan mukammal teksturali kontrastni taʼminlaydi.",
+      "Organik yetishtirish va GMOsiz maqom uchun ikkilamchi sertifikatlar bilan haqiqiy tozalikni kafolatlaydi, yuqori sifatli xalqaro bozorlar uchun muhim talablarga javob beradi."
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Fizikaviy, madaniy, biologik va kimyoviy nazoratlarni mukammal birlashtiradigan inqilobiy yetishtirish tizimimizdan foydalaning, natijada yuqori lazzat rivojlanishiga ega sezilarli darajada toza, koʻproq yogʻli urugʻlar olinadi.",
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan toza muhitda yetishtirilgan sertifikatlangan 100% organik kunjut urugʻlarimizga eksklyuziv kirishni taʼminlang, sogʻliqni saqlashga eʼtiborli bozorlarda yuqori mavqega ega boʻlish uchun eng qatʼiy xalqaro organik standartlarga javob beradi.",
+      "Anʼanaviy: Bizning aniqlik bilan boshqariladigan anʼanaviy dehqonchilik amaliyotlarimizdan foydalaning, bu yerda sanoat tomonidan tasdiqlangan muolajalarning har bir qoʻllanilishi masʼuliyatli atrof-muhitni muhofaza qilishni saqlab qolgan holda doimiy ravishda ajoyib kunjut urugʻlarini ishlab chiqarish uchun qattiq kuzatuvdan oʻtkaziladi."
+    ],
+    "container_capacity": [
+      "20 fut: 19 MT",
+      "40 fut: 38 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Yuqori mahsulot samaradorligi va vizual jozibadorligini taʼminlash uchun ajoyib strukturaviy yaxlitlik va tasdiqlangan haqiqiylikka ega yuqori sifatli butun kunjut urugʻlari.",
+      "Turi: Tasdiqlangan bir xillikka ega mukammal butun urugʻlar, Rangi: Qaymoq rangli oq yoki oʻziga xos qora navlardan tanlang, Shakli: Bir xil pishirish samaradorligi uchun ideal oval shakllanish, Hajmi: Ishonchli qoʻllash uchun aniq 2-3 mm (0,08-0,12 dyuym) kalibrlash",
+      "Lazzati va xushboʻyligi: Mahsulotlarni oddiy muqobillardan darhol yuqoriga koʻtaradigan oʻziga xos hissiy profil.",
+      "Lazzati: Murakkab chuqurlikka ega boy yongʻoq xarakteri, Xushboʻyligi: Yuqori sifatni bildiruvchi yumshoq, biroz shirin guldasta",
+      "Qayta ishlash va qadoqlash: Maksimal lazzat va ozuqaviy yaxlitlikni saqlaydigan ilgʻor ishlov berish protokollari.",
+      "Jarayon: Aniq mashinada tozalash va koʻp bosqichli saralash texnologiyasi, Qadoqlash: Sizning aniq texnik xususiyatlaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Sifat standartlari: Doimiy samaradorlikni kafolatlaydigan asosiy sifat belgilarining ilmiy tekshiruvi.",
+      "Namlik: Uzoq saqlash barqarorligi uchun sanoat standartidan yaxshiroq - 5% dan kam qatʼiy nazorat qilinadi, Yogʻ tarkibi: Yuqori ekstraktsiya samaradorligi va lazzat taʼsiri uchun ajoyib 50-60% konsentratsiya"
+    ],
+    "variety": [
+      "Qora kunjut: Yuqori sifatli ilovalarda dramatik vizual va taʼm kontrastini yaratadigan oʻziga xos qora rangi va noyob shirin lazzat profili bilan mashhur boʻlgan eksklyuziv Maharashtra navi.",
+      "Oq/Poʻstloqli kunjut: Tashqi poʻstlogʻini olib tashlash uchun sinchkovlik bilan qayta ishlangan yuqori sifatli urugʻlar, koʻrinadigan garnirlar va nozik ilovalar uchun ideal boʻlgan mukammal qaymoq rangli oq rang va sof yongʻoq lazzatini ochib beradi.",
+      "Tabiiy kunjut: Qishloq jozibasi bilan haqiqiy hunarmandchilik mahsulotlari uchun mukammal boʻlgan oʻziga xos tabiiy rang va mustahkam yongʻoq xarakterini taʼminlaydigan butun tashqi poʻstloqli maxsus saqlangan urugʻlar."
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning ISO sertifikatiga ega laboratoriya jihozlarimizda keng qamrovli yogʻ miqdori tahlilidan oʻtkaziladi, bu esa ham ozuqaviy qiymat, ham hissiy xususiyatlarda ajoyib barqarorlikni taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli kislorod toʻsiqli, namlikdan himoyalangan qadoqlash materiallari ishlatiladi, bu esa kengaytirilgan global taʼminot zanjirlari davomida oʻziga xos yangilikni saqlaydi va achishishni oldini oladi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri fermadan manba modeli isteʼmolchilar ishonchini va brend obroʻsini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli auditlar orqali tizimli uchinchi tomon tekshiruvi raqobatdosh ustunlik uchun doimiy yaxshilash imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning elita urugʻ mutaxassislarimiz faqat mukammal kunjut urugʻlari bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun ilgʻor tasvir tahlilidan foydalangan holda mulkiy koʻp bosqichli tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Qattiq allergen protokollarini oʻz ichiga olgan barcha tegishli xalqaro oziq-ovqat xavfsizligi asoslariga mutlaq rioya qilish hatto eng talabchan bozorlarda ham uzluksiz tartibga solishni tasdiqlashni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "9",
+    "hs_code": "12119032",
+    "category": "Ziravorlar",
+    "name": "Psillium qobigʻi",
+    "description": "Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng mashhur yetishtirish hududlaridan optimal yoz mavsumida (iyundan sentyabrgacha) strategik tarzda yigʻib olingan eksklyuziv Premium Psillium qobigʻimiz bilan yuqori oʻsish surʼatlariga ega funktsional bozorlarni egallang. Aqlli xarid qilish boʻyicha mutaxassislar Hindistonning Plantago ovata yetishtirish boʻyicha jahon yetakchiligi bizning mulkiy qayta ishlash usullarimiz bilan birgalikda xalqaro bozorlarda tengsiz samaradorlikka ega psillium qobigʻini taqdim etishini tan olishadi. Sanoat standartidan ancha yuqori boʻlgan ajoyib 80-85% tola miqdori funktsional oziq-ovqat ilovalari, farmatsevtika formulalari va yuqori sifatli kosmetika sohasida oʻlchanadigan afzallikni taʼminlaydi. Ushbu strategik ingredient klinik jihatdan tasdiqlangan ovqat hazm qilish salomatligi yechimlari, qon shakarini boshqarish, xolesterinni kamaytirish va vaznni nazorat qilish xususiyatlariga boʻlgan global talabni qondiradi. Kelajakka intiluvchan xalqaro xaridorlar bizning yuqori sifatli psillium qobigʻimiz shunchaki funktsional ingredient xaridi emas, balki bugungi eng daromadli sogʻliqni saqlash mahsulotlari toifalarida darhol raqobatdosh farqlanishni taʼminlaydigan oʻzgartiruvchi yechim ekanligini tushunishadi.",
+    "image": "images/products/spices/psyllium_husk.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Funktsional ingredientlarga boʻlgan katta isteʼmolchilar talabini qondirib, darhol yengillik va uzoq muddatli ichak biomi yaxshilanishini yaratadigan kuchli tabiiy tola orqali ovqat hazm qilish salomatligini inqilob qiladi.",
+      "Tez oʻsib borayotgan diabetni boshqarish bozoriga moʻljallangan mahsulotlar uchun ishonchli funktsional daʼvolarni taqdim etib, ilmiy jihatdan tasdiqlangan tartibga solish xususiyatlari bilan qon shakar darajasini barqarorlashtiradi.",
+      "Hujjatlashtirilgan bogʻlanish mexanizmlari orqali xolesterinni keskin kamaytiradi, tobora sogʻliqni saqlashga eʼtiborli isteʼmolchilar bilan rezonanslashadigan kuchli yurak salomatligi mavqeini taʼminlaydi.",
+      "Gullab-yashnayotgan vaznni nazorat qilish mahsulotlari toifasida darhol raqobatdosh ustunlikni yaratib, mulkiy toʻyinganlikni oshiruvchi xususiyatlar orqali vaznni boshqarish natijalarini tezlashtiradi."
+    ],
+    "quality_options": [
+      "Sanoat standartidan ancha yuqori boʻlgan 80-85% tola miqdorining ajoyib kuchidan foydalaning - yuqori funktsional samaradorlikni taʼminlaydi va foydalanish stavkalarini kamaytirish va yuqori foyda marjalarini olish imkonini beradi.",
+      "Barcha aralashmalarni yoʻq qiladigan aniq mashinada tozalash va koʻp bosqichli saralash texnologiyamizdan foydalaning, bu esa eng talabchan ilovalaringizda toza koʻrinish va bashorat qilinadigan samaradorlikni taʼminlaydi.",
+      "Kengaytirilgan global taʼminot zanjirlari davomida mukammal mahsulot yaxlitligini saqlaydigan ilgʻor namlik toʻsiqlariga ega yuqori sifatli oziq-ovqat darajasidagi qadoqlash tizimlarimizga ishoning.",
+      "Eng qatʼiy xalqaro oziq-ovqat xavfsizligi qoidalariga keng qamrovli rioya qilishimizga ishoning, bu esa hatto eng qatʼiy tartibga solinadigan global bozorlarga ham uzluksiz kirishni taʼminlaydi."
+    ],
+    "container_capacity": [
+      "20 fut: 9 MT",
+      "40 fut: 18 MT"
+    ],
+    "specifications": [
+      "Turi: Kafolatlangan funktsional samaradorlikka ega boʻlgan toza butun psillium qobigʻi",
+      "Rangi: Optimal qayta ishlashni koʻrsatadigan mukammal och jigarrangdan oppoq tusgacha",
+      "Shakli: Mukammal tarqalish uchun ideal shakllangan kichik, tartibsiz zarralar",
+      "Hajmi: Bir xil samaradorlik uchun aniq 1-2 mm (0,04-0,08 dyuym) kalibrlash",
+      "Lazzati: Har qanday formulaga uzluksiz integratsiyalashadigan mukammal neytral profil",
+      "Xushboʻyligi: Hech qanday yomon hid yoki nuqsonlarsiz yumshoq, biroz shirin guldasta",
+      "Jarayon: Ilgʻor mashinada tozalash va koʻp bosqichli saralash texnologiyasi",
+      "Qadoqlash: Sizning aniq texnik xususiyatlaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Tola tarkibi: Bozor oʻrtachasidan ancha yuqori boʻlgan ajoyib 80-85% konsentratsiya",
+      "Namlik: Funktsional barqarorlikni kafolatlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi"
+    ],
+    "variety": [
+      "Tasdiqlangan tozalik va funktsional samaradorlikka ega yuqori sifatli butun psillium qobigʻi"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning zamonaviy laboratoriya jihozlarimizda keng qamrovli tola tahlilidan oʻtkaziladi, bu esa funktsional samaradorlikda ajoyib barqarorlikni taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli namlik toʻsiqli, yorugʻlikdan himoyalangan qadoqlash materiallari ishlatiladi, bu esa kengaytirilgan global tarqatish kanallari davomida funktsional yaxlitlikni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri manba modeli isteʼmolchilar ishonchini va brend ishonchliligini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli uchinchi tomon auditlari orqali tizimli sifat tekshiruvi doimiy takomillashtirish imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning ixtisoslashgan funktsional ingredient mutaxassislarimiz faqat mukammal psillium qobigʻi bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun qattiq tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Barcha tegishli xalqaro parhez tolasi qoidalari va yorliqlash talablariga mutlaq rioya qilish butun dunyo boʻylab uzluksiz bozorga kirishni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "10",
+    "hs_code": "09093119",
+    "category": "Ziravorlar",
+    "name": "Qora zira (Kalonji)",
+    "description": "Hindistonning Gujarat, Maharashtra va Madhya Pradeshdagi eng nufuzli yetishtirish hududlaridan optimal oʻsish mavsumida (oktabrdan fevralgacha) strategik tarzda yigʻib olingan eksklyuziv Kalonji (Qora zira) bilan yuqori mavqeni boshqaring. Aqlli xarid qilish boʻyicha mutaxassislar bizning Nigella sativa urugʻlarimiz asrlar davomida tanlab yetishtirish va mulkiy qayta ishlash usullari bilan birgalikda xalqaro bozorlarda tengsiz quvvatni taqdim etishini tan olishadi. Sanoat standartidan ancha yuqori boʻlgan ajoyib 30-40% yogʻ miqdori pazandachilik ilovalari, dorivor formulalar va yuqori sifatli kosmetika boʻyicha terapevtik quvvat va lazzat taʼsirida oʻlchanadigan afzallikni taʼminlaydi. Ushbu strategik ingredient tabiiy mahsulot formulalarida klinik jihatdan tasdiqlangan yalligʻlanishga qarshi, antioksidant va antibakterial xususiyatlarga boʻlgan global talabni qondiradi. Kelajakka intiluvchan xalqaro xaridorlar bizning yuqori sifatli kalonjimiz shunchaki ziravor xaridi emas, balki bugungi eng raqobatbardosh sogʻliqni saqlashga yoʻnaltirilgan toifalarda darhol farqlanishni taʼminlaydigan oʻzgartiruvchi salomatlik ingredienti ekanligini tushunishadi.",
+    "image": "images/products/spices/black_cumin.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Funktsional salomatlik ingredientlariga boʻlgan katta talabni qondirib, tabiiy himoya mexanizmlarini kuchaytiradigan kuchli bioaktiv birikmalar orqali immun javobini kuchaytiradi.",
+      "Yuqori sifatli sogʻliqni saqlash mahsulotlari uchun ishonchli funktsional daʼvolarni taqdim etib, asosiy yalligʻlanish belgilarining ilmiy jihatdan tasdiqlangan modulyatsiyasi orqali yalligʻlanishni yoʻq qiladi.",
+      "Ichak muvozanatini tiklaydigan va ozuqa moddalarini singdirishni kuchaytiradigan tabiiy birikmalar bilan ovqat hazm qilish funktsiyasini optimallashtiradi, oʻlchanadigan isteʼmolchi foydalarini taqdim etadi.",
+      "Atrof-muhit stress omillaridan namoyon boʻladigan himoyani taʼminlaydigan ajoyib antioksidant qobiliyati bilan hujayralarni himoya qiladi, kuchli marketing afzalliklarini yaratadi."
+    ],
+    "quality_options": [
+      "IPM: Ekologik yondashuvlarni minimal aralashuv bilan uygʻunlashtiradigan inqilobiy Integratsiyalashgan Zararkunandalarga Qarshi Kurash yetishtirish tizimimizga eksklyuziv kirishni taʼminlang, natijada yuqori bioaktiv profillarga ega sezilarli darajada toza, kuchliroq urugʻlar olinadi.",
+      "Organik: Barcha sintetik kimyoviy moddalarni yoʻq qiladigan sertifikatlangan 100% organik amaliyotlarimizdan foydalaning, eng qatʼiy xalqaro sertifikatlash standartlariga javob beradigan toza, murosasiz ingredientni yarating.",
+      "Anʼanaviy: Tasdiqlangan muolajalarni diqqat bilan kuzatilgan holda qoʻllash orqali aniqlik bilan boshqariladigan anʼanaviy dehqonchilikimizdan foydalaning, brend ishonchliligini oshiradigan masʼuliyatli qishloq xoʻjaligi boshqaruvini saqlab qolgan holda doimiy ravishda ajoyib kalonji ishlab chiqaradi."
+    ],
+    "container_capacity": [
+      "20 fut: 14 MT",
+      "40 fut: 27 MT"
+    ],
+    "specifications": [
+      "Turi: Kafolatlangan quvvat va tozalikka ega yuqori sifatli butun kalonji urugʻlari",
+      "Rangi: Optimal yetuklik va yogʻ miqdorini koʻrsatadigan chuqur, yaltiroq qora rang",
+      "Shakli: Ideal lazzat tarqalishi uchun mukammal shakllangan kichik, tartibsiz urugʻlar",
+      "Hajmi: Bir xil samaradorlik uchun aniq 1-2 mm (0,04-0,08 dyuym) kalibrlash",
+      "Lazzati: Mukammal muvozanatlangan achchiq notalar bilan oʻziga xos yongʻoq profili",
+      "Xushboʻyligi: Haqiqiy sifatni bildiruvchi buyruq beruvchi oʻtkir, tuproqli guldasta",
+      "Jarayon: Ilgʻor koʻp bosqichli tozalash va aniq saralash texnologiyasi",
+      "Qadoqlash: Sizning aniq talablaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Namlik: Bioaktiv barqarorlikni maksimal darajada oshirish uchun ilmiy jihatdan 10% dan kam nazorat qilinadi",
+      "Yogʻ tarkibi: Yuqori terapevtik samaradorlik uchun ajoyib 30-40% konsentratsiya"
+    ],
+    "variety": [
+      "Tasdiqlangan quvvat va tasdiqlangan botanik kelib chiqishiga ega yuqori sifatli Nigella sativa"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning zamonaviy laboratoriyamizda keng qamrovli bioaktiv profillashdan oʻtkaziladi, bu esa ajoyib quvvat va terapevtik barqarorlikni taʼminlaydi.",
+      "Qadoqlash: Faqat yuqori sifatli kislorod toʻsiqli, yorugʻlikdan himoyalangan materiallar ishlatiladi, bu esa kengaytirilgan global taʼminot zanjirlari davomida muhim bioaktiv birikmalarni saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri manba modeli vijdonli bozorlarda brend ishonchini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli uchinchi tomon baholashlari orqali tizimli tekshirish doimiy takomillashtirish imkoniyatlarini aniqlash bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning ixtisoslashgan botanika mutaxassislarimiz faqat mukammal kalonji bizning aqlli global mijozlarimizga yetib borishini tekshirish uchun mulkiy tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Barcha tegishli xalqaro tabiiy mahsulot asoslari va yorliqlash talablariga mutlaq rioya qilish butun dunyo boʻylab uzluksiz tartibga solishni tasdiqlashni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "11",
+    "hs_code": "09109931",
+    "category": "Ziravorlar",
+    "name": "Kardamon",
+    "description": "Hindistonning Kerala, Tamil Nadu va Karnatakadagi yashil tepaliklari boʻylab joylashgan nufuzli baland togʻli yetishtirish hududlarida sinchkovlik bilan yetishtirilgan eksklyuziv Premium Kardamonimiz bilan shubhasiz hashamatli mavqeni taʼminlang. Aqlli xarid qilish boʻyicha mutaxassislar bizning Elettaria cardamomum poʻdalarimiz asrlar davomida davom etgan anʼanaviy yetishtirish tajribasi va qatʼiy tanlov protokollari bilan birgalikda tengsiz hissiy ajralib turishni taʼminlashini tan olishadi. Sanoat standartidan ancha yuqori boʻlgan ajoyib 5-7% uchuvchi moy miqdori yuqori sifatli pazandachilik ilovalari, qandolat mahsulotlari, ichimliklar va salomatlik formulalari boʻyicha darhol aromatik taʼsir va terapevtik samaradorlikni taʼminlaydi. Ushbu ramziy ingredient oʻziga xos shirin-tuzli profili bilan oʻziga xos lazzat tajribalarini yaratadi, bu esa mahsulotlarni oddiy muqobillardan darhol yuqoriga koʻtaradi. Kelajakka intiluvchan xalqaro xaridorlar bizning yuqori sifatli kardamonimiz shunchaki ziravor xaridi emas, balki bugungi eng daromadli yuqori sifatli mahsulot toifalarida darhol hissiy farqlanish va hashamatli mavqeni taʼminlaydigan oʻzgartiruvchi ingredient ekanligini tushunishadi.",
+    "harvest_season": "Sentyabrdan dekabrgacha",
+    "image": "images/products/spices/cardamom.webp",
+    "features": [
+      "Oshqozon-ichak traktidagi bezovtalikni darhol tinchlantiradigan kuchli tabiiy birikmalar orqali ovqat hazm qilish qulayligini inqilob qiladi, salomatlikka eʼtiborli isteʼmolchilarga darhol qiymat beradi.",
+      "Oʻziga xos aromatik profili bilan gʻayrioddiy ogʻiz boʻshligʻi yangiligini yaratadi, ham pazandachilik ziravori, ham tabiiy nafasni yangilovchi sifatida ikki maqsadli funktsionallikni taklif qiladi.",
+      "Oksidlovchi stressdan oʻlchanadigan himoyani taʼminlaydigan kuchli antioksidant birikmalar bilan hujayralarni himoya qiladi, kuchli sogʻliqni saqlashga yoʻnaltirilgan marketing daʼvolarini taʼminlaydi.",
+      "Havo yoʻllarini ochadigan va oʻpka salomatligini qoʻllab-quvvatlaydigan tabiiy efir moylari orqali nafas olish funktsiyasini yaxshilaydi, tabiiy salomatlik yechimlariga boʻlgan ortib borayotgan talabni qondiradi."
+    ],
+    "quality_options": [
+      "Bozor standartlaridan ancha oshib ketadigan 5-7% uchuvchi moy miqdorimizning gʻayrioddiy farqini his eting - har bir ilovada tengsiz aromatik intensivlik va lazzat taʼsirini taʼminlaydi.",
+      "Yuqori sifatli taqdimot va ishonchli samaradorlik uchun mukammal vizual koʻrinish va bir xil poʻda hajmini kafolatlaydigan mulkiy tozalash va aniq saralash texnologiyamizdan foydalaning.",
+      "Kengaytirilgan global taʼminot zanjirlari davomida oʻziga xos xushboʻy birikmalarni saqlaydigan maxsus aromani saqlaydigan texnologiyaga ega ilgʻor oziq-ovqat darajasidagi qadoqlash tizimlarimizga ishoning.",
+      "Eng qatʼiy xalqaro sifat standartlari va qoidalariga keng qamrovli rioya qilishimizga ishoning, hatto eng talabchan hashamatli bozorlarda ham uzluksiz qabul qilishni taʼminlaydi."
+    ],
+    "container_capacity": [
+      "20 fut: 8 MT",
+      "40 fut: 16 MT"
+    ],
+    "specifications": [
+      "Turi: Tasdiqlangan aromatik quvvatga ega boʻlgan toza butun kardamon poʻdalari",
+      "Rangi: Eng yuqori yangilik va optimal hosilni bildiruvchi jonli yashil tus",
+      "Shakli: Bir xil urugʻ kameralariga ega mukammal shakllangan kichik, tartibsiz poʻdalar",
+      "Hajmi: Kafolatlangan sifat uchun aniq 5-9 mm (0,2-0,4 dyuym) kalibrlash",
+      "Lazzati: Murakkab aromatik chuqurlikka ega boʻlgan oʻziga xos shirin-tuzli profil",
+      "Xushboʻyligi: Darhol taʼsir yaratadigan noyob kuchli, aromatik mavjudlik",
+      "Jarayon: Mukammal taqdimot uchun ilgʻor tozalash va koʻp bosqichli saralash texnologiyasi",
+      "Qadoqlash: Sizning aniq texnik xususiyatlaringizga moslashtirilgan maxsus qadoqlash yechimlari",
+      "Namlik: Uchuvchi birikmalarni saqlash uchun ilmiy jihatdan 10% dan kam nazorat qilinadi",
+      "Uchuvchi moy tarkibi: Yuqori hissiy samaradorlik uchun ajoyib 5-7% konsentratsiya"
+    ],
+    "variety": [
+      "Yashil kardamon: Yuqori sifatli global brendlar tomonidan qidiriladigan yorqin zumrad rang va gʻayrioddiy aromatik murakkablikka ega boʻlgan bizning flagman navimiz.",
+      "Qora kardamon: Oʻziga xos dudlangan nav, oʻziga xos shoʻr ilovalar va haqiqiy etnik formulalar uchun ideal boʻlgan mustahkam lazzat profiliga ega."
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Har bir ishlab chiqarish partiyasi bizning zamonaviy laboratoriyamizda keng qamrovli uchuvchi moy tahlilidan oʻtkaziladi, bu esa ajoyib aromatik quvvat va hissiy barqarorlikni taʼminlaydi.",
+      "Qadoqlash: Faqat maxsus aromani saqlaydigan, uch qatlamli himoya materiallari qoʻllaniladi, bu esa eng qiyin global taʼminot zanjirlari davomida nozik efir moylarini saqlaydi.",
+      "Taʼminot zanjirining shaffofligi: Bizning eksklyuziv toʻgʻridan-toʻgʻri fermadan manba modeli yuqori sifatli bozorlarda brend mavqeini oshiradigan sertifikatlangan adolatli savdo amaliyotlari bilan toʻliq kuzatuvni kafolatlaydi.",
+      "Muntazam auditlar: Keng qamrovli uchinchi tomon baholashlari orqali tizimli tekshirish doimiy ravishda sifat standartlarini oshirish bilan birga benuqson muvofiqlikni taʼminlaydi.",
+      "Oʻqitilgan sifat nazorati jamoasi: Bizning ixtisoslashgan aromatik ziravor mutaxassislarimiz faqat mukammal kardamon bizning eng aqlli global mijozlarimizga yetib borishini tekshirish uchun mulkiy koʻp hissiy tekshirish protokollarini amalga oshiradilar.",
+      "Qoidalarga rioya qilish: Barcha tegishli xalqaro ziravor sanoati asoslari va yorliqlash talablariga mutlaq rioya qilish har bir maqsadli bozorda uzluksiz tartibga solishni tasdiqlashni taʼminlaydi."
+    ]
+  },
+  {
+    "id": "12",
+    "hs_code": "0910",
+    "category": "Ziravorlar",
+    "name": "Fenugreek urugʻlari",
+    "description": "Bizning yuqori sifatli Fenugreek urugʻlarimiz Hindistonning afsonaviy ziravor yetishtirish hududlari Gujarat, Maharashtra va Madhya Pradeshdan eng yaxshi hosilni ifodalaydi. Optimal qish mavsumida (oktabrdan fevralgacha) yetishtirilgan urugʻlarimiz Hindistonning dunyodagi eng yirik fenugreek ishlab chiqaruvchisi sifatidagi mavqeidan foyda koʻradi. Toza Trigonella foenum-graecum oʻsimligidan olingan bu urugʻlar asrlar davomida davom etgan anʼanaviy dorivor donolik va pazandachilik mukammalligini oʻzida mujassam etgan. Ularning ajoyib yalligʻlanishga qarshi xususiyatlari, ovqat hazm qilishni yaxshilash qobiliyatlari va qon shakarini tartibga solish foydalari ularni aqlli global xaridorlar uchun asosiy ingredientga aylantiradi. Taʼsirchan darajada yuqori protein va tola tarkibiga ega boʻlgan eksport navli Fenugreek urugʻlarimiz koʻplab ilovalar boʻyicha ajoyib qiymatni taqdim etadi - gurme oshxonasidan va funktsional oziq-ovqatlardan tortib farmatsevtika formulalari va yuqori sifatli hayvonlar uchun ozuqa qoʻshimchalarigacha.",
+    "image": "images/products/spices/fenugreek_seed.webp",
+    "harvest_season": "Oktyabrdan fevralgacha",
+    "features": [
+      "Umumiy salomatlik va boʻgʻim salomatligini ragʻbatlantiradigan kuchli yalligʻlanishga qarshi xususiyatlar",
+      "Ozuqa moddalarini singdirishni va ichak mikrobiomasi muvozanatini yaxshilaydigan yuqori ovqat hazm qilish yordamchisi",
+      "Muvozanatli qon shakar darajasi va metabolik salomatlikni qoʻllab-quvvatlash uchun klinik jihatdan isbotlangan",
+      "Koʻpgina taqqoslanadigan urugʻlardan ustun boʻlgan ajoyib protein va tola tarkibi"
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Minimal ekologik taʼsir bilan optimal zararkunandalarga qarshi kurashni taʼminlaydigan ekologik jihatdan uygʻun yetishtirish",
+      "Organik: Butun dunyo boʻylab ongli isteʼmolchilarga xizmat koʻrsatadigan sintetik moddalardan xoli sertifikatlangan ishlab chiqarish usullari",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh narxlarni taʼminlaydigan anʼanaviy yetishtirish"
+    ],
+    "container_capacity": [
+      "20 fut: Optimal joydan foydalanish bilan 13 MT yuqori sifatli mahsulot",
+      "40 fut: Iqtisodiy ommaviy yuk tashish yechimlarini taʼminlaydigan 27 MT"
+    ],
+    "specifications": [
+      "Turi: Doimiy sifatga ega boʻlgan toza butun fenugreek urugʻlari",
+      "Rangi: Mukammal yetuklikni koʻrsatadigan boy sargʻish-jigarrang",
+      "Shakli: Yuqori sifatga xos boʻlgan oʻziga xos kichik, tartibsiz shakl",
+      "Hajmi: Optimal pazandachilik va sanoat ilovalari uchun aniq 2-3 mm (0,08-0,12 dyuym)",
+      "Lazzati: Pazandachilik murakkabligini oshiradigan nozik shirin tuslar bilan yoqimli achchiq",
+      "Xushboʻyligi: Haqiqiylikni bildiruvchi oʻziga xos yongʻoq va tuproqli guldasta",
+      "Jarayon: Tengsiz tozalik uchun ilgʻor mashinada tozalash va saralash",
+      "Qadoqlash: Maxsus talablaringizga moslashtirilgan moslashuvchan qadoqlash yechimlari",
+      "Namlik: Maksimal saqlash muddatini taʼminlash uchun 10% dan past ehtiyotkorlik bilan nazorat qilinadi",
+      "Protein tarkibi: Yuqori ozuqaviy qiymat uchun ajoyib 20-25% protein konsentratsiyasi"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Zamonaviy laboratoriya tahlili doimiy sifat va tozalik standartlarini kafolatlaydi",
+      "Qadoqlash: Global tranzit paytida aroma va yangilikni saqlash uchun maxsus ishlab chiqilgan yuqori sifatli oziq-ovqat materiallari",
+      "Taʼminot zanjirining shaffofligi: Toʻgʻridan-toʻgʻri manba va tasdiqlangan adolatli savdo sertifikatiga ega keng qamrovli fermadan portgacha hujjatlar",
+      "Muntazam auditlar: Doimiy takomillashtirish va doimiy mukammallikni taʼminlaydigan tizimli sifat muvofiqligini kuzatish",
+      "Oʻqitilgan sifat nazorati jamoasi: Har bir ishlab chiqarish bosqichida qattiq tekshiruvlarni oʻtkazadigan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi protokollari va mamlakatga xos yorliqlash talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "13",
+    "hs_code": "09109914",
+    "category": "Ziravorlar",
+    "name": "Ajvain ",
+    "description": "Bizning eksport navli Ajvain (Karom urugʻlari) Hindistonning yozgi hosilining (iyundan sentyabrgacha) eng yuqori yutugʻini ifodalaydi, faqat Gujarat, Maharashtra va Madhya Pradeshning asosiy yetishtirish hududlaridan olinadi. Dunyoning eng mashhur ajvain ishlab chiqaruvchilaridan biri sifatida, Hindiston ushbu ajoyib Trachyspermum ammi urugʻlarini rivojlantirish uchun ideal tuproqni taʼminlaydi. Ayurveda anʼanalarida asrlar davomida qadrlanib kelingan Ajvainimiz tengsiz terapevtik foydalarni taqdim etadi - ovqat hazm qilish salomatligini inqilob qiladi, yuqori nafas olish yengilligini taʼminlaydi va tabiiy mikroblarga qarshi xususiyatlari orqali immun funktsiyasini kuchaytiradi. Taʼsirchan 2-4% efir moyi konsentratsiyasi bilan bizning yuqori sifatli Ajvainimiz sanoat standartlaridan oshib ketadi va pazandachilik ilovalari, farmatsevtika formulalari va terapevtik aromaterapiya boʻyicha ajoyib koʻp qirralilikni taqdim etadi. Aqlli global isteʼmolchilar talab qiladigan haqiqiy hind sifati bilan mahsulot takliflaringizni yaxshilash uchun Ajvainimizni tanlang.",
+    "image": "images/products/spices/ajwain.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Ichak salomatligini oʻzgartiradigan va ozuqa moddalarini singdirishni kuchaytiradigan inqilobiy ovqat hazm qilish katalizatori",
+      "Mavsumiy nafas olish kasalliklariga qarshi samarali ekanligi isbotlangan kuchli tabiiy vosita",
+      "Tabiiy mikroblarga qarshi xususiyatlarga ega ajoyib immun tizimini mustahkamlovchi",
+      "Yaxlit salomatlikni ragʻbatlantiradigan kuchli yalligʻlanishga qarshi vosita"
+    ],
+    "quality_options": [],
+    "container_capacity": [
+      "20 fut: Optimal logistika samaradorligini taʼminlaydigan 13,5 MT",
+      "40 fut: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 27 MT"
+    ],
+    "specifications": [
+      "Turi: Tengsiz tozalikka ega yuqori sifatli butun ajvain urugʻlari",
+      "Rangi: Mukammal yetuklikni koʻrsatadigan boy jigarrangdan oʻziga xos kulrang-jigarrang tusgacha",
+      "Shakli: Haqiqiy ajvainning xarakterli kichik, tartibsiz shakli",
+      "Hajmi: Ideal lazzat chiqarish uchun doimiy 1-2 mm (0,04-0,08 dyuym)",
+      "Lazzati: Pazandachilik ilovalarini yaxshilaydigan mukammal muvozanatlangan achchiq notalar bilan jasoratli oʻtkir",
+      "Xushboʻyligi: Oʻziga xos timol notalari bilan kuchli, tuproqli guldasta",
+      "Jarayon: Yuqori sifat uchun ilgʻor mashinada tozalash va aniq saralash",
+      "Qadoqlash: Muayyan bozor talablariga javob beradigan sozlanishi mumkin boʻlgan qadoqlash yechimlari",
+      "Namlik: Uzoq saqlash barqarorligini taʼminlash uchun 10% dan past ehtiyotkorlik bilan saqlanadi",
+      "Efir moyi tarkibi: Yuqori lazzat va terapevtik foydalarni kafolatlaydigan ajoyib 2-4% konsentratsiya"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Bizning zamonaviy laboratoriyamizdagi keng qamrovli tahlil eng qatʼiy xalqaro sifat parametrlariga muvofiqlikni taʼminlaydi",
+      "Qadoqlash: Global tranzit paytida oʻziga xos yangilik va aromatik profilni saqlash uchun maxsus ishlab chiqilgan yuqori sifatli oziq-ovqat materiallari",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni va haqiqiy adolatli savdo sertifikatlashini taʼminlaydigan toʻliq hujjatlarga ega toʻgʻridan-toʻgʻri fermer hamkorliklari",
+      "Muntazam auditlar: Murosasiz mukammallikni saqlab qolish uchun doimiy monitoring bilan tizimli sifat tekshiruvi protokollari",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning xalqaro bozorlarga yetib borishini kafolatlash uchun sinchkovlik bilan koʻp bosqichli tekshiruvlarni oʻtkazadigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Global oziq-ovqat xavfsizligi standartlari va bozorga xos yorliqlash talablariga keng qamrovli rioya qilish"
+    ]
+  },
+  {
+    "id": "14",
+    "hs_code": "12079990",
+    "category": "Ziravorlar",
+    "name": "Chia urugʻlari",
+    "description": "Bizning eksport sifatli Chia urugʻlarimiz Hindistonning yozgi hosilining (iyundan sentyabrgacha) choʻqqisini ifodalaydi, Gujarat, Maharashtra va Madhya Pradeshning unumdor markaziy hududlarida yetishtiriladi. Yuqori sifatli chia ishlab chiqaruvchi yetakchi global ishlab chiqaruvchi sifatida, Hindiston ushbu ajoyib Salvia hispanica urugʻlari uchun mukammal oʻsish sharoitlarini taʼminlaydi. Bizning Chia urugʻlarimiz tengsiz ozuqaviy profilni taqdim etadi - muhim tola, toʻliq protein, omega-3 yogʻ kislotalari va kuchli antioksidantlarning ajoyib konsentratsiyalariga ega. Ushbu ozuqaviy quvvat manbai har qanday mahsulot qatorini ajoyib funktsionallik va sotuvchanlik bilan yaxshilaydi - hunarmandchilik pishiriqlaridan va yuqori sifatli ichimliklar formulalaridan tortib, butun dunyo boʻylab sogʻliqni saqlashga eʼtiborli isteʼmolchilar bilan rezonanslashadigan zamonaviy parhez qoʻshimchalarigacha. Hindistonning eng yaxshi chia urugʻlariga kirish va raqobatbardosh global superfood bozorida brendingizni ajratib koʻrsatish uchun biz bilan hamkorlik qiling.",
+    "image": "images/products/spices/chia_seed.webp",
+    "harvest_season": "Iyundan sentyabrgacha",
+    "features": [
+      "Yurak-qon tomir salomatligini qoʻllab-quvvatlaydigan va yalligʻlanishni kamaytiradigan ajoyib Omega-3 yogʻ kislotalari konsentratsiyasi",
+      "Ovqat hazm qilish salomatligini inqilob qiladigan va vaznni boshqarish dasturlarini yaxshilaydigan yuqori tola tarkibi",
+      "Keng qamrovli ozuqaviy foyda uchun antioksidantga boy formulaga ega toʻliq protein profili",
+      "Pishiriqlar, ichimliklar va ozuqaviy formulalardagi yuqori sifatli ilovalar uchun tengsiz koʻp qirralilik"
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Ekologik muvozanatni saqlagan holda ajoyib hosil sifatini taʼminlaydigan ilgʻor ekologik ongli yetishtirish",
+      "Organik: Eng qatʼiy xalqaro organik standartlarga javob beradigan sintetik kimyoviy moddalarsiz sertifikatlangan yetishtirish",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh narxlarni taʼminlaydigan ehtiyotkorlik bilan kiritilgan boshqaruvga ega anʼanaviy oʻstirish usullari"
+    ],
+    "container_capacity": [
+      "20 fut: Optimal ommaviy yuk tashish samaradorligini taʼminlaydigan 18 MT"
+    ],
+    "specifications": [
+      "Turi: Ajoyib tozalik standartlariga ega yuqori sifatli butun chia urugʻlari",
+      "Rangi: Optimal yetuklik va ozuqaviy zichlikni koʻrsatadigan mukammal kulrang-jigarrangdan qora ranggacha",
+      "Shakli: Eng yuqori navli chianing xarakterli klassik oval shakllanishi",
+      "Hajmi: Barcha ilovalarda bir xil samaradorlik uchun bir xil 1-2 mm (0,04-0,08 dyuym)",
+      "Protein: Yaxshilangan ozuqaviy qiymat uchun yuqori 15-20% konsentratsiya",
+      "Tola: Ovqat hazm qilish va metabolik salomatlik daʼvolarini qoʻllab-quvvatlaydigan ajoyib 30-40% tarkib",
+      "Omega-3 yogʻ kislotalari: Ajoyib yurak salomatligi foydalarini taqdim etadigan yuqori sifatli 20-30% profil",
+      "Jarayon: Tengsiz tozalikni taʼminlaydigan ilgʻor mashinada tozalash va aniq saralash",
+      "Qadoqlash: Maxsus bozor talablaringiz uchun moʻljallangan sozlanishi mumkin boʻlgan qadoqlash yechimlari",
+      "Namlik: Maksimal saqlash barqarorligi uchun ilmiy jihatdan 10% dan kam saqlanadi",
+      "Aralashmalar: Farmatsevtika darajasidagi sifat uchun 1% dan kam kafolatlangan"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Ilgʻor laboratoriyalardagi keng qamrovli tahlil xalqaro sifat mezonlariga doimiy rioya qilishni taʼminlaydi",
+      "Qadoqlash: Global tranzit paytida ozuqaviy yaxlitlik va yangilikni saqlash uchun maxsus ishlab chiqilgan yuqori sifatli oziq-ovqat materiallari",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni va haqiqiy kuzatuvni taʼminlaydigan toʻgʻridan-toʻgʻri fermer hamkorliklari bilan toʻliq fermadan eksportgacha hujjatlar",
+      "Muntazam auditlar: Murosasiz mukammallikni saqlab qolish uchun doimiy monitoring bilan tizimli sifat tekshiruvi protokollari",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning global bozorlarga yetib borishini kafolatlash uchun koʻp bosqichli tekshiruvlarni oʻtkazadigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro xavfsizlik protokollari va bozorga xos yorliqlash talablariga keng qamrovli rioya qilish"
+    ]
+  },
+  {
+    "id": "15",
+    "hs_code": "09109911",
+    "category": "Ziravorlar",
+    "name": "Seldr urugʻlari",
+    "description": "Bizning yuqori sifatli Seldr urugʻimiz Hindistonning mashhur Gujarat, Maharashtra va Madhya Pradesh yetishtirish hududlaridan eng yaxshi qishki hosilni (oktabrdan fevralgacha) ifodalaydi. Seldr urugʻi ishlab chiqarish boʻyicha jahon yetakchisi sifatida, Hindiston ushbu ajoyib Apium graveolens urugʻlarini rivojlantirish uchun ideal iqlimni taʼminlaydi. Asrlar davomida davom etgan anʼanaviy dorivor qoʻllanilishi zamonaviy tadqiqotlar tasdiqlagan narsani tasdiqladi - bizning Seldr urugʻimiz ajoyib yalligʻlanishga qarshi foydalarni, yuqori ovqat hazm qilishni yaxshilashni va keng qamrovli immun tizimini qoʻllab-quvvatlashni taʼminlaydi. Taʼsirchan 1-3% efir moyi konsentratsiyasi bilan bizning eksport navli mahsulotimiz xalqaro sifat mezonlaridan oshib ketadi va pazandachilik ilovalari, farmatsevtika formulalari va aromaterapiya yechimlari boʻyicha ajoyib koʻp qirralilikni taklif qiladi. Aqlli global isteʼmolchilar talab qiladigan haqiqiy sifat bilan mahsulot takliflaringizni yaxshilash uchun Hindistonning eng yaxshi seldr urugʻiga kirish uchun biz bilan hamkorlik qiling.",
+    "image": "images/products/spices/celery_seed.webp",
+    "harvest_season": "Oktyabrdan fevralgacha",
+    "features": [
+      "Koʻp yalligʻlanish yoʻllarini nishonga oladigan kuchli tabiiy yalligʻlanishga qarshi vosita",
+      "Ichak mikrobiomasi muvozanatini va ozuqa moddalarini singdirishni kuchaytiradigan yuqori ovqat hazm qilish katalizatori",
+      "Keng spektrli mikroblarga qarshi xususiyatlarga ega ilgʻor immun tizimini qoʻllab-quvvatlash",
+      "Sanoat standartlaridan ustun boʻlgan ajoyib efir moyi va antioksidant profili"
+    ],
+    "quality_options": [
+      "IPM (Integratsiyalashgan Zararkunandalarga Qarshi Kurash): Minimal atrof-muhit taʼsiri bilan yuqori sifatni taʼminlaydigan ilgʻor ekologik yetishtirish",
+      "Organik: Sintetik kimyoviy moddalardan xoli ekanligini kafolatlaydigan sertifikatlangan ishlab chiqarish usullari",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh narxlarni taʼminlaydigan anʼanaviy yetishtirish"
+    ],
+    "container_capacity": [
+      "20 fut: Optimal logistika samaradorligini taʼminlaydigan 13 MT",
+      "40 fut: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 27 MT"
+    ],
+    "specifications": [
+      "Turi: Ajoyib tozalikka ega yuqori sifatli butun seldr urugʻlari",
+      "Rangi: Optimal hosil vaqtini koʻrsatadigan boy jigarrangdan mukammal sargʻish ranggacha",
+      "Shakli: Haqiqiy seldr urugʻining xarakterli kichik, tartibsiz shakli",
+      "Hajmi: Ideal lazzat chiqarish uchun doimiy 0,5-1 mm (0,02-0,04 dyuym)",
+      "Lazzati: Pazandachilik chuqurligini oshiradigan muvozanatlangan achchiq notalar bilan mukammal issiq",
+      "Xushboʻyligi: Oʻziga xos yangi notalar bilan jonli, oʻsimlik guldastasi",
+      "Jarayon: Yuqori sifat uchun ilgʻor mashinada tozalash va aniq saralash",
+      "Qadoqlash: Muayyan bozor talablariga javob beradigan moslashtirilgan qadoqlash yechimlari",
+      "Namlik: Uzoq saqlash barqarorligini taʼminlash uchun ilmiy jihatdan 10% dan kam saqlanadi",
+      "Efir moyi tarkibi: Yuqori lazzat va terapevtik foydalarni kafolatlaydigan yuqori sifatli 1-3% konsentratsiya"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Doimiy sifat mezonlarini taʼminlaydigan keng qamrovli analitik protokollarga ega zamonaviy jihozlarda laboratoriya sinovlari",
+      "Aromatik birikmalarni saqlash va saqlash muddatini uzaytirish uchun maxsus ishlab chiqilgan yuqori sifatli oziq-ovqat darajasidagi qadoqlash materiallaridan foydalanish",
+      "Toʻliq fermadan eksportgacha hujjatlar va toʻgʻridan-toʻgʻri fermer hamkorliklari bilan taʼminot zanjirining shaffofligi",
+      "Doimiy muvofiqlikni yaxshilashni taʼminlaydigan mustaqil sifat kafolati mutaxassislari tomonidan oʻtkaziladigan muntazam auditlar",
+      "Qattiq koʻp bosqichli tekshirish protokollarini amalga oshiradigan oʻqitilgan sifat nazorati jamoasi",
+      "Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga rioya qilish"
+    ]
+  },
+  {
+    "id": "16",
+    "hs_code": "0907",
+    "category": "Ziravorlar",
+    "name": "Qalampirmunchoq",
+    "description": "Bizning yuqori sifatli Qalampirmunchoqlarimiz Hindiston va Madagaskardagi dunyoning eng yaxshi yetishtirish hududlaridan olingan sifat choʻqqisini ifodalaydi, bu yerda ideal iqlim sharoitlari va mutaxassis yetishtirish texnikalari birlashib, Syzygium aromaticumning ushbu ajoyib quritilgan gul kurtaklarini hosil qiladi. Dastlab Indoneziyaning Maluku orollaridan kelib chiqqan, bizning ehtiyotkorlik bilan tanlangan Qalampirmunchoqlarimiz haqiqatan ham yuqori sifatli mahsulotni ajratib turadigan lazzat va xushboʻylik intensivligini taqdim etadi. Bizning eksport navli Qalampirmunchoqlarimizning ajoyib quvvati ularni koʻplab sohalarda ajralmas qiladi - gurme pazandachilik ilovalari va yuqori sifatli ichimliklar formulalaridan tortib farmatsevtika preparatlari va terapevtik aromaterapiya yechimlarigacha. Mahsulot takliflaringizni yaxshilaydigan va eng aqlli global bozorlarning talablarini qondiradigan tengsiz sifatga kirish uchun Qalampirmunchoqlarimizni tanlang.",
+    "image": "images/products/spices/clove.webp",
+    "harvest_season": "Sentyabrdan yanvargacha",
+    "features": [
+      "Yuqori immun funktsiyasi va hujayra himoyasini ragʻbatlantiradigan ajoyib antioksidant konsentratsiyasi",
+      "Ogʻiz boʻshligʻi parvarishi formulalari uchun ajralmas boʻlgan kuchli tabiiy ogʻriq qoldiruvchi xususiyatlar",
+      "Pazandachilik ijodlari va yuqori sifatli ichimliklarni oʻzgartiradigan oʻziga xos aromatik profil",
+      "Keng terapevtik ilovalarga ega kuchli mikroblarga qarshi va yalligʻlanishga qarshi birikmalar"
+    ],
+    "quality_options": [
+      "Organik: Qattiq sertifikatlangan organik protokollar boʻyicha yetishtirilgan, sintetik kimyoviy moddalar va pestitsidlardan butunlay xoli, eng yuqori xalqaro standartlarga javob beradi",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh bozor mavqeini taʼminlaydigan ehtiyotkorlik bilan kuzatilgan qishloq xoʻjaligi kiritmalari bilan anʼanaviy usullar yordamida yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 fut: Mahsulot yaxlitligi uchun optimal yuklash konfiguratsiyasi bilan 11 MT",
+      "40 fut: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 22 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Optimal hosil vaqtini koʻrsatadigan boy jigarrang rang va mukammal kurtak shakllanishiga ega boʻlgan toza butun qalampirmunchoqlar",
+      "Lazzati va xushboʻyligi: Yuqori sifatni bildiruvchi muvozanatlangan issiq notalar bilan ajoyib darajada kuchli, oʻtkir profil",
+      "Namlik: Maksimal saqlash barqarorligi va quvvatni saqlashni taʼminlash uchun ilmiy jihatdan 10% dan past nazorat qilinadi",
+      "Uchuvchi moy tarkibi: Lazzat intensivligi va terapevtik samaradorlik uchun sanoat standartlaridan oshib ketadigan 15-20% yuqori konsentratsiya",
+      "Qadoqlash variantlari: Xalqaro tranzit paytida aromatik birikmalarni saqlash uchun moʻljallangan sozlanishi mumkin boʻlgan yechimlar"
+    ],
+    "variety": [
+      "Indoneziya qalampirmunchoqlari: Tarixiy Maluku orollari ishlab chiqarishidan ehtiyotkorlik bilan tanlangan, ajoyib sifati va tengsiz lazzat intensivligi bilan butun dunyoga mashhur",
+      "Madagaskar qalampirmunchoqlari: Madagaskarning ideal oʻsish sharoitlaridan kelib chiqqan noyob aromatik profili va doimiy sifati bilan ajralib turadi",
+      "Hindiston qalampirmunchoqlari: Kerala va Tamil Nadudan yuqori efir moyi tarkibi va oʻziga xos lazzat xususiyatlariga ega yuqori sifatli tanlovlar"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Ilgʻor laboratoriyalardagi keng qamrovli analitik protokollar eng qatʼiy xalqaro sifat parametrlariga doimiy rioya qilishni taʼminlaydi",
+      "Taʼminot zanjirining shaffofligi: Tasdiqlangan adolatli savdo sertifikati va etik manba amaliyotlari bilan toʻliq fermadan eksportgacha hujjatlar",
+      "Muntazam auditlar: Barcha ishlab chiqarish bosqichlarida doimiy monitoring va takomillashtirishni taʼminlaydigan tizimli sifat tekshiruvi",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning global bozorlarga yetib borishini kafolatlash uchun koʻp bosqichli tekshirish protokollarini amalga oshiradigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "17",
+    "hs_code": "0910",
+    "category": "Ziravorlar",
+    "name": "Badyon",
+    "description": "Bizning yuqori sifatli Badyonimiz Xitoy va Hindistonning eng hurmatga sazovor yetishtirish hududlaridan eng yaxshi tanlovni ifodalaydi, ajoyib sifatni taʼminlash uchun eng yuqori pishganlik darajasida sinchkovlik bilan yigʻib olinadi. Illicium verum daraxtining ushbu oʻziga xos yulduz shaklidagi mevalari Xitoy va Janubi-Sharqiy Osiyoning ideal oʻsish muhitidan kelib chiqqan. Bizning eksport navli Badyonimiz pazandachilik ilovalarini oddiydan gʻayrioddiyga aylantiradigan shubhasiz shirin, qizilmiya hidli lazzat profilini taqdim etadi. Pazandachilik koʻp qirraliligidan tashqari, ushbu ajoyib ziravor taʼsirchan terapevtik foydalarni taklif etadi, bu uni koʻplab sohalarda bebaho qiladi - gurme oziq-ovqat ishlab chiqarishdan va hunarmandchilik ichimliklar formulasidan tortib farmatsevtika preparatlari va anʼanaviy tibbiyot ilovalarigacha. Raqobatbardosh global bozorlarda mahsulotlaringizni ajratib turadigan jahon darajasidagi Badyonga kirish uchun biz bilan hamkorlik qiling.",
+    "image": "images/products/spices/star_anise.webp",
+    "harvest_season": "Fevraldan sentyabrgacha",
+    "features": [
+      "Keng qamrovli hujayra himoyasi va qarishga qarshi foydalarni taʼminlaydigan ajoyib antioksidant profil",
+      "Noqulaylikni yengillashtiradigan va ozuqa moddalarini singdirishni optimallashtiradigan yuqori ovqat hazm qilishni yaxshilash xususiyatlari",
+      "Keng spektrli immun tizimini qoʻllab-quvvatlashni taʼminlaydigan kuchli tabiiy mikroblarga qarshi birikmalar",
+      "Pazandachilik ijodlari va pishiriq ilovalarini yaxshilaydigan oʻziga xos shirin, qizilmiya hidli lazzat profili"
+    ],
+    "quality_options": [
+      "Organik: Sintetik pestitsidlar, gerbitsidlar va oʻgʻitlardan butunlay xoli boʻlgan qatʼiy sertifikatlangan organik protokollar boʻyicha yetishtirilgan, eng yuqori xalqaro standartlarga javob beradi",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh bozor mavqeini taʼminlaydigan ehtiyotkorlik bilan kuzatilgan qishloq xoʻjaligi kiritmalari bilan anʼanaviy usullar yordamida yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 fut: Mahsulot yaxlitligini saqlash uchun optimal yuklash konfiguratsiyasi bilan 10 MT",
+      "40 fut: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 20 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Optimal yetuklikni koʻrsatadigan boy jigarrang rang va oʻziga xos yulduz shakllanishiga ega mukammal butun badyon mevalari",
+      "Lazzati va xushboʻyligi: Yuqori sifatni bildiruvchi muvozanatlangan aromatik notalar bilan ajoyib shirin, qizilmiya hidli profil",
+      "Namlik: Maksimal saqlash barqarorligi va lazzatni saqlashni taʼminlash uchun ilmiy jihatdan 10% dan kam saqlanadi",
+      "Uchuvchi moy tarkibi: Lazzat intensivligi va terapevtik samaradorlik uchun sanoat standartlaridan oshib ketadigan 5-7% yuqori konsentratsiya",
+      "Qadoqlash variantlari: Xalqaro tranzit paytida moʻrt yulduz tuzilmalarini saqlash uchun moʻljallangan sozlanishi mumkin boʻlgan yechimlar"
+    ],
+    "variety": [
+      "Xitoy badyoni: Guangdong va Guangxi viloyatlarining yuqori sifatli hosillaridan sinchkovlik bilan tanlangan, tengsiz sifati va oʻziga xos lazzat profili bilan butun dunyoga mashhur",
+      "Hindiston badyoni: Kerala va Tamil Naduning ixtisoslashgan yetishtirish hududlaridan olingan ajoyib shirinligi va mukammal muvozanatlangan qizilmiya notalari bilan ajralib turadi"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Zamonaviy laboratoriyalardagi keng qamrovli analitik protokollar eng qatʼiy xalqaro sifat parametrlariga doimiy rioya qilishni taʼminlaydi",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni va haqiqiy kuzatuvni taʼminlaydigan toʻgʻridan-toʻgʻri fermer hamkorliklari bilan toʻliq fermadan eksportgacha hujjatlar",
+      "Muntazam auditlar: Barcha ishlab chiqarish bosqichlarida doimiy monitoring va takomillashtirishni taʼminlaydigan tizimli sifat tekshiruvi protokollari",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning global bozorlarga yetib borishini kafolatlash uchun koʻp bosqichli tekshirish protokollarini amalga oshiradigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "18",
+    "hs_code": "0908",
+    "category": "Ziravorlar",
+    "name": "Muskat yongʻogʻi",
+    "description": "Bizning yuqori sifatli Muskat yongʻogʻimiz Indoneziyaning afsonaviy ziravor orollaridan eng yaxshi tanlovni ifodalaydi, bu yerda ideal oʻsish sharoitlari dunyodagi eng ajoyib Myristica fragrans urugʻlarini hosil qiladi. Dastlab tarixiy Banda orollaridan kelib chiqqan, bizning ehtiyotkorlik bilan tanlangan Muskat yongʻogʻimiz haqiqatan ham yuqori sifatli mahsulotni ajratib turadigan issiq, biroz shirin lazzat va xushboʻylik intensivligini taqdim etadi. Bizning eksport navli Muskat yongʻogʻimizning ajoyib koʻp qirraliligi uni koʻplab sohalarda ajralmas qiladi - gurme pazandachilik ilovalari va yuqori sifatli pishiriq mahsulotlaridan tortib terapevtik aromaterapiya formulalari va anʼanaviy tibbiyot preparatlarigacha. Mahsulot takliflaringizni yaxshilaydigan va eng aqlli global bozorlarning kutishlarini qondiradigan Indoneziyaning eng yaxshi Muskat yongʻogʻiga kirish uchun biz bilan hamkorlik qiling.",
+    "image": "images/products/spices/nutmeg.webp",
+    "harvest_season": "Iyun-avgust",
+    "features": [
+      "Tabiiy himoya tizimlarini mustahkamlaydigan kuchli immunitetni kuchaytiruvchi antioksidant profil",
+      "Shishiradi yoʻq qiladigan va oshqozon-ichak funktsiyasini optimallashtiradigan yuqori ovqat hazm qilish katalizatori",
+      "Boʻgʻimlardagi noqulaylik va surunkali yalligʻlanishni nishonga oladigan kuchli yalligʻlanishga qarshi birikmalar",
+      "Aqliy ravshanlikni va stressni kamaytirishni ragʻbatlantiradigan tabiiy anksiyolitik xususiyatlar"
+    ],
+    "quality_options": [
+      "Organik: Sintetik kimyoviy moddalar va pestitsidlardan butunlay xoli boʻlgan qatʼiy sertifikatlangan organik protokollar boʻyicha yetishtirilgan, eng yuqori xalqaro standartlarga javob beradi",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh bozor mavqeini taʼminlaydigan ehtiyotkorlik bilan kuzatilgan qishloq xoʻjaligi kiritmalari bilan anʼanaviy usullar yordamida yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 fut: Mahsulot yaxlitligi uchun optimal yuklash konfiguratsiyasi bilan 13 MT",
+      "40 fut: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 27 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Optimal yetuklikni koʻrsatadigan boy jigarrang rang va doimiy oval shaklga ega mukammal butun muskat yongʻogʻi urugʻlari",
+      "Lazzati va xushboʻyligi: Yuqori sifatni bildiruvchi muvozanatlangan aromatik notalar bilan ajoyib issiq, biroz shirin profil",
+      "Namlik: Maksimal saqlash barqarorligi va quvvatni saqlashni taʼminlash uchun ilmiy jihatdan 10% dan past nazorat qilinadi",
+      "Uchuvchi moy tarkibi: Lazzat intensivligi va terapevtik samaradorlik uchun sanoat standartlaridan oshib ketadigan 7-12% yuqori konsentratsiya",
+      "Qadoqlash variantlari: Xalqaro tranzit paytida aromatik birikmalarni saqlash uchun moʻljallangan sozlanishi mumkin boʻlgan yechimlar"
+    ],
+    "variety": [
+      "Indoneziya muskat yongʻogʻi: Sumatraning yuqori sifatli ishlab chiqarish hududlaridan sinchkovlik bilan tanlangan, tengsiz sifati va oʻziga xos lazzat profili bilan butun dunyoga mashhur",
+      "Hindiston muskat yongʻogʻi: Keralaning ixtisoslashgan yetishtirish hududlaridan olingan ajoyib issiqligi va mukammal muvozanatlangan shirin notalari bilan ajralib turadi"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Zamonaviy jihozlardagi keng qamrovli analitik protokollar eng qatʼiy xalqaro sifat parametrlariga doimiy rioya qilishni taʼminlaydi",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni va haqiqiy kuzatuvni taʼminlaydigan toʻgʻridan-toʻgʻri fermer hamkorliklari bilan toʻliq fermadan eksportgacha hujjatlar",
+      "Muntazam auditlar: Barcha ishlab chiqarish bosqichlarida doimiy monitoring va takomillashtirishni taʼminlaydigan tizimli sifat tekshiruvi",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning global bozorlarga yetib borishini kafolatlash uchun koʻp bosqichli tekshirish protokollarini amalga oshiradigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "19",
+    "hs_code": "090611",
+    "category": "Ziravorlar",
+    "name": "Dolchin",
+    "description": "Bizning yuqori sifatli Dolchin tayoqchalarimiz Shri-Lanka va Indoneziyaning eng taniqli yetishtirish hududlaridan olingan sifat choʻqqisini ifodalaydi, bu yerda avlodlar tajribasi dunyodagi eng yaxshi Cinnamomum verum poʻstlogʻini hosil qiladi. Dastlab Shri-Lankadan kelib chiqqan, bizning ehtiyotkorlik bilan yigʻib olingan Dolchinimiz haqiqatan ham ajoyib mahsulotni belgilaydigan tengsiz issiq, shirin va achchiq profilni taqdim etadi. Bizning eksport navli Dolchinimizning ajoyib koʻp qirraliligi uni koʻplab sohalarda muhim qiladi - hunarmandchilik pishiriqlaridan va gurme oshxonasidan tortib anʼanaviy tibbiyot formulalari va yuqori sifatli ichimliklar ishlab chiqishgacha. Mahsulot takliflaringizni yaxshilaydigan va eng aqlli global bozorlarning kutishlarini qondiradigan tengsiz sifatga kirish uchun Dolchinimizni tanlang.",
+    "image": "images/products/spices/cinnamon.webp",
+    "harvest_season": "May, Sentyabrdan noyabrgacha",
+    "features": [
+      "Oddiy retseptlarni yuqori sifatli ijodlarga aylantiradigan gʻayrioddiy issiq, shirin lazzat profili",
+      "Butun dunyo boʻylab shirin va shoʻr pazandachilik anʼanalari boʻyicha koʻp qirrali qoʻllash potentsiali",
+      "Tengsiz sifat uchun faqat Shri-Lanka va Indoneziyaning eng yaxshi yetishtirish hududlaridan olingan",
+      "Turli bozor talablarini qondirish uchun ham sertifikatlangan organik, ham yuqori sifatli anʼanaviy navlarda mavjud"
+    ],
+    "quality_options": [
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan qatʼiy sertifikatlangan organik protokollar boʻyicha yetishtirilgan, eng yuqori xalqaro standartlarga javob beradi",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh narxlarni taʼminlaydigan ehtiyotkorlik bilan kuzatilgan qishloq xoʻjaligi kiritmalari bilan anʼanaviy usullar yordamida yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 futlik konteyner: Tayoq yaxlitligini saqlash uchun maxsus yuklash konfiguratsiyasi bilan 7 MT",
+      "40 futlik konteyner: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 14 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Boy jigarrang rang va aniq silindrsimon shaklga ega mukammal butun dolchin tayoqchalari",
+      "Hajmi: Doimiy sifat uchun uzunligi 10-20 sm va diametri 2-3 sm gacha boʻlgan yuqori sifatli tanlov",
+      "Lazzati va xushboʻyligi: Yuqori navni bildiruvchi muvozanatlangan murakkablikka ega ajoyib issiq, shirin va achchiq profil",
+      "Namlik: Maksimal saqlash barqarorligi va lazzatni saqlashni taʼminlash uchun ilmiy jihatdan 13% dan past nazorat qilinadi",
+      "Qadoqlash variantlari: Xalqaro tranzit paytida nozik qalamlarni himoya qilish uchun moʻljallangan sozlanishi mumkin boʻlgan yechimlar"
+    ],
+    "variety": [
+      "Seylon dolchini: Nozik lazzati va oʻziga xos sifati bilan butun dunyoga mashhur boʻlgan biluvchilarning haqiqiy dolchini, faqat Shri-Lankaning asosiy yetishtirish hududlariga xos",
+      "Indoneziya dolchini: Sumatraning ixtisoslashgan ishlab chiqarish hududlaridan ehtiyotkorlik bilan tanlangan ajoyib issiqligi va mukammal muvozanatlangan shirin notalari bilan ajralib turadi"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Zamonaviy jihozlardagi keng qamrovli analitik protokollar eng qatʼiy xalqaro sifat parametrlariga doimiy rioya qilishni taʼminlaydi",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni va haqiqiy kuzatuvni taʼminlaydigan toʻgʻridan-toʻgʻri fermer hamkorliklari bilan toʻliq fermadan eksportgacha hujjatlar",
+      "Muntazam auditlar: Barcha ishlab chiqarish bosqichlarida doimiy monitoring va takomillashtirishni taʼminlaydigan tizimli sifat tekshiruvi",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning global bozorlarga yetib borishini kafolatlash uchun koʻp bosqichli tekshirish protokollarini amalga oshiradigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "20",
+    "hs_code": "1204",
+    "category": "Ziravorlar",
+    "name": "Zigʻir urugʻi",
+    "description": "Bizning yuqori sifatli Zigʻir urugʻimiz Hindistonning Madhya Pradesh va Rajasthan ixtisoslashgan yetishtirish hududlaridan eng yaxshi hosilni ifodalaydi, bu yerda ideal iqlim sharoitlari ajoyib sifatni hosil qiladi. Ushbu ozuqaviy jihatdan yuqori boʻlgan moyli urugʻlar omega-3 yogʻ kislotalari, parhez tolasi va oʻsimlik oqsilining taʼsirchan profilini taqdim etadi, bu esa haqiqatan ham yuqori sifatli mahsulotni ajratib turadi. Bizning eksport navli Zigʻir urugʻimizning ajoyib yongʻoq lazzati va qoniqarli teksturasi uni koʻplab ilovalar boʻyicha bebaho qiladi - funktsional oziq-ovqat ishlab chiqishdan va hunarmandchilik pishiriqlaridan tortib yuqori sifatli hayvonlar uchun ozuqa formulalari va ixtisoslashgan sanoat maqsadlarida foydalanishgacha. Sogʻliqni saqlashga eʼtiborli global bozorlarning talablariga javob beradigan ozuqaviy mukammallik bilan mahsulot takliflaringizni yaxshilash uchun Hindistonning eng yaxshi Zigʻir urugʻiga kirish uchun biz bilan hamkorlik qiling.",
+    "image": "images/products/spices/flax_seed.webp",
+    "harvest_season": "Fevral va mart",
+    "features": [
+      "Yuqori yurak-qon tomir salomatligini ragʻbatlantiradigan va yalligʻlanishni kamaytiradigan ajoyib omega-3 yogʻ kislotasi profili",
+      "Ovqat hazm qilish salomatligini inqilob qiladigan va vaznni boshqarish dasturlarini qoʻllab-quvvatlaydigan yuqori sifatli tola tarkibi",
+      "Yuqori sifatli oziq-ovqat formulalari, ixtisoslashgan hayvonlar uchun ozuqa va sanoat ilovalari boʻyicha tengsiz koʻp qirralilik",
+      "Turli bozor talablarini qondirish uchun ham sertifikatlangan organik, ham yuqori sifatli anʼanaviy navlarda mavjud"
+    ],
+    "quality_options": [
+      "Organik: Sintetik kimyoviy moddalardan butunlay xoli boʻlgan qatʼiy sertifikatlangan organik protokollar boʻyicha yetishtirilgan, eng yuqori xalqaro standartlarga javob beradi",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh bozor mavqeini taʼminlaydigan ehtiyotkorlik bilan kuzatilgan qishloq xoʻjaligi kiritmalari bilan anʼanaviy usullar yordamida yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 futlik konteyner: Urugʻ yaxlitligini saqlash uchun maxsus yuklash konfiguratsiyasi bilan 10 MT",
+      "40 futlik konteyner: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 20 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Yuqori sifatni koʻrsatadigan doimiy oval shaklga ega boʻlgan boy jigarrangdan oltin ranggacha boʻlgan mukammal butun zigʻir urugʻlari",
+      "Hajmi: Muayyan ilova talablariga javob berish uchun aniq gradatsiyalangan kichik, oʻrta va katta tanlovlarda mavjud",
+      "Yogʻ tarkibi: Yuqori ozuqaviy qiymat va funktsional samaradorlikni taʼminlaydigan ajoyib 30-40% konsentratsiya",
+      "Protein tarkibi: Ozuqaviy ilovalar uchun sanoat standartlaridan oshib ketadigan yuqori sifatli 20-25% profil",
+      "Tola tarkibi: Ovqat hazm qilish salomatligi daʼvolari va funktsional oziq-ovqat formulalarini qoʻllab-quvvatlaydigan ajoyib 20-25% tarkib",
+      "Qadoqlash variantlari: Xalqaro tranzit paytida ozuqaviy yaxlitlikni saqlash uchun moʻljallangan sozlanishi mumkin boʻlgan yechimlar"
+    ],
+    "variety": [
+      "Madhya Pradesh zigʻir urugʻi: Madhya Pradeshning yuqori sifatli yetishtirish hududlaridan sinchkovlik bilan tanlangan ajoyib darajada yuqori yogʻ miqdori va oʻziga xos lazzat profili bilan ajralib turadi",
+      "Rajasthan zigʻir urugʻi: Rajasthaning ixtisoslashgan ishlab chiqarish hududlaridan ehtiyotkorlik bilan olingan yuqori sifati va doimiy ozuqaviy zichligi bilan mashhur"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Zamonaviy laboratoriyalardagi keng qamrovli analitik protokollar eng qatʼiy xalqaro sifat parametrlariga doimiy rioya qilishni taʼminlaydi",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni va haqiqiy kuzatuvni taʼminlaydigan toʻgʻridan-toʻgʻri fermer hamkorliklari bilan toʻliq fermadan eksportgacha hujjatlar",
+      "Muntazam auditlar: Barcha ishlab chiqarish bosqichlarida doimiy monitoring va takomillashtirishni taʼminlaydigan tizimli sifat tekshiruvi",
+      "Oʻqitilgan sifat nazorati jamoasi: Faqat yuqori sifatli mahsulotlarning global bozorlarga yetib borishini kafolatlash uchun koʻp bosqichli tekshirish protokollarini amalga oshiradigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "21",
+    "hs_code": "10085000",
+    "category": "Ziravorlar",
+    "name": "Qora murch",
+    "description": "Bizning yuqori sifatli Qora murchimiz Hindiston va Vyetnamning eng taniqli yetishtirish hududlaridan olingan sifat choʻqqisini ifodalaydi, bu yerda ideal iqlim sharoitlari va avlodlar tajribasi birlashib, dunyodagi eng yaxshi Piper nigrum mevalarini hosil qiladi. Eng yuqori pishganlik darajasida yigʻib olingan va mutaxassislar tomonidan quritilgan, bizning ehtiyotkorlik bilan tanlangan Qora murchimiz haqiqatan ham ajoyib mahsulotni belgilaydigan tengsiz oʻtkir, achchiq profilni taqdim etadi. Bizning eksport navli Qora murchimizning ajoyib koʻp qirraliligi uni global oshxonalar va koʻplab sohalarda muhim qiladi - gurme oziq-ovqat ishlab chiqarishdan va hunarmandchilik ziravor aralashmalaridan tortib anʼanaviy tibbiyot formulalari va ozuqaviy qoʻshimchalar ilovalarigacha. Mahsulot takliflaringizni yaxshilaydigan va eng aqlli global bozorlarning kutishlarini qondiradigan tengsiz Qora murch sifatiga kirish uchun biz bilan hamkorlik qiling.",
+    "image": "images/products/spices/black_pepper.webp",
+    "harvest_season": "Noyabrdan martgacha",
+    "features": [
+      "Oddiy taomlarni pazandachilik durdonalariga aylantiradigan oʻziga xos oʻtkir lazzat profili",
+      "Global oshxona anʼanalari va farmatsevtika ilovalari boʻyicha ajoyib koʻp qirralilik",
+      "Kengaytirilgan bioavailability va terapevtik foydalarni taʼminlaydigan yuqori piperin konsentratsiyasi",
+      "Tengsiz sifat uchun faqat Hindiston va Vyetnamning asosiy yetishtirish hududlaridan olingan"
+    ],
+    "quality_options": [
+      "Organik: Sintetik moddalardan butunlay xoli boʻlgan qatʼiy sertifikatlangan organik protokollar boʻyicha yetishtirilgan, eng yuqori xalqaro standartlarga javob beradi",
+      "Anʼanaviy: Doimiy sifat va raqobatbardosh narxlarni taʼminlaydigan ehtiyotkorlik bilan kuzatilgan qishloq xoʻjaligi amaliyotlari bilan anʼanaviy usullar yordamida yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 futlik konteyner: Mahsulot yaxlitligini saqlash uchun maxsus yuklash konfiguratsiyasi bilan 6 MT",
+      "40 futlik konteyner: Iqtisodiy ommaviy yuk tashish yechimlarini taklif qiluvchi 12 MT"
+    ],
+    "specifications": [
+      "Fizikaviy xususiyatlar: Optimal yetuklikni koʻrsatadigan boy quyuq jigarrangdan qora ranggacha va doimiy sharsimon shaklga ega mukammal butun qora murch donalari",
+      "Lazzati va xushboʻyligi: Yuqori navni bildiruvchi muvozanatlangan murakkablikka ega ajoyib oʻtkir, achchiq profil",
+      "Namlik: Maksimal saqlash barqarorligi va quvvatni saqlashni taʼminlash uchun ilmiy jihatdan 10% dan past nazorat qilinadi",
+      "Piperin tarkibi: Lazzat intensivligi va terapevtik samaradorlik uchun sanoat standartlaridan oshib ketadigan 4-6% yuqori konsentratsiya",
+      "Qadoqlash variantlari: Xalqaro tranzit paytida aromatik birikmalarni saqlash uchun moʻljallangan sozlanishi mumkin boʻlgan yechimlar"
+    ],
+    "variety": [
+      "Hindiston qora murchi: Kerala va Tamil Naduning yuqori sifatli hosillaridan sinchkovlik bilan tanlangan, tengsiz sifati va oʻziga xos lazzat profili bilan butun dunyoga mashhur",
+      "Vyetnam qora murchi: Dak Lak va Gia Laining ixtisoslashgan yetishtirish hududlaridan ehtiyotkorlik bilan olingan ajoyib oʻtkirligi va mukammal muvozanatlangan oʻtkirligi bilan ajralib turadi"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: Bizning ilgʻor laboratoriyamizdagi qattiq analitik protseduralar global sifat mezonlariga doimiy rioya qilishni taʼminlaydi",
+      "Taʼminot zanjirining shaffofligi: Etik manbalarni tekshirish bilan fermadan eksportgacha toʻliq hujjatlar",
+      "Muntazam auditlar: Barcha ishlab chiqarish bosqichlarida doimiy takomillashtirishni taʼminlaydigan tizimli sifat monitoringi dasturlari",
+      "Oʻqitilgan sifat nazorati jamoasi: Har bir bosqichda keng qamrovli tekshirish protokollarini amalga oshiradigan ixtisoslashgan mutaxassislar",
+      "Qoidalarga rioya qilish: Xalqaro oziq-ovqat xavfsizligi standartlari va bozorga xos tartibga solish talablariga toʻliq rioya qilish"
+    ]
+  },
+  {
+    "id": "22",
+    "category": "Ziravorlar",
+    "name": "Kinoa",
+    "description": "Rajasthan va Madhya Pradeshdagi Hindistonning eng yaxshi fermalaridan yuqori sifatli Kinoani sinab koʻring. Bizning ozuqaga boy superfoodimiz oʻziga xos yongʻoq lazzati bilan ajoyib protein, tola va minerallarni taklif etadi. Pazandachilik, ozuqaviy va sanoat ilovalari uchun mukammal. Hindistonning eng yaxshi eksport navli Kinoasi, eng yuqori darajada yigʻib olingan.",
+    "image": "images/products/spices/quinoa_seed.webp",
+    "harvest_season": "Avgust va sentyabr",
+    "features": [
+      "Yuqori protein tarkibi (15-20%)",
+      "Boy parhez tolasi (5-7%)",
+      "Oq, qizil va qora navlarda mavjud",
+      "Ham organik, ham anʼanaviy variantlar"
+    ],
+    "quality_options": [
+      "Organik: Sintetik moddalarsiz sertifikatlangan yetishtirish, toʻliq kuzatuv",
+      "Anʼanaviy: Doimiy sifat uchun nazorat ostidagi amaliyotlardan foydalangan holda aniq yetishtirilgan"
+    ],
+    "container_capacity": [
+      "20 futlik konteyner: 7 MT",
+      "40 futlik konteyner: 14 MT"
+    ],
+    "specifications": [
+      "Fizikaviy: Butun donalar, oqdan jigarranggacha, tartibsiz shakl",
+      "Hajmi: Kichik, oʻrta va katta navlarda mavjud",
+      "Protein: Yuqori tarkib (15-20%)",
+      "Tola: Boy tarkib (5-7%)",
+      "Qadoqlash: Toʻliq sozlanishi mumkin"
+    ],
+    "variety": [
+      "Oq Kinoa: Yumshoq lazzat, yumshoq tekstura, salatlar va garnirlar uchun ideal",
+      "Qizil Kinoa: Yongʻoq taʼmi, qarsillama tekstura, salatlar va qovurilgan taomlar uchun mukammal",
+      "Qora Kinoa: Tuproqli lazzat, qattiq tekstura, shoʻrvalar va pishiriqlar uchun aʼlo"
+    ],
+    "quality_assurance": [
+      "Laboratoriya sinovlari: ISO sertifikatiga ega tahlil xalqaro standartlarga muvofiqlikni taʼminlaydi",
+      "Taʼminot zanjiri: Hujjatlashtirilgan saqlash zanjiriga ega toʻgʻridan-toʻgʻri fermer xaridi",
+      "Auditlar: Muntazam uchinchi tomon sifat tekshiruvi protokollari",
+      "Sifat nazorati: Maxsus mutaxassislar eksport navini tanlashni taʼminlaydi",
+      "Muvofiqlik: HACCP va ISO kabi global oziq-ovqat xavfsizligi standartlariga rioya qilish"
+    ]
+  }
+]

@@ -47,31 +47,45 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Mobile Navigation Drawer Toggle
   const hamburger = document.getElementById("hamburger-icon");
-  const mobileDrawer = document.getElementById("mobile-drawer");
   const navMenu = document.getElementById("nav-menu"); // Desktop nav menu
 
-  if (hamburger && mobileDrawer) {
-    hamburger.addEventListener("click", function () {
-      mobileDrawer.classList.toggle("open");
-    });
+  if (hamburger && navMenu) {
+    hamburger.addEventListener("click", () => navMenu.classList.toggle("open"));
   }
 
   // Close mobile drawer when clicking outside (optional - enhance UX)
   document.addEventListener("click", function (event) {
     if (
-      mobileDrawer.classList.contains("open") &&
-      !mobileDrawer.contains(event.target) &&
+      navMenu.classList.contains("open") &&
+      !navMenu.contains(event.target) &&
       !hamburger.contains(event.target)
     ) {
-      mobileDrawer.classList.remove("open");
+      navMenu.classList.remove("open");
     }
   });
 
   // Close mobile drawer when nav link is clicked (optional - enhance UX)
   const mobileNavLinks = document.querySelectorAll(".mobile-nav-links a");
   mobileNavLinks.forEach((link) => {
-    link.addEventListener("click", () => {
-      mobileDrawer.classList.remove("open");
+    link.addEventListener("click", (e) => {
+      // Skip closing drawer for language dropdown toggle and language options
+      if (link.classList.contains("dropdown-title") || link.classList.contains("language-option")) {
+        return;
+      }
+      navMenu.classList.remove("open");
+    });
+  });
+
+  // Language option selection: close drawer after changing language
+  const mobileLanguageOptions = document.querySelectorAll(".mobile-nav-links .language-option");
+  mobileLanguageOptions.forEach((option) => {
+    option.addEventListener("click", async (e) => {
+      e.preventDefault();
+      const lang = option.getAttribute("data-lang");
+      if (lang && window.localizationManager) {
+        await window.localizationManager.changeLanguage(lang);
+      }
+      navMenu.classList.remove("open");
     });
   });
 
@@ -438,6 +452,18 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
+  // IntersectionObserver for fade-in animations
+  const fadeInElements = document.querySelectorAll('.fade-in');
+  const fadeObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('in-view');
+        fadeObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -10% 0px' });
+  fadeInElements.forEach(el => fadeObserver.observe(el));
+
   // Mobile Language Dropdown
   document.addEventListener("DOMContentLoaded", function () {
     // Mobile language dropdown toggle
@@ -468,5 +494,59 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       });
     });
+  });
+
+  // Image optimization: lazy load thumbnails, hover-preload full images, and register SW
+  // This block sets up lazy loading, smooth fade-in, hover preloading, and service worker registration
+  document.addEventListener('DOMContentLoaded', function() {
+    const cards = document.querySelectorAll('.product-card');
+    const lazyImages = document.querySelectorAll('img.lazy');
+
+    lazyImages.forEach(img => {
+      const onLoad = () => {
+        img.classList.add('loaded');
+        const pic = img.closest('picture');
+        if (pic) pic.classList.add('loaded');
+      };
+      if ('loading' in HTMLImageElement.prototype) {
+        img.src = img.dataset.src;
+        img.addEventListener('load', onLoad);
+      } else if ('IntersectionObserver' in window) {
+        const io = new IntersectionObserver((entries, obs) => {
+          entries.forEach(e => {
+            if (e.isIntersecting) {
+              img.src = img.dataset.src;
+              img.addEventListener('load', onLoad);
+              obs.unobserve(img);
+            }
+          });
+        }, { rootMargin: '200px' });
+        io.observe(img);
+      } else {
+        img.src = img.dataset.src;
+        img.addEventListener('load', onLoad);
+      }
+    });
+
+    cards.forEach(card => {
+      let done = false;
+      card.addEventListener('mouseenter', () => {
+        if (done) return;
+        const href = card.getAttribute('data-full-image');
+        if (!href) return;
+        const link = document.createElement('link');
+        link.rel = 'preload';
+        link.as = 'image';
+        link.href = href;
+        document.head.appendChild(link);
+        done = true;
+      });
+    });
+
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(() => console.log('Service Worker registered'))
+        .catch(e => console.warn('Service Worker registration failed:', e));
+    }
   });
 });

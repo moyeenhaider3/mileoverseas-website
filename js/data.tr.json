@@ -1,0 +1,998 @@
+[
+  {
+    "id": "1",
+    "hs_code": "0909",
+    "category": "Baharatlar",
+    "name": "Kimyon Tohumu",
+    "description": "Hindistan'ın en verimli tarım bölgeleri olan Gucerat, Maharaştra ve Madhya Pradeş'ten en uygun kış sezonunda (Ekim - Şubat) titizlikle hasat edilen premium ihracat sınıfı tohumlarımızla Hint kimyonunun zirvesini deneyimleyin. Kimyon üretiminde küresel bir lider olarak, özenle seçilmiş Cuminum cyminum'umuz %2-4'lük olağanüstü bir uçucu yağ içeriği sunarak üstün aromatik yoğunluk ve lezzet profili sağlar. Kıtalar boyunca mutfak geleneklerinde ve bütünsel tıpta yüzyıllardır değer verilen kimyon tohumlarımız, sindirimin iyileştirilmesi, iltihabın azaltılması ve bağışıklık sistemi desteği dahil olmak üzere dikkate değer sağlık yararları sunar. Bu çok yönlü premium emtia, hem mutfak uygulamaları hem de terapötik kullanım için uluslararası standartları aşarak, kaliteye önem veren küresel alıcılar için seçkin bir tercih haline gelmektedir.",
+    "image": "images/products/spices/cumin.webp",
+    "harvest_season": "Ekim - Şubat",
+    "features": [
+      "Optimal besin emilimi için mide salgılarını uyaran güçlü doğal enzimlerle sindirim sağlığını iyileştirir.",
+      "Sistemik inflamasyonu azaltmaya yardımcı olan ve genel sağlığı destekleyen güçlü anti-inflamatuar bileşikler içerir.",
+      "Çevresel stres faktörlerine karşı koruma sağlayan temel mikro besinler ve antioksidan özellikleri sayesinde bağışıklık fonksiyonunu güçlendirir.",
+      "Her partide maksimum lezzet yoğunluğu ve terapötik fayda sağlayan olağanüstü %2-4 uçucu yağ konsantrasyonu sunar."
+    ],
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Optimum zararlı yönetimi için fiziksel, kültürel, biyolojik ve kimyasal kontrolleri entegre eden bütünsel yaklaşımımızla yetiştirilmiş olup, minimum müdahale ile daha sağlıklı, daha sürdürülebilir premium bir ürün elde edilir.",
+      "Organik: Sıfır sentetik pestisit, herbisit veya gübre ile %100 sertifikalı organik tarım uygulamaları kullanılarak üretilmiş olup, en yüksek kalitede saf, temiz baharat sağlamak için zararlı ve hastalık kontrolü için yalnızca doğal yöntemler kullanılır.",
+      "Konvansiyonel: Onaylanmış tedavilerin dikkatle izlenen kullanımı ile geleneksel tarım yöntemlerini takip ederek yetiştirilmiş olup, kimyasal kullanımını en aza indirirken sürekli üstün kaliteyi koruyan katı en iyi yönetim uygulamalarına bağlı kalınır."
+    ],
+    "container_capacity": [
+      "20 ft konteyner: 14 MT",
+      "40 ft konteyner: 27 MT"
+    ],
+    "specifications": [
+      "Tip: Olağanüstü saflık seviyelerine sahip saf bütün kimyon tohumları",
+      "Renk: Optimal olgunluğu gösteren zengin kahverengiden seçkin grimsi kahverengi tonuna",
+      "Şekil: İdeal kıvamda, mükemmel biçimli küçük, uzun tohumlar",
+      "Boyut: Tutarlı pişirme sonuçları için tek tip 3-5 mm (0.12-0.2 inç)",
+      "Lezzet: Dikkate değer derinliğe sahip, belirgin şekilde sıcak, topraksı profil",
+      "Aroma: Premium kaliteyi işaret eden taze, canlı bitkisel buket",
+      "İşlem: Gelişmiş makine temizleme ve hassas ayıklama teknolojisi",
+      "Paketleme: Özel gereksinimlerinizi karşılamak için esnek, özelleştirilebilir paketleme çözümleri",
+      "Nem: Uzun raf ömrünü garanti etmek için %10'dan az olarak kontrol edilir",
+      "Uçucu Yağ İçeriği: Maksimum lezzet etkisi için üstün %2-4 konsantrasyon"
+    ],
+    "variety": [
+      "Singapur Kalitesi: Minimum kuyruk varlığı ile titizlikle makine/sortex ile temizlenmiş, seçkin kahverengi renklendirme ve zorlu Singapur pazar standartlarını karşılayan güçlü aromatik özelliklere sahip.",
+      "Avrupa Kalitesi: Sürekli kahverengi renk ve yoğun aroma sunan, Avrupa mutfak pazarlarının katı gereksinimlerini karşılayan ustalıkla ayıklanmış ve hassas bir şekilde kesilmiş tohumlar.",
+      "Kalın Kalite (Bold Quality): Üstün etki gerektiren uygulamalar için hem lezzet profilinde hem de aromatik niteliklerde olağanüstü sağlamlık sunan premium büyük boyutlu tohumlar."
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her parti, sıkı kalite ölçütlerimize tutarlı bir şekilde uyulmasını sağlayan son teknoloji laboratuvar tesislerimizde kapsamlı analizlerden geçer.",
+      "Paketleme: Üretimden son teslimata kadar kimyonumuzun kendine özgü tazeliğini ve aromatik bütünlüğünü koruyan yalnızca gıda sınıfı, sektör lideri ambalaj malzemeleri kullanılır.",
+      "Tedarik Zinciri Şeffaflığı: Tarladan pazara izlenebilirliğimiz, üretim süreci boyunca doğrudan çiftçi tedariki ve sertifikalı adil ticaret uygulamaları ile tam tedarik zinciri görünürlüğünü garanti eder.",
+      "Düzenli Denetimler: Kapsamlı düzenli denetimler yoluyla sistematik kalite doğrulaması, uluslararası standartlara uygunluğu sağlarken sürekli olarak iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Uzmanlaşmış kalite denetçilerimiz, her sevkiyatın saflığını ve kalitesini doğrulamak için titiz inceleme protokolleri uygular ve yalnızca premium ürünlerin küresel müşterilerimize ulaşmasını garanti eder.",
+      "Yönetmeliklere Uygunluk: Sorunsuz küresel pazar erişimi için ilgili tüm uluslararası gıda güvenliği çerçevelerine, etiketleme yönetmeliklerine ve ihracat standartlarına tam uyum."
+    ]
+  },
+  {
+    "id": "2",
+    "hs_code": "0909",
+    "category": "Baharatlar",
+    "name": "Kişniş Tohumu",
+    "image": "images/products/spices/coriander.webp",
+    "harvest_season": "Ekim - Şubat",
+    "features": [
+      "Maksimum konfor ve besin emilimi için bağırsak fonksiyonunu anında yatıştıran ve optimize eden güçlü doğal bileşiklerle sindirim sağlığında devrim yaratır.",
+      "Sistemik inflamasyon belirteçlerini hızla azaltan, anında rahatlama ve uzun süreli koruma sağlayan özel biyoaktif bileşenler aracılığıyla inflamasyonu ortadan kaldırır.",
+      "Yalnızca premium Hint kişnişinde bulunan nadir antioksidanlarla bağışıklık tepkisini önemli ölçüde güçlendirir ve mevsimsel zorluklara karşı aşılmaz bir savunma oluşturur.",
+      "Sektör standardından önemli ölçüde daha yüksek olan olağanüstü %0.5-1.5 uçucu yağ konsantrasyonu içerir - eşsiz lezzet yoğunluğu ve terapötik güç sunar."
+    ],
+    "description": "Hindistan'ın en önemli kış sezonunda (Ekim - Şubat) en yüksek mükemmellikte hasat edilen özel Premium Kişniş Tohumlarımızın rekabet avantajını ortaya çıkarın. Küresel olarak premium kişniş üretiminin merkezi olarak tanınan Gujarat, Maharashtra ve Madhya Pradesh'teki Hindistan'ın en gözde yetiştirme bölgelerinden doğrudan tedarik edilmiştir. Coriandrum sativum'umuz, yüzyıllık bilgelik ile en son tarım teknikleri birleştirilerek yetiştirilmiş ve küresel pazarlarda dikkat çeken bir ürün ortaya çıkmıştır. Olağanüstü %0.5-1.5 uçucu yağ içeriği, herhangi bir mutfak yaratımını anında yükselten belirgin taze, narenciye benzeri bir profil sunar. Seçkin uluslararası alıcılar, kişniş tohumlarımızı yalnızca bir baharat olarak değil, dünya çapında sağlık bilincine sahip tüketici pazarlarında anında rekabet avantajı sağlayan ürün mükemmelliğine stratejik bir yatırım olarak kabul etmektedir.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri sorunsuz bir şekilde entegre eden devrim niteliğindeki bütünsel yetiştirme sistemimizi deneyimleyin, doğal olarak korunan bir yetiştirme ortamı yaratarak üstün lezzet profillerine sahip önemli ölçüde daha temiz, daha saf tohumlar elde edin.",
+      "Organik: Zararlı sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, en katı küresel organik standartları karşılayan ve sağlık bilincine sahip pazarlarda premium fiyatlandırma talep eden sertifikalı %100 organik kişniş tohumlarımızın tadını çıkarın.",
+      "Konvansiyonel: Endüstri onaylı tedavilerin her uygulamasının sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü kişniş tohumları üretmek için titizlikle izlendiği hassas kontrollü geleneksel tarım uygulamalarımızdan yararlanın."
+    ],
+    "container_capacity": [
+      "20 ft : 9.5 MT",
+      "40 ft : 19 MT"
+    ],
+    "specifications": [
+      "Tip: Garantili premium kalitede seçkin bütün kişniş tohumları",
+      "Renk: Optimal olgunluğu ve lezzet gelişimini gösteren belirgin kahverengi/yeşil ton",
+      "Şekil: Tutarlı pişirme performansı için mükemmel küçük, küresel oluşum",
+      "Boyut: İdeal mutfak sonuçları için hassas 2-3 mm (0.08-0.12 inç) kalibrasyon",
+      "Lezzet: Karmaşık aromatik notalarla dikkat çekici derecede sıcak, hafif tatlı profil",
+      "Aroma: Üstün kaliteyi hemen işaret eden canlı, narenciye buketi",
+      "İşlem: Eşsiz saflık için son teknoloji makine temizleme ve ayıklama teknolojisi",
+      "Paketleme: Tam pazar gereksinimlerinize göre uyarlanmış özel paketleme çözümleri",
+      "Nem: Raf ömrünü en üst düzeye çıkarmak ve aromatik yağları korumak için bilimsel olarak %10'un altında kontrol edilir",
+      "Uçucu Yağ İçeriği: Üstün lezzet yoğunluğu sağlayan premium %0.5-1.5 konsantrasyon"
+    ],
+    "variety": [
+      "Dhana: Premium baharat karışımları ve özel yemekler için mükemmel, baskın lezzet varlığı ve aromatik yoğunluğa sahip özel büyük boyutlu kişniş tohumları.",
+      "Dhani: Nüanslı lezzetin çok önemli olduğu seçkin baharat karışımı formülasyonları için özel olarak yetiştirilen ayırt edici bir lezzet profili sunan seçkin daha küçük tohumlar.",
+      "Eagle: Hassas kuyruk kesimi ve makine temizliği ile rafine edilmiş kahverengimsi tohumlar, ince mutfak uygulamaları için ideal kontrollü hafif bir lezzet profili sunar.",
+      "Eagle Plus: Uzman kuyruk kesimi ve gelişmiş sortex temizliği ile üstün kahverengimsi-yeşil tohumlar, her yemeği yükselten ayırt edici bir tatlılık sağlar.",
+      "Scooter: Güçlü aromatik varlığa sahip canlı yeşil çeşit, mükemmelliğe kadar sortex ile temizlenmiş, seçkin şefler tarafından aranan yoğun keskinliği sunar.",
+      "Parrot: Çarpıcı yeşil renklendirme ve kapsamlı sortex temizliği ile ultra premium kalite, canlı görsel çekicilik ve olağanüstü taze lezzet sunar.",
+      "Double Parrot: Eşsiz yeşil renk ve titiz sortex temizliği içeren en özel çeşidimiz, gerçekten olağanüstü lezzet ve aromatik etki sağlar.",
+      "Kişniş Kabuğu: Geleneksel tıpta ve özel baharat tozu formülasyonlarında oldukça değerli olan konsantre biyoaktif bileşiklere sahip özel kabuk bileşeni.",
+      "Bölünmüş Kişniş: Premium baharat karışımlarında ve özel karışımlarda anında lezzet salınımı için ustalıkla işlenmiş hassas bölünmüş tohumlar."
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her parti, uluslararası standartları aşan gelişmiş test protokolleri kullanılarak son teknoloji laboratuvarımızda titiz analizlerden geçer.",
+      "Paketleme: Gelişmiş nem bariyerlerine sahip premium gıda sınıfı malzemeler, küresel nakliye boyunca olağanüstü tazeliği ve aromatik profili korur.",
+      "Tedarik Zinciri Şeffaflığı: Doğrudan çiftçi ortaklıklarıyla tam çiftlikten müşteriye izlenebilirlik, etik kaynak kullanımını ve otantik kalite sertifikasını sağlar.",
+      "Düzenli Denetimler: Sistematik denetimler yoluyla kapsamlı kalite doğrulaması, en zorlu uluslararası standartlarla sarsılmaz uyumu garanti eder.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit kalite uzmanları, yalnızca mükemmel tohumların seçkin küresel müşterilerimize ulaşmasını sağlamak için titiz çok noktalı denetimler yapar.",
+      "Yönetmeliklere Uygunluk: Dünya çapında sorunsuz gümrük işlemleri için tüm uluslararası gıda güvenliği protokollerine ve etiketleme gerekliliklerine mutlak uyum."
+    ]
+  },
+  {
+    "id": "3",
+    "hs_code": "0909",
+    "category": "Baharatlar",
+    "name": "Rezene Tohumu",
+    "image": "images/products/spices/fennel.webp",
+    "harvest_season": "Ekim - Şubat",
+    "features": [
+      "Şişkinlik ve rahatsızlıktan anında kurtulma ile sindirim sağlığını dönüştürür, dünya çapındaki tüketicileri rahatsız eden yaygın sindirim şikayetlerine özel bir çözüm sunar.",
+      "Yalnızca premium Hint rezenesinde bulunan tescilli biyoaktif bileşikler aracılığıyla iltihabı ortadan kaldırır, ürün yelpazeniz için güçlü bir sağlık avantajı yaratır.",
+      "Doğal savunmaları güçlendiren ve genel canlılığı destekleyen nadir fitobesinlerle bağışıklık direncini artırır, sağlık odaklı pazarlarda rekabet avantajı sunar.",
+      "Mutfak kreasyonlarını anında yükselten ve ürünlerinizi sıradan alternatiflerden ayıran belirgin tatlı, anason benzeri bir lezzet profili sunar."
+    ],
+    "description": "Hindistan'ın en uygun kış sezonunda (Ekim - Şubat) ülkenin en prestijli yetiştirme bölgeleri olan Gucerat, Maharaştra ve Madhya Pradeş'ten titizlikle hasat edilen Elit Rezene Tohumlarımızla rekabet avantajınızı güvence altına alın. Premium Foeniculum vulgare üretiminde küresel pazar liderleri olarak tohumlarımız, sıradan yemekleri anında mutfak başyapıtlarına dönüştüren ayırt edici tatlı, anason benzeri profilleriyle olağanüstü bir duyusal deneyim sunar. Seçkin uluslararası alıcılar, rezenemizin sağladığı stratejik avantajı - yalnızca bir baharat olarak değil, giderek daha rekabetçi hale gelen pazarlarda güçlü bir farklılaştırıcı olarak - kabul etmektedir. Olağanüstü sindirim faydaları, güçlü anti-inflamatuar özellikleri ve bağışıklık artırıcı nitelikleri, ürün yelpazeniz için anında katma değer yaratır. Bu çok yönlü premium emtia, mutfak uygulamaları, bütünsel tıp ve aromaterapi için en zorlu standartları karşılayarak markanızı sağlık bilincine sahip küresel tüketicilere üstün kaliteli içerik sağlayıcısı olarak konumlandırır.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri sorunsuz bir şekilde entegre eden devrim niteliğindeki yetiştirme sistemimize yatırım yapın, çevreye duyarlı premium pazarlara hitap eden olağanüstü temiz, sürdürülebilir bir ürün elde edin.",
+      "Organik: Sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, dünya çapındaki en katı organik sertifikasyon standartlarını karşılayan ve lüks pazarlarda premium fiyatlandırma talep eden sertifikalı %100 organik rezene tohumlarımızdan yararlanın.",
+      "Konvansiyonel: Onaylanmış tedavilerin dikkatle izlenen uygulaması ile hassas kontrollü geleneksel çiftçiliğimizden yararlanın, küresel ithalat gerekliliklerini karşılayan sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü rezene tohumları üretin."
+    ],
+    "container_capacity": [
+      "20 ft : 14 MT",
+      "40 ft : 27 MT"
+    ],
+    "specifications": [
+      "Tip: Garantili saflık ve özgünlüğe sahip premium bütün tohumlar",
+      "Renk: En yüksek olgunluğu ve lezzet gelişimini gösteren ayırt edici yeşilimsi kahverengi ton",
+      "Lezzet: Dikkate değer aromatik karmaşıklığa sahip imza niteliğinde tatlı, anason benzeri profil",
+      "Aroma: Üstün kaliteyi hemen işaret eden taze, tatlı buket",
+      "İşlem: Eşsiz saflık için gelişmiş makine temizleme ve hassas sortex teknolojisi",
+      "Paketleme: Tam pazar gereksinimlerinize göre uyarlanmış özel paketleme çözümleri",
+      "Saflık: Uluslararası standartları aşan olağanüstü %99-99.5 garantili saflık seviyeleri",
+      "Nem: Raf ömrünü en üst düzeye çıkarmak ve uçucu bileşikleri korumak için bilimsel olarak %10'un altında kontrol edilir"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, ISO sertifikalı laboratuvar tesislerimizde kapsamlı analizlerden geçer ve en katı kalite ölçütlerine sarsılmaz bağlılığı sağlar.",
+      "Paketleme: Yalnızca premium gıda sınıfı, kurcalamaya dayanıklı ambalaj malzemeleri kullanılır, küresel tedarik zinciri boyunca ayırt edici tazeliği ve aromatik bütünlüğü korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel çiftlikten doğrudan tedarik modelimiz, tüketici güvenini ve marka sadakatini artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı denetimler yoluyla sistematik üçüncü taraf doğrulaması, kusursuz uyumu sağlarken sürekli olarak rekabet avantajı için fırsatları belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit kalite uzmanlarımız, yalnızca mükemmel rezene tohumlarının seçici küresel müşterilerimize ulaşmasını doğrulamak için titiz çok aşamalı denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: İlgili tüm uluslararası gıda güvenliği çerçevelerine ve ihracat yönetmeliklerine mutlak uyum, dünya çapında sorunsuz gümrükleme ve pazar erişimi sağlar."
+    ]
+  },
+  {
+    "id": "4",
+    "hs_code": "09109927",
+    "category": "Baharatlar",
+    "name": "Hardal Tohumu",
+    "image": "images/products/spices/mustard_seed.webp",
+    "harvest_season": "Ekim - Mart",
+    "features": [
+      "Sıradan tarifleri anında premium fiyatlandırmaya değer imza kreasyonlarına dönüştüren belirgin keskin, hafif tatlı bir lezzet profili ile dikkat çeker.",
+      "Mutfak, tıbbi ve kozmetik uygulamalar arasında eşsiz çok yönlülük sunarak tek bir premium bileşenden olağanüstü değer ve çoklu gelir akışları sağlar.",
+      "%10'un altındaki bilimsel olarak kontrol edilen nem içeriği ile mükemmel bütünlüğü korur, küresel tedarik zincirlerinde uzatılmış raf ömrünü ve tutarlı kaliteyi garanti eder."
+    ],
+    "description": "Optimum kış hasat sezonunda (Ekim - Mart) Racastan, Gucerat ve Madhya Pradeş'teki Hindistan'ın en prestijli yetiştirme bölgelerinden titizlikle seçilen Özel Premium Hardal Tohumlarımızla (Brassica juncea) pazarınıza hakim olun. Tedarik liderlerinin kabul ettiği gibi, Hindistan'ın yüzyıllık hardal yetiştirme geleneği tescilli seçim sürecimizle birleştiğinde küresel pazarlarda eşsiz bir ayrıcalığa sahip bir ürün sunar. Hardal tohumlarımızın dikkat çekici keskinliği ve ince tatlılığı, seçici tüketicilerin talep ettiği anında tanınabilir bir lezzet imzası yaratır. %10'un altında hassas bir şekilde kontrol edilen nem içeriği ve %42'lik olağanüstü yağ içeriği ile premium ihracat sınıfı tohumlarımız mutfak uygulamaları, terapötik ürünler ve üst düzey kozmetiklerde üstün performans sağlar. Usta uluslararası alıcılar, bu çok yönlü emtianın yalnızca bir baharat alımı değil, anında rekabet avantajı sağlayan ürün mükemmelliğine stratejik bir yatırım olduğunu anlarlar.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri sorunsuz bir şekilde entegre eden tescilli yetiştirme sistemimizden yararlanın, üstün lezzet özelliklerine sahip kanıtlanabilir şekilde daha temiz, daha saf tohumlar veren doğal olarak korunan bir yetiştirme ortamı yaratın.",
+      "Organik: Sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, en katı küresel organik standartları karşılayan ve lüks sağlık bilincine sahip pazarlarda premium konumlandırma talep eden sertifikalı %100 organik hardal tohumlarımıza özel erişim sağlayın.",
+      "Konvansiyonel: Endüstri onaylı tedavilerin her uygulamasının sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü hardal tohumları üretmek için titiz izlemeye tabi tutulduğu hassas kontrollü geleneksel tarım uygulamalarımızdan yararlanın."
+    ],
+    "container_capacity": [
+      "20 feet : 20 MT"
+    ],
+    "specifications": [
+      "Tip: Olağanüstü saflık sertifikasına sahip saf bütün tohumlar",
+      "Renk: Optimal olgunluğu işaret eden zengin kahverengiden koyu kahverengiye / canlı sarı çeşitleri mevcuttur",
+      "Lezzet: Mükemmel mutfak dengesi için ince tatlı notalara sahip seçkin keskin profil",
+      "Aroma: Premium kaliteyi hemen işaret eden taze, baskın varlık",
+      "İşlem: Eşsiz saflık için gelişmiş makine temizleme ve hassas sortex teknolojisi",
+      "Paketleme: Tam spesifikasyonlarınıza göre tasarlanmış özelleştirilebilir paketleme çözümleri",
+      "Saflık: Uluslararası standartları aşan olağanüstü %99-99.5 garantili saflık seviyeleri",
+      "Nem: Raf stabilitesini en üst düzeye çıkarmak için bilimsel olarak %10'un altında kontrol edilir",
+      "Yağ İçeriği: Üstün %42 yağ konsantrasyonu - sektör ortalamasının önemli ölçüde üzerinde - maksimum lezzet etkisi ve ekstraksiyon verimliliği sağlar"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, ISO sertifikalı laboratuvarımızda titiz çok parametreli analizlerden geçer ve sarsılmaz tutarlılık ve olağanüstü kalite sağlar.",
+      "Paketleme: Yalnızca premium gıda sınıfı, kurcalamaya dayanıklı, gelişmiş oksijen bariyerli malzemeler, küresel lojistik boyunca imza niteliğindeki tazeliği ve aromatik bütünlüğü korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan çiftlikten tedarik modelimiz, tüketici güvenini ve marka sadakatini artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı denetimler yoluyla sistematik üçüncü taraf doğrulaması, kusursuz uyumu sağlarken rekabet avantajı için sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit kalite uzmanlarımız, yalnızca mükemmel hardal tohumlarının seçici küresel müşterilerimize ulaşmasını doğrulamak için tescilli çok aşamalı denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği çerçevelerine ve ihracat yönetmeliklerine mutlak uyum, dünya çapında sorunsuz gümrükleme ve anında pazar erişimi sağlar."
+    ]
+  },
+  {
+    "id": "5",
+    "hs_code": "0910",
+    "category": "Baharatlar",
+    "name": "Parmak Zerdeçal",
+    "image": "images/products/spices/turmeric.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Sağlık bilincine sahip tüketicilerin talep ettiği üstün renk, lezzet ve kanıtlanmış anti-inflamatuar faydalar sağlayan olağanüstü kurkumin içeriği (%3-5) sunar - pazar ortalamasının önemli ölçüde üzerindedir.",
+      "Yalnızca premium Hint zerdeçalında bulunan tescilli biyoaktif bileşikler aracılığıyla iltihabı ortadan kaldırır, sağlık odaklı pazarlarda anında rekabet avantajı sunar.",
+      "Oksidatif strese karşı ölçülebilir koruma sağlayan güçlü antioksidan özelliklerle hücreleri korur, sağlık odaklı ürün gruplarında premium konumlandırma için fırsatlar yaratır.",
+      "Mutfak, tıbbi ve kozmetik uygulamalar arasında üstünlük gösterir, tek bir premium bileşen yatırımından benzersiz çok yönlülük ve çoklu gelir akışları sunar."
+    ],
+    "description": "Hindistan'ın en uygun muson sezonunda (Haziran - Eylül) ülkenin en saygın yetiştirme bölgeleri olan Tamil Nadu, Andhra Pradeş ve Maharaştra'dan en yüksek potansta hasat edilen Özel Premium Parmak Zerdeçalımızla (Curcuma longa) pazar liderliğini ele geçirin. Seçici tedarik uzmanları, 4.000 yıllık yetiştirme mirasımızın en son tarım teknikleriyle birleştiğinde küresel pazarlarda eşsiz bir ayrıcalığa sahip bir zerdeçal sunduğunu kabul etmektedir. Canlı sarı-turuncu renk tonu anında üstün kaliteyi işaret ederken, sektör standardının önemli ölçüde üzerinde olan olağanüstü %3-5 kurkumin içeriği, ürün etkinliğinde ölçülebilir avantaj sağlar. Bu stratejik emtia, mutfak uygulamaları, terapötik formülasyonlar ve premium kozmetikler arasında üstünlük göstererek yenilikçi markaların otantik, etkili zerdeçal ürünlerine yönelik artan tüketici talebini yakalamasına olanak tanır. Rekabetçi farklılaşma arayan uluslararası alıcılar, zerdeçalımızın yalnızca bir baharat alımı değil, tüm ürün gruplarını premium kategori statüsüne yükselten dönüştürücü bir bileşen olduğunu kabul etmektedir.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri mükemmel bir şekilde dengeleyen devrim niteliğindeki yetiştirme sistemimize özel erişim sağlayın, en yüksek uluslararası standartları karşılayan kanıtlanabilir şekilde daha temiz, daha güçlü zerdeçal elde edin.",
+      "Organik: Sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, en katı küresel organik sertifikaları karşılayan ve lüks sağlık pazarlarında premium konumlandırma talep eden sertifikalı %100 organik parmak zerdeçalımızdan yararlanın.",
+      "Konvansiyonel: Onaylanmış tedavilerin her uygulamasının sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü zerdeçal üretmek için titiz izlemeye tabi tutulduğu hassas kontrollü geleneksel çiftçiliğimizden yararlanın, bu da marka güvenilirliğini artırır."
+    ],
+    "container_capacity": [
+      "20 ft : 18 MT",
+      "40 ft : 36 MT"
+    ],
+    "specifications": [
+      "Tip: Garantili potansa sahip premium parmak sınıfı zerdeçal",
+      "Renk: En yüksek kurkumin içeriğini ve optimal olgunluğu işaret eden canlı sarı-turuncu renk tonu",
+      "Şekil: İdeal pişirme ve işleme özelliklerine sahip mükemmel parmak oluşumu",
+      "Boyut: Tutarlı ticari uygulama için tek tip 2-4 inç (5-10 cm)",
+      "Lezzet: Ayırt edici aromatik karmaşıklığa sahip baskın keskin, topraksı profil",
+      "Aroma: Üstün kaliteyi hemen işaret eden taze, topraksı buket",
+      "İşlem: Hedeflenen pazar gereksinimleri için çift/tek cila teknolojisi seçeneği ile gelişmiş makine kurutma",
+      "Paketleme: Tam spesifikasyonlarınıza göre uyarlanmış özel paketleme çözümleri",
+      "Kurkumin İçeriği: Olağanüstü %3-5 konsantrasyon - pazar ortalamasının önemli ölçüde üzerinde",
+      "Nem: Uzatılmış raf stabilitesini garanti etmek için bilimsel olarak %10'un altında kontrol edilir"
+    ],
+    "variety": [
+      "Nizamabad: Dünya çapında premium baharat markaları tarafından aranan olağanüstü potansiyeli ve ayırt edici keskin lezzet profili ile ünlü özel yüksek kurkuminli çeşit.",
+      "Salem: Otantik Hint kökenini hemen işaret eden olağanüstü parlak sarı-turuncu rengi ve karmaşık topraksı aromasıyla kutlanan efsanevi çeşit.",
+      "Rajapuri: Premium baharat karışımlarında ve formülasyonlarında imza notaları yaratan benzersiz tatlı-keskin lezzet dengesi için ödüllendirilen prestijli Maharaştra çeşidi.",
+      "Assam Hibrit: Mutfak uygulamalarında anında etki sağlayan cesur, topraksı lezzet yoğunluğuna sahip Hindistan'ın kuzeydoğusundan yüksek verimli özel çeşit.",
+      "Ladkong: Emtia zerdeçalında bulunmayan olağanüstü yüksek kurkumin içeriği ve ayırt edici lezzet bileşikleri ile nadir Meghalaya çeşidi, gerçek ürün farklılaşması sunar."
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, ISO sertifikalı laboratuvarımızda kapsamlı kurkumin analizi ve kirletici taramasından geçer ve olağanüstü potens ve saflık sağlar.",
+      "Paketleme: Yalnızca premium gıda sınıfı, ışığa karşı koruyucu ambalaj malzemeleri kullanılır, küresel tedarik zinciri boyunca canlı rengi ve biyoaktif bileşikleri korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan çiftlikten tedarik modelimiz, vicdanlı tüketicilerle rezonansa giren sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı denetimler yoluyla sistematik üçüncü taraf doğrulaması, kusursuz uyumu sağlarken sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit kalite uzmanlarımız, yalnızca mükemmel zerdeçalın seçici küresel müşterilerimize ulaşmasını doğrulamak için gelişmiş kolorimetrik analiz kullanarak tescilli denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: Kirleticiler için katı testler de dahil olmak üzere ilgili tüm uluslararası gıda güvenliği çerçevelerine mutlak uyum, dünya çapında sorunsuz düzenleyici onay sağlar."
+    ]
+  },
+  {
+    "id": "6",
+    "hs_code": "09109913",
+    "category": "Baharatlar",
+    "name": "Dereotu Tohumu",
+    "image": "images/products/spices/dill_seed.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Her uygulamada maksimum lezzet etkisi ve terapötik potens sağlayan olağanüstü uçucu yağ içeriği (%3-4) sunar - sektör standardının oldukça üzerindedir.",
+      "Mutfak kreasyonlarını anında yükselten ve premium ürünleri sıradan alternatiflerden ayıran ayırt edici taze, narenciye benzeri bir lezzet profili ile duyuları büyüler.",
+      "Gastrointestinal rahatsızlığı hızla yatıştıran güçlü doğal bileşikler aracılığıyla sindirim rahatsızlığını ortadan kaldırır, sağlık odaklı tüketiciler için anında değer sağlar.",
+      "Mutfak, turşu ve terapötik uygulamalar arasında üstünlük gösterir, tek bir premium bileşenden benzeri görülmemiş çok yönlülük ve çoklu gelir akışları sunar."
+    ],
+    "description": "Hindistan'ın en uygun yaz sezonunda (Haziran - Eylül) ülkenin en prestijli yetiştirme bölgeleri olan Gucerat, Maharaştra ve Madhya Pradeş'ten titizlikle hasat edilen Özel Premium Dereotu Tohumlarımızla yadsınamaz pazar avantajı sağlayın. Seçici tedarik uzmanları, 3.000 yıllık yetiştirme mirasımızın tescilli tarım yöntemleriyle birleştiğinde küresel pazarlarda eşsiz bir ayrıcalığa sahip bir dereotu tohumu sunduğunu kabul etmektedir. Sektör ortalamasının önemli ölçüde üzerinde olan olağanüstü %3-4 uçucu yağ içeriği, seçici tüketicilerin talep ettiği anında duyusal etki ve terapötik etkinlik sağlar. Bu stratejik yatırım, mutfak uygulamaları, zanaatkar turşuları ve terapötik formülasyonlar arasında sıradan ürünleri premium tekliflere dönüştüren otantik taze, narenciye benzeri bir lezzet profili sunar. İleri görüşlü uluslararası alıcılar, premium dereotu tohumlarımızın yalnızca bir baharat alımı değil, giderek kalabalıklaşan pazar kategorilerinde anında rekabetçi farklılaşma sağlayan dönüştürücü bir bileşen olduğunu anlarlar.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri mükemmel bir şekilde entegre eden devrim niteliğindeki yetiştirme sistemimizden yararlanın, kanıtlanabilir şekilde daha temiz, daha aromatik tohumlar veren doğal olarak korunan bir yetiştirme ortamı yaratın.",
+      "Organik: Sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, en katı küresel organik standartları karşılayan ve lüks sağlık bilincine sahip pazarlarda premium konumlandırma talep eden sertifikalı %100 organik dereotu tohumlarımıza özel erişim sağlayın.",
+      "Konvansiyonel: Endüstri onaylı tedavilerin her uygulamasının sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü dereotu tohumları üretmek için titiz izlemeye tabi tutulduğu hassas kontrollü geleneksel tarım uygulamalarımızdan yararlanın."
+    ],
+    "container_capacity": [
+      "20 ft : 13 MT",
+      "40 ft : 27 MT"
+    ],
+    "specifications": [
+      "Tip: Garantili potens ve saflığa sahip premium bütün dereotu tohumları",
+      "Renk: Optimal olgunluğu işaret eden zengin kahverengiden ayırt edici yeşilimsi kahverengi tona",
+      "Şekil: İdeal lezzet dağılımı ile mükemmel biçimli küçük, düzensiz tohumlar",
+      "Boyut: Tutarlı mutfak performansı için hassas 0.5-1 mm (0.02-0.04 inç) kalibrasyon",
+      "Lezzet: Karmaşık aromatik notalara sahip baskın taze, narenciye profili",
+      "Aroma: Üstün kaliteyi hemen işaret eden hafif, hafif tatlı buket",
+      "İşlem: Eşsiz saflık için gelişmiş makine temizleme ve hassas ayıklama teknolojisi",
+      "Paketleme: Tam pazar gereksinimlerinize göre uyarlanmış özel paketleme çözümleri",
+      "Nem: Raf stabilitesini en üst düzeye çıkarmak ve uçucu bileşikleri korumak için bilimsel olarak %10'un altında kontrol edilir",
+      "Uçucu Yağ İçeriği: Olağanüstü %3-4 konsantrasyon - pazar ortalamasının önemli ölçüde üzerinde"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, ISO sertifikalı laboratuvar tesislerimizde kapsamlı uçucu yağ analizinden geçer ve olağanüstü aromatik potens ve saflık profilleri sağlar.",
+      "Paketleme: Yalnızca premium gıda sınıfı, aroma kilitlemeli ambalaj malzemeleri kullanılır, küresel tedarik zinciri boyunca ayırt edici tazeliği ve uçucu bileşikleri korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel çiftlikten doğrudan tedarik modelimiz, tüketici güvenini ve marka sadakatini artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı denetimler yoluyla sistematik üçüncü taraf doğrulaması, kusursuz uyumu sağlarken rekabet avantajı için sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit kalite uzmanlarımız, yalnızca mükemmel dereotu tohumlarının seçici küresel müşterilerimize ulaşmasını doğrulamak için tescilli çok aşamalı denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: İlgili tüm uluslararası gıda güvenliği çerçevelerine ve ihracat yönetmeliklerine mutlak uyum, dünya çapında sorunsuz gümrükleme ve anında pazar erişimi sağlar."
+    ]
+  },
+  {
+    "id": "7",
+    "hs_code": "0904",
+    "category": "Baharatlar",
+    "name": "Kırmızı Biber",
+    "image": "images/products/spices/chilli.webp",
+    "harvest_season": "Mart - Haziran",
+    "features": [
+      "Temiz etiketli içeriklere yönelik artan tüketici talebini karşılayarak yapay katkı maddelerine olan ihtiyacı ortadan kaldıran canlı doğal renklendirme ile ürünleri dönüştürür.",
+      "Hem belirgin lezzet etkisi hem de kanıtlanmış fizyolojik faydalar sağlayan güçlü kapsaisin içeriği sunarak çoklu pazarlama avantajları yaratır.",
+      "Besin profillerini artıran ve güçlü antioksidan iddialarını destekleyen olağanüstü C Vitamini seviyeleri ile formülasyonları zenginleştirir.",
+      "Çeşitli ürün geliştirme ihtiyaçlarını karşılayan tek bir premium bileşen sağlayarak küresel mutfak uygulamaları arasında eşsiz mutfak çok yönlülüğü sunar."
+    ],
+    "description": "Hindistan'ın en uygun yaz sezonunda (Mart - Haziran) ülkenin en prestijli yetiştirme bölgeleri olan Andhra Pradeş, Telangana ve Karnataka'dan en yüksek renk yoğunluğunda hasat edilen Özel Premium Kuru Kırmızı Biberimizle rekabetçi pazarlara hakim olun. Stratejik tedarik uzmanları, 2.000 yıllık yetiştirme mirasımızın tescilli seçim yöntemleriyle birleştiğinde küresel pazarlarda eşsiz bir ayrıcalığa sahip bir biber sunduğunu kabul etmektedir. Baskın canlı kırmızı renklendirme anında üstün kaliteyi işaret ederken, 30.000-50.000'lik olağanüstü SHU derecesi, ürün etkisi ve etkinliğinde ölçülebilir avantaj sağlar. Bu premium emtia, mutfak uygulamaları, baharat karışımları ve renk açısından kritik formülasyonlar arasında üstünlük göstererek yenilikçi markaların otantik karakterli imza ürünleri yaratmasına olanak tanır. İleri görüşlü uluslararası alıcılar, premium biberlerimizin yalnızca bir baharat alımı değil, giderek daha rekabetçi hale gelen pazar kategorilerinde anında görsel ve duyusal farklılaşma sağlayan dönüştürücü bir bileşen olduğunu anlarlar.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri uyumlu bir şekilde entegre eden devrim niteliğindeki yetiştirme sistemimize özel erişim sağlayın, üstün renk tutma özelliklerine sahip kanıtlanabilir şekilde daha temiz, daha canlı biberler elde edin.",
+      "Organik: Sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, en katı küresel organik standartları karşılayan ve temiz etiketli pazar segmentlerinde premium konumlandırma talep eden sertifikalı %100 organik kırmızı biberlerimizden yararlanın.",
+      "Konvansiyonel: Endüstri onaylı tedavilerin her uygulamasının sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü biberler üretmek için titiz izlemeye tabi tutulduğu hassas kontrollü geleneksel tarım uygulamalarımızdan yararlanın."
+    ],
+    "container_capacity": [
+      "20 ft : 6.5 MT",
+      "40 ft : 13 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Üstün sunum ve işleme performansı için olağanüstü renk ve yapısal bütünlüğe sahip premium bütün kurutulmuş biberler.",
+      "- Tip: Doğrulanmış özgünlüğe sahip titizlikle seçilmiş bütün kurutulmuş biberler",
+      "- Renk: 150-200'lük olağanüstü ASTA değeri ile baskın canlı kırmızı ton",
+      "- Şekil: Görsel çekicilik için ideal, mükemmel biçimli uzun, kavisli yapı",
+      "- Boyut: Tutarlı pişirme ve işleme sonuçları sağlayan tek tip 7-10 cm uzunluk",
+      "- Renk Asta: Üstün 150-200 derecelendirme - pazar ortalamasının önemli ölçüde üzerinde",
+      "Lezzet ve Aroma: Premium ürünleri sıradan alternatiflerden hemen ayıran ayırt edici duyusal profil.",
+      "- Lezzet: İmza niteliğinde tat deneyimleri yaratan karmaşık derinliğe sahip yoğun ateşli",
+      "- Aroma: Otantik kaliteyi işaret eden ince tatlı notalara sahip keskin",
+      "İşleme ve Paketleme: Maksimum renk, lezzet ve gücü koruyan gelişmiş taşıma protokolleri.",
+      "- İşlem: Renk tutulumunu en üst düzeye çıkarmak için sıcaklık kontrollü protokollerle hassas makine kurutma",
+      "- Paketleme: Tam spesifikasyonlarınıza göre tasarlanmış özel paketleme çözümleri",
+      "Kalite Standartları: Tutarlı performansı garanti eden temel kalite belirteçlerinin bilimsel doğrulaması.",
+      "- Nem: Uzatılmış renk stabilitesini garanti etmek için bilimsel olarak %10'un altında kontrol edilir",
+      "- Scoville Isı Birimi (SHU): Güçlü etki için olağanüstü 30.000-50.000 derecelendirme"
+    ],
+    "variety": [
+      "Sannam: Premium formülasyonlarda imza etkisi yaratan yoğun lezzet karmaşıklığı ve ayırt edici aromatik profili ile dünya çapında tanınan Andhra Pradeş'ten prestijli çeşit.",
+      "Byadgi: Aşırı ısı olmadan görsel etki sağlayan benzersiz hafif lezzet dengesi ve olağanüstü canlı kırmızı renklendirmesi için ödüllendirilen özel Karnataka çeşidi.",
+      "Warangal: Baharat karışımlarında anında etki sağlayan cesur lezzet yoğunluğu ve baskın aromatik varlığa sahip Telangana'dan yüksek verimli özel çeşit.",
+      "Kashmiri: Görsel etkiyi nazik ısı seviyeleriyle mükemmel bir şekilde dengeleyen olağanüstü parlak kırmızı rengi ve ince tatlı lezzeti ile kutlanan efsanevi hafif çeşit."
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, ISO sertifikalı laboratuvar tesislerimizde kapsamlı renk analizi ve ısı profillemesinden geçer ve hem görsel hem de duyusal özelliklerde olağanüstü tutarlılık sağlar.",
+      "Paketleme: Yalnızca premium ışığa karşı koruyucu, yüksek bariyerli ambalaj malzemeleri kullanılır, uzatılmış küresel tedarik zincirleri boyunca canlı rengi ve aromatik bileşikleri korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan çiftlikten tedarik modelimiz, günümüzün vicdanlı tüketicileriyle rezonansa giren sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı denetimler yoluyla sistematik üçüncü taraf doğrulaması, kusursuz uyumu sağlarken rekabet avantajı için sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit renk uzmanlarımız, yalnızca mükemmel biberlerin seçici küresel müşterilerimize ulaşmasını doğrulamak için gelişmiş kolorimetrik analiz kullanarak tescilli denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: Kirleticiler için katı testler de dahil olmak üzere ilgili tüm uluslararası gıda güvenliği çerçevelerine mutlak uyum, her hedef pazarda sorunsuz düzenleyici onay sağlar."
+    ]
+  },
+  {
+    "id": "8",
+    "hs_code": "120740",
+    "category": "Baharatlar",
+    "name": "Susam Tohumu",
+    "image": "images/products/spices/sesame.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Maksimum ekonomik değer için üstün lezzet salınımı ve ekstraksiyon verimliliği sağlayan olağanüstü yağ içeriğine (%50-60) sahiptir - pazar ortalamasının önemli ölçüde üzerindedir.",
+      "Sıradan ürünleri seçici küresel tüketiciler tarafından aranan premium mutfak deneyimlerine dönüştüren ayırt edici fındıksı bir lezzet profili ile büyüler.",
+      "Hem tatlı hem de tuzlu uygulamalarda ürünün ağız hissini yükselten ve unutulmaz duyusal deneyimler yaratan imza niteliğindeki çıtırlığı ile mükemmel dokusal kontrast sağlar.",
+      "Organik yetiştirme ve GDO'suz statüsü için çift sertifika ile otantik saflığı garanti eder, premium uluslararası pazarlar için kritik gereklilikleri karşılar."
+    ],
+    "description": "Hindistan'ın en uygun yaz sezonunda (Haziran - Eylül) ülkenin en prestijli yetiştirme bölgeleri olan Gucerat, Maharaştra ve Madhya Pradeş'ten titizlikle hasat edilen Özel Premium Susam Tohumlarımızla belirleyici pazar avantajı sağlayın. Stratejik tedarik uzmanları, 3.000 yıllık yetiştirme mirasımızın tescilli seçim yöntemleriyle birleştiğinde küresel pazarlarda eşsiz bir ayrıcalığa sahip bir susam tohumu sunduğunu kabul etmektedir. Sektör standardının önemli ölçüde üzerinde olan olağanüstü %50-60 yağ içeriği, hem mutfak uygulamalarında hem de yağ ekstraksiyon verimliliğinde ölçülebilir ekonomik avantaj sağlar. Bu stratejik emtia, fırıncılık, yemek pişirme ve yağ üretimi kategorilerinde üstünlük göstererek yenilikçi markaların kanıtlanmış sağlık yararları ile otantik, premium kaliteli tohumlara yönelik artan tüketici talebini yakalamasına olanak tanır. İleri görüşlü uluslararası alıcılar, susam tohumlarımızın yalnızca bir emtia alımı değil, giderek daha rekabetçi hale gelen pazar kategorilerinde anında duyusal ve besinsel farklılaşma sağlayan dönüştürücü bir bileşen olduğunu anlarlar.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Fiziksel, kültürel, biyolojik ve kimyasal kontrolleri mükemmel bir şekilde entegre eden devrim niteliğindeki yetiştirme sistemimizden yararlanın, üstün lezzet gelişimi ile kanıtlanabilir şekilde daha temiz, daha yağlı tohumlar elde edin.",
+      "Organik: Sentetik kimyasallardan tamamen arındırılmış bozulmamış ortamlarda yetiştirilen, sağlık bilincine sahip pazarlarda premium konumlandırma için en katı uluslararası organik standartları karşılayan sertifikalı %100 organik susam tohumlarımıza özel erişim sağlayın.",
+      "Konvansiyonel: Endüstri onaylı tedavilerin her uygulamasının sorumlu çevresel yönetimi sürdürürken sürekli olarak olağanüstü susam tohumları üretmek için titiz izlemeye tabi tutulduğu hassas kontrollü geleneksel tarım uygulamalarımızdan yararlanın."
+    ],
+    "container_capacity": [
+      "20 ft: 19 MT",
+      "40 ft: 38 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Üstün ürün performansı ve görsel çekiciliği sağlamak için olağanüstü yapısal bütünlüğe ve doğrulanmış özgünlüğe sahip premium bütün susam tohumları.",
+      "Tip: Doğrulanmış tek biçimliliğe sahip mükemmel bütün tohumlar, Renk: Krem beyazı veya ayırt edici siyah çeşitlerden birini seçin, Şekil: Tutarlı pişirme performansı için ideal oval oluşum, Boyut: Güvenilir uygulama için hassas 2-3 mm (0.08-0.12 inç) kalibrasyon",
+      "Lezzet ve Aroma: Ürünleri sıradan alternatiflerin ötesine hemen yükselten ayırt edici duyusal profil.",
+      "Lezzet: Karmaşık derinliğe sahip zengin fındıksı karakter, Aroma: Premium kaliteyi işaret eden hafif, hafif tatlı buket",
+      "İşleme ve Paketleme: Maksimum lezzet ve besin bütünlüğünü koruyan gelişmiş taşıma protokolleri.",
+      "İşlem: Hassas makine temizleme ve çok aşamalı ayıklama teknolojisi, Paketleme: Tam spesifikasyonlarınıza göre uyarlanmış özel paketleme çözümleri",
+      "Kalite Standartları: Tutarlı performansı garanti eden temel kalite belirteçlerinin bilimsel doğrulaması.",
+      "Nem: Uzatılmış raf stabilitesi için sektör standardından daha iyi - %5'in altında sıkı bir şekilde kontrol edilir, Yağ İçeriği: Üstün ekstraksiyon verimliliği ve lezzet etkisi için olağanüstü %50-60 konsantrasyon"
+    ],
+    "variety": [
+      "Siyah Susam: Premium uygulamalarda dramatik görsel ve tat kontrastı yaratan ayırt edici siyah renklendirmesi ve benzersiz tatlı lezzet profili ile ünlü özel Maharaştra çeşidi.",
+      "Beyaz/Kabuklu Susam: Dış kabuğu çıkarmak için titizlikle işlenmiş premium tohumlar, görünür garnitürler ve hassas uygulamalar için ideal mükemmel krem beyazı rengi ve saf fındıksı lezzeti ortaya çıkarır.",
+      "Doğal Susam: Rustik çekiciliğe sahip otantik zanaatkar ürünleri için mükemmel ayırt edici doğal rengi ve sağlam fındıksı karakteri sunan, sağlam dış kabuklu özel olarak korunmuş tohumlar."
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, ISO sertifikalı laboratuvar tesislerimizde kapsamlı yağ içeriği analizinden geçer ve hem besin değeri hem de duyusal özelliklerde olağanüstü tutarlılık sağlar.",
+      "Paketleme: Yalnızca premium oksijen bariyerli, neme karşı koruyucu ambalaj malzemeleri kullanılır, uzatılmış küresel tedarik zincirleri boyunca ayırt edici tazeliği korur ve ransiditeyi önler.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan çiftlikten tedarik modelimiz, tüketici güvenini artıran ve marka itibarını artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı denetimler yoluyla sistematik üçüncü taraf doğrulaması, kusursuz uyumu sağlarken rekabet avantajı için sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Elit tohum uzmanlarımız, yalnızca mükemmel susam tohumlarının seçici küresel müşterilerimize ulaşmasını doğrulamak için gelişmiş görüntü analizi kullanarak tescilli çok aşamalı denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: Katı alerjen protokolleri de dahil olmak üzere ilgili tüm uluslararası gıda güvenliği çerçevelerine mutlak uyum, en zorlu pazarlarda bile sorunsuz düzenleyici onay sağlar."
+    ]
+  },
+  {
+    "id": "9",
+    "hs_code": "12119032",
+    "category": "Baharatlar",
+    "name": "Karnıyarık Otu Kabuğu",
+    "image": "images/products/spices/psyllium_husk.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Fonksiyonel içeriklere yönelik patlayan tüketici talebini karşılayarak anında rahatlama ve uzun süreli bağırsak biyomu iyileştirmesi yaratan güçlü doğal lif yoluyla sindirim sağlığında devrim yaratır.",
+      "Hızla büyüyen diyabet yönetimi pazarını hedefleyen ürünler için ikna edici fonksiyonel iddialar sağlayan bilimsel olarak doğrulanmış düzenleyici özelliklerle kan şekeri seviyelerini stabilize eder.",
+      "Giderek artan sağlık bilincine sahip tüketicilerle rezonansa giren güçlü kalp sağlığı konumlandırmasını sağlayan belgelenmiş bağlanma mekanizmaları yoluyla kolesterolü önemli ölçüde azaltır.",
+      "Gelişen kilo kontrolü ürün kategorisinde anında rekabet avantajı yaratan tescilli tokluk artırıcı özellikler aracılığıyla kilo yönetimi sonuçlarını hızlandırır."
+    ],
+    "description": "Hindistan'ın en uygun yaz sezonunda (Haziran - Eylül) ülkenin en ünlü yetiştirme bölgeleri olan Gucerat, Maharaştra ve Madhya Pradeş'ten stratejik olarak hasat edilen Özel Premium Karnıyarık Otu Kabuğumuzla yüksek büyüme gösteren fonksiyonel pazarlara hakim olun. Seçici tedarik uzmanları, Hindistan'ın Plantago ovata yetiştiriciliğindeki küresel liderliğinin tescilli işleme yöntemlerimizle birleştiğinde uluslararası pazarlarda benzersiz etkinlikte bir karnıyarık otu kabuğu sunduğunu kabul etmektedir. Sektör standardının önemli ölçüde üzerinde olan olağanüstü %80-85 lif içeriği, fonksiyonel gıda uygulamaları, farmasötik formülasyonlar ve premium kozmetiklerde ölçülebilir avantaj sağlar. Bu stratejik bileşen, klinik olarak kanıtlanmış sindirim sağlığı çözümleri, kan şekeri yönetimi, kolesterol azaltma ve kilo kontrolü özelliklerine yönelik patlayan küresel talebi karşılar. İleri görüşlü uluslararası alıcılar, premium karnıyarık otu kabuğumuzun yalnızca bir fonksiyonel bileşen alımı değil, günümüzün en kârlı sağlık ürünü kategorilerinde anında rekabetçi farklılaşma sağlayan dönüştürücü bir çözüm olduğunu anlarlar.",
+    "quality_options": [
+      "Sektör standardının önemli ölçüde üzerinde olan %80-85 lif içeriğinin olağanüstü gücünden yararlanın - üstün fonksiyonel performans sunar ve azaltılmış kullanım oranlarına ve daha yüksek kar marjlarına olanak tanır.",
+      "En zorlu uygulamalarınızda bozulmamış görünüm ve öngörülebilir performans sağlayan tüm safsızlıkları ortadan kaldıran hassas makine temizleme ve çok aşamalı ayıklama teknolojimizden yararlanın.",
+      "Uzatılmış küresel tedarik zincirleri boyunca mükemmel ürün bütünlüğünü koruyan gelişmiş nem bariyerlerine sahip premium gıda sınıfı ambalaj sistemlerimize güvenin.",
+      "En katı uluslararası gıda güvenliği yönetmeliklerine kapsamlı uyumumuza güvenin, en sıkı düzenlemelere tabi küresel pazarlara bile sorunsuz giriş sağlayın."
+    ],
+    "container_capacity": [
+      "20 ft : 9 MT",
+      "40 ft : 18 MT"
+    ],
+    "specifications": [
+      "Tip: Garantili fonksiyonel etkinliğe sahip saf bütün karnıyarık otu kabuğu",
+      "Renk: Optimal işlemeyi gösteren mükemmel açık kahverengiden kirli beyaza renk tonu",
+      "Şekil: Mükemmel dağılım için ideal olarak oluşturulmuş küçük, düzensiz parçacıklar",
+      "Boyut: Tutarlı performans için hassas 1-2 mm (0.04-0.08 inç) kalibrasyon",
+      "Lezzet: Herhangi bir formülasyonla sorunsuz bir şekilde bütünleşen mükemmel nötr profil",
+      "Aroma: Yan notalar veya kusurlar içermeyen hafif, hafif tatlı buket",
+      "İşlem: Gelişmiş makine temizleme ve çok aşamalı ayıklama teknolojisi",
+      "Paketleme: Tam spesifikasyonlarınıza göre uyarlanmış özel paketleme çözümleri",
+      "Lif İçeriği: Olağanüstü %80-85 konsantrasyon - pazar ortalamasının önemli ölçüde üzerinde",
+      "Nem: Fonksiyonel stabiliteyi garanti etmek için bilimsel olarak %10'un altında kontrol edilir"
+    ],
+    "variety": [
+      "Doğrulanmış saflık ve fonksiyonel performansa sahip premium bütün karnıyarık otu kabuğu"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, son teknoloji laboratuvar tesislerimizde kapsamlı lif analizinden geçer ve fonksiyonel performansta olağanüstü tutarlılık sağlar.",
+      "Paketleme: Yalnızca premium nem bariyerli, ışığa karşı koruyucu ambalaj malzemeleri kullanılır, uzatılmış küresel dağıtım kanalları boyunca fonksiyonel bütünlüğü korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan tedarik modelimiz, tüketici güvenini artıran ve marka güvenilirliğini artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı üçüncü taraf denetimleri yoluyla sistematik kalite doğrulaması, kusursuz uyumu sağlarken sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Uzmanlaşmış fonksiyonel bileşen uzmanlarımız, yalnızca mükemmel karnıyarık otu kabuğunun seçici küresel müşterilerimize ulaşmasını doğrulamak için titiz denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: İlgili tüm uluslararası diyet lifi yönetmeliklerine ve etiketleme gerekliliklerine mutlak uyum, dünya çapında sorunsuz pazar erişimi sağlar."
+    ]
+  },
+  {
+    "id": "10",
+    "hs_code": "09093119",
+    "category": "Baharatlar",
+    "name": "Çörek Otu (Kalonji)",
+    "image": "images/products/spices/black_cumin.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Fonksiyonel sağlık içeriklerine yönelik patlayan talebi karşılayarak doğal savunma mekanizmalarını artıran güçlü biyoaktif bileşikler yoluyla bağışıklık tepkisini güçlendirir.",
+      "Premium sağlık ürünleri için ikna edici fonksiyonel iddialar sağlayan temel inflamatuar belirteçlerin bilimsel olarak doğrulanmış modülasyonu yoluyla iltihabı ortadan kaldırır.",
+      "Bağırsak dengesini geri kazandıran ve besin emilimini artıran doğal bileşiklerle sindirim fonksiyonunu optimize eder, ölçülebilir tüketici faydaları sağlar.",
+      "Çevresel stres faktörlerine karşı kanıtlanabilir koruma sağlayan olağanüstü antioksidan kapasitesi ile hücreleri korur, güçlü pazarlama avantajları yaratır."
+    ],
+    "description": "Hindistan'ın en uygun büyüme sezonunda (Ekim - Şubat) ülkenin en prestijli yetiştirme bölgeleri olan Gucerat, Maharaştra ve Madhya Pradeş'ten stratejik olarak hasat edilen Özel Çörek Otumuz (Kalonji) ile premium konumlandırmaya hakim olun. Seçici tedarik uzmanları, Nigella sativa tohumlarımızın yüzyıllarca süren seçici yetiştirme ile tescilli işleme yöntemlerinin birleşimi yoluyla uluslararası pazarlarda benzersiz bir potens sunduğunu kabul etmektedir. Sektör standardının önemli ölçüde üzerinde olan olağanüstü %30-40 yağ içeriği, mutfak uygulamaları, tıbbi formülasyonlar ve premium kozmetikler arasında terapötik potens ve lezzet etkisinde ölçülebilir avantaj sağlar. Bu stratejik bileşen, doğal ürün formülasyonlarında klinik olarak kanıtlanmış anti-inflamatuar, antioksidan ve antibakteriyel özelliklere yönelik patlayan küresel talebi karşılar. İleri görüşlü uluslararası alıcılar, premium çörek otumuzun yalnızca bir baharat alımı değil, günümüzün en rekabetçi sağlık odaklı kategorilerinde anında farklılaşma sağlayan dönüştürücü bir sağlık bileşeni olduğunu anlarlar.",
+    "quality_options": [
+      "IPM: Ekolojik yaklaşımları minimum müdahale ile uyumlu bir şekilde dengeleyen devrim niteliğindeki Entegre Zararlı Yönetimi yetiştirme sistemimize özel erişim sağlayın, üstün biyoaktif profillere sahip kanıtlanabilir şekilde daha temiz, daha güçlü tohumlar elde edin.",
+      "Organik: Tüm sentetik kimyasal girdileri ortadan kaldıran, en katı uluslararası sertifikasyon standartlarını karşılayan saf, tavizsiz bir bileşen yaratan sertifikalı %100 organik uygulamalarımızdan yararlanın.",
+      "Konvansiyonel: Onaylanmış tedavilerin dikkatle izlenen uygulaması ile hassas kontrollü geleneksel çiftçiliğimizden yararlanın, sorumlu tarımsal yönetimi sürdürürken sürekli olarak olağanüstü çörek otu üretin, bu da marka güvenilirliğini artırır."
+    ],
+    "container_capacity": [
+      "20 ft : 14 MT",
+      "40 ft : 27 MT"
+    ],
+    "specifications": [
+      "Tip: Garantili potens ve saflığa sahip premium bütün çörek otu tohumları",
+      "Renk: Optimal olgunluğu ve yağ içeriğini gösteren derin, parlak siyah renklendirme",
+      "Şekil: İdeal lezzet dağılımı ile mükemmel biçimli küçük, düzensiz tohumlar",
+      "Boyut: Tutarlı performans için hassas 1-2 mm (0.04-0.08 inç) kalibrasyon",
+      "Lezzet: Mükemmel dengelenmiş acı notalara sahip ayırt edici fındıksı profil",
+      "Aroma: Otantik kaliteyi işaret eden baskın keskin, topraksı buket",
+      "İşlem: Gelişmiş çok aşamalı temizleme ve hassas ayıklama teknolojisi",
+      "Paketleme: Tam gereksinimlerinize göre uyarlanmış özel paketleme çözümleri",
+      "Nem: Biyoaktif stabiliteyi en üst düzeye çıkarmak için bilimsel olarak %10'un altında kontrol edilir",
+      "Yağ İçeriği: Üstün terapötik etkinlik için olağanüstü %30-40 konsantrasyon"
+    ],
+    "variety": [
+      "Doğrulanmış potens ve onaylanmış botanik kökene sahip premium Nigella sativa"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, son teknoloji laboratuvarımızda kapsamlı biyoaktif profillemeden geçer ve olağanüstü potens ve terapötik tutarlılık sağlar.",
+      "Paketleme: Yalnızca premium oksijen bariyerli, ışığa karşı koruyucu malzemeler kullanılır, uzatılmış küresel tedarik zincirleri boyunca kritik biyoaktif bileşikleri korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan tedarik modelimiz, vicdanlı pazarlarda marka güvenini artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı üçüncü taraf değerlendirmeleri yoluyla sistematik doğrulama, kusursuz uyumu sağlarken sürekli iyileştirme fırsatlarını belirler.",
+      "Eğitimli Kalite Kontrol Ekibi: Uzmanlaşmış botanik uzmanlarımız, yalnızca mükemmel çörek otunun seçici küresel müşterilerimize ulaşmasını doğrulamak için tescilli denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: İlgili tüm uluslararası doğal ürün çerçevelerine ve etiketleme gerekliliklerine mutlak uyum, dünya çapında sorunsuz düzenleyici onay sağlar."
+    ]
+  },
+  {
+    "id": "11",
+    "hs_code": "09109931",
+    "category": "Baharatlar",
+    "name": "Kakule",
+    "harvest_season": "Eylül - Aralık",
+    "image": "images/products/spices/cardamom.webp",
+    "features": [
+      "Gastrointestinal rahatsızlığı anında yatıştıran güçlü doğal bileşikler aracılığıyla sindirim konforunda devrim yaratır, sağlık bilincine sahip tüketicilere anında değer sağlar.",
+      "Ayırt edici aromatik profili ile olağanüstü ağız tazeliği yaratır, hem mutfak baharatı hem de doğal nefes tazeleyici olarak çift amaçlı işlevsellik sunar.",
+      "Oksidatif strese karşı ölçülebilir koruma sağlayan güçlü antioksidan bileşiklerle hücreleri korur, güçlü sağlık odaklı pazarlama iddialarını mümkün kılar.",
+      "Hava yollarını açan ve akciğer sağlığını destekleyen doğal uçucu yağlar aracılığıyla solunum fonksiyonunu iyileştirir, doğal sağlık çözümlerine yönelik artan talebi karşılar."
+    ],
+    "description": "Hindistan'ın Kerala, Tamil Nadu ve Karnataka'nın yemyeşil tepelerindeki prestijli yüksek rakımlı yetiştirme bölgelerinde titizlikle yetiştirilen Özel Premium Kakulemizle yadsınamaz lüks konumlandırmayı güvence altına alın. Seçici tedarik uzmanları, Elettaria cardamomum kapsüllerimizin yüzyıllarca süren geleneksel yetiştirme uzmanlığı ile katı seçim protokollerinin birleşimi yoluyla eşsiz duyusal ayrım sunduğunu kabul etmektedir. Sektör standardının önemli ölçüde üzerinde olan olağanüstü %5-7 uçucu yağ içeriği, premium mutfak uygulamaları, şekerleme, içecekler ve sağlık formülasyonları arasında anında aromatik etki ve terapötik etkinlik sağlar. Bu ikonik bileşen, ürünleri sıradan alternatiflerin ötesine anında yükselten benzersiz tatlı-tuzlu profili ile imza niteliğinde lezzet deneyimleri yaratır. İleri görüşlü uluslararası alıcılar, premium kakulemizin yalnızca bir baharat alımı değil, günümüzün en kârlı premium ürün kategorilerinde anında duyusal farklılaşma ve lüks konumlandırma sağlayan dönüştürücü bir bileşen olduğunu anlarlar.",
+    "quality_options": [
+      "Piyasa standartlarını önemli ölçüde aşan %5-7 uçucu yağ içeriğimizin olağanüstü farkını deneyimleyin - her uygulamada eşsiz aromatik yoğunluk ve lezzet etkisi sunar.",
+      "Premium sunum ve güvenilir performans için mükemmel görsel görünüm ve tutarlı kapsül boyutunu garanti eden tescilli temizleme ve hassas ayıklama teknolojimizden yararlanın.",
+      "Uzatılmış küresel tedarik zincirleri boyunca ayırt edici koku bileşiklerini koruyan özel aroma kilitleme teknolojisine sahip gelişmiş gıda sınıfı ambalaj sistemlerimize güvenin.",
+      "En katı uluslararası kalite standartları ve yönetmeliklerine kapsamlı uyumumuza güvenin, en zorlu lüks pazarlarda bile sorunsuz kabul sağlayın."
+    ],
+    "container_capacity": [
+      "20 ft : 8 MT",
+      "40 ft : 16 MT"
+    ],
+    "specifications": [
+      "Tip: Doğrulanmış aromatik potansa sahip saf bütün kakule kapsülleri",
+      "Renk: En yüksek tazeliği ve optimal hasadı işaret eden canlı yeşil ton",
+      "Şekil: Tutarlı tohum bölmelerine sahip mükemmel biçimli küçük, düzensiz kapsüller",
+      "Boyut: Garantili kalite için hassas 5-9 mm (0.2-0.4 inç) kalibrasyon",
+      "Lezzet: Karmaşık aromatik derinliğe sahip ayırt edici tatlı-tuzlu profil",
+      "Aroma: Anında etki yaratan benzersiz güçlü, aromatik varlık",
+      "İşlem: Mükemmel sunum için gelişmiş temizleme ve çok aşamalı ayıklama teknolojisi",
+      "Paketleme: Tam spesifikasyonlarınıza göre uyarlanmış özel paketleme çözümleri",
+      "Nem: Uçucu bileşikleri korumak için bilimsel olarak %10'un altında kontrol edilir",
+      "Uçucu Yağ İçeriği: Üstün duyusal performans için olağanüstü %5-7 konsantrasyon"
+    ],
+    "variety": [
+      "Yeşil Kakule: Premium küresel markalar tarafından aranan parlak zümrüt renklendirmesi ve olağanüstü aromatik karmaşıklığı ile amiral gemisi çeşidimiz.",
+      "Siyah Kakule: İmza niteliğindeki tuzlu uygulamalar ve otantik etnik formülasyonlar için ideal sağlam lezzet profiline sahip ayırt edici dumanlı çeşit."
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Her üretim partisi, son teknoloji laboratuvarımızda kapsamlı uçucu yağ analizinden geçer ve olağanüstü aromatik potens ve duyusal tutarlılık sağlar.",
+      "Paketleme: Yalnızca özel aroma mühürlü, üç katmanlı koruyucu malzemeler kullanılır, en zorlu küresel tedarik zincirleri boyunca hassas uçucu yağları korur.",
+      "Tedarik Zinciri Şeffaflığı: Özel doğrudan çiftlikten tedarik modelimiz, premium pazarlarda marka konumlandırmasını artıran sertifikalı adil ticaret uygulamalarıyla tam izlenebilirliği garanti eder.",
+      "Düzenli Denetimler: Kapsamlı üçüncü taraf değerlendirmeleri yoluyla sistematik doğrulama, kusursuz uyumu sağlarken sürekli olarak kalite standartlarını yükseltir.",
+      "Eğitimli Kalite Kontrol Ekibi: Uzmanlaşmış aromatik baharat uzmanlarımız, yalnızca mükemmel kakulenin en seçici küresel müşterilerimize ulaşmasını doğrulamak için tescilli çoklu duyusal denetim protokolleri uygular.",
+      "Yönetmeliklere Uygunluk: İlgili tüm uluslararası baharat endüstrisi çerçevelerine ve etiketleme gerekliliklerine mutlak uyum, her hedef pazarda sorunsuz düzenleyici onay sağlar."
+    ]
+  },
+  {
+    "id": "12",
+    "hs_code": "0910",
+    "category": "Baharatlar",
+    "name": "Çemen Otu Tohumu",
+    "image": "images/products/spices/fenugreek_seed.webp",
+    "harvest_season": "Ekim - Şubat",
+    "features": [
+      "Genel sağlığı ve eklem sağlığını destekleyen güçlü anti-inflamatuar özellikler",
+      "Besin emilimini ve bağırsak mikrobiyom dengesini artıran üstün sindirim yardımcısı",
+      "Dengeli kan şekeri seviyelerini ve metabolik sağlığı desteklediği klinik olarak kanıtlanmıştır",
+      "Çoğu karşılaştırılabilir tohumu geride bırakan olağanüstü protein ve lif içeriği"
+    ],
+    "description": "Premium Çemen Otu Tohumlarımız, Hindistan'ın Gucerat, Maharaştra ve Madhya Pradeş'teki efsanevi baharat yetiştirme bölgelerinden en iyi hasadı temsil etmektedir. Optimal kış sezonunda (Ekim - Şubat) yetiştirilen tohumlarımız, Hindistan'ın dünyanın önde gelen çemen otu üreticisi konumundan yararlanmaktadır. Saf Trigonella foenum-graecum bitkisinden elde edilen bu tohumlar, yüzyıllarca süren geleneksel tıbbi bilgeliği ve mutfak mükemmelliğini bünyesinde barındırmaktadır. Dikkat çekici anti-inflamatuar özellikleri, sindirim geliştirme yetenekleri ve kan şekeri düzenleme faydaları, onları seçici küresel alıcılar için temel bir bileşen haline getirmektedir. Etkileyici derecede yüksek protein ve lif içeriği ile ihracat sınıfı Çemen Otu Tohumlarımız, gurme mutfak ve fonksiyonel gıdalardan farmasötik formülasyonlara ve premium hayvan besleme takviyelerine kadar birçok uygulamada olağanüstü değer sunmaktadır.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Minimum ekolojik etki ile optimum zararlı kontrolü sağlayan çevreye uyumlu yetiştirme",
+      "Organik: Dünya çapında bilinçli tüketicilere hitap eden, sentetik girdilerden arınmış sertifikalı üretim yöntemleri",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi fiyatlandırma sunan geleneksel yetiştirme"
+    ],
+    "container_capacity": [
+      "20 ft: Optimum alan kullanımı ile 13 MT premium ürün",
+      "40 ft: Ekonomik toplu nakliye çözümleri sağlayan 27 MT"
+    ],
+    "specifications": [
+      "Tip: Tutarlı kaliteye sahip saf bütün çemen otu tohumları",
+      "Renk: Mükemmel olgunluğu gösteren zengin sarımsı kahverengi",
+      "Şekil: Premium kalitenin özelliği olan ayırt edici küçük, düzensiz form",
+      "Boyut: Optimal mutfak ve endüstriyel uygulamalar için hassas 2-3 mm (0.08-0.12 inç)",
+      "Lezzet: Mutfak karmaşıklığını artıran ince tatlı alt tonlarla hoş acı",
+      "Aroma: Özgünlüğü ifade eden ayırt edici fındıksı ve topraksı buket",
+      "İşlem: Eşsiz saflık için gelişmiş makine temizleme ve ayıklama",
+      "Paketleme: Özel gereksinimlerinize göre uyarlanmış esnek paketleme çözümleri",
+      "Nem: Maksimum raf ömrünü sağlamak için dikkatlice %10'un altında kontrol edilir",
+      "Protein İçeriği: Üstün besin değeri için olağanüstü %20-25 protein konsantrasyonu"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Son teknoloji laboratuvar analizi, tutarlı kalite ve saflık standartlarını garanti eder",
+      "Paketleme: Küresel transit sırasında aroma ve tazeliği korumak için özel olarak tasarlanmış premium gıda sınıfı malzemeler",
+      "Tedarik Zinciri Şeffaflığı: Doğrudan tedarik ve doğrulanmış adil ticaret sertifikası ile kapsamlı çiftlikten limana dokümantasyon",
+      "Düzenli Denetimler: Sürekli iyileştirme ve tutarlı mükemmelliği sağlayan sistematik kalite uyum izlemesi",
+      "Eğitimli Kalite Kontrol Ekibi: Her üretim aşamasında titiz denetimler yapan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği protokollerine ve ülkeye özgü etiketleme gerekliliklerine tam uyum"
+    ]
+  },
+  {
+    "id": "13",
+    "hs_code": "09109914",
+    "category": "Baharatlar",
+    "name": "Ajwain ",
+    "image": "images/products/spices/ajwain.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Bağırsak sağlığını dönüştüren ve besin emilimini artıran devrim niteliğinde sindirim katalizörü",
+      "Mevsimsel solunum koşullarına karşı etkili olduğu kanıtlanmış güçlü doğal çare",
+      "Doğal antimikrobiyal özelliklere sahip olağanüstü bağışıklık sistemi güçlendirici",
+      "Bütünsel sağlığı destekleyen güçlü anti-inflamatuar ajan"
+    ],
+    "description": "İhracat sınıfı Ajwain'imiz (Karambol Tohumu), Hindistan'ın yaz hasadının (Haziran - Eylül) taçlandıran başarısını temsil eder ve yalnızca Gucerat, Maharaştra ve Madhya Pradeş'in önde gelen yetiştirme bölgelerinden tedarik edilir. Dünyanın önde gelen ajwain üreticilerinden biri olan Hindistan, bu olağanüstü Trachyspermum ammi tohumlarını geliştirmek için ideal toprağı sağlar. Ayurveda geleneklerinde yüzyıllardır değer verilen Ajwain'imiz, eşsiz terapötik faydalar sunar—sindirim sağlığında devrim yaratır, üstün solunum rahatlaması sağlar ve doğal antimikrobiyal özellikleri sayesinde bağışıklık fonksiyonunu güçlendirir. Etkileyici %2-4 uçucu yağ konsantrasyonu ile premium Ajwain'imiz endüstri standartlarını aşar ve mutfak uygulamaları, farmasötik formülasyonlar ve terapötik aromaterapi arasında olağanüstü çok yönlülük sunar. Seçici küresel tüketicilerin talep ettiği otantik Hint kalitesiyle ürün tekliflerinizi yükseltmek için Ajwain'imizi seçin.",
+    "quality_options": [],
+    "container_capacity": [
+      "20 ft: Optimum lojistik verimliliği sağlayan 13.5 MT",
+      "40 ft: Ekonomik toplu nakliye çözümleri sunan 27 MT"
+    ],
+    "specifications": [
+      "Tip: Eşsiz saflığa sahip premium bütün ajwain tohumları",
+      "Renk: Mükemmel olgunluğu gösteren zengin kahverengiden ayırt edici grimsi kahverengiye",
+      "Şekil: Otantik ajwain'in karakteristik küçük, düzensiz formu",
+      "Boyut: İdeal lezzet salınımı için tutarlı 1-2 mm (0.04-0.08 inç)",
+      "Lezzet: Mutfak uygulamalarını geliştiren mükemmel dengelenmiş acı notalarla cesurca keskin",
+      "Aroma: Ayırt edici timol notaları ile güçlü, topraksı buket",
+      "İşlem: Üstün kalite için gelişmiş makine temizleme ve hassas ayıklama",
+      "Paketleme: Belirli pazar gereksinimlerini karşılayan özelleştirilebilir paketleme çözümleri",
+      "Nem: Uzatılmış raf stabilitesini sağlayan dikkatlice %10'un altında tutulur",
+      "Uçucu Yağ İçeriği: Üstün lezzet ve terapötik faydaları garanti eden olağanüstü %2-4 konsantrasyon"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Son teknoloji laboratuvarımızdaki kapsamlı analiz, en katı uluslararası kalite parametrelerine uygunluğu sağlar",
+      "Paketleme: Küresel transit sırasında ayırt edici tazeliği ve aromatik profili korumak için özel olarak tasarlanmış üstün gıda sınıfı malzemeler",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımını ve otantik adil ticaret sertifikasını sağlayan tam dokümantasyonlu doğrudan çiftçi ortaklıkları",
+      "Düzenli Denetimler: Tavizsiz mükemmelliği sürdürmek için sürekli izleme ile sistematik kalite doğrulama protokolleri",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin uluslararası pazarlara ulaşmasını garanti etmek için titiz çok aşamalı denetimler yapan uzman profesyoneller",
+      "Yönetmeliklere Uygunluk: Küresel gıda güvenliği standartlarına ve pazara özgü etiketleme gerekliliklerine kapsamlı uyum"
+    ]
+  },
+  {
+    "id": "14",
+    "hs_code": "12079990",
+    "category": "Baharatlar",
+    "name": "Chia tohumu",
+    "image": "images/products/spices/chia_seed.webp",
+    "harvest_season": "Haziran - Eylül",
+    "features": [
+      "Kardiyovasküler sağlığı destekleyen ve iltihabı azaltan olağanüstü Omega-3 yağ asitleri konsantrasyonu",
+      "Sindirim sağlığında devrim yaratan ve kilo yönetimi programlarını geliştiren üstün lif içeriği",
+      "Kapsamlı beslenme faydaları için antioksidan açısından zengin formülasyonlu tam protein profili",
+      "Fırıncılık, içecekler ve nutrasötik formülasyonlarda premium uygulamalar için eşsiz çok yönlülük"
+    ],
+    "description": "İhracat kalitesindeki Chia Tohumlarımız, Hindistan'ın yaz hasadının (Haziran - Eylül) zirvesini temsil eder ve Gucerat, Maharaştra ve Madhya Pradeş'in verimli merkez bölgelerinde yetiştirilir. Premium chia'nın önde gelen küresel üreticisi olarak Hindistan, bu olağanüstü Salvia hispanica tohumları için mükemmel yetiştirme koşulları sağlar. Chia Tohumlarımız, eşsiz bir beslenme profili sunar—temel lif, tam protein, omega-3 yağ asitleri ve güçlü antioksidanların dikkat çekici konsantrasyonlarına sahiptir. Bu beslenme deposu, zanaatkar fırıncılık ve premium içecek formülasyonlarından dünya çapında sağlık bilincine sahip tüketicilerle rezonansa giren en son diyet takviyelerine kadar birçok uygulamada olağanüstü işlevsellik ve pazarlanabilirlik ile herhangi bir ürün grubunu geliştirir. Hindistan'ın en iyi chia tohumlarına erişmek ve rekabetçi küresel süper gıda pazarında markanızı ayırt etmek için bizimle ortak olun.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Ekolojik dengeyi korurken olağanüstü ürün kalitesi sağlayan gelişmiş çevreye duyarlı yetiştirme",
+      "Organik: En katı uluslararası organik standartları karşılayan, sentetik kimyasallar olmadan sertifikalı yetiştirme",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi fiyatlandırma sağlayan dikkatli girdi yönetimi ile geleneksel yetiştirme yöntemleri"
+    ],
+    "container_capacity": [
+      "20 ft: Optimum toplu sevkiyat verimliliği sağlayan 18 MT"
+    ],
+    "specifications": [
+      "Tip: Olağanüstü saflık standartlarına sahip premium bütün chia tohumları",
+      "Renk: Optimal olgunluğu ve besin yoğunluğunu gösteren mükemmel grimsi kahverengiden siyaha",
+      "Şekil: En yüksek dereceli chia'nın karakteristik klasik oval oluşumu",
+      "Boyut: Tüm uygulamalarda tutarlı performans için tek tip 1-2 mm (0.04-0.08 inç)",
+      "Protein: Geliştirilmiş besin değeri için üstün %15-20 konsantrasyon",
+      "Lif: Sindirim ve metabolik sağlık iddialarını destekleyen olağanüstü %30-40 içerik",
+      "Omega-3 Yağ Asitleri: Üstün kalp sağlığı faydaları sağlayan premium %20-30 profil",
+      "İşlem: Eşsiz saflığı sağlayan gelişmiş makine temizleme ve hassas ayıklama",
+      "Paketleme: Özel pazar gereksinimleriniz için tasarlanmış özelleştirilebilir paketleme çözümleri",
+      "Nem: Maksimum raf stabilitesi için bilimsel olarak %10'un altında tutulur",
+      "Safsızlıklar: Farmasötik dereceli kalite için %1'den az garantili"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Gelişmiş laboratuvarlarda kapsamlı analiz, uluslararası kalite ölçütlerine tutarlı uyumu sağlar",
+      "Paketleme: Küresel transit sırasında besin bütünlüğünü ve tazeliğini korumak için özel olarak tasarlanmış premium gıda sınıfı malzemeler",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımını ve otantik izlenebilirliği sağlayan doğrudan çiftçi ortaklıklarıyla tam çiftlikten ihracata dokümantasyon",
+      "Düzenli Denetimler: Tavizsiz mükemmelliği sürdürmek için sürekli izleme ile sistematik kalite doğrulama protokolleri",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin küresel pazarlara ulaşmasını garanti etmek için çok aşamalı denetimler yapan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası güvenlik protokollerine ve pazara özgü etiketleme gerekliliklerine kapsamlı uyum"
+    ]
+  },
+  {
+    "id": "15",
+    "hs_code": "09109911",
+    "category": "Baharatlar",
+    "name": "Kereviz tohumu",
+    "image": "images/products/spices/celery_seed.webp",
+    "harvest_season": "Ekim - Şubat",
+    "features": [
+      "Çoklu inflamatuar yolları hedefleyen güçlü doğal anti-inflamatuar ajan",
+      "Bağırsak mikrobiyom dengesini ve besin emilimini artıran üstün sindirim katalizörü",
+      "Geniş spektrumlu antimikrobiyal özelliklere sahip gelişmiş bağışıklık sistemi desteği",
+      "Endüstri standartlarını aşan olağanüstü uçucu yağ ve antioksidan profili"
+    ],
+    "description": "Premium Kereviz Tohumumuz, Hindistan'ın Gucerat, Maharaştra ve Madhya Pradeş'teki ünlü yetiştirme bölgelerinden en iyi kış hasadını (Ekim - Şubat) temsil eder. Kereviz tohumu üretiminde küresel bir lider olarak Hindistan, bu olağanüstü Apium graveolens tohumlarını geliştirmek için ideal iklimi sağlar. Yüzyıllarca süren geleneksel tıbbi uygulama, modern araştırmaların doğruladığı şeyi doğrulamıştır—Kereviz Tohumumuz dikkat çekici anti-inflamatuar faydalar, üstün sindirim geliştirme ve kapsamlı bağışıklık desteği sunar. Etkileyici %1-3 uçucu yağ konsantrasyonu ile ihracat sınıfı ürünümüz uluslararası kalite ölçütlerini aşar ve mutfak uygulamaları, farmasötik formülasyonlar ve aromaterapi çözümleri arasında olağanüstü çok yönlülük sunar. Seçici küresel tüketicilerin talep ettiği otantik kaliteyle ürün tekliflerinizi yükseltmek için Hindistan'ın en iyi kereviz tohumuna erişmek için bizimle ortak olun.",
+    "quality_options": [
+      "IPM (Entegre Zararlı Yönetimi): Minimum çevresel etki ile premium kalite sağlayan gelişmiş ekolojik yetiştirme",
+      "Organik: Sentetik kimyasallardan arınmışlığı garanti eden sertifikalı üretim yöntemleri",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi fiyatlandırma sunan geleneksel yetiştirme"
+    ],
+    "container_capacity": [
+      "20 ft: Optimum lojistik verimliliği sağlayan 13 MT",
+      "40 ft: Ekonomik toplu nakliye çözümleri sunan 27 MT"
+    ],
+    "specifications": [
+      "Tip: Olağanüstü saflığa sahip premium bütün kereviz tohumları",
+      "Renk: Optimal hasat zamanlamasını gösteren zengin kahverengiden mükemmel ten rengine",
+      "Şekil: Otantik kereviz tohumunun karakteristik küçük, düzensiz formu",
+      "Boyut: İdeal lezzet salınımı için tutarlı 0.5-1 mm (0.02-0.04 inç)",
+      "Lezzet: Mutfak derinliğini artıran dengeli acı notalarla mükemmel sıcak",
+      "Aroma: Ayırt edici taze notalarla canlı, bitkisel buket",
+      "İşlem: Üstün kalite için gelişmiş makine temizleme ve hassas ayıklama",
+      "Paketleme: Belirli pazar gereksinimlerini karşılayan özel paketleme çözümleri",
+      "Nem: Uzatılmış raf stabilitesini sağlayan bilimsel olarak %10'un altında tutulur",
+      "Uçucu Yağ İçeriği: Üstün lezzet ve terapötik faydaları garanti eden premium %1-3 konsantrasyon"
+    ],
+    "variety": [],
+    "quality_assurance": [
+      "Tutarlı kalite ölçütlerini sağlayan kapsamlı analitik protokollere sahip son teknoloji tesislerde Laboratuvar Testleri",
+      "Aromatik bileşikleri korumak ve raf ömrünü uzatmak için özel olarak tasarlanmış premium gıda sınıfı ambalaj malzemelerinin kullanımı",
+      "Tam çiftlikten ihracata dokümantasyon ve doğrudan çiftçi ortaklıkları ile Tedarik Zinciri Şeffaflığı",
+      "Sürekli uyum iyileştirmesi sağlayan bağımsız kalite güvence uzmanları tarafından yürütülen Düzenli Denetimler",
+      "Titiz çok aşamalı denetim protokolleri uygulayan Eğitimli Kalite Kontrol Ekibi",
+      "Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere Uygunluk"
+    ]
+  },
+  {
+    "id": "16",
+    "hs_code": "0907",
+    "category": "Baharatlar",
+    "name": "Karanfil",
+    "image": "images/products/spices/clove.webp",
+    "harvest_season": "Eylül - Ocak",
+    "features": [
+      "Üstün bağışıklık fonksiyonunu ve hücresel korumayı destekleyen olağanüstü antioksidan konsantrasyonu",
+      "Ağız bakımı formülasyonları için vazgeçilmez kılan güçlü doğal analjezik özellikler",
+      "Mutfak kreasyonlarını ve premium içecekleri dönüştüren ayırt edici aromatik profil",
+      "Geniş terapötik uygulamalara sahip güçlü antimikrobiyal ve anti-inflamatuar bileşikler"
+    ],
+    "description": "Premium Karanfillerimiz, Hindistan ve Madagaskar'daki dünyanın en iyi yetiştirme bölgelerinden kalitenin zirvesini temsil eder; burada ideal iklim koşulları ve uzman yetiştirme teknikleri, bu olağanüstü kurutulmuş Syzygium aromaticum çiçek tomurcuklarını üretmek için birleşir. Aslen Endonezya'nın Maluku Adaları'na özgü olan özenle seçilmiş Karanfillerimiz, gerçekten üstün ürünü ayıran bir lezzet ve aroma yoğunluğu sunar. İhracat sınıfı Karanfillerimizin dikkat çekici gücü, onları gurme mutfak uygulamaları ve premium içecek formülasyonlarından farmasötik preparatlara ve terapötik aromaterapi çözümlerine kadar birçok endüstride vazgeçilmez kılar. Ürün tekliflerinizi yükseltecek ve en seçici küresel pazarların taleplerini karşılayacak eşsiz kaliteye erişmek için Karanfillerimizi seçin.",
+    "quality_options": [
+      "Organik: En yüksek uluslararası standartları karşılayan, sentetik kimyasallardan ve pestisitlerden tamamen arınmış, katı sertifikalı organik protokoller altında yetiştirilmiştir",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi pazar konumlandırması sağlayan dikkatle izlenen tarımsal girdilerle geleneksel yöntemler kullanılarak yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 ft: Ürün bütünlüğü için optimum yükleme konfigürasyonu ile 11 MT",
+      "40 ft: Ekonomik toplu nakliye çözümleri sunan 22 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Optimal hasat zamanlamasını gösteren zengin kahverengi renklendirme ve mükemmel tomurcuk oluşumuna sahip saf bütün karanfiller",
+      "Lezzet ve Aroma: Premium kaliteyi ifade eden dengeli sıcak notalarla olağanüstü güçlü, keskin profil",
+      "Nem: Maksimum raf stabilitesini ve potens korumasını sağlayan bilimsel olarak %10'un altında kontrol edilir",
+      "Uçucu Yağ İçeriği: Lezzet yoğunluğu ve terapötik etkinlik için endüstri standartlarını aşan üstün %15-20 konsantrasyon",
+      "Paketleme Seçenekleri: Uluslararası transit sırasında aromatik bileşikleri korumak için tasarlanmış özelleştirilebilir çözümler"
+    ],
+    "variety": [
+      "Endonezya Karanfili: Tarihi Maluku Adaları üretiminden özenle seçilmiş, olağanüstü kalite ve eşsiz lezzet yoğunluğu ile dünyaca ünlüdür",
+      "Madagaskar Karanfili: Madagaskar'ın ideal yetiştirme koşullarından elde edilen benzersiz aromatik profili ve tutarlı kalitesi ile ayırt edilir",
+      "Hint Karanfili: Üstün uçucu yağ içeriği ve ayırt edici lezzet özelliklerine sahip Kerala ve Tamil Nadu'dan premium seçimler"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Gelişmiş laboratuvarlarda kapsamlı analitik protokoller, en katı uluslararası kalite parametrelerine tutarlı uyumu sağlar",
+      "Tedarik Zinciri Şeffaflığı: Doğrulanmış adil ticaret sertifikası ve etik kaynak kullanımı uygulamaları ile tam çiftlikten ihracata dokümantasyon",
+      "Düzenli Denetimler: Tüm üretim aşamalarında sürekli izleme ve iyileştirme sağlayan sistematik kalite doğrulaması",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin küresel pazarlara ulaşmasını garanti etmek için çok aşamalı denetim protokolleri uygulayan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere tam uyum"
+    ]
+  },
+  {
+    "id": "17",
+    "hs_code": "0910",
+    "category": "Baharatlar",
+    "name": "Yıldız Anason",
+    "image": "images/products/spices/star_anise.webp",
+    "harvest_season": "Şubat - Eylül",
+    "features": [
+      "Kapsamlı hücresel koruma ve yaşlanma karşıtı faydalar sağlayan olağanüstü antioksidan profili",
+      "Rahatsızlığı hafifleten ve besin emilimini optimize eden üstün sindirim geliştirme özellikleri",
+      "Geniş spektrumlu bağışıklık desteği sağlayan güçlü doğal antimikrobiyal bileşikler",
+      "Mutfak kreasyonlarını ve fırıncılık uygulamalarını yükselten ayırt edici tatlı, meyan kökü benzeri lezzet profili"
+    ],
+    "description": "Premium Yıldız Anasonumuz, Çin ve Hindistan'ın en saygın yetiştirme bölgelerinden en iyi seçimi temsil eder ve olağanüstü kaliteyi sağlamak için en yüksek olgunlukta titizlikle hasat edilir. Illicium verum ağacının bu ayırt edici yıldız şeklindeki meyveleri, Çin ve Güneydoğu Asya'nın ideal yetiştirme ortamlarından kaynaklanmaktadır. İhracat sınıfı Yıldız Anasonumuz, mutfak uygulamalarını basitten olağanüstüye dönüştüren belirgin tatlı, meyan kökü benzeri bir lezzet profili sunar. Mutfak çok yönlülüğünün ötesinde, bu dikkat çekici baharat etkileyici terapötik faydalar sunarak onu gurme gıda üretimi ve zanaatkar içecek formülasyonundan farmasötik preparatlara ve geleneksel tıp uygulamalarına kadar birçok endüstride paha biçilmez kılar. Rekabetçi küresel pazarlarda ürünlerinizi ayırt edecek birinci sınıf Yıldız Anasona erişmek için bizimle ortak olun.",
+    "quality_options": [
+      "Organik: En yüksek uluslararası standartları karşılayan, sentetik pestisitler, herbisitler ve gübrelerden tamamen arınmış, katı sertifikalı organik protokoller altında yetiştirilmiştir",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi pazar konumlandırması sağlayan dikkatle izlenen tarımsal girdilerle geleneksel yöntemler kullanılarak yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 ft: Ürün bütünlüğünü korumak için optimum yükleme konfigürasyonu ile 10 MT",
+      "40 ft: Ekonomik toplu nakliye çözümleri sunan 20 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Optimal olgunluğu gösteren zengin kahverengi renklendirme ve ayırt edici yıldız oluşumuna sahip mükemmel bütün yıldız anason meyveleri",
+      "Lezzet ve Aroma: Premium kaliteyi ifade eden dengeli aromatik notalarla olağanüstü tatlı, meyan kökü benzeri profil",
+      "Nem: Maksimum raf stabilitesini ve lezzet korumasını sağlayan bilimsel olarak %10'un altında tutulur",
+      "Uçucu Yağ İçeriği: Lezzet yoğunluğu ve terapötik etkinlik için endüstri standartlarını aşan üstün %5-7 konsantrasyon",
+      "Paketleme Seçenekleri: Uluslararası transit sırasında kırılgan yıldız yapılarını korumak için tasarlanmış özelleştirilebilir çözümler"
+    ],
+    "variety": [
+      "Çin Yıldız Anasonu: Guangdong ve Guangxi eyaletlerinin premium hasatlarından titizlikle seçilmiş, eşsiz kalite ve ayırt edici lezzet profili ile dünyaca ünlüdür",
+      "Hint Yıldız Anasonu: Kerala ve Tamil Nadu'nun özel yetiştirme bölgelerinden tedarik edilen olağanüstü tatlılık ve mükemmel dengelenmiş meyan kökü notaları ile ayırt edilir"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Son teknoloji laboratuvarlarda kapsamlı analitik protokoller, en katı uluslararası kalite parametrelerine tutarlı uyumu sağlar",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımını ve otantik izlenebilirliği sağlayan doğrudan çiftçi ortaklıklarıyla tam çiftlikten ihracata dokümantasyon",
+      "Düzenli Denetimler: Tüm üretim aşamalarında sürekli izleme ve iyileştirme sağlayan sistematik kalite doğrulama protokolleri",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin küresel pazarlara ulaşmasını garanti etmek için çok aşamalı denetim protokolleri uygulayan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere tam uyum"
+    ]
+  },
+  {
+    "id": "18",
+    "hs_code": "0908",
+    "category": "Baharatlar",
+    "name": "Muskat",
+    "image": "images/products/spices/nutmeg.webp",
+    "harvest_season": "Haziran-Ağustos",
+    "features": [
+      "Doğal savunma sistemlerini güçlendiren güçlü bağışıklık artırıcı antioksidan profili",
+      "Şişkinliği ortadan kaldıran ve gastrointestinal fonksiyonu optimize eden üstün sindirim katalizörü",
+      "Eklem rahatsızlığını ve kronik iltihabı hedefleyen güçlü anti-inflamatuar bileşikler",
+      "Zihinsel berraklığı ve stres azaltmayı destekleyen doğal anksiyolitik özellikler"
+    ],
+    "description": "Premium Muskatımız, Endonezya'nın efsanevi baharat adalarından en iyi seçimi temsil eder; burada ideal yetiştirme koşulları dünyanın en olağanüstü Myristica fragrans tohumlarını üretir. Aslen tarihi Banda Adaları'na özgü olan özenle seçilmiş Muskatımız, gerçekten üstün ürünü ayıran sıcak, hafif tatlı bir lezzet ve aroma yoğunluğu sunar. İhracat sınıfı Muskatımızın dikkat çekici çok yönlülüğü, onu gurme mutfak uygulamaları ve premium fırıncılık ürünlerinden terapötik aromaterapi formülasyonlarına ve geleneksel tıp preparatlarına kadar birçok endüstride vazgeçilmez kılar. Ürün tekliflerinizi yükseltecek ve en seçici küresel pazarların beklentilerini karşılayacak Endonezya'nın en iyi Muskatına erişmek için bizimle ortak olun.",
+    "quality_options": [
+      "Organik: En yüksek uluslararası standartları karşılayan, sentetik kimyasallardan ve pestisitlerden tamamen arınmış, katı sertifikalı organik protokoller altında yetiştirilmiştir",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi pazar konumlandırması sağlayan dikkatle izlenen tarımsal girdilerle geleneksel yöntemler kullanılarak yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 ft: Ürün bütünlüğü için optimum yükleme konfigürasyonu ile 13 MT",
+      "40 ft: Ekonomik toplu nakliye çözümleri sunan 27 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Optimal olgunluğu gösteren zengin kahverengi renklendirme ve tutarlı oval şekle sahip mükemmel bütün muskat tohumları",
+      "Lezzet ve Aroma: Premium kaliteyi ifade eden dengeli aromatik notalarla olağanüstü sıcak, hafif tatlı profil",
+      "Nem: Maksimum raf stabilitesini ve potens korumasını sağlayan bilimsel olarak %10'un altında kontrol edilir",
+      "Uçucu Yağ İçeriği: Lezzet yoğunluğu ve terapötik etkinlik için endüstri standartlarını aşan üstün %7-12 konsantrasyon",
+      "Paketleme Seçenekleri: Uluslararası transit sırasında aromatik bileşikleri korumak için tasarlanmış özelleştirilebilir çözümler"
+    ],
+    "variety": [
+      "Endonezya Muskatı: Sumatra'nın premium üretim bölgelerinden titizlikle seçilmiş, eşsiz kalite ve ayırt edici lezzet profili ile dünyaca ünlüdür",
+      "Hint Muskatı: Kerala'nın özel yetiştirme alanlarından tedarik edilen olağanüstü sıcaklık ve mükemmel dengelenmiş tatlı notalarla ayırt edilir"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Son teknoloji tesislerde kapsamlı analitik protokoller, en katı uluslararası kalite parametrelerine tutarlı uyumu sağlar",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımını ve otantik izlenebilirliği sağlayan doğrudan çiftçi ortaklıklarıyla tam çiftlikten ihracata dokümantasyon",
+      "Düzenli Denetimler: Tüm üretim aşamalarında sürekli izleme ve iyileştirme sağlayan sistematik kalite doğrulaması",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin küresel pazarlara ulaşmasını garanti etmek için çok aşamalı denetim protokolleri uygulayan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere tam uyum"
+    ]
+  },
+  {
+    "id": "19",
+    "hs_code": "090611",
+    "category": "Baharatlar",
+    "name": "Tarçın",
+    "image": "images/products/spices/cinnamon.webp",
+    "harvest_season": "Mayıs, Eylül - Kasım",
+    "features": [
+      "Sıradan tarifleri premium kreasyonlara dönüştüren olağanüstü sıcak, tatlı lezzet profili",
+      "Dünya çapında tatlı ve tuzlu mutfak gelenekleri arasında çok yönlü uygulama potansiyeli",
+      "Eşsiz kalite için yalnızca Sri Lanka ve Endonezya'nın en iyi yetiştirme bölgelerinden tedarik edilir",
+      "Çeşitli pazar taleplerini karşılamak için hem sertifikalı organik hem de premium konvansiyonel çeşitlerde mevcuttur"
+    ],
+    "description": "Premium Tarçın Çubuklarımız, Sri Lanka ve Endonezya'nın en seçkin yetiştirme bölgelerinden kalitenin zirvesini temsil eder; burada nesiller boyu süren uzmanlık dünyanın en iyi Cinnamomum verum kabuğunu üretir. Aslen Sri Lanka'ya özgü olan özenle hasat edilmiş Tarçınımız, gerçekten olağanüstü ürünü tanımlayan eşsiz sıcak, tatlı ve baharatlı bir profil sunar. İhracat sınıfı Tarçınımızın dikkat çekici çok yönlülüğü, onu zanaatkar fırıncılık ve gurme mutfaktan geleneksel tıp formülasyonlarına ve premium içecek geliştirmeye kadar birçok endüstride temel hale getirir. Ürün tekliflerinizi yükseltecek ve en seçici küresel pazarların beklentilerini karşılayacak eşsiz kaliteye erişmek için Tarçınımızı seçin.",
+    "quality_options": [
+      "Organik: En yüksek uluslararası standartları karşılayan, sentetik kimyasallardan tamamen arınmış, katı sertifikalı organik protokoller altında yetiştirilmiştir",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi fiyatlandırma sağlayan dikkatle izlenen tarımsal girdilerle geleneksel yöntemler kullanılarak yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 Feet Konteyner: Çubuk bütünlüğünü korumak için özel yükleme konfigürasyonu ile 7 MT",
+      "40 Feet Konteyner: Ekonomik toplu nakliye çözümleri sunan 14 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Zengin kahverengi renklendirme ve hassas silindirik oluşuma sahip mükemmel bütün tarçın çubukları",
+      "Boyut: Tutarlı kalite için 10-20 cm uzunluğunda ve 2-3 cm çapında premium seçim",
+      "Lezzet ve Aroma: Üstün sınıfı ifade eden dengeli karmaşıklığa sahip olağanüstü sıcak, tatlı ve baharatlı profil",
+      "Nem: Maksimum raf stabilitesini ve lezzet korumasını sağlayan bilimsel olarak %13'ün altında kontrol edilir",
+      "Paketleme Seçenekleri: Uluslararası transit sırasında hassas kabukları korumak için tasarlanmış özelleştirilebilir çözümler"
+    ],
+    "variety": [
+      "Seylan Tarçını: Sri Lanka'nın önde gelen yetiştirme bölgelerine özgü, narin lezzeti ve ayırt edici kalitesiyle dünya çapında tanınan uzmanların gerçek tarçını",
+      "Endonezya Tarçını: Sumatra'nın özel üretim alanlarından özenle seçilmiş, olağanüstü sıcaklık ve mükemmel dengelenmiş tatlı notalarla ayırt edilir"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Son teknoloji tesislerde kapsamlı analitik protokoller, en katı uluslararası kalite parametrelerine tutarlı uyumu sağlar",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımını ve otantik izlenebilirliği sağlayan doğrudan çiftçi ortaklıklarıyla tam çiftlikten ihracata dokümantasyon",
+      "Düzenli Denetimler: Tüm üretim aşamalarında sürekli izleme ve iyileştirme sağlayan sistematik kalite doğrulaması",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin küresel pazarlara ulaşmasını garanti etmek için çok aşamalı denetim protokolleri uygulayan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere tam uyum"
+    ]
+  },
+  {
+    "id": "20",
+    "hs_code": "1204",
+    "category": "Baharatlar",
+    "name": "Keten Tohumu",
+    "image": "images/products/spices/flax_seed.webp",
+    "harvest_season": "Şubat ve Mart",
+    "features": [
+      "Üstün kardiyovasküler sağlığı destekleyen ve iltihabı azaltan olağanüstü omega-3 yağ asidi profili",
+      "Sindirim sağlığında devrim yaratan ve kilo yönetimi programlarını destekleyen premium lif içeriği",
+      "Premium gıda formülasyonları, özel hayvan beslemesi ve endüstriyel uygulamalar arasında eşsiz çok yönlülük",
+      "Çeşitli pazar gereksinimlerini karşılamak için hem sertifikalı organik hem de premium konvansiyonel çeşitlerde mevcuttur"
+    ],
+    "description": "Premium Keten Tohumumuz, Hindistan'ın Madhya Pradeş ve Racastan'daki özel yetiştirme bölgelerinden en iyi hasadı temsil eder; burada ideal iklim koşulları olağanüstü kalite üretir. Bu besinsel olarak üstün yağlı tohumlar, gerçekten premium ürünü ayıran etkileyici bir omega-3 yağ asitleri, diyet lifi ve bitki proteini profili sunar. İhracat sınıfı Keten Tohumumuzun olağanüstü fındıksı lezzeti ve tatmin edici dokusu, onu fonksiyonel gıda geliştirme ve zanaatkar fırıncılıktan premium hayvan besleme formülasyonlarına ve özel endüstriyel kullanımlara kadar birçok uygulamada paha biçilmez kılar. Sağlık bilincine sahip küresel pazarların taleplerini karşılayan besinsel mükemmellikle ürün tekliflerinizi yükseltmek için Hindistan'ın en iyi Keten Tohumuna erişmek için bizimle ortak olun.",
+    "quality_options": [
+      "Organik: En yüksek uluslararası standartları karşılayan, sentetik kimyasallardan tamamen arınmış, katı sertifikalı organik protokoller altında yetiştirilmiştir",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi pazar konumlandırması sağlayan dikkatle izlenen tarımsal girdilerle geleneksel yöntemler kullanılarak yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 Feet Konteyner: Tohum bütünlüğünü korumak için özel yükleme konfigürasyonu ile 10 MT",
+      "40 Feet Konteyner: Ekonomik toplu nakliye çözümleri sunan 20 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Premium kaliteyi gösteren tutarlı oval oluşuma sahip, zengin kahverengiden altın kehribara kadar değişen mükemmel bütün keten tohumları",
+      "Boyut: Belirli uygulama gereksinimlerini karşılamak için hassas derecelendirilmiş küçük, orta ve büyük seçimlerde mevcuttur",
+      "Yağ İçeriği: Üstün besin değeri ve fonksiyonel performans sağlayan olağanüstü %30-40 konsantrasyon",
+      "Protein İçeriği: Beslenme uygulamaları için endüstri standartlarını aşan premium %20-25 profil",
+      "Lif İçeriği: Sindirim sağlığı iddialarını ve fonksiyonel gıda formülasyonlarını destekleyen dikkat çekici %20-25 içerik",
+      "Paketleme Seçenekleri: Uluslararası transit sırasında besin bütünlüğünü korumak için tasarlanmış özelleştirilebilir çözümler"
+    ],
+    "variety": [
+      "Madhya Pradeş Keten Tohumu: Madhya Pradeş'in premium yetiştirme bölgelerinden titizlikle seçilmiş, olağanüstü yüksek yağ içeriği ve ayırt edici lezzet profili ile ayırt edilir",
+      "Racastan Keten Tohumu: Racastan'ın özel üretim alanlarından dikkatlice tedarik edilen üstün kalite ve tutarlı besin yoğunluğu ile ünlüdür"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Son teknoloji laboratuvarlarda kapsamlı analitik protokoller, en katı uluslararası kalite parametrelerine tutarlı uyumu sağlar",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımını ve otantik izlenebilirliği sağlayan doğrudan çiftçi ortaklıklarıyla tam çiftlikten ihracata dokümantasyon",
+      "Düzenli Denetimler: Tüm üretim aşamalarında sürekli izleme ve iyileştirme sağlayan sistematik kalite doğrulaması",
+      "Eğitimli Kalite Kontrol Ekibi: Yalnızca premium ürünlerin küresel pazarlara ulaşmasını garanti etmek için çok aşamalı denetim protokolleri uygulayan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere tam uyum"
+    ]
+  },
+  {
+    "id": "21",
+    "hs_code": "10085000",
+    "category": "Baharatlar",
+    "name": "Karabiber",
+    "image": "images/products/spices/black_pepper.webp",
+    "harvest_season": "Kasım - Mart",
+    "features": [
+      "Sıradan yemekleri mutfak başyapıtlarına dönüştüren ayırt edici keskin lezzet profili",
+      "Küresel mutfak gelenekleri ve farmasötik uygulamalar arasında olağanüstü çok yönlülük",
+      "Geliştirilmiş biyoyararlanım ve terapötik faydalar sağlayan üstün piperin konsantrasyonu",
+      "Eşsiz kalite için yalnızca Hindistan ve Vietnam'ın önde gelen yetiştirme bölgelerinden tedarik edilir"
+    ],
+    "description": "Premium Karabiberimiz, Hindistan ve Vietnam'ın en seçkin yetiştirme bölgelerinden kalitenin zirvesini temsil eder; burada ideal iklim koşulları ve nesiller boyu süren uzmanlık dünyanın en iyi Piper nigrum meyvelerini üretmek için birleşir. En yüksek olgunlukta hasat edilen ve ustalıkla kurutulan özenle seçilmiş Karabiberimiz, gerçekten olağanüstü ürünü tanımlayan eşsiz keskin, buruk bir profil sunar. İhracat sınıfı Karabiberimizin dikkat çekici çok yönlülüğü, onu küresel mutfaklar ve gurme gıda üretimi ve zanaatkar baharat karışımlarından geleneksel tıp formülasyonlarına ve nutrasötik uygulamalara kadar birçok endüstride temel hale getirir. Ürün tekliflerinizi yükseltecek ve en seçici küresel pazarların beklentilerini karşılayacak eşsiz Karabiber kalitesine erişmek için bizimle ortak olun.",
+    "quality_options": [
+      "Organik: En yüksek uluslararası standartları karşılayan, sentetik girdilerden tamamen arınmış, katı sertifikalı organik protokoller altında yetiştirilmiştir",
+      "Konvansiyonel: Tutarlı kalite ve rekabetçi fiyatlandırma sağlayan dikkatle izlenen tarımsal uygulamalarla geleneksel yöntemler kullanılarak yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 Feet Konteyner: Ürün bütünlüğünü korumak için özel yükleme konfigürasyonu ile 6 MT",
+      "40 Feet Konteyner: Ekonomik toplu nakliye çözümleri sunan 12 MT"
+    ],
+    "specifications": [
+      "Fiziksel Özellikler: Optimal olgunluğu gösteren zengin koyu kahverengiden siyaha renklendirme ve tutarlı küresel şekle sahip mükemmel bütün karabiber taneleri",
+      "Lezzet ve Aroma: Premium sınıfı ifade eden dengeli karmaşıklığa sahip olağanüstü keskin, buruk profil",
+      "Nem: Maksimum raf stabilitesini ve potens korumasını sağlayan bilimsel olarak %10'un altında kontrol edilir",
+      "Piperin İçeriği: Lezzet yoğunluğu ve terapötik etkinlik için endüstri standartlarını aşan üstün %4-6 konsantrasyon",
+      "Paketleme Seçenekleri: Uluslararası transit sırasında aromatik bileşikleri korumak için tasarlanmış özelleştirilebilir çözümler"
+    ],
+    "variety": [
+      "Hint Karabiberi: Kerala ve Tamil Nadu'nun premium hasatlarından titizlikle seçilmiş, eşsiz kalite ve ayırt edici lezzet profili ile dünyaca ünlüdür",
+      "Vietnam Karabiberi: Dak Lak ve Gia Lai'nin özel yetiştirme bölgelerinden dikkatlice tedarik edilen olağanüstü burukluk ve mükemmel dengelenmiş keskinlik ile ayırt edilir"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: Gelişmiş laboratuvarımızdaki titiz analitik prosedürler, küresel kalite ölçütlerine tutarlı uyumu sağlar",
+      "Tedarik Zinciri Şeffaflığı: Etik kaynak kullanımı doğrulaması ile çiftlikten ihracata tam dokümantasyon",
+      "Düzenli Denetimler: Tüm üretim aşamalarında sürekli iyileştirme sağlayan sistematik kalite izleme programları",
+      "Eğitimli Kalite Kontrol Ekibi: Her aşamada kapsamlı denetim protokolleri uygulayan uzman uzmanlar",
+      "Yönetmeliklere Uygunluk: Uluslararası gıda güvenliği standartlarına ve pazara özgü düzenleyici gerekliliklere tam uyum"
+    ]
+  },
+  {
+    "id": "22",
+    "category": "Baharatlar",
+    "name": "Kinoa",
+    "image": "images/products/spices/quinoa_seed.webp",
+    "harvest_season": "Ağustos ve Eylül",
+    "features": [
+      "Üstün protein içeriği (%15-20)",
+      "Zengin diyet lifi (%5-7)",
+      "Beyaz, kırmızı ve siyah çeşitlerde mevcuttur",
+      "Hem organik hem de konvansiyonel seçenekler"
+    ],
+    "description": "Hindistan'ın Racastan ve Madhya Pradeş'teki en iyi çiftliklerinden premium Kinoa'yı deneyimleyin. Besin açısından zengin süper gıdamız, ayırt edici fındıksı bir lezzetle olağanüstü protein, lif ve mineraller sunar. Mutfak, beslenme ve endüstriyel uygulamalar için mükemmeldir. Hindistan'ın en iyi ihracat sınıfı Kinoa'sı, en yüksek mükemmellikte hasat edilmiştir.",
+    "quality_options": [
+      "Organik: Sentetik girdiler olmadan sertifikalı yetiştirme, tam izlenebilirlik",
+      "Konvansiyonel: Tutarlı kalite için kontrollü uygulamalar kullanılarak hassas yetiştirilmiştir"
+    ],
+    "container_capacity": [
+      "20 Feet Konteyner: 7 MT",
+      "40 Feet Konteyner: 14 MT"
+    ],
+    "specifications": [
+      "Fiziksel: Bütün taneler, beyazdan kahverengiye, düzensiz şekil",
+      "Boyut: Küçük, orta ve büyük derecelerde mevcuttur",
+      "Protein: Yüksek içerik (%15-20)",
+      "Lif: Zengin içerik (%5-7)",
+      "Paketleme: Tamamen özelleştirilebilir"
+    ],
+    "variety": [
+      "Beyaz Kinoa: Hafif lezzet, yumuşak doku, salatalar ve yan yemekler için ideal",
+      "Kırmızı Kinoa: Fındıksı tat, çıtır doku, salatalar ve tavada kızartmalar için mükemmel",
+      "Siyah Kinoa: Topraksı lezzet, sert doku, çorbalar ve güveçler için mükemmel"
+    ],
+    "quality_assurance": [
+      "Laboratuvar Testleri: ISO sertifikalı analiz, uluslararası standartlara uygunluğu sağlar",
+      "Tedarik Zinciri: Belgelenmiş saklama zinciri ile doğrudan çiftçi tedariki",
+      "Denetimler: Düzenli üçüncü taraf kalite doğrulama protokolleri",
+      "Kalite Kontrol: Özel uzmanlar ihracat sınıfı seçimi sağlar",
+      "Uygunluk: HACCP ve ISO dahil olmak üzere küresel gıda güvenliği standartlarına bağlılık"
+    ]
+  }
+]

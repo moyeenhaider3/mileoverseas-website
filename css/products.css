@@ -179,6 +179,14 @@
     margin: 2rem 0;
 }
 
+/* Loader text styling */
+.loading {
+    text-align: center;
+    color: #888;
+    font-size: 1.1rem;
+    margin: 2rem 0;
+}
+
 /* --- Search Field --- */
 
 .center-header {
@@ -429,4 +437,22 @@
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+/* Override opacity for single-card layouts to ensure image is visible */
+.product-list-dynamic-area:only-child .product-card picture,
+.product-list-dynamic-area .product-card:only-child picture,
+.product-list-dynamic-area:only-child .product-card .product-image,
+.product-list-dynamic-area .product-card:only-child .product-image {
+    opacity: 1 !important;
+}
+
+/* Ensure only-child dynamic-area cards always show product image */
+.product-list-dynamic-area:only-child .product-card .product-image,
+.product-list-dynamic-area .product-card:only-child .product-image {
+    display: block !important;
+}
+.product-list-dynamic-area:only-child .product-card .product-image-placeholder,
+.product-list-dynamic-area .product-card:only-child .product-image-placeholder {
+    display: none !important;
 }

@@ -623,21 +623,17 @@ body.modern-design {
 }
 
 .collapsible-content {
-  max-height: 0;
+  padding: 0 1rem;
+  transition: max-height 0.3s ease;
   overflow: hidden;
-  background: #fafafa;
-  border-radius: 0 0 6px 6px;
-  transition: max-height 0.35s cubic-bezier(0.4, 0, 0.2, 1), padding 0.25s ease;
-  padding: 0 1.2rem;
-  border-left: 1.2px solid #ffe0a3;
-  border-right: 1.2px solid #ffe0a3;
-  border-bottom: 1.2px solid #ffe0a3;
 }
 
-.collapsible-header[aria-expanded="true"]+.collapsible-content {
-  max-height: 2000px;
-  padding: 1rem 1.2rem;
-  overflow: visible;
+.collapsible-content[aria-hidden="true"] {
+  display: none;
+}
+
+.collapsible-content[aria-hidden="false"] {
+  display: block;
 }
 
 .bullet-list {
@@ -1308,11 +1304,13 @@ body.rtl .bullet-list {
   padding-right: 1.2rem;
   text-align: right;
 }
+
 body.rtl .bullet-list li {
   padding-left: 0;
   padding-right: 1.3rem;
   text-align: right;
 }
+
 body.rtl .bullet-list li:before {
   left: auto;
   right: 0;
@@ -1323,12 +1321,42 @@ body.rtl .features-block .features-list {
   padding-right: 0.5rem;
   text-align: right;
 }
+
 body.rtl .features-block .features-list li {
   padding-left: 0;
   padding-right: 1.8rem;
   text-align: right;
 }
+
 body.rtl .features-block .features-list li:before {
   left: auto;
   right: 0;
+}
+
+/* Shredding placeholder animation */
+.product-image-container { overflow: hidden; }
+.image-placeholder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  z-index: 5;
+}
+.image-placeholder .slice {
+  flex: 1;
+  background-color: #f4f4f4;
+  transform: translateY(-100%);
+  animation: shredIn 300ms ease-out forwards;
+}
+@keyframes shredIn {
+  to { transform: translateY(0); }
+}
+.product-image {
+  opacity: 0;
+  transition: opacity 400ms ease-in-out;
+}
+.product-image.loaded {
+  opacity: 1;
 }

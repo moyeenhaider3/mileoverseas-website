@@ -20,9 +20,37 @@ function t(key, fallback) {
 async function renderEnhancedProductDetail(product) {
   // Product Image
   const img = document.getElementById('product-image');
-  img.src = product.image;
+  const container = img.parentElement;
+  // Remove existing placeholder
+  let placeholder = container.querySelector('.image-placeholder');
+  if (placeholder) placeholder.remove();
+  // Create placeholder slices
+  placeholder = document.createElement('div');
+  placeholder.className = 'image-placeholder';
+  const sliceCount = 6;
+  const delayStep = 40;
+  for (let i = 0; i < sliceCount; i++) {
+    const slice = document.createElement('div');
+    slice.className = 'slice';
+    slice.style.animationDelay = `${i * delayStep}ms`;
+    placeholder.appendChild(slice);
+  }
+  container.appendChild(placeholder);
+  // Prepare fade-in
+  img.classList.remove('loaded');
+  let imageLoaded = false, animationComplete = false;
+  img.onload = () => { imageLoaded = true; reveal(); };
+  const totalAnimTime = (sliceCount - 1) * delayStep + 300;
+  setTimeout(() => { animationComplete = true; reveal(); }, totalAnimTime);
+  function reveal() {
+    if (imageLoaded && animationComplete) {
+      placeholder.remove();
+      img.classList.add('loaded');
+    }
+  }
   img.alt = product.name; // Dynamic product name as alt text
   img.setAttribute('data-product-id', product.id); // For hero animation
+  img.src = product.image;
 
   // Scarcity Badge
   const scarcityBadge = document.getElementById('scarcity-badge');
@@ -32,6 +60,23 @@ async function renderEnhancedProductDetail(product) {
       scarcityBadge.textContent = `${t('scarcity_badge_harvested')} ${product.harvest_season}`;
     } else {
       scarcityBadge.textContent = t('scarcity_badge_default');
+    }
+  }
+
+  // Add HS Code display if available
+  if (scarcityBadge) {
+    // Remove existing HS Code element if present
+    const existingHs = document.getElementById('hs-code');
+    if (existingHs) {
+      existingHs.remove();
+    }
+    if (product.hs_code) {
+      const hsCodeEl = document.createElement('div');
+      hsCodeEl.id = 'hs-code';
+      // Use same CSS classes as scarcityBadge
+      hsCodeEl.className = scarcityBadge.className;
+      hsCodeEl.textContent = `${t('hs_code', 'HS Code')}: ${product.hs_code}`;
+      scarcityBadge.parentNode.insertBefore(hsCodeEl, scarcityBadge.nextSibling);
     }
   }
 
@@ -167,10 +212,11 @@ function renderBulletList(items, elementId) {
  * Initializes all collapsible panels
  */
 function initCollapsiblePanels() {
-  const collapsibleHeaders = document.querySelectorAll('.collapsible-header');
-  
-  collapsibleHeaders.forEach(header => {
-    header.addEventListener('click', function() {
+  document.querySelectorAll('.collapsible-header').forEach(header => {
+    // Reset header to remove old event handlers
+    const newHeader = header.cloneNode(true);
+    header.parentNode.replaceChild(newHeader, header);
+    newHeader.addEventListener('click', function() {
       const expanded = this.getAttribute('aria-expanded') === 'true';
       
       // Toggle the aria-expanded state
@@ -303,17 +349,21 @@ document.addEventListener('DOMContentLoaded', function() {
   // Set up language switcher
   setupLanguageSwitcher();
   
+  // Initialize static collapsible panels
+  initCollapsiblePanels();
+  
   // Listen for language changes
-  window.addEventListener('languageChanged', function() {
+  window.addEventListener('languageChanged', async function() {
     const newLang = localStorage.getItem('language') || 'en';
     
-    // First apply translations to all static text elements
     if (window.localizationManager) {
       window.localizationManager.applyLanguage(newLang);
     }
     
-    // Then reload the product details for dynamic content
-    loadProductDetail(newLang);
+    await loadProductDetail(newLang);
+    setupMobileNavDrawer();
+    setupLanguageSwitcher();
+    initCollapsiblePanels();
   });
 });
 
@@ -329,12 +379,9 @@ async function loadProductDetail(lang = 'en') {
   if (!productId) return;
   
   try {
-    const response = await fetch('js/data.json');
+    const response = await fetch(`js/data.${lang}.json`);
     const data = await response.json();
-    
-    // Use language from localStorage, document, or parameter
-    const currentLang = localStorage.getItem('language') || document.documentElement.lang || lang;
-    const products = data[currentLang] || data['en'];
+    const products = Array.isArray(data) ? data : [];
     
     // Safety check for products array
     if (!Array.isArray(products)) {
@@ -396,28 +443,10 @@ function setupLanguageSwitcher() {
     const newLink = link.cloneNode(true);
     link.parentNode.replaceChild(newLink, link);
     
-    newLink.addEventListener('click', function(e) {
+    newLink.addEventListener('click', async function(e) {
       e.preventDefault();
       const lang = this.getAttribute('data-lang');
-      
-      // Update localStorage and document language
-      localStorage.setItem('language', lang);
-      document.documentElement.lang = lang;
-      document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
-      document.body.classList.toggle('rtl', lang === 'ar');
-      
-      // Apply active class
-      document.querySelectorAll('.language-option').forEach(opt => {
-        opt.classList.toggle('active', opt.getAttribute('data-lang') === lang);
-      });
-      
-      // Fire the language changed event
-      window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
-      
-      // If we have the global localization manager, use it
-      if (window.localizationManager) {
-        window.localizationManager.applyLanguage(lang);
-      }
+      await window.localizationManager.changeLanguage(lang);
     });
   });
   
@@ -429,32 +458,12 @@ function setupLanguageSwitcher() {
       const newLink = link.cloneNode(true);
       link.parentNode.replaceChild(newLink, link);
       
-      newLink.addEventListener('click', function(e) {
+      newLink.addEventListener('click', async function(e) {
         e.preventDefault();
         const lang = this.getAttribute('data-lang');
-        
-        // Update localStorage and document language
-        localStorage.setItem('language', lang);
-        document.documentElement.lang = lang;
-        document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
-        document.body.classList.toggle('rtl', lang === 'ar');
-        
-        // Apply active class
-        document.querySelectorAll('.language-option').forEach(opt => {
-          opt.classList.toggle('active', opt.getAttribute('data-lang') === lang);
-        });
-        
-        // Fire the language changed event
-        window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
-        
-        // If we have the global localization manager, use it
-        if (window.localizationManager) {
-          window.localizationManager.applyLanguage(lang);
-        }
-        
-        // Close mobile drawer after selection
         mobileDrawer.classList.remove('open');
         document.body.classList.remove('drawer-open');
+        await window.localizationManager.changeLanguage(lang);
       });
     });
   }

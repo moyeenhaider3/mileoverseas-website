@@ -6,9 +6,9 @@ let productsData = [];
 // Fetch and cache the product data
 async function loadProductsData(lang = 'en') {
     try {
-        const response = await fetch('js/data.json');
+        const response = await fetch(`js/data.${lang}.json`);
         const data = await response.json();
-        productsData = Array.isArray(data[lang]) ? data[lang] : [];
+        productsData = Array.isArray(data) ? data : [];
         return productsData;
     } catch (error) {
         console.error('Error loading product data:', error);
@@ -36,11 +36,28 @@ function renderProductsList(products, containerId = 'products-list', searchTerm 
             (product.description && product.description.toLowerCase().includes(searchTerm))
         )) return;
         const productDiv = document.createElement('div');
-        productDiv.className = 'product-card';
-        productDiv.style.animationDelay = (idx * 60) + 'ms';
+        productDiv.className = 'product-card fade-in';
+        productDiv.setAttribute('data-full-image', product.image);
+        productDiv.style.transitionDelay = (idx * 60) + 'ms';
         let imageHtml = '';
         if (product.image && product.image.trim() && product.image.trim().toLowerCase() !== 'none') {
-            imageHtml = `<img src="${product.image}" alt="${product.name}" class="product-image" data-hero-image data-product-id="${product.id}" onerror="this.style.display='none';this.parentNode.querySelector('.product-image-placeholder').style.display='flex';" />`;
+            const webp = product.image.replace(/\.[a-z]+$/, '.webp');
+            imageHtml = `
+                <picture>
+                    <source type="image/webp" srcset="${webp}">
+                    <source type="image/jpeg" srcset="${product.image}">
+                    <img
+                        class="lazy product-image"
+                        src="${product.image}"
+                        data-src="${product.image}"
+                        alt="${product.name}"
+                        data-hero-image
+                        data-product-id="${product.id}"
+                        loading="lazy"
+                        onload="this.classList.add('loaded'); this.closest('picture') && this.closest('picture').classList.add('loaded');"
+                        onerror="this.style.display='none';const card=this.closest('.product-card');if(card){const ph=card.querySelector('.product-image-placeholder');if(ph)ph.style.display='flex';}"
+                    />
+                </picture>`;
         }
         productDiv.innerHTML = `
             <a href="product-details.html?id=${product.id}" class="product-link" data-product-id="${product.id}">
@@ -90,6 +107,8 @@ function renderProductsList(products, containerId = 'products-list', searchTerm 
         grid.appendChild(productDiv);
     });
     container.appendChild(grid);
+    // Force show images: add 'loaded' class to all product images
+    grid.querySelectorAll('.product-image').forEach(img => img.classList.add('loaded'));
     if (!grid.childElementCount) {
         container.innerHTML = `<p class="no-results">${window.localizationManager.translate('no_products_found')}</p>`;
     }
@@ -146,25 +165,22 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // --- Language Switch Logic for Products Page ---
-function setupLanguageSwitcher(productsData) {
+function setupLanguageSwitcher() {
     const langDropdown = document.querySelector('.language-dropdown-content');
     if (!langDropdown) return;
     langDropdown.querySelectorAll('a[data-lang]').forEach(link => {
-        link.addEventListener('click', function(e) {
+        link.addEventListener('click', async function(e) {
             e.preventDefault();
             const lang = this.getAttribute('data-lang');
-            if (lang && productsData[lang]) {
-                // Set language in localStorage
-                localStorage.setItem('language', lang);
-                // Fire global languageChanged event
-                window.dispatchEvent(new Event('languageChanged'));
-                // If LocalizationManager is available, apply language globally
-                if (typeof LocalizationManager !== 'undefined' && window.localizationManager) {
-                    window.localizationManager.applyLanguage(lang);
-                }
-                // Show all available products for selected language (redundant, but ensures immediate update)
-                renderProductsList(productsData[lang]);
-                setupProductSearch(productsData[lang], 'productSearch', 'products-list');
+            if (lang) {
+                // Load and apply translations, then dispatch event
+                await window.localizationManager.changeLanguage(lang);
+                // Update custom spice section translation
+                renderCustomSpiceSection('custom-spice-form');
+                // Load and render product data for selected language
+                const productsData = await loadProductsData(lang);
+                renderProductsList(productsData);
+                setupProductSearch(productsData, 'productSearch', 'products-list');
             }
         });
     });
@@ -172,22 +188,25 @@ function setupLanguageSwitcher(productsData) {
 
 // --- Main Page Initialization ---
 document.addEventListener('DOMContentLoaded', async () => {
-    const productsData = await fetch('js/data.json').then(res => res.json());
     let lang = localStorage.getItem('language') || 'en';
-    renderProductsList(productsData[lang]);
-    setupProductSearch(productsData[lang], 'productSearch', 'products-list');
-    setupLanguageSwitcher(productsData);
-    // Store globally for languageChanged event
-    window._productsData = productsData;
+    // Show loader until products are fetched
+    const container = document.getElementById('products-list');
+    if (container) container.innerHTML = `<p class="loading">${window.localizationManager.translate('products_loading')}</p>`;
+    const productsData = await loadProductsData(lang);
+    renderProductsList(productsData);
+    setupProductSearch(productsData, 'productSearch', 'products-list');
+    setupLanguageSwitcher();
 });
 
 // Listen for language changes and re-render product list
-window.addEventListener('languageChanged', function() {
-    if (window._productsData) {
-        let lang = localStorage.getItem('language') || 'en';
-        renderProductsList(window._productsData[lang]);
-        setupProductSearch(window._productsData[lang], 'productSearch', 'products-list');
-    }
+window.addEventListener('languageChanged', async function() {
+    let lang = localStorage.getItem('language') || 'en';
+    // Show loader until products are fetched
+    const container = document.getElementById('products-list');
+    if (container) container.innerHTML = `<p class="loading">${window.localizationManager.translate('products_loading')}</p>`;
+    const productsData = await loadProductsData(lang);
+    renderProductsList(productsData);
+    setupProductSearch(productsData, 'productSearch', 'products-list');
 });
 
 window.renderCustomSpiceSection = renderCustomSpiceSection;
