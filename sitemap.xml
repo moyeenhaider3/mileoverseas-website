@@ -1,45 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://mileoverseas.com/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://mileoverseas.com/about.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/about.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/about.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/about.html"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/about.html"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/about.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/about.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/about.html"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/about.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/about.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/about.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/about.html"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/about.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/about.html"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://mileoverseas.com/products.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/products.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/products.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/products.html"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/products.html"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/products.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/products.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/products.html"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/products.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/products.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/products.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/products.html"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/products.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/products.html"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
         <loc>https://mileoverseas.com/why-choose-us.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/why-choose-us.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/why-choose-us.html"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://mileoverseas.com/faq.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/faq.html"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://mileoverseas.com/certificates.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/certificates.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/certificates.html"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://mileoverseas.com/contact.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mileoverseas.com/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mileoverseas.com/zh/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="ms" href="https://mileoverseas.com/ms/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="th" href="https://mileoverseas.com/th/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://mileoverseas.com/de/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://mileoverseas.com/es/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="bn" href="https://mileoverseas.com/bn/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://mileoverseas.com/ko/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/contact.html"/>
         <lastmod>2023-04-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-</urlset> 
+</urlset>

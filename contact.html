@@ -3,18 +3,37 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Contact India’s Leading Spice Exporters | Mile Overseas</title>
-    <meta name="description" content="Get in touch with Mile Overseas, trusted Indian exporters of premium spices. Bulk orders, certifications, and global shipping. Contact us for export inquiries and partnership opportunities." />
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-THTJH5GMEL"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}   
+      gtag('js', new Date());
+      gtag('config', 'G-THTJH5GMEL');
+    </script>
+    <!-- Preload critical resources -->
+    <link rel="preload" href="css/style.css" as="style" />
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" as="style" />
+    <link rel="preload" href="images/logo-modern.png" as="image" />
+    <title>Contact Mile Overseas | Import Premium Spices from India</title>
+    <meta name="description" content="Contact Mile Overseas to import premium Indian spices. Bulk orders, certifications, global shipping. Request a quote today!" />
     <link rel="canonical" href="https://mileoverseas.com/contact.html" />
+    <meta name="robots" content="index, follow" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="images/logo-modern.png" />
     <link rel="manifest" href="site.webmanifest" />
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Contact India’s Leading Spice Exporters | Mile Overseas" />
-    <meta property="og:description" content="Get in touch with Mile Overseas, trusted Indian exporters of premium spices. Bulk orders, certifications, and global shipping." />
+    <meta property="og:title" content="Contact Mile Overseas | Import Premium Spices from India" />
+    <meta property="og:description" content="Contact Mile Overseas to import premium Indian spices. Bulk orders, certifications, global shipping. Request a quote today!" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://mileoverseas.com/contact.html" />
     <meta property="og:image" content="https://mileoverseas.com/images/spice-introduction.jpg" />
+    <!-- LinkedIn Tags -->
+    <meta name="linkedin:card" content="summary_large_image" />
+    <meta name="linkedin:title" content="Contact Mile Overseas | Import Premium Spices from India" />
+    <meta name="linkedin:description" content="Contact Mile Overseas to import premium Indian spices. Bulk orders, certifications, global shipping. Request a quote today!" />
+    <meta name="linkedin:image" content="https://mileoverseas.com/images/spice-introduction.jpg" />
     <!-- Hreflang Tags for International SEO -->
     <link rel="alternate" hreflang="en" href="https://mileoverseas.com/contact.html" />
     <link rel="alternate" hreflang="ar" href="https://mileoverseas.com/ar/contact.html" />
@@ -28,10 +47,11 @@
     <link rel="alternate" hreflang="ja" href="https://mileoverseas.com/ja/contact.html" />
     <link rel="alternate" hreflang="tr" href="https://mileoverseas.com/tr/contact.html" />
     <link rel="alternate" hreflang="uz" href="https://mileoverseas.com/uz/contact.html" />
+    <link rel="alternate" hreflang="x-default" href="https://mileoverseas.com/contact.html" />
     <!-- Additional SEO meta tags -->
     <meta
       name="keywords"
-      content="contact spice exporter, indian spices inquiry, spice export quote, mileoverseas contact, spice supplier india"
+      content="import spices, spice import inquiry, Indian spice import, bulk spice import, import spices India"
     />
     <meta name="author" content="Mileoverseas" />
     <meta name="robots" content="index, follow" />
@@ -43,11 +63,11 @@
     />
     <meta
       property="twitter:title"
-      content="Contact India’s Leading Spice Exporters | Mile Overseas"
+      content="Contact Mile Overseas | Import Premium Spices from India"
     />
     <meta
       property="twitter:description"
-      content="Get in touch with Mile Overseas, trusted Indian exporters of premium spices. Bulk orders, certifications, and global shipping."
+      content="Contact Mile Overseas to import premium Indian spices. Bulk orders, certifications, global shipping. Request a quote today!"
     />
     <meta
       property="twitter:image"
@@ -99,16 +119,26 @@
         }
       }
     </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://mileoverseas.com/"},
+          {"@type": "ListItem", "position": 2, "name": "Contact", "item": "https://mileoverseas.com/contact.html"}
+        ]
+      }
+    </script>
   </head>
   <body class="modern-design">
     <header>
       <nav class="navbar">
         <div class="logo">
           <a href="index.html"
-            ><img src="images/logo-modern.png" alt="Mileoverseas Logo"
+            ><img src="images/logo-modern.png" alt="Mileoverseas Logo" loading="lazy"
           /></a>
         </div>
-        <button class="hamburger" id="hamburger-icon">
+        <button class="hamburger" id="hamburger-icon" aria-label="Toggle navigation menu" aria-expanded="false">
           <i class="fas fa-bars"></i>
         </button>
         <ul class="nav-links" id="nav-menu">
@@ -216,6 +246,10 @@
             action="https://script.google.com/macros/s/AKfycbzG1kXf0aeqLY5-31aKGYAsImyzODVaDdD7sNOw7vdieaL4aT67c4118PpuEx80kBV2/exec"
             method="POST"
           >
+            <div class="form-group honeypot-group" style="position:absolute; left:-9999px; visibility:hidden;">
+              <label for="website">Website:</label>
+              <input type="text" id="website" name="website" tabindex="-1" autocomplete="off" />
+            </div>
             <div class="form-group">
               <label for="name" data-i18n="contact_name">Name:</label>
               <input
@@ -345,26 +379,31 @@
             href="https://www.facebook.com/mileoverseas"
             class="fab fa-facebook-f"
             title="Facebook"
+            aria-label="Facebook"
           ></a>
           <a
             href="https://twitter.com/mileoverseas"
             class="fab fa-twitter"
             title="Twitter"
+            aria-label="Twitter"
           ></a>
           <a
             href="https://www.linkedin.com/company/mileoverseas/"
             class="fab fa-linkedin-in"
             title="LinkedIn"
+            aria-label="LinkedIn"
           ></a>
           <a
             href="https://youtube.com/@mileoverseas?si=6aPwcZIDytkqQIoz"
             class="fab fa-youtube"
             title="YouTube"
+            aria-label="YouTube"
           ></a>
           <a
             href="https://instagram.com/mileoverseas?igshid=OGQ5ZDc2ODk2ZA=="
             class="fab fa-instagram"
             title="Instagram"
+            aria-label="Instagram"
           ></a>
         </div>
         
@@ -379,6 +418,7 @@
 
     <script type="module" src="js/localization/localization.js" defer></script>
     <script src="js/script.js" defer></script>
+    <button id="backToTop" aria-label="Back to Top">&#8679;</button>
     <script src="js/main.js" defer></script>
   </body>
 </html>

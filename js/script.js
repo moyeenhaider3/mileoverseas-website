@@ -10,6 +10,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   preloadImages(imagesToPreload);
 
+  // Lazy-load all images for better performance
+  document.querySelectorAll('img:not([loading])').forEach(img => img.setAttribute('loading','lazy'));
+
   function preloadImages(sources) {
     sources.forEach((src) => {
       const img = new Image();
@@ -549,4 +552,60 @@ document.addEventListener("DOMContentLoaded", function () {
         .catch(e => console.warn('Service Worker registration failed:', e));
     }
   });
+
+  // Back to Top & Sticky Header
+  const backToTop = document.getElementById('backToTop');
+  let lastScroll = window.pageYOffset;
+
+  window.addEventListener('scroll', function() {
+    const navbar = document.querySelector('.navbar');
+    if (window.pageYOffset > 300) {
+      backToTop && backToTop.classList.add('show');
+    } else {
+      backToTop && backToTop.classList.remove('show');
+    }
+
+    const currentScroll = window.pageYOffset;
+    if (currentScroll > lastScroll && currentScroll > 100) {
+      navbar && navbar.classList.add('hide');
+    } else {
+      navbar && navbar.classList.remove('hide');
+    }
+    lastScroll = currentScroll <= 0 ? 0 : currentScroll;
+  });
+
+  backToTop && backToTop.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  // Google Translate dropdown injection
+  const desktopDropdownContent = document.querySelector('.navbar .language-dropdown .language-dropdown-content');
+  if (desktopDropdownContent) {
+    desktopDropdownContent.id = 'google_translate_element';
+    desktopDropdownContent.innerHTML = '';
+  }
+  const mobileDropdownContent = document.querySelector('.mobile-nav-drawer .language-dropdown .language-dropdown-content');
+  if (mobileDropdownContent) {
+    mobileDropdownContent.id = 'google_translate_element_mobile';
+    mobileDropdownContent.innerHTML = '';
+  }
+
+  // Load Google Translate script
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'en',
+      autoDisplay: false,
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+    if (document.getElementById('google_translate_element_mobile')) {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        autoDisplay: false,
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+      }, 'google_translate_element_mobile');
+    }
+  }
+  const gtScript = document.createElement('script');
+  gtScript.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+  document.body.appendChild(gtScript);
 });
