@@ -309,6 +309,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const startRect = JSON.parse(heroImageRect);
       // Create clone at start position
       const clone = detailImg.cloneNode();
+      clone.classList.add('hero-clone');
       clone.style.position = 'fixed';
       clone.style.top = startRect.top + 'px';
       clone.style.left = startRect.left + 'px';
@@ -365,6 +366,15 @@ document.addEventListener('DOMContentLoaded', function() {
     setupLanguageSwitcher();
     initCollapsiblePanels();
   });
+});
+
+// Remove leftover hero clones on pageshow (e.g. when returning via bfcache)
+window.addEventListener('pageshow', function() {
+    document.querySelectorAll('img.hero-clone').forEach(function(clone) {
+        clone.remove();
+    });
+    sessionStorage.removeItem('heroProductId');
+    sessionStorage.removeItem('heroImageRect');
 });
 
 // --- Patch: Call renderSimilarProducts after main render ---
