@@ -90,6 +90,7 @@ function renderProductsList(products, containerId = 'products-list', searchTerm 
                 }));
                 // Animate clone
                 const clone = img.cloneNode();
+                clone.classList.add('hero-clone');
                 clone.style.position = 'fixed';
                 clone.style.top = rect.top + 'px';
                 clone.style.left = rect.left + 'px';
@@ -207,6 +208,13 @@ window.addEventListener('languageChanged', async function() {
     const productsData = await loadProductsData(lang);
     renderProductsList(productsData);
     setupProductSearch(productsData, 'productSearch', 'products-list');
+});
+
+// Remove leftover hero clones on pageshow (e.g. when returning via bfcache)
+window.addEventListener('pageshow', function() {
+    document.querySelectorAll('img.hero-clone').forEach(function(clone) {
+        clone.remove();
+    });
 });
 
 window.renderCustomSpiceSection = renderCustomSpiceSection;
