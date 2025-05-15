@@ -1423,6 +1423,12 @@ html[dir="rtl"] .grid-3col {
     z-index: 1000;
 }
 
+.dropdown-title:hover {
+
+    color: #D2691E;
+    background-color: rgba(210, 105, 30, 0.1);
+}
+
 .language-dropdown-content {
     display: none;
     position: absolute;
@@ -1541,6 +1547,13 @@ html[dir="rtl"] .language-selector {
 .mobile-nav-drawer .language-dropdown-content li a.active {
     background-color: #e7c69b;
     color: #6b4a2b;
+
+}
+
+.mobile-nav-drawer .dropdown-title:hover {
+
+    color: #D2691E;
+    background-color: rgba(210, 105, 30, 0.1);
 }
 
 @media (max-width: 992px) {
@@ -1783,6 +1796,7 @@ body.error-404 main.container {
 .language-dropdown-content a.active {
     background: #e7c69b;
     color: #6b4a2b;
+
 }
 
 @media (max-width: 992px) {
