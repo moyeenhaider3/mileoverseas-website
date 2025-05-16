@@ -578,34 +578,94 @@ document.addEventListener("DOMContentLoaded", function () {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
-  // Google Translate dropdown injection
-  const desktopDropdownContent = document.querySelector('.navbar .language-dropdown .language-dropdown-content');
-  if (desktopDropdownContent) {
-    desktopDropdownContent.id = 'google_translate_element';
-    desktopDropdownContent.innerHTML = '';
-  }
-  const mobileDropdownContent = document.querySelector('.mobile-nav-drawer .language-dropdown .language-dropdown-content');
-  if (mobileDropdownContent) {
-    mobileDropdownContent.id = 'google_translate_element_mobile';
-    mobileDropdownContent.innerHTML = '';
-  }
+  // Language dropdown initialization
+  function initializeLanguageDropdown() {
+    // Get both desktop and mobile dropdowns
+    const desktopDropdown = document.querySelector('.navbar .language-dropdown');
+    const mobileDropdown = document.querySelector('.mobile-nav-drawer .language-dropdown');
+    
+    // Desktop dropdown initialization
+    if (desktopDropdown) {
+      const desktopContent = desktopDropdown.querySelector('.language-dropdown-content');
+      if (desktopContent) {
+        // Style the dropdown
+        desktopContent.style.position = 'absolute';
+        desktopContent.style.zIndex = '1001';
+        desktopContent.style.display = 'none';
+        desktopContent.style.marginTop = '0.3rem';
+        desktopContent.style.right = '0';
+        desktopContent.style.top = '100%';
+        desktopContent.style.borderRadius = '4px';
+        desktopContent.style.backgroundColor = '#fffbe7';
+        desktopContent.style.border = '1px solid #e7c69b';
+        desktopContent.style.boxShadow = '0 2px 8px rgba(231, 198, 155, 0.4)';
+        desktopContent.style.minWidth = '160px';
+        
+        // Add hover effect
+        desktopDropdown.addEventListener('mouseenter', () => {
+          desktopContent.style.display = 'block';
+        });
+        desktopDropdown.addEventListener('mouseleave', () => {
+          desktopContent.style.display = 'none';
+        });
 
-  // Load Google Translate script
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      autoDisplay: false,
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-    }, 'google_translate_element');
-    if (document.getElementById('google_translate_element_mobile')) {
-      new google.translate.TranslateElement({
-        pageLanguage: 'en',
-        autoDisplay: false,
-        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-      }, 'google_translate_element_mobile');
+        // Add click handler for language options
+        const languageOptions = desktopContent.querySelectorAll('a[data-lang]');
+        languageOptions.forEach(option => {
+          option.addEventListener('click', async (e) => {
+            e.preventDefault();
+            const lang = option.getAttribute('data-lang');
+            if (lang && window.localizationManager) {
+              await window.localizationManager.changeLanguage(lang);
+            }
+          });
+        });
+      }
+    }
+
+    // Mobile dropdown initialization
+    if (mobileDropdown) {
+      const mobileContent = mobileDropdown.querySelector('.language-dropdown-content');
+      if (mobileContent) {
+        // Style the mobile dropdown
+        mobileContent.style.position = 'static';
+        mobileContent.style.width = '100%';
+        mobileContent.style.border = 'none';
+        mobileContent.style.boxShadow = 'none';
+        
+        // Add click handler for mobile
+        mobileDropdown.addEventListener('click', (e) => {
+          e.stopPropagation();
+          mobileContent.classList.toggle('open');
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', (e) => {
+          if (!mobileDropdown.contains(e.target)) {
+            mobileContent.classList.remove('open');
+          }
+        });
+
+        // Add click handler for mobile language options
+        const mobileLanguageOptions = mobileContent.querySelectorAll('a[data-lang]');
+        mobileLanguageOptions.forEach(option => {
+          option.addEventListener('click', async (e) => {
+            e.preventDefault();
+            const lang = option.getAttribute('data-lang');
+            if (lang && window.localizationManager) {
+              await window.localizationManager.changeLanguage(lang);
+            }
+            mobileContent.classList.remove('open'); // Close dropdown after selection
+          });
+        });
+      }
     }
   }
-  const gtScript = document.createElement('script');
-  gtScript.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-  document.body.appendChild(gtScript);
+
+  // Initialize language dropdown
+  initializeLanguageDropdown();
+
+  // Remove Google Translate initialization since we're using our own language switcher
+  // The language dropdown will be handled by our localization manager
+  // This prevents conflicts with Google Translate
 });
