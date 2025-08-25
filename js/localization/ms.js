@@ -91,7 +91,8 @@ const msTranslations = {
 
   // Products Page
   products_hero_headline: "Produk Rempah Premium Kami",
-  products_hero_subheadline: "Jelajahi rangkaian rempah dan bahan berkualiti tinggi kami",
+  products_hero_subheadline:
+    "Jelajahi rangkaian rempah dan bahan berkualiti tinggi kami",
   search_by_name: "Cari mengikut nama...",
   products_variety_title: "Kepelbagaian",
   products_varieties_title: "Jenis",
@@ -502,7 +503,8 @@ const msTranslations = {
   custom_spice_btn: "Tanya tentang Rempah Kustom",
 
   products_hero_headline: "Produk Rempah Premium Kami",
-  products_hero_subheadline: "Jelajahi rangkaian rempah dan bahan berkualiti tinggi kami",
+  products_hero_subheadline:
+    "Jelajahi rangkaian rempah dan bahan berkualiti tinggi kami",
   search_by_name: "Cari mengikut nama...",
 
   // Product Detail Page
@@ -529,10 +531,104 @@ const msTranslations = {
   quality_assurance: "Jaminan Kualiti",
   variety: "Varieti",
   container_capacity: "Kapasiti Kontena",
-  hs_code:"Kod HS",
+  hs_code: "Kod HS",
 
   privacy_policy_title: "Dasar Privasi",
   privacy_policy_content: `<div class='policy-content'><h2>Dasar Privasi<\/h2><p><strong>Tarikh Berkuat Kuasa:<\/strong> 20/04/2025<\/p><p>Mile Overseas (\"kami\") komited untuk melindungi privasi maklumat anda. Dasar Privasi ini menerangkan cara kami mengumpul, menggunakan dan mendedahkan maklumat apabila anda menggunakan laman web kami <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (\"Laman Web\").<\/p><ol><li><strong>Maklumat yang Kami Kumpul<\/strong><br>Kami mungkin mengumpul jenis maklumat berikut:<br><strong>Maklumat Peribadi:<\/strong> Ini adalah maklumat yang boleh digunakan untuk mengenal pasti anda, seperti nama, alamat e-mel, nombor telefon, nama syarikat, alamat, dan sebarang maklumat yang anda berikan secara sukarela kepada kami melalui borang hubungan, e-mel, atau saluran komunikasi lain.<br><strong>Maklumat Bukan Peribadi:<\/strong> Ini adalah maklumat yang tidak mengenal pasti anda secara langsung. Ini mungkin termasuk:<ul><li><strong>Data Log:<\/strong> Pelayan kami secara automatik merekodkan maklumat (\"Data Log\") yang dicipta oleh penggunaan Laman Web oleh anda. Data Log mungkin termasuk alamat IP anda, jenis penyemak imbas, penyedia perkhidmatan internet, halaman rujukan/keluar, sistem pengendalian, cap tarikh/masa, dan data berkaitan.<\/li><li><strong>Kuki dan Teknologi Serupa:<\/strong> Kami mungkin menggunakan kuki, suar web, dan teknologi penjejakan serupa untuk mengumpul maklumat tentang aktiviti penyemakan imbas anda di Laman Web kami. Kuki ialah fail data kecil yang disimpan pada peranti anda yang membantu kami menambah baik Laman Web kami dan pengalaman anda. Anda boleh mengawal penggunaan kuki pada peringkat penyemak imbas individu, tetapi jika anda memilih untuk melumpuhkan kuki, ia mungkin mengehadkan penggunaan ciri atau fungsi tertentu di Laman Web kami.<\/li><li><strong>Data Penggunaan Laman Web:<\/strong> Kami mungkin mengumpul maklumat tentang cara anda menggunakan Laman Web kami, seperti halaman yang anda lawati, pautan yang anda klik, dan masa yang anda luangkan di Laman Web kami.<\/li><\/ul><\/li><li><strong>Cara Kami Mengumpul Maklumat<\/strong><br>Kami mengumpul maklumat dengan cara berikut:<ul><li><strong>Maklumat yang Anda Berikan Secara Langsung:<\/strong> Kami mengumpul Maklumat Peribadi apabila anda menyerahkannya secara sukarela kepada kami, seperti apabila anda:<ul><li>Mengisi borang hubungan di Laman Web kami.<\/li><li>Menghubungi kami melalui e-mel atau telefon.<\/li><li>Meminta sebut harga atau maklumat tentang produk kami.<\/li><li>Melanggan surat berita kami (jika berkenaan).<\/li><\/ul><\/li><li><strong>Maklumat yang Dikumpul Secara Automatik:<\/strong> Kami secara automatik mengumpul Maklumat Bukan Peribadi semasa anda menyemak imbas dan berinteraksi dengan Laman Web kami menggunakan kuki dan log pelayan.<\/li><\/ul><\/li><li><strong>Penggunaan Maklumat<\/strong><br>Kami mungkin menggunakan maklumat yang dikumpul untuk tujuan berikut:<ul><li><strong>Untuk Menyediakan dan Memperbaiki Laman Web kami:<\/strong> Untuk mengendalikan, menyelenggara, dan menambah baik Laman Web kami dan pengalaman pengguna.<\/li><li><strong>Untuk Menjawab Pertanyaan:<\/strong> Untuk menjawab permintaan, soalan, dan pertanyaan anda yang dihantar melalui Laman Web kami atau saluran komunikasi lain.<\/li><li><strong>Untuk Memproses Permintaan:<\/strong> Untuk memproses permintaan anda untuk sebut harga, maklumat produk, atau perkhidmatan lain.<\/li><li><strong>Untuk Menghantar Komunikasi Pemasaran (jika berkenaan):<\/strong> Dengan persetujuan anda, kami mungkin menghantar surat berita, e-mel pemasaran, atau bahan promosi lain tentang produk dan perkhidmatan kami kepada anda. Anda boleh memilih untuk tidak menerima komunikasi ini pada bila-bila masa dengan mengikuti arahan berhenti melanggan yang disediakan dalam komunikasi tersebut atau dengan menghubungi kami secara langsung.<\/li><li><strong>Untuk Analitis dan Pengoptimuman Laman Web:<\/strong> Untuk menganalisis trend penggunaan Laman Web, menjejaki pergerakan pengguna, dan mengumpul maklumat demografi untuk menambah baik reka bentuk, fungsi, dan kandungan Laman Web kami.<\/li><li><strong>Pematuhan Undang-undang:<\/strong> Untuk mematuhi undang-undang, peraturan, proses undang-undang, atau permintaan kerajaan yang berkenaan.<\/li><\/ul><\/li><li><strong>Perkongsian dan Pendedahan Maklumat<\/strong><br>Kami mungkin berkongsi maklumat anda dalam keadaan berikut:<ul><li><strong>Penyedia Perkhidmatan:<\/strong> Kami mungkin berkongsi maklumat dengan penyedia perkhidmatan pihak ketiga yang melaksanakan perkhidmatan bagi pihak kami, seperti pengehosan laman web, analisis data, penghantaran e-mel, dan perkhidmatan pelanggan. Penyedia perkhidmatan ini diwajibkan secara kontrak untuk melindungi maklumat anda dan menggunakannya hanya untuk tujuan kami mendedahkannya kepada mereka.<\/li><li><strong>Pemindahan Perniagaan:<\/strong> Sekiranya berlaku penggabungan, pemerolehan, penyusunan semula, penjualan aset, atau kebankrapan, maklumat anda mungkin dipindahkan atau didedahkan sebagai sebahagian daripada transaksi tersebut.<\/li><li><strong>Keperluan Undang-undang:<\/strong> Kami mungkin mendedahkan maklumat anda jika dikehendaki berbuat demikian oleh undang-undang atau sebagai tindak balas kepada permintaan yang sah oleh pihak berkuasa awam (cth., perintah mahkamah, sepina, peraturan kerajaan).<\/li><li><strong>Perlindungan Hak:<\/strong> Kami mungkin mendedahkan maklumat apabila kami percaya ia perlu untuk menyiasat, mencegah, atau mengambil tindakan mengenai aktiviti haram, penipuan yang disyaki, situasi yang melibatkan potensi ancaman kepada keselamatan mana-mana orang, pelanggaran Terma Penggunaan kami, atau seperti yang dikehendaki oleh undang-undang.<\/li><\/ul><\/li><li><strong>Keselamatan Data<\/strong><br>Kami mengambil langkah yang munasabah untuk melindungi maklumat anda daripada akses, penggunaan, atau pendedahan yang tidak dibenarkan. Walau bagaimanapun, tiada kaedah penghantaran melalui internet atau kaedah penyimpanan elektronik yang selamat sepenuhnya. Oleh itu, walaupun kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindungi Maklumat Peribadi anda, kami tidak dapat menjamin keselamatan mutlaknya.<\/li><li><strong>Kuki dan Teknologi Penjejakan<\/strong><br>Kami menggunakan kuki dan teknologi serupa untuk meningkatkan pengalaman anda di Laman Web kami. Dengan menggunakan Laman Web kami, anda bersetuju dengan penggunaan kuki seperti yang diterangkan dalam dasar ini. Anda boleh mengurus pilihan kuki anda melalui tetapan penyemak imbas anda. Sila rujuk dokumentasi bantuan penyemak imbas anda untuk mendapatkan maklumat lanjut tentang cara menyekat atau memadam kuki.<\/li><li><strong>Pautan Pihak Ketiga<\/strong><br>Laman Web kami mungkin mengandungi pautan ke laman web atau perkhidmatan pihak ketiga yang tidak dimiliki atau dikawal oleh kami. Kami tidak bertanggungjawab ke atas amalan privasi laman web pihak ketiga ini. Kami menggalakkan anda untuk menyemak dasar privasi laman web tersebut sebelum memberikan sebarang Maklumat Peribadi kepada mereka.<\/li><li><strong>Pengekalan Data<\/strong><br>Kami akan mengekalkan Maklumat Peribadi anda selama yang diperlukan untuk memenuhi tujuan yang digariskan dalam Dasar Privasi ini, melainkan tempoh pengekalan yang lebih lama diperlukan atau dibenarkan oleh undang-undang.<\/li><li><strong>Hak Anda<\/strong><br>Anda mungkin mempunyai hak tertentu mengenai Maklumat Peribadi anda, tertakluk kepada undang-undang yang berkenaan. Hak-hak ini mungkin termasuk:<ul><li><strong>Akses:<\/strong> Hak untuk meminta akses kepada Maklumat Peribadi yang kami pegang tentang anda.<\/li><li><strong>Pembetulan:<\/strong> Hak untuk meminta kami membetulkan sebarang Maklumat Peribadi yang tidak tepat atau tidak lengkap.<\/li><li><strong>Pemadaman:<\/strong> Hak untuk meminta kami memadamkan Maklumat Peribadi anda, dalam keadaan tertentu.<\/li><li><strong>Bantahan terhadap Pemprosesan:<\/strong> Hak untuk membantah pemprosesan Maklumat Peribadi anda untuk tujuan tertentu, seperti pemasaran langsung.<\/li><\/ul>Untuk melaksanakan hak-hak ini, sila hubungi kami menggunakan maklumat hubungan yang diberikan di bawah. Kami akan menjawab permintaan anda mengikut undang-undang yang berkenaan.<\/li><li><strong>Privasi Kanak-kanak<\/strong><br>Laman Web kami tidak ditujukan untuk kanak-kanak di bawah umur 16 tahun. Kami tidak secara sedar mengumpul Maklumat Peribadi daripada kanak-kanak di bawah umur ini. Jika anda seorang ibu bapa atau penjaga dan percaya bahawa anak anda telah memberikan kami Maklumat Peribadi, sila hubungi kami dengan segera, dan kami akan mengambil langkah untuk memadamkan maklumat tersebut.<\/li><li><strong>Perubahan kepada Dasar Privasi ini<\/strong><br>Kami mungkin mengemas kini Dasar Privasi ini dari semasa ke semasa untuk mencerminkan perubahan dalam amalan kami atau undang-undang yang berkenaan. Kami akan menyiarkan sebarang perubahan pada halaman ini dan mengemas kini \"Tarikh Berkuat Kuasa\" di bahagian atas Dasar Privasi ini. Kami menggalakkan anda untuk menyemak Dasar Privasi ini secara berkala untuk sebarang kemas kini. Untuk perubahan penting, kami mungkin memberikan notis yang lebih jelas (cth., di laman web kami atau melalui e-mel).<\/li><li><strong>Hubungi Kami<\/strong><br>Jika anda mempunyai sebarang soalan, kebimbangan, atau permintaan mengenai Dasar Privasi ini atau amalan data kami, sila hubungi kami di:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
 };
 
 export default msTranslations;
+
+// Chat suggestion question placeholders (to translate)
+if (typeof msTranslations.chat_question_shipping === "undefined") {
+  Object.assign(msTranslations, {
+    chat_question_shipping: "What are your shipping times?",
+    chat_question_moq: "What is your MOQ?",
+    chat_question_samples: "Do you provide samples?",
+    chat_question_certifications: "What certifications do you have?",
+    chat_question_pricing: "How do I get pricing?",
+    chat_question_quote: "I need a quote",
+  });
+}
+
+// Malay translations for chat questions
+Object.assign(msTranslations, {
+  chat_question_shipping: "Berapa lama masa penghantaran anda?",
+  chat_question_moq: "Apakah MOQ (kuantiti pesanan minimum) anda?",
+  chat_question_samples: "Adakah anda menyediakan sampel?",
+  chat_question_certifications: "Sijil apa yang anda ada?",
+  chat_question_pricing: "Bagaimana saya boleh dapatkan harga?",
+  chat_question_quote: "Saya perlukan sebut harga",
+});
+
+// Malay intent/localized answers
+Object.assign(msTranslations, {
+  chat_intent_greeting:
+    "Hai! Tanya tentang penghantaran, MOQ, sampel, sijil, harga, produk atau dokumen.",
+  chat_intent_shipping:
+    "Transit laut tipikal: UAE 15–20h, Arab Saudi 18–22h, Qatar 16–20h. Udara: 2–5h bergantung laluan.",
+  chat_intent_moq:
+    "MOQ: Biasanya satu kontena 20ft (≈14MT jintan / 16MT kunyit). 40ft untuk jumlah lebih besar.",
+  chat_intent_samples:
+    "Kami beri sampel percuma sehingga 500g melalui DHL ke GCC (≈3–5 hari bekerja).",
+  chat_intent_certifications:
+    "Ada: ISO, Organik (atas permintaan), Halal (jika perlu), dokumen GCC (ESMA, SFDA), fitosanitari, fumigasi & COA.",
+  chat_intent_pricing:
+    "Harga bergantung rempah, gred, pembungkusan & Incoterm (FOB/CIF/CNF). Kongsi produk + volum + pelabuhan.",
+  chat_intent_products:
+    "Eksport utama: Jintan, Kunyit, Cili, Ketumbar, Adas, Fenugreek, Lada, Halia.",
+  chat_intent_payment:
+    "Terma biasa: LC at sight, 30% pendahuluan + 70% selepas dokumen, atau LC usance.",
+  chat_intent_escalate:
+    "Saya boleh ambil emel & minat produk anda untuk tindak balas pantas. Klik Dapatkan Sebut Harga.",
+});
+
+// Placeholder chat translations (replace with Malay)
+msTranslations.chat_toggle = "Chat";
+msTranslations.chat_title = "Live Chat";
+msTranslations.chat_placeholder = "Type your question...";
+msTranslations.chat_send = "Send";
+msTranslations.chat_lead_prompt =
+  "Share your email & product to get a detailed quote:";
+msTranslations.chat_lead_email_placeholder = "Your email";
+msTranslations.chat_lead_product_placeholder = "Product / Volume (optional)";
+msTranslations.chat_lead_submit = "Submit";
+msTranslations.chat_lead_cancel = "Cancel";
+msTranslations.chat_lead_invalid_email = "Enter valid email";
+msTranslations.chat_lead_success =
+  "Thank you! Our export team will contact {email} shortly.{product}";
+msTranslations.chat_lead_error =
+  "There was an issue sending your request. Please email info@mileoverseas.com";
+msTranslations.chat_user_submitted_quote = "Submitted quote request.";
+msTranslations.chat_sending = "Sending...";
+msTranslations.chat_welcome =
+  "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms.";
+msTranslations.chat_fallback =
+  "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
+msTranslations.chat_fallback_keywords_prefix = " (Keywords detected: ";
+msTranslations.chat_intent_greeting =
+  "Hello! Ask me about shipping, MOQ, samples, certifications, pricing, products or documents.";
+msTranslations.chat_intent_shipping =
+  "Typical sea freight transit: UAE 15-20d, Saudi 18-22d, Qatar 16-20d. Air: 2-5d depending on route.";
+msTranslations.chat_intent_moq =
+  "MOQ: Usually one 20ft container (≈14 MT cumin / 16 MT turmeric). 40ft options available.";
+msTranslations.chat_intent_samples =
+  "We provide free samples up to 500g via DHL to GCC (≈3-5 business days).";
+msTranslations.chat_intent_certifications =
+  "Available: ISO, Organic (req), Halal (if needed), GCC docs, phytosanitary, fumigation, COA.";
+msTranslations.chat_intent_pricing =
+  "Pricing depends on spice, grade, packaging & incoterm. Share product + volume + port.";
+msTranslations.chat_intent_products =
+  "Main exports: Cumin, Turmeric, Chilli, Coriander, Fennel, Fenugreek, Pepper, Ginger.";
+msTranslations.chat_intent_payment =
+  "Common terms: LC at sight, 30% advance + 70% against docs, LC usance.";
+msTranslations.chat_intent_escalate =
+  "I can collect your email & product so our export team responds quickly. Click Get a Quote.";
+msTranslations.chat_fact_list =
+  "Turmeric’s curcumin content is a key quality marker.|Steam sterilization reduces microbial load.|Container lining reduces moisture ingress.|Chilli heat measured in Scoville units.";
+msTranslations.chat_suggestion_shipping = "Shipping times";
+msTranslations.chat_suggestion_moq = "MOQ";
+msTranslations.chat_suggestion_samples = "Samples";
+msTranslations.chat_suggestion_certifications = "Certifications";
+msTranslations.chat_suggestion_pricing = "Pricing";
+msTranslations.chat_suggestion_quote = "Get a Quote";

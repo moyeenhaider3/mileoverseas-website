@@ -497,13 +497,16 @@ const esTranslations = {
 
   // Custom spice section
   custom_spice_title: "Soluciones de Especias Personalizadas",
-  custom_spice_p1: "Más allá de nuestras ofertas estándar, podemos obtener y procesar especias adicionales según sus requisitos específicos. Nuestro enfoque flexible garantiza que podamos satisfacer las diversas necesidades de los compradores en los mercados globales.",
-  custom_spice_p2: "Contáctenos para discutir sus requisitos de especias personalizadas y descubrir cómo podemos adaptar nuestras soluciones a sus necesidades.",
+  custom_spice_p1:
+    "Más allá de nuestras ofertas estándar, podemos obtener y procesar especias adicionales según sus requisitos específicos. Nuestro enfoque flexible garantiza que podamos satisfacer las diversas necesidades de los compradores en los mercados globales.",
+  custom_spice_p2:
+    "Contáctenos para discutir sus requisitos de especias personalizadas y descubrir cómo podemos adaptar nuestras soluciones a sus necesidades.",
   custom_spice_button: "Consultar sobre Especias Personalizadas",
 
   // Products Page
   products_hero_headline: "Nuestros Productos de Especias Premium",
-  products_hero_subheadline: "Descubra nuestra gama de especias e ingredientes de alta calidad",
+  products_hero_subheadline:
+    "Descubra nuestra gama de especias e ingredientes de alta calidad",
   search_by_name: "Buscar por nombre...",
 
   // Product Detail Page
@@ -529,14 +532,108 @@ const esTranslations = {
   // custom_spice_button: "Consultar sobre Especias Personalizadas",
   no_products_available: "No hay productos disponibles.",
   no_products_found: "No se encontraron productos. Intenta otra búsqueda.",
-specifications: "Especificaciones",
-quality_assurance: "Aseguramiento de la calidad",
-variety: "Variedad",
+  specifications: "Especificaciones",
+  quality_assurance: "Aseguramiento de la calidad",
+  variety: "Variedad",
 
-hs_code:"Código HS",
-container_capacity: "Capacidad del contenedor",
+  hs_code: "Código HS",
+  container_capacity: "Capacidad del contenedor",
   privacy_policy_title: "Política de Privacidad",
   privacy_policy_content: `<div class='policy-content'><h2>Política de Privacidad<\/h2><p><strong>Fecha de Entrada en Vigor:<\/strong> 20/04/2025<\/p><p>Mile Overseas (\"nosotros\", \"nos\" o \"nuestro\") se compromete a proteger la privacidad de su información. Esta Política de Privacidad explica cómo recopilamos, usamos y divulgamos información cuando utiliza nuestro sitio web <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (el \"Sitio Web\").<\/p><ol><li><strong>Información que Recopilamos<\/strong><br>Podemos recopilar los siguientes tipos de información:<br><strong>Información Personal:<\/strong> Es información que puede utilizarse para identificarle, como su nombre, dirección de correo electrónico, número de teléfono, nombre de la empresa, dirección y cualquier información que nos proporcione voluntariamente a través de formularios de contacto, correo electrónico u otros canales de comunicación.<br><strong>Información No Personal:<\/strong> Es información que no le identifica directamente. Esto puede incluir:<ul><li><strong>Datos de Registro:<\/strong> Nuestros servidores registran automáticamente la información (\"Datos de Registro\") creada por su uso del Sitio Web. Los Datos de Registro pueden incluir su dirección IP, tipo de navegador, proveedor de servicios de Internet, páginas de referencia/salida, sistema operativo, sellos de fecha/hora y datos relacionados.<\/li><li><strong>Cookies y Tecnologías Similares:<\/strong> Podemos utilizar cookies, balizas web y tecnologías de seguimiento similares para recopilar información sobre su actividad de navegación en nuestro Sitio Web. Las cookies son pequeños archivos de datos almacenados en su dispositivo que nos ayudan a mejorar nuestro Sitio Web y su experiencia. Puede controlar el uso de cookies a nivel de navegador individual, pero si elige deshabilitar las cookies, puede limitar su uso de ciertas características o funciones en nuestro Sitio Web.<\/li><li><strong>Datos de Uso del Sitio Web:<\/strong> Podemos recopilar información sobre cómo utiliza nuestro Sitio Web, como las páginas que visita, los enlaces en los que hace clic y el tiempo que pasa en nuestro Sitio Web.<\/li><\/ul><\/li><li><strong>Cómo Recopilamos la Información<\/strong><br>Recopilamos información de las siguientes maneras:<ul><li><strong>Información que Usted Proporciona Directamente:<\/strong> Recopilamos Información Personal cuando nos la envía voluntariamente, como cuando usted:<ul><li>Rellena formularios de contacto en nuestro Sitio Web.<\/li><li>Se pone en contacto con nosotros por correo electrónico o teléfono.<\/li><li>Solicita un presupuesto o información sobre nuestros productos.<\/li><li>Se suscribe a nuestro boletín (si aplica).<\/li><\/ul><\/li><li><strong>Información Recopilada Automáticamente:<\/strong> Recopilamos automáticamente Información No Personal mientras navega e interactúa con nuestro Sitio Web utilizando cookies y registros del servidor.<\/li><\/ul><\/li><li><strong>Uso de la Información<\/strong><br>Podemos utilizar la información recopilada para los siguientes fines:<ul><li><strong>Para Proporcionar y Mejorar nuestro Sitio Web:<\/strong> Para operar, mantener y mejorar nuestro Sitio Web y la experiencia del usuario.<\/li><li><strong>Para Responder a Consultas:<\/strong> Para responder a sus solicitudes, preguntas y consultas enviadas a través de nuestro Sitio Web u otros canales de comunicación.<\/li><li><strong>Para Procesar Solicitudes:<\/strong> Para procesar sus solicitudes de presupuestos, información de productos u otros servicios.<\/li><li><strong>Para Enviar Comunicaciones de Marketing (si aplica):<\/strong> Con su consentimiento, podemos enviarle boletines, correos electrónicos de marketing u otros materiales promocionales sobre nuestros productos y servicios. Puede optar por no recibir estas comunicaciones en cualquier momento siguiendo las instrucciones para darse de baja proporcionadas en la comunicación o contactándonos directamente.<\/li><li><strong>Para Análisis y Optimización del Sitio Web:<\/strong> Para analizar las tendencias de uso del Sitio Web, rastrear los movimientos de los usuarios y recopilar información demográfica para mejorar el diseño, la funcionalidad y el contenido de nuestro Sitio Web.<\/li><li><strong>Cumplimiento Legal:<\/strong> Para cumplir con las leyes, regulaciones, procesos legales o solicitudes gubernamentales aplicables.<\/li><\/ul><\/li><li><strong>Intercambio y Divulgación de Información<\/strong><br>Podemos compartir su información en las siguientes circunstancias:<ul><li><strong>Proveedores de Servicios:<\/strong> Podemos compartir información con proveedores de servicios externos que realizan servicios en nuestro nombre, como alojamiento de sitios web, análisis de datos, entrega de correo electrónico y servicio al cliente. Estos proveedores de servicios están obligados contractualmente a proteger su información y a utilizarla únicamente para los fines para los que se la revelamos.<\/li><li><strong>Transferencias de Negocios:<\/strong> En caso de fusión, adquisición, reorganización, venta de activos o quiebra, su información puede ser transferida o divulgada como parte de esa transacción.<\/li><li><strong>Requisitos Legales:<\/strong> Podemos divulgar su información si así lo exige la ley o en respuesta a solicitudes válidas de autoridades públicas (por ejemplo, orden judicial, citación, regulación gubernamental).<\/li><li><strong>Protección de Derechos:<\/strong> Podemos divulgar información cuando creamos que es necesario investigar, prevenir o tomar medidas con respecto a actividades ilegales, sospecha de fraude, situaciones que involucren amenazas potenciales a la seguridad de cualquier persona, violaciones de nuestros Términos de Uso o según lo exija la ley.<\/li><\/ul><\/li><li><strong>Seguridad de los Datos<\/strong><br>Tomamos medidas razonables para proteger su información del acceso, uso o divulgación no autorizados. Sin embargo, ningún método de transmisión por Internet o método de almacenamiento electrónico es completamente seguro. Por lo tanto, aunque nos esforzamos por utilizar medios comercialmente aceptables para proteger su Información Personal, no podemos garantizar su seguridad absoluta.<\/li><li><strong>Cookies y Tecnologías de Seguimiento<\/strong><br>Utilizamos cookies y tecnologías similares para mejorar su experiencia en nuestro Sitio Web. Al utilizar nuestro Sitio Web, usted consiente el uso de cookies como se describe en esta política. Puede administrar sus preferencias de cookies a través de la configuración de su navegador. Consulte la documentación de ayuda de su navegador para obtener más información sobre cómo bloquear o eliminar cookies.<\/li><li><strong>Enlaces de Terceros<\/strong><br>Nuestro Sitio Web puede contener enlaces a sitios web o servicios de terceros que no son de nuestra propiedad ni están controlados por nosotros. No somos responsables de las prácticas de privacidad de estos sitios web de terceros. Le recomendamos que revise las políticas de privacidad de esos sitios web antes de proporcionarles cualquier Información Personal.<\/li><li><strong>Retención de Datos<\/strong><br>Conservaremos su Información Personal durante el tiempo necesario para cumplir con los fines descritos en esta Política de Privacidad, a menos que la ley exija o permita un período de retención más largo.<\/li><li><strong>Sus Derechos<\/strong><br>Usted puede tener ciertos derechos con respecto a su Información Personal, sujeto a la ley aplicable. Estos derechos pueden incluir:<ul><li><strong>Acceso:<\/strong> El derecho a solicitar acceso a la Información Personal que tenemos sobre usted.<\/li><li><strong>Corrección:<\/strong> El derecho a solicitar que corrijamos cualquier Información Personal inexacta o incompleta.<\/li><li><strong>Supresión:<\/strong> El derecho a solicitar que eliminemos su Información Personal, bajo ciertas circunstancias.<\/li><li><strong>Oposición al Tratamiento:<\/strong> El derecho a oponerse al tratamiento de su Información Personal para ciertos fines, como el marketing directo.<\/li><\/ul>Para ejercer estos derechos, póngase en contacto con nosotros utilizando la información de contacto proporcionada a continuación. Responderemos a su solicitud de acuerdo con la ley aplicable.<\/li><li><strong>Privacidad de los Menores<\/strong><br>Nuestro Sitio Web no está destinado a menores de 16 años. No recopilamos conscientemente Información Personal de menores de esta edad. Si usted es padre o tutor y cree que su hijo nos ha proporcionado Información Personal, póngase en contacto con nosotros de inmediato y tomaremos medidas para eliminar dicha información.<\/li><li><strong>Cambios a esta Política de Privacidad<\/strong><br>Podemos actualizar esta Política de Privacidad de vez en cuando para reflejar cambios en nuestras prácticas o leyes aplicables. Publicaremos cualquier cambio en esta página y actualizaremos la \"Fecha de Entrada en Vigor\" en la parte superior de esta Política de Privacidad. Le recomendamos que revise esta Política de Privacidad periódicamente para cualquier actualización. Para cambios significativos, podemos proporcionar un aviso más destacado (por ejemplo, en nuestro sitio web o por correo electrónico).<\/li><li><strong>Contáctenos<\/strong><br>Si tiene alguna pregunta, inquietud o solicitud con respecto a esta Política de Privacidad o nuestras prácticas de datos, contáctenos en:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
 };
 
+// Placeholder chat translations (replace with Spanish)
+esTranslations.chat_toggle = "Chat";
+esTranslations.chat_title = "Live Chat";
+esTranslations.chat_placeholder = "Type your question...";
+esTranslations.chat_send = "Send";
+esTranslations.chat_lead_prompt =
+  "Share your email & product to get a detailed quote:";
+esTranslations.chat_lead_email_placeholder = "Your email";
+esTranslations.chat_lead_product_placeholder = "Product / Volume (optional)";
+esTranslations.chat_lead_submit = "Submit";
+esTranslations.chat_lead_cancel = "Cancel";
+esTranslations.chat_lead_invalid_email = "Enter valid email";
+esTranslations.chat_lead_success =
+  "Thank you! Our export team will contact {email} shortly.{product}";
+esTranslations.chat_lead_error =
+  "There was an issue sending your request. Please email info@mileoverseas.com";
+esTranslations.chat_user_submitted_quote = "Submitted quote request.";
+esTranslations.chat_sending = "Sending...";
+esTranslations.chat_welcome =
+  "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms.";
+esTranslations.chat_fallback =
+  "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
+esTranslations.chat_fallback_keywords_prefix = " (Keywords detected: ";
+esTranslations.chat_intent_greeting =
+  "Hello! Ask me about shipping, MOQ, samples, certifications, pricing, products or documents.";
+esTranslations.chat_intent_shipping =
+  "Typical sea freight transit: UAE 15-20d, Saudi 18-22d, Qatar 16-20d. Air: 2-5d depending on route.";
+esTranslations.chat_intent_moq =
+  "MOQ: Usually one 20ft container (≈14 MT cumin / 16 MT turmeric). 40ft options available.";
+esTranslations.chat_intent_samples =
+  "We provide free samples up to 500g via DHL to GCC (≈3-5 business days).";
+esTranslations.chat_intent_certifications =
+  "Available: ISO, Organic (req), Halal (if needed), GCC docs, phytosanitary, fumigation, COA.";
+esTranslations.chat_intent_pricing =
+  "Pricing depends on spice, grade, packaging & incoterm. Share product + volume + port.";
+esTranslations.chat_intent_products =
+  "Main exports: Cumin, Turmeric, Chilli, Coriander, Fennel, Fenugreek, Pepper, Ginger.";
+esTranslations.chat_intent_payment =
+  "Common terms: LC at sight, 30% advance + 70% against docs, LC usance.";
+esTranslations.chat_intent_escalate =
+  "I can collect your email & product so our export team responds quickly. Click Get a Quote.";
+esTranslations.chat_fact_list =
+  "Turmeric’s curcumin content is a key quality marker.|Steam sterilization reduces microbial load.|Container lining reduces moisture ingress.|Chilli heat measured in Scoville units.";
+esTranslations.chat_suggestion_shipping = "Shipping times";
+esTranslations.chat_suggestion_moq = "MOQ";
+esTranslations.chat_suggestion_samples = "Samples";
+esTranslations.chat_suggestion_certifications = "Certifications";
+esTranslations.chat_suggestion_pricing = "Pricing";
+esTranslations.chat_suggestion_quote = "Get a Quote";
+
 export default esTranslations;
+
+// Chat suggestion question placeholders (to translate)
+if (typeof esTranslations.chat_question_shipping === "undefined") {
+  Object.assign(esTranslations, {
+    chat_question_shipping: "What are your shipping times?",
+    chat_question_moq: "What is your MOQ?",
+    chat_question_samples: "Do you provide samples?",
+    chat_question_certifications: "What certifications do you have?",
+    chat_question_pricing: "How do I get pricing?",
+    chat_question_quote: "I need a quote",
+  });
+}
+
+// Spanish translations for chat questions
+Object.assign(esTranslations, {
+  chat_question_shipping: "¿Cuáles son sus tiempos de envío?",
+  chat_question_moq: "¿Cuál es su MOQ (cantidad mínima)?",
+  chat_question_samples: "¿Proporcionan muestras?",
+  chat_question_certifications: "¿Qué certificaciones tienen?",
+  chat_question_pricing: "¿Cómo obtengo los precios?",
+  chat_question_quote: "Necesito una cotización",
+});
+
+// Spanish intent/localized answers
+Object.assign(esTranslations, {
+  chat_intent_greeting:
+    "¡Hola! Pregúntame sobre envío, MOQ, muestras, certificaciones, precios, productos o documentos.",
+  chat_intent_shipping:
+    "Tránsitos marítimos típicos: EAU 15–20 días, Arabia Saudita 18–22, Catar 16–20. Aéreo: 2–5 días según ruta.",
+  chat_intent_moq:
+    "MOQ: Normalmente un contenedor de 20 pies (≈14 MT comino / 16 MT cúrcuma). 40 pies disponible para mayores volúmenes.",
+  chat_intent_samples:
+    "Ofrecemos muestras gratuitas hasta 500 g vía DHL a la región GCC (≈3–5 días hábiles).",
+  chat_intent_certifications:
+    "Disponibles: ISO, Orgánico (a solicitud), Halal (si se requiere), documentos GCC (ESMA, SFDA), fitosanitario, fumigación y COA completo.",
+  chat_intent_pricing:
+    "El precio depende de la especia, grado, empaque e Incoterm (FOB/CIF/CNF). Comparte producto + volumen + puerto.",
+  chat_intent_products:
+    "Principales exportaciones: Comino, Cúrcuma, Chiles, Cilantro, Hinojo, Fenogreco, Pimienta, Jengibre.",
+  chat_intent_payment:
+    "Términos comunes: LC a la vista, 30% anticipo + 70% contra documentos o LC usance.",
+  chat_intent_escalate:
+    "Puedo tomar tu correo y producto de interés para que nuestro equipo comercial te responda rápido. Haz clic en Obtener cotización.",
+});

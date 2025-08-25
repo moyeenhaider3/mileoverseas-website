@@ -496,8 +496,10 @@ const jaTranslations = {
   custom_spice_title: "カスタムスパイスソリューション",
   custom_spice_description:
     "標準的な提供品に加えて、お客様の特定の要件に基づいて追加のスパイスを調達し、加工することができます。当社の柔軟なアプローチにより、グローバル市場全体で多様なバイヤーのニーズを満たすことができます。",
-  custom_spice_p1: "お客様のニーズに合わせて、さまざまなスパイスをカスタマイズできます。",
-  custom_spice_p2: "カスタムスパイスのご要望についてご相談いただき、どのように当社のソリューションをお客様のニーズに合わせてカスタマイズできるかをご案内します。",
+  custom_spice_p1:
+    "お客様のニーズに合わせて、さまざまなスパイスをカスタマイズできます。",
+  custom_spice_p2:
+    "カスタムスパイスのご要望についてご相談いただき、どのように当社のソリューションをお客様のニーズに合わせてカスタマイズできるかをご案内します。",
   custom_spice_contact:
     "カスタムスパイスの要件について話し合い、お客様のニーズに合わせて当社のソリューションをどのように調整できるかを探るために、お問い合わせください。",
   custom_spice_button: "カスタムスパイスについて問い合わせる",
@@ -521,7 +523,7 @@ const jaTranslations = {
   error_loading_product: "製品詳細の読み込み中にエラーが発生しました。",
   no_products_available: "商品がありません。",
   no_products_found: "商品が見つかりません。他の検索をお試しください。",
-  hs_code:"HSコード",
+  hs_code: "HSコード",
 
   // Privacy Policy
   privacy_policy_title: "プライバシーポリシー",
@@ -536,3 +538,97 @@ const jaTranslations = {
 };
 
 export default jaTranslations;
+
+// Chat suggestion question placeholders (to translate)
+if (typeof jaTranslations.chat_question_shipping === "undefined") {
+  Object.assign(jaTranslations, {
+    chat_question_shipping: "What are your shipping times?",
+    chat_question_moq: "What is your MOQ?",
+    chat_question_samples: "Do you provide samples?",
+    chat_question_certifications: "What certifications do you have?",
+    chat_question_pricing: "How do I get pricing?",
+    chat_question_quote: "I need a quote",
+  });
+}
+
+// Japanese translations for chat questions
+Object.assign(jaTranslations, {
+  chat_question_shipping: "出荷リードタイムはどれくらいですか？",
+  chat_question_moq: "最小発注量 (MOQ) はいくつですか？",
+  chat_question_samples: "サンプルは提供していますか？",
+  chat_question_certifications: "どのような認証がありますか？",
+  chat_question_pricing: "価格はどのように入手できますか？",
+  chat_question_quote: "見積もりが必要です",
+});
+
+// Japanese intent/localized answers
+Object.assign(jaTranslations, {
+  chat_intent_greeting:
+    "こんにちは！ 出荷、MOQ、サンプル、認証、価格、製品、書類について質問してください。",
+  chat_intent_shipping:
+    "海上輸送: UAE 15〜20日、サウジ 18〜22日、カタール 16〜20日。航空貨物: 約2〜5日。",
+  chat_intent_moq:
+    "MOQ: 通常20フィートコンテナ1本 (≈14MT クミン / 16MT ターメリック)。大口は40フィート可。",
+  chat_intent_samples:
+    "GCC向けにDHLで最大500gの無料サンプル提供 (約3〜5営業日)。",
+  chat_intent_certifications:
+    "ISO、有機(要請時)、ハラール(必要時)、GCC文書(ESMA, SFDA)、植物検疫、燻蒸、COA。",
+  chat_intent_pricing:
+    "価格はスパイス、グレード、包装、インコターム(FOB/CIF/CNF)によります。製品+数量+港を共有してください。",
+  chat_intent_products:
+    "主要輸出: クミン、ターメリック、チリ、コリアンダー、フェンネル、フェヌグリーク、ペッパー、ジンジャー。",
+  chat_intent_payment:
+    "一般条件: 一覧払 L/C、30% 前金 + 70% 書類提示後、または L/C ユーザンス。",
+  chat_intent_escalate:
+    "迅速な対応のためメールと関心製品をお知らせください。見積依頼をクリック。",
+});
+
+// Placeholder chat translations (replace with Japanese)
+jaTranslations.chat_toggle = "Chat";
+jaTranslations.chat_title = "Live Chat";
+jaTranslations.chat_placeholder = "Type your question...";
+jaTranslations.chat_send = "Send";
+jaTranslations.chat_lead_prompt =
+  "Share your email & product to get a detailed quote:";
+jaTranslations.chat_lead_email_placeholder = "Your email";
+jaTranslations.chat_lead_product_placeholder = "Product / Volume (optional)";
+jaTranslations.chat_lead_submit = "Submit";
+jaTranslations.chat_lead_cancel = "Cancel";
+jaTranslations.chat_lead_invalid_email = "Enter valid email";
+jaTranslations.chat_lead_success =
+  "Thank you! Our export team will contact {email} shortly.{product}";
+jaTranslations.chat_lead_error =
+  "There was an issue sending your request. Please email info@mileoverseas.com";
+jaTranslations.chat_user_submitted_quote = "Submitted quote request.";
+jaTranslations.chat_sending = "Sending...";
+jaTranslations.chat_welcome =
+  "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms.";
+jaTranslations.chat_fallback =
+  "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
+jaTranslations.chat_fallback_keywords_prefix = " (Keywords detected: ";
+jaTranslations.chat_intent_greeting =
+  "Hello! Ask me about shipping, MOQ, samples, certifications, pricing, products or documents.";
+jaTranslations.chat_intent_shipping =
+  "Typical sea freight transit: UAE 15-20d, Saudi 18-22d, Qatar 16-20d. Air: 2-5d depending on route.";
+jaTranslations.chat_intent_moq =
+  "MOQ: Usually one 20ft container (≈14 MT cumin / 16 MT turmeric). 40ft options available.";
+jaTranslations.chat_intent_samples =
+  "We provide free samples up to 500g via DHL to GCC (≈3-5 business days).";
+jaTranslations.chat_intent_certifications =
+  "Available: ISO, Organic (req), Halal (if needed), GCC docs, phytosanitary, fumigation, COA.";
+jaTranslations.chat_intent_pricing =
+  "Pricing depends on spice, grade, packaging & incoterm. Share product + volume + port.";
+jaTranslations.chat_intent_products =
+  "Main exports: Cumin, Turmeric, Chilli, Coriander, Fennel, Fenugreek, Pepper, Ginger.";
+jaTranslations.chat_intent_payment =
+  "Common terms: LC at sight, 30% advance + 70% against docs, LC usance.";
+jaTranslations.chat_intent_escalate =
+  "I can collect your email & product so our export team responds quickly. Click Get a Quote.";
+jaTranslations.chat_fact_list =
+  "Turmeric’s curcumin content is a key quality marker.|Steam sterilization reduces microbial load.|Container lining reduces moisture ingress.|Chilli heat measured in Scoville units.";
+jaTranslations.chat_suggestion_shipping = "Shipping times";
+jaTranslations.chat_suggestion_moq = "MOQ";
+jaTranslations.chat_suggestion_samples = "Samples";
+jaTranslations.chat_suggestion_certifications = "Certifications";
+jaTranslations.chat_suggestion_pricing = "Pricing";
+jaTranslations.chat_suggestion_quote = "Get a Quote";

@@ -1,3 +1,29 @@
 User-agent: *
 Allow: /
-Sitemap: https://mileoverseas.com/sitemap.xml
+
+# Allow important crawling
+Allow: /products/
+Allow: /blog/
+Allow: /markets/
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Disallow unnecessary crawling
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: *.pdf$
+Disallow: /search/
+Disallow: /*?*
+
+# Crawl-delay for bots
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://www.mileoverseas.com/sitemap.xml
+Sitemap: https://www.mileoverseas.com/blog-sitemap.xml
+
+# Cache
+User-agent: *
+Cache: public, max-age=31536000

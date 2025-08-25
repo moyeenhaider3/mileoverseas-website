@@ -98,7 +98,8 @@ const deTranslations = {
   products_available_forms: "Verfügbare Formen",
   products_packaging_sizes: "Verpackungsgrößen",
   products_hero_headline: "Unsere Premium-Gewürzprodukte",
-  products_hero_subheadline: "Entdecken Sie unsere Auswahl an hochwertigen Gewürzen und Zutaten",
+  products_hero_subheadline:
+    "Entdecken Sie unsere Auswahl an hochwertigen Gewürzen und Zutaten",
   search_by_name: "Nach Namen suchen...",
 
   // Chilli Varieties
@@ -496,8 +497,10 @@ const deTranslations = {
 
   // Custom spice section
   custom_spice_title: "Individuelle Gewürzlösungen",
-  custom_spice_p1: "Über unser Standardangebot hinaus können wir zusätzliche Gewürze nach Ihren spezifischen Anforderungen beschaffen und verarbeiten. Unser flexibler Ansatz stellt sicher, dass wir die unterschiedlichen Bedürfnisse von Käufern auf globalen Märkten erfüllen können.",
-  custom_spice_p2: "Kontaktieren Sie uns, um Ihre individuellen Gewürzanforderungen zu besprechen und herauszufinden, wie wir unsere Lösungen auf Ihre Bedürfnisse zuschneiden können.",
+  custom_spice_p1:
+    "Über unser Standardangebot hinaus können wir zusätzliche Gewürze nach Ihren spezifischen Anforderungen beschaffen und verarbeiten. Unser flexibler Ansatz stellt sicher, dass wir die unterschiedlichen Bedürfnisse von Käufern auf globalen Märkten erfüllen können.",
+  custom_spice_p2:
+    "Kontaktieren Sie uns, um Ihre individuellen Gewürzanforderungen zu besprechen und herauszufinden, wie wir unsere Lösungen auf Ihre Bedürfnisse zuschneiden können.",
   custom_spice_btn: "Anfrage zu individuellen Gewürzen",
   product_overview: "Produktübersicht",
   features_label: "Wichtigste Produktmerkmale",
@@ -516,16 +519,111 @@ const deTranslations = {
   certified: "Zertifiziert",
   enquire_now: "Jetzt anfragen",
   no_products_available: "Keine Produkte verfügbar.",
-  no_products_found: "Keine Produkte gefunden. Versuchen Sie eine andere Suche.",
+  no_products_found:
+    "Keine Produkte gefunden. Versuchen Sie eine andere Suche.",
 
   specifications: "Spezifikationen",
   quality_assurance: "Qualitätssicherung",
   variety: "Vielfalt",
   container_capacity: "Containerkapazität",
-  hs_code:"HS-Code",
+  hs_code: "HS-Code",
 
   privacy_policy_title: "Datenschutzrichtlinie",
   privacy_policy_content: `<div class='policy-content'><h2>Datenschutzerklärung<\/h2><p><strong>Datum des Inkrafttretens:<\/strong> 20.04.2025<\/p><p>Mile Overseas (\"wir,\" \"uns,\" oder \"unser\") verpflichtet sich, die Privatsphäre Ihrer Informationen zu schützen. Diese Datenschutzerklärung erläutert, wie wir Informationen erheben, verwenden und offenlegen, wenn Sie unsere Website <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (die \"Website\") nutzen.<\/p><ol><li><strong>Welche Informationen wir erheben<\/strong><br>Wir können die folgenden Arten von Informationen erheben:<br><strong>Personenbezogene Daten:<\/strong> Dies sind Informationen, die zur Identifizierung Ihrer Person verwendet werden können, wie z. B. Ihr Name, Ihre E-Mail-Adresse, Telefonnummer, Firmenname, Adresse und alle Informationen, die Sie uns freiwillig über Kontaktformulare, E-Mail oder andere Kommunikationskanäle zur Verfügung stellen.<br><strong>Nicht personenbezogene Daten:<\/strong> Dies sind Informationen, die Sie nicht direkt identifizieren. Dazu können gehören:<ul><li><strong>Protokolldaten:<\/strong> Unsere Server zeichnen automatisch Informationen (\"Protokolldaten\") auf, die durch Ihre Nutzung der Website entstehen. Protokolldaten können Ihre IP-Adresse, den Browsertyp, den Internetdienstanbieter, verweisende/verlassende Seiten, das Betriebssystem, Datums-/Zeitstempel und zugehörige Daten umfassen.<\/li><li><strong>Cookies und ähnliche Technologien:<\/strong> Wir können Cookies, Web Beacons und ähnliche Tracking-Technologien verwenden, um Informationen über Ihre Browsing-Aktivitäten auf unserer Website zu sammeln. Cookies sind kleine Datendateien, die auf Ihrem Gerät gespeichert werden und uns helfen, unsere Website und Ihre Erfahrung zu verbessern. Sie können die Verwendung von Cookies auf der Ebene des einzelnen Browsers steuern. Wenn Sie Cookies jedoch deaktivieren, kann dies Ihre Nutzung bestimmter Features oder Funktionen auf unserer Website einschränken.<\/li><li><strong>Website-Nutzungsdaten:<\/strong> Wir können Informationen darüber sammeln, wie Sie unsere Website nutzen, z. B. welche Seiten Sie besuchen, auf welche Links Sie klicken und wie viel Zeit Sie auf unserer Website verbringen.<\/li><\/ul><\/li><li><strong>Wie wir Informationen erheben<\/strong><br>Wir erheben Informationen auf folgende Weise:<ul><li><strong>Informationen, die Sie direkt bereitstellen:<\/strong> Wir erheben personenbezogene Daten, wenn Sie uns diese freiwillig übermitteln, z. B. wenn Sie:<ul><li>Kontaktformulare auf unserer Website ausfüllen.<\/li><li>Uns per E-Mail oder Telefon kontaktieren.<\/li><li>Ein Angebot oder Informationen zu unseren Produkten anfordern.<\/li><li>Unseren Newsletter abonnieren (falls zutreffend).<\/li><\/ul><\/li><li><strong>Automatisch erhobene Informationen:<\/strong> Wir erheben automatisch nicht personenbezogene Daten, während Sie unsere Website durchsuchen und mit ihr interagieren, indem wir Cookies und Serverprotokolle verwenden.<\/li><\/ul><\/li><li><strong>Verwendung von Informationen<\/strong><br>Wir können die erhobenen Informationen für die folgenden Zwecke verwenden:<ul><li><strong>Zur Bereitstellung und Verbesserung unserer Website:<\/strong> Zum Betrieb, zur Wartung und zur Verbesserung unserer Website und der Benutzererfahrung.<\/li><li><strong>Zur Beantwortung von Anfragen:<\/strong> Um auf Ihre Anfragen, Fragen und Erkundigungen zu antworten, die über unsere Website oder andere Kommunikationskanäle übermittelt wurden.<\/li><li><strong>Zur Bearbeitung von Anfragen:<\/strong> Zur Bearbeitung Ihrer Anfragen nach Angeboten, Produktinformationen oder anderen Dienstleistungen.<\/li><li><strong>Zum Versand von Marketingmitteilungen (falls zutreffend):<\/strong> Mit Ihrer Einwilligung können wir Ihnen Newsletter, Marketing-E-Mails oder andere Werbematerialien über unsere Produkte und Dienstleistungen zusenden. Sie können dem Erhalt dieser Mitteilungen jederzeit widersprechen, indem Sie den in der Mitteilung enthaltenen Abmeldeanweisungen folgen oder uns direkt kontaktieren.<\/li><li><strong>Für Analysen und Website-Optimierung:<\/strong> Zur Analyse von Website-Nutzungstrends, zur Verfolgung von Benutzerbewegungen und zur Erfassung demografischer Informationen, um das Design, die Funktionalität und den Inhalt unserer Website zu verbessern.<\/li><li><strong>Einhaltung gesetzlicher Vorschriften:<\/strong> Zur Einhaltung geltender Gesetze, Vorschriften, rechtlicher Verfahren oder behördlicher Anfragen.<\/li><\/ul><\/li><li><strong>Weitergabe und Offenlegung von Informationen<\/strong><br>Wir können Ihre Informationen unter den folgenden Umständen weitergeben:<ul><li><strong>Dienstleister:<\/strong> Wir können Informationen an Drittanbieter weitergeben, die Dienstleistungen in unserem Namen erbringen, wie z. B. Website-Hosting, Datenanalyse, E-Mail-Zustellung und Kundenservice. Diese Dienstleister sind vertraglich verpflichtet, Ihre Informationen zu schützen und sie nur für die Zwecke zu verwenden, für die wir sie ihnen offenlegen.<\/li><li><strong>Geschäftsübertragungen:<\/strong> Im Falle einer Fusion, Übernahme, Umstrukturierung, eines Verkaufs von Vermögenswerten oder einer Insolvenz können Ihre Informationen als Teil dieser Transaktion übertragen oder offengelegt werden.<\/li><li><strong>Gesetzliche Anforderungen:<\/strong> Wir können Ihre Informationen offenlegen, wenn dies gesetzlich vorgeschrieben ist oder als Reaktion auf gültige Anfragen von Behörden (z. B. Gerichtsbeschluss, Vorladung, behördliche Vorschrift).<\/li><li><strong>Schutz von Rechten:<\/strong> Wir können Informationen offenlegen, wenn wir glauben, dass dies zur Untersuchung, Verhinderung oder Ergreifung von Maßnahmen in Bezug auf illegale Aktivitäten, mutmaßlichen Betrug, Situationen, die potenzielle Gefahren für die Sicherheit von Personen beinhalten, Verstöße gegen unsere Nutzungsbedingungen oder wie anderweitig gesetzlich vorgeschrieben, erforderlich ist.<\/li><\/ul><\/li><li><strong>Datensicherheit<\/strong><br>Wir ergreifen angemessene Maßnahmen, um Ihre Informationen vor unbefugtem Zugriff, unbefugter Nutzung oder unbefugter Offenlegung zu schützen. Keine Methode der Übertragung über das Internet oder Methode der elektronischen Speicherung ist jedoch vollständig sicher. Obwohl wir uns bemühen, wirtschaftlich angemessene Mittel zum Schutz Ihrer personenbezogenen Daten einzusetzen, können wir deren absolute Sicherheit nicht garantieren.<\/li><li><strong>Cookies und Tracking-Technologien<\/strong><br>Wir verwenden Cookies und ähnliche Technologien, um Ihre Erfahrung auf unserer Website zu verbessern. Durch die Nutzung unserer Website stimmen Sie der Verwendung von Cookies gemäß dieser Richtlinie zu. Sie können Ihre Cookie-Einstellungen über Ihre Browsereinstellungen verwalten. Weitere Informationen zum Blockieren oder Löschen von Cookies finden Sie in der Hilfedokumentation Ihres Browsers.<\/li><li><strong>Links zu Drittanbietern<\/strong><br>Unsere Website kann Links zu Websites oder Diensten Dritter enthalten, die nicht unser Eigentum sind oder von uns kontrolliert werden. Wir sind nicht verantwortlich für die Datenschutzpraktiken dieser Websites Dritter. Wir empfehlen Ihnen, die Datenschutzerklärungen dieser Websites zu lesen, bevor Sie ihnen personenbezogene Daten zur Verfügung stellen.<\/li><li><strong>Datenspeicherung<\/strong><br>Wir bewahren Ihre personenbezogenen Daten so lange auf, wie es zur Erfüllung der in dieser Datenschutzerklärung dargelegten Zwecke erforderlich ist, es sei denn, eine längere Speicherfrist ist gesetzlich vorgeschrieben oder erlaubt.<\/li><li><strong>Ihre Rechte<\/strong><br>Sie haben möglicherweise bestimmte Rechte bezüglich Ihrer personenbezogenen Daten, vorbehaltlich geltenden Rechts. Diese Rechte können umfassen:<ul><li><strong>Auskunft:<\/strong> Das Recht, Auskunft über die personenbezogenen Daten zu verlangen, die wir über Sie gespeichert haben.<\/li><li><strong>Berichtigung:<\/strong> Das Recht zu verlangen, dass wir unrichtige oder unvollständige personenbezogene Daten korrigieren.<\/li><li><strong>Löschung:<\/strong> Das Recht zu verlangen, dass wir Ihre personenbezogenen Daten unter bestimmten Umständen löschen.<\/li><li><strong>Widerspruch gegen die Verarbeitung:<\/strong> Das Recht, der Verarbeitung Ihrer personenbezogenen Daten für bestimmte Zwecke, wie z. B. Direktmarketing, zu widersprechen.<\/li><\/ul>Um diese Rechte auszuüben, kontaktieren Sie uns bitte über die unten angegebenen Kontaktinformationen. Wir werden auf Ihre Anfrage gemäß geltendem Recht antworten.<\/li><li><strong>Datenschutz von Kindern<\/strong><br>Unsere Website ist nicht für Kinder unter 16 Jahren bestimmt. Wir erheben nicht wissentlich personenbezogene Daten von Kindern unter diesem Alter. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und glauben, dass Ihr Kind uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte umgehend, und wir werden Maßnahmen ergreifen, um diese Informationen zu löschen.<\/li><li><strong>Änderungen dieser Datenschutzerklärung<\/strong><br>Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Änderungen unserer Praktiken oder geltender Gesetze widerzuspiegeln. Wir werden alle Änderungen auf dieser Seite veröffentlichen und das \"Datum des Inkrafttretens\" oben in dieser Datenschutzerklärung aktualisieren. Wir empfehlen Ihnen, diese Datenschutzerklärung regelmäßig auf Aktualisierungen zu überprüfen. Bei wesentlichen Änderungen können wir einen deutlicheren Hinweis geben (z. B. auf unserer Website oder per E-Mail).<\/li><li><strong>Kontaktieren Sie uns<\/strong><br>Wenn Sie Fragen, Bedenken oder Anfragen zu dieser Datenschutzerklärung oder unseren Datenpraktiken haben, kontaktieren Sie uns bitte unter:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
 };
 
 export default deTranslations;
+
+// Chat suggestion question placeholders (to translate)
+if (typeof deTranslations.chat_question_shipping === "undefined") {
+  Object.assign(deTranslations, {
+    chat_question_shipping: "What are your shipping times?",
+    chat_question_moq: "What is your MOQ?",
+    chat_question_samples: "Do you provide samples?",
+    chat_question_certifications: "What certifications do you have?",
+    chat_question_pricing: "How do I get pricing?",
+    chat_question_quote: "I need a quote",
+  });
+}
+
+// Provide German translations for chat questions (override placeholders)
+Object.assign(deTranslations, {
+  chat_question_shipping: "Wie sind eure Versandzeiten?",
+  chat_question_moq: "Was ist eure Mindestbestellmenge (MOQ)?",
+  chat_question_samples: "Gebt ihr Muster heraus?",
+  chat_question_certifications: "Welche Zertifizierungen habt ihr?",
+  chat_question_pricing: "Wie erhalte ich Preise?",
+  chat_question_quote: "Ich brauche ein Angebot",
+});
+
+// German intent/localized answers
+Object.assign(deTranslations, {
+  chat_intent_greeting:
+    "Hallo! Frag mich zu Versand, MOQ, Mustern, Zertifizierungen, Preisen, Produkten oder Dokumenten.",
+  chat_intent_shipping:
+    "Typische Seefracht: VAE 15–20 Tage, Saudi-Arabien 18–22 Tage, Katar 16–20 Tage. Luftfracht: ca. 2–5 Tage je nach Route.",
+  chat_intent_moq:
+    "MOQ: Meist ein 20ft Container (≈14 MT Kreuzkümmel / 16 MT Kurkuma). 40ft möglich für größere Mengen.",
+  chat_intent_samples:
+    "Wir stellen kostenlose Qualitätsmuster bis 500g per DHL in den GCC (≈3–5 Werktage) bereit.",
+  chat_intent_certifications:
+    "Verfügbar: ISO, Organic (auf Anfrage), Halal (falls nötig), GCC-konforme Dokumente (ESMA, SFDA), Phytosanität, Begasung & vollständiges COA.",
+  chat_intent_pricing:
+    "Preis hängt ab von Gewürz, Qualität, Verpackung & Incoterm (FOB/CIF/CNF). Teile Produkt + Volumen + Bestimmungshafen.",
+  chat_intent_products:
+    "Haupt-Exporte: Kreuzkümmel, Kurkuma, Chili, Koriander, Fenchel, Bockshornklee, Pfeffer, Ingwer.",
+  chat_intent_payment:
+    "Üblich: LC at sight, 30% Anzahlung + 70% gegen Dokumente oder LC Usance.",
+  chat_intent_escalate:
+    "Ich kann deine E-Mail & Produktinteresse aufnehmen, damit sich unser Export-Team schnell meldet. Klicke auf Angebot anfordern.",
+});
+
+// Placeholder chat translations (replace with German)
+deTranslations.chat_toggle = "Chat";
+deTranslations.chat_title = "Live Chat";
+deTranslations.chat_placeholder = "Type your question...";
+deTranslations.chat_send = "Send";
+deTranslations.chat_lead_prompt =
+  "Share your email & product to get a detailed quote:";
+deTranslations.chat_lead_email_placeholder = "Your email";
+deTranslations.chat_lead_product_placeholder = "Product / Volume (optional)";
+deTranslations.chat_lead_submit = "Submit";
+deTranslations.chat_lead_cancel = "Cancel";
+deTranslations.chat_lead_invalid_email = "Enter valid email";
+deTranslations.chat_lead_success =
+  "Thank you! Our export team will contact {email} shortly.{product}";
+deTranslations.chat_lead_error =
+  "There was an issue sending your request. Please email info@mileoverseas.com";
+deTranslations.chat_user_submitted_quote = "Submitted quote request.";
+deTranslations.chat_sending = "Sending...";
+deTranslations.chat_welcome =
+  "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms.";
+deTranslations.chat_fallback =
+  "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
+deTranslations.chat_fallback_keywords_prefix = " (Keywords detected: ";
+deTranslations.chat_intent_greeting =
+  "Hello! Ask me about shipping, MOQ, samples, certifications, pricing, products or documents.";
+deTranslations.chat_intent_shipping =
+  "Typical sea freight transit: UAE 15-20d, Saudi 18-22d, Qatar 16-20d. Air: 2-5d depending on route.";
+deTranslations.chat_intent_moq =
+  "MOQ: Usually one 20ft container (≈14 MT cumin / 16 MT turmeric). 40ft options available.";
+deTranslations.chat_intent_samples =
+  "We provide free samples up to 500g via DHL to GCC (≈3-5 business days).";
+deTranslations.chat_intent_certifications =
+  "Available: ISO, Organic (req), Halal (if needed), GCC docs, phytosanitary, fumigation, COA.";
+deTranslations.chat_intent_pricing =
+  "Pricing depends on spice, grade, packaging & incoterm. Share product + volume + port.";
+deTranslations.chat_intent_products =
+  "Main exports: Cumin, Turmeric, Chilli, Coriander, Fennel, Fenugreek, Pepper, Ginger.";
+deTranslations.chat_intent_payment =
+  "Common terms: LC at sight, 30% advance + 70% against docs, LC usance.";
+deTranslations.chat_intent_escalate =
+  "I can collect your email & product so our export team responds quickly. Click Get a Quote.";
+deTranslations.chat_fact_list =
+  "Turmeric’s curcumin content is a key quality marker.|Steam sterilization reduces microbial load.|Container lining reduces moisture ingress.|Chilli heat measured in Scoville units.";
+deTranslations.chat_suggestion_shipping = "Shipping times";
+deTranslations.chat_suggestion_moq = "MOQ";
+deTranslations.chat_suggestion_samples = "Samples";
+deTranslations.chat_suggestion_certifications = "Certifications";
+deTranslations.chat_suggestion_pricing = "Pricing";
+deTranslations.chat_suggestion_quote = "Get a Quote";

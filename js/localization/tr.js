@@ -501,7 +501,8 @@ const trTranslations = {
 
   // Products Page
   products_hero_headline: "Premium Baharatlarımız",
-  products_hero_subheadline: "Yüksek kaliteli baharatlarımızı ve malzemelerimizi keşfedin",
+  products_hero_subheadline:
+    "Yüksek kaliteli baharatlarımızı ve malzemelerimizi keşfedin",
   search_by_name: "İsimle ara...",
 
   // Product Detail Page
@@ -522,8 +523,10 @@ const trTranslations = {
   product_not_found: "Ürün bulunamadı.",
   error_loading_product: "Ürün detayları yüklenirken hata oluştu.",
   custom_spice_title: "Özel Baharat Çözümleri",
-  custom_spice_p1: "Standart tekliflerimizin ötesinde, özel gereksinimlerinize göre ek baharatlar tedarik edebilir ve işleyebiliriz. Esnek yaklaşımımız, küresel pazarlarda farklı alıcı ihtiyaçlarını karşılayabilmemizi sağlar.",
-  custom_spice_p2: "Özel baharat gereksinimlerinizi görüşmek ve çözümlerimizi ihtiyaçlarınıza nasıl uyarlayabileceğimizi keşfetmek için bizimle iletişime geçin.",
+  custom_spice_p1:
+    "Standart tekliflerimizin ötesinde, özel gereksinimlerinize göre ek baharatlar tedarik edebilir ve işleyebiliriz. Esnek yaklaşımımız, küresel pazarlarda farklı alıcı ihtiyaçlarını karşılayabilmemizi sağlar.",
+  custom_spice_p2:
+    "Özel baharat gereksinimlerinizi görüşmek ve çözümlerimizi ihtiyaçlarınıza nasıl uyarlayabileceğimizi keşfetmek için bizimle iletişime geçin.",
   custom_spice_btn: "Özel Baharatlar Hakkında Sorgula",
   no_products_available: "Mevcut ürün yok.",
   no_products_found: "Ürün bulunamadı. Başka bir arama deneyin.",
@@ -532,14 +535,107 @@ const trTranslations = {
   privacy_policy_title: "Gizlilik Politikası",
   privacy_policy_content: `<div class='policy-content'>Gizlilik politikası içeriği yakında burada Türkçe olarak eklenecektir.<\/div>`,
 
-  hs_code:"GTİP Kodu",
+  hs_code: "GTİP Kodu",
   specifications: "Özellikler",
   quality_assurance: "Kalite Güvencesi",
   variety: "Çeşit",
   container_capacity: "Konteyner Kapasitesi",
   privacy_policy_title: "Gizlilik Politikası",
   privacy_policy_content: `<div class='policy-content'><h2>Gizlilik Politikası<\/h2><p><strong>Yürürlük Tarihi:<\/strong> 20.04.2025<\/p><p>Mile Overseas (\"biz\", \"bize\" veya \"bizim\") bilgilerinizin gizliliğini korumayı taahhüt eder. Bu Gizlilik Politikası, web sitemizi <a href=\"https://mileoverseas.com/\">https://mileoverseas.com/<\/a> (\"Web Sitesi\") kullandığınızda bilgileri nasıl topladığımızı, kullandığımızı ve ifşa ettiğimizi açıklar.<\/p><ol><li><strong>Topladığımız Bilgiler<\/strong><br>Aşağıdaki türde bilgileri toplayabiliriz:<br><strong>Kişisel Bilgiler:<\/strong> Adınız, e-posta adresiniz, telefon numaranız, şirket adınız, adresiniz ve iletişim formları, e-posta veya diğer iletişim kanalları aracılığıyla bize gönüllü olarak sağladığınız herhangi bir bilgi gibi sizi tanımlamak için kullanılabilecek bilgilerdir.<br><strong>Kişisel Olmayan Bilgiler:<\/strong> Sizi doğrudan tanımlamayan bilgilerdir. Bunlar şunları içerebilir:<ul><li><strong>Günlük Verileri:<\/strong> Sunucularımız, Web Sitesini kullanımınız tarafından oluşturulan bilgileri (\"Günlük Verileri\") otomatik olarak kaydeder. Günlük Verileri IP adresinizi, tarayıcı türünüzü, internet servis sağlayıcınızı, yönlendiren/çıkış sayfalarınızı, işletim sisteminizi, tarih/saat damgalarınızı ve ilgili verileri içerebilir.<\/li><li><strong>Çerezler ve Benzer Teknolojiler:<\/strong> Web Sitemizdeki göz atma etkinliğiniz hakkında bilgi toplamak için çerezler, web işaretçileri ve benzer izleme teknolojilerini kullanabiliriz. Çerezler, cihazınızda saklanan ve Web Sitemizi ve deneyiminizi geliştirmemize yardımcı olan küçük veri dosyalarıdır. Çerezlerin kullanımını bireysel tarayıcı düzeyinde kontrol edebilirsiniz, ancak çerezleri devre dışı bırakmayı seçerseniz, Web Sitemizdeki belirli özelliklerin veya işlevlerin kullanımınızı sınırlayabilir.<\/li><li><strong>Web Sitesi Kullanım Verileri:<\/strong> Ziyaret ettiğiniz sayfalar, tıkladığınız bağlantılar ve Web Sitemizde geçirdiğiniz süre gibi Web Sitemizi nasıl kullandığınız hakkında bilgi toplayabiliriz.<\/li><\/ul><\/li><li><strong>Bilgileri Nasıl Toplarız<\/strong><br>Bilgileri aşağıdaki yollarla toplarız:<ul><li><strong>Doğrudan Sağladığınız Bilgiler:<\/strong> Aşağıdaki durumlarda olduğu gibi, bize gönüllü olarak gönderdiğinizde Kişisel Bilgileri toplarız:<ul><li>Web Sitemizdeki iletişim formlarını doldurduğunuzda.<\/li><li>E-posta veya telefon yoluyla bizimle iletişime geçtiğinizde.<\/li><li>Ürünlerimiz hakkında fiyat teklifi veya bilgi talep ettiğinizde.<\/li><li>Bültenimize abone olduğunuzda (varsa).<\/li><\/ul><\/li><li><strong>Otomatik Olarak Toplanan Bilgiler:<\/strong> Çerezleri ve sunucu günlüklerini kullanarak Web Sitemize göz atarken ve etkileşimde bulunurken Kişisel Olmayan Bilgileri otomatik olarak toplarız.<\/li><\/ul><\/li><li><strong>Bilgilerin Kullanımı<\/strong><br>Toplanan bilgileri aşağıdaki amaçlarla kullanabiliriz:<ul><li><strong>Web Sitemizi Sağlamak ve Geliştirmek İçin:<\/strong> Web Sitemizi ve kullanıcı deneyimini işletmek, sürdürmek ve iyileştirmek için.<\/li><li><strong>Sorulara Yanıt Vermek İçin:<\/strong> Web Sitemiz veya diğer iletişim kanalları aracılığıyla gönderilen isteklerinize, sorularınıza ve sorularınıza yanıt vermek için.<\/li><li><strong>Talepleri İşlemek İçin:<\/strong> Fiyat teklifi, ürün bilgisi veya diğer hizmetler için taleplerinizi işlemek için.<\/li><li><strong>Pazarlama İletişimlerini Göndermek İçin (varsa):<\/strong> Onayınızla, ürünlerimiz ve hizmetlerimiz hakkında size bültenler, pazarlama e-postaları veya diğer tanıtım materyalleri gönderebiliriz. İletişimde sağlanan abonelikten çıkma talimatlarını izleyerek veya doğrudan bizimle iletişime geçerek bu iletişimleri almaktan istediğiniz zaman vazgeçebilirsiniz.<\/li><li><strong>Analiz ve Web Sitesi Optimizasyonu İçin:<\/strong> Web Sitesi kullanım eğilimlerini analiz etmek, kullanıcı hareketlerini izlemek ve Web Sitemizin tasarımını, işlevselliğini ve içeriğini iyileştirmek için demografik bilgiler toplamak için.<\/li><li><strong>Yasal Uyum İçin:<\/strong> Yürürlükteki yasalara, düzenlemelere, yasal süreçlere veya hükümet taleplerine uymak için.<\/li><\/ul><\/li><li><strong>Bilgilerin Paylaşılması ve Açıklanması<\/strong><br>Bilgilerinizi aşağıdaki durumlarda paylaşabiliriz:<ul><li><strong>Hizmet Sağlayıcılar:<\/strong> Web sitesi barındırma, veri analizi, e-posta teslimi ve müşteri hizmetleri gibi bizim adımıza hizmet veren üçüncü taraf hizmet sağlayıcılarla bilgi paylaşabiliriz. Bu hizmet sağlayıcılar, bilgilerinizi korumak ve yalnızca kendilerine açıkladığımız amaçlar için kullanmakla sözleşme gereği yükümlüdür.<\/li><li><strong>İşletme Devirleri:<\/strong> Birleşme, devralma, yeniden yapılanma, varlık satışı veya iflas durumunda, bilgileriniz bu işlemin bir parçası olarak devredilebilir veya ifşa edilebilir.<\/li><li><strong>Yasal Gereklilikler:<\/strong> Yasaların gerektirmesi halinde veya kamu makamlarının geçerli taleplerine (örn. mahkeme kararı, mahkeme celbi, hükümet düzenlemesi) yanıt olarak bilgilerinizi ifşa edebiliriz.<\/li><li><strong>Hakların Korunması:<\/strong> Yasa dışı faaliyetler, şüpheli dolandırıcılık, herhangi bir kişinin güvenliğine yönelik potansiyel tehditler içeren durumlar, Kullanım Koşullarımızın ihlalleri ile ilgili araştırma yapmak, önlemek veya harekete geçmek için veya yasaların gerektirdiği diğer durumlarda gerekli olduğuna inandığımızda bilgileri ifşa edebiliriz.<\/li><\/ul><\/li><li><strong>Veri Güvenliği<\/strong><br>Bilgilerinizi yetkisiz erişime, kullanıma veya ifşaya karşı korumak için makul önlemler alıyoruz. Ancak, internet üzerinden hiçbir iletim yöntemi veya elektronik depolama yöntemi tamamen güvenli değildir. Bu nedenle, Kişisel Bilgilerinizi korumak için ticari olarak kabul edilebilir yöntemler kullanmaya çalışsak da, mutlak güvenliğini garanti edemeyiz.<\/li><li><strong>Çerezler ve İzleme Teknolojileri<\/strong><br>Web Sitemizdeki deneyiminizi geliştirmek için çerezler ve benzer teknolojiler kullanıyoruz. Web Sitemizi kullanarak, bu politikada açıklandığı şekilde çerez kullanımına izin vermiş olursunuz. Çerez tercihlerinizi tarayıcı ayarlarınızdan yönetebilirsiniz. Çerezleri engelleme veya silme hakkında daha fazla bilgi için lütfen tarayıcınızın yardım belgelerine başvurun.<\/li><li><strong>Üçüncü Taraf Bağlantıları<\/strong><br>Web Sitemiz, bize ait olmayan veya bizim tarafımızdan kontrol edilmeyen üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir. Bu üçüncü taraf web sitelerinin gizlilik uygulamalarından sorumlu değiliz. Bu web sitelerine herhangi bir Kişisel Bilgi vermeden önce gizlilik politikalarını incelemenizi öneririz.<\/li><li><strong>Veri Saklama<\/strong><br>Daha uzun bir saklama süresi yasalarca gerekli kılınmadıkça veya izin verilmedikçe, Kişisel Bilgilerinizi bu Gizlilik Politikasında belirtilen amaçları yerine getirmek için gerekli olduğu sürece saklayacağız.<\/li><li><strong>Haklarınız<\/strong><br>Yürürlükteki yasalara tabi olarak Kişisel Bilgilerinizle ilgili belirli haklarınız olabilir. Bu haklar şunları içerebilir:<ul><li><strong>Erişim:<\/strong> Hakkınızda tuttuğumuz Kişisel Bilgilere erişim talep etme hakkı.<\/li><li><strong>Düzeltme:<\/strong> Yanlış veya eksik Kişisel Bilgileri düzeltmemizi talep etme hakkı.<\/li><li><strong>Silme:<\/strong> Belirli koşullar altında Kişisel Bilgilerinizi silmemizi talep etme hakkı.<\/li><li><strong>İşlemeye İtiraz Etme:<\/strong> Doğrudan pazarlama gibi belirli amaçlar için Kişisel Bilgilerinizin işlenmesine itiraz etme hakkı.<\/li><\/ul>Bu hakları kullanmak için lütfen aşağıda verilen iletişim bilgilerini kullanarak bizimle iletişime geçin. Talebinize yürürlükteki yasalara uygun olarak yanıt vereceğiz.<\/li><li><strong>Çocukların Gizliliği<\/strong><br>Web Sitemiz 16 yaşın altındaki çocuklara yönelik değildir. Bu yaşın altındaki çocuklardan bilerek Kişisel Bilgi toplamıyoruz. Bir ebeveyn veya vasi iseniz ve çocuğunuzun bize Kişisel Bilgi sağladığına inanıyorsanız, lütfen derhal bizimle iletişime geçin; bu tür bilgileri silmek için adımlar atacağız.<\/li><li><strong>Bu Gizlilik Politikasındaki Değişiklikler<\/strong><br>Uygulamalarımızdaki veya yürürlükteki yasalardaki değişiklikleri yansıtmak için bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişikliği bu sayfada yayınlayacak ve bu Gizlilik Politikasının üst kısmındaki \"Yürürlük Tarihi\"ni güncelleyeceğiz. Herhangi bir güncelleme için bu Gizlilik Politikasını periyodik olarak gözden geçirmenizi öneririz. Önemli değişiklikler için daha belirgin bir bildirim sağlayabiliriz (örneğin, web sitemizde veya e-posta yoluyla).<\/li><li><strong>Bize Ulaşın<\/strong><br>Bu Gizlilik Politikası veya veri uygulamalarımızla ilgili herhangi bir sorunuz, endişeniz veya talebiniz varsa, lütfen bizimle şu adresten iletişime geçin:<br>Mile Overseas<br>info@mileoverseas.com<\/li><\/ol><\/div>`,
-
 };
 
 export default trTranslations;
+
+// Chat suggestion question placeholders (to translate)
+if (typeof trTranslations.chat_question_shipping === "undefined") {
+  Object.assign(trTranslations, {
+    chat_question_shipping: "What are your shipping times?",
+    chat_question_moq: "What is your MOQ?",
+    chat_question_samples: "Do you provide samples?",
+    chat_question_certifications: "What certifications do you have?",
+    chat_question_pricing: "How do I get pricing?",
+    chat_question_quote: "I need a quote",
+  });
+}
+
+// Turkish translations for chat questions
+Object.assign(trTranslations, {
+  chat_question_shipping: "Gönderim süreleriniz nedir?",
+  chat_question_moq: "Minimum sipariş miktarınız (MOQ) nedir?",
+  chat_question_samples: "Numune sağlıyor musunuz?",
+  chat_question_certifications: "Hangi sertifikalara sahipsiniz?",
+  chat_question_pricing: "Fiyatları nasıl alabilirim?",
+  chat_question_quote: "Teklife ihtiyacım var",
+});
+
+// Turkish intent/localized answers
+Object.assign(trTranslations, {
+  chat_intent_greeting:
+    "Merhaba! Gönderim, MOQ, numune, sertifikalar, fiyat, ürünler veya belgeler hakkında sorabilirsiniz.",
+  chat_intent_shipping:
+    "Tipik denizyolu süreleri: BAE 15–20g, Suudi 18–22g, Katar 16–20g. Havayolu: 2–5g.",
+  chat_intent_moq:
+    "MOQ: Genelde bir 20ft konteyner (≈14 MT kimyon / 16 MT zerdeçal). Büyük hacimde 40ft mümkün.",
+  chat_intent_samples:
+    "GCC'ye DHL ile 500g'a kadar ücretsiz numune (≈3–5 iş günü).",
+  chat_intent_certifications:
+    "Mevcut: ISO, Organik (talep), Helal (gerektiğinde), GCC evrakları (ESMA, SFDA), bitki sağlığı, fümigasyon, COA.",
+  chat_intent_pricing:
+    "Fiyat; baharat, kalite, ambalaj ve Incoterm (FOB/CIF/CNF)'e bağlı. Ürün + hacim + liman paylaşın.",
+  chat_intent_products:
+    "Başlıca ihracatlar: Kimyon, Zerdeçal, Chili, Kişniş, Rezene, Çemen, Karabiber, Zencefil.",
+  chat_intent_payment:
+    "Yaygın şartlar: Görüldüğünde LC, %30 peşin + %70 evrakla veya LC usance.",
+  chat_intent_escalate:
+    "E-postanızı ve ürün ilginizi alabilirim; hızlı dönüş için Teklif Al'a tıklayın.",
+});
+
+// Placeholder chat translations (replace with Turkish)
+trTranslations.chat_toggle = "Chat";
+trTranslations.chat_title = "Live Chat";
+trTranslations.chat_placeholder = "Type your question...";
+trTranslations.chat_send = "Send";
+trTranslations.chat_lead_prompt =
+  "Share your email & product to get a detailed quote:";
+trTranslations.chat_lead_email_placeholder = "Your email";
+trTranslations.chat_lead_product_placeholder = "Product / Volume (optional)";
+trTranslations.chat_lead_submit = "Submit";
+trTranslations.chat_lead_cancel = "Cancel";
+trTranslations.chat_lead_invalid_email = "Enter valid email";
+trTranslations.chat_lead_success =
+  "Thank you! Our export team will contact {email} shortly.{product}";
+trTranslations.chat_lead_error =
+  "There was an issue sending your request. Please email info@mileoverseas.com";
+trTranslations.chat_user_submitted_quote = "Submitted quote request.";
+trTranslations.chat_sending = "Sending...";
+trTranslations.chat_welcome =
+  "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms.";
+trTranslations.chat_fallback =
+  "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
+trTranslations.chat_fallback_keywords_prefix = " (Keywords detected: ";
+trTranslations.chat_intent_greeting =
+  "Hello! Ask me about shipping, MOQ, samples, certifications, pricing, products or documents.";
+trTranslations.chat_intent_shipping =
+  "Typical sea freight transit: UAE 15-20d, Saudi 18-22d, Qatar 16-20d. Air: 2-5d depending on route.";
+trTranslations.chat_intent_moq =
+  "MOQ: Usually one 20ft container (≈14 MT cumin / 16 MT turmeric). 40ft options available.";
+trTranslations.chat_intent_samples =
+  "We provide free samples up to 500g via DHL to GCC (≈3-5 business days).";
+trTranslations.chat_intent_certifications =
+  "Available: ISO, Organic (req), Halal (if needed), GCC docs, phytosanitary, fumigation, COA.";
+trTranslations.chat_intent_pricing =
+  "Pricing depends on spice, grade, packaging & incoterm. Share product + volume + port.";
+trTranslations.chat_intent_products =
+  "Main exports: Cumin, Turmeric, Chilli, Coriander, Fennel, Fenugreek, Pepper, Ginger.";
+trTranslations.chat_intent_payment =
+  "Common terms: LC at sight, 30% advance + 70% against docs, LC usance.";
+trTranslations.chat_intent_escalate =
+  "I can collect your email & product so our export team responds quickly. Click Get a Quote.";
+trTranslations.chat_fact_list =
+  "Turmeric’s curcumin content is a key quality marker.|Steam sterilization reduces microbial load.|Container lining reduces moisture ingress.|Chilli heat measured in Scoville units.";
+trTranslations.chat_suggestion_shipping = "Shipping times";
+trTranslations.chat_suggestion_moq = "MOQ";
+trTranslations.chat_suggestion_samples = "Samples";
+trTranslations.chat_suggestion_certifications = "Certifications";
+trTranslations.chat_suggestion_pricing = "Pricing";
+trTranslations.chat_suggestion_quote = "Get a Quote";
