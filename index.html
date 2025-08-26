@@ -15,6 +15,29 @@
       gtag("js", new Date());
       gtag("config", "G-THTJH5GMEL");
     </script>
+    <!-- Service Schema: Spice Export Service -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Indian Spice Export Service",
+        "serviceType": "Bulk Spice Export",
+        "provider": {"@type":"Organization","name":"Mile Overseas","url":"https://www.mileoverseas.com/"},
+        "areaServed": ["AE","SA","QA","KW","OM","BH","IN","GLOBAL"],
+        "description": "Export service supplying container-scale cumin seeds, turmeric finger, red chilli, coriander, fennel, sesame, psyllium husk, black pepper, cardamom and more from India to GCC & global markets.",
+        "hasOfferCatalog": {"@type":"OfferCatalog","name":"Spice Export Portfolio","itemListElement":[
+          {"@type":"Offer","itemOffered":{"@type":"Product","name":"Cumin Seeds"}},
+          {"@type":"Offer","itemOffered":{"@type":"Product","name":"Turmeric Finger"}},
+          {"@type":"Offer","itemOffered":{"@type":"Product","name":"Red Chilli"}},
+          {"@type":"Offer","itemOffered":{"@type":"Product","name":"Sesame Seeds"}},
+          {"@type":"Offer","itemOffered":{"@type":"Product","name":"Psyllium Husk"}}
+        ]},
+        "providerMobility": "dynamic",
+        
+        "availableChannel": {"@type":"ServiceChannel","servicePhone":{"@type":"ContactPoint","telephone":"+91-8178070378","contactType":"sales","email":"moyeen@mileoverseas.com"}},
+        "audience": {"@type":"BusinessAudience","businessType":"Importer","name":"International Spice Importers"}
+      }
+    </script>
     <!-- Flow Analytics by Graph8 -->
     <!-- <script
       async
@@ -31,6 +54,7 @@
       content="Leading Indian spice exporter to UAE, Saudi Arabia & GCC markets. Import premium cumin, turmeric, chili in bulk. Dubai & Riyadh delivery. ISO certified. Get quote today!"
     />
     <link rel="canonical" href="https://www.mileoverseas.com/" />
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     <!-- Open Graph Tags -->
     <meta
       property="og:title"
@@ -120,7 +144,8 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "Organization",
+  "@type": "Organization",
+  "@id": "https://www.mileoverseas.com/#org",
         "name": "Mile Overseas",
         "url": "https://www.mileoverseas.com/",
         "logo": "https://www.mileoverseas.com/images/logo-modern.png",
@@ -128,9 +153,10 @@
         "contactPoint": [
           {
             "@type": "ContactPoint",
-            "telephone": "+91-XXXXXXXXXX",
-            "contactType": "customer service",
-            "areaServed": "Worldwide",
+            "telephone": "+91-8178070378",
+            "email": "moyeen@mileoverseas.com",
+            "contactType": "sales",
+            "areaServed": ["AE","SA","QA","KW","OM","BH","IN","GLOBAL"],
             "availableLanguage": [
               "English",
               "Arabic",
@@ -144,9 +170,18 @@
               "Japanese",
               "Turkish",
               "Uzbek"
-            ]
+            ],
+            "contactOption": ["TollFree","HearingImpairedSupported"],
+            "url": "https://www.mileoverseas.com/contact.html"
           }
         ],
+        "employee": {
+          "@type": "Person",
+          "name": "Moyeen",
+          "jobTitle": "Export Sales Representative",
+          "email": "moyeen@mileoverseas.com",
+          "telephone": "+91-8178070378"
+        },
         "sameAs": [
           "https://www.facebook.com/mileoverseas",
           "https://www.youtube.com/@mileoverseas",
@@ -156,11 +191,58 @@
         ]
       }
     </script>
+    <!-- Representative Person Schema (separate for clarity) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Moyeen",
+        "jobTitle": "Export Sales Representative",
+  "worksFor": {"@type":"Organization","@id":"https://www.mileoverseas.com/#org","name":"Mile Overseas","url":"https://www.mileoverseas.com/"},
+        "email": "moyeen@mileoverseas.com",
+        "telephone": "+91-8178070378"
+      }
+    </script>
+      <!-- Structured Data: Consolidated ItemList of Export Spices (non-visible, supports discovery) -->
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          "name": "Export Spices Portfolio",
+          "itemListOrder": "http://schema.org/ItemListUnordered",
+          "itemListElement": [
+            {"@type":"ListItem","position":1,"item":{"@type":"Product","name":"Cumin Seeds","url":"https://www.mileoverseas.com/product-details.html?id=1","category":"Spices","additionalProperty":[{"@type":"PropertyValue","name":"Intent","value":"Import Cumin Seeds UAE"}]}},
+            {"@type":"ListItem","position":2,"item":{"@type":"Product","name":"Coriander Seeds","url":"https://www.mileoverseas.com/product-details.html?id=2","category":"Spices"}},
+            {"@type":"ListItem","position":3,"item":{"@type":"Product","name":"Fennel Seeds","url":"https://www.mileoverseas.com/product-details.html?id=3","category":"Spices"}},
+            {"@type":"ListItem","position":4,"item":{"@type":"Product","name":"Mustard Seeds","url":"https://www.mileoverseas.com/product-details.html?id=4","category":"Spices"}},
+            {"@type":"ListItem","position":5,"item":{"@type":"Product","name":"Turmeric Finger","url":"https://www.mileoverseas.com/product-details.html?id=5","category":"Spices"}},
+            {"@type":"ListItem","position":6,"item":{"@type":"Product","name":"Dill Seeds","url":"https://www.mileoverseas.com/product-details.html?id=6","category":"Spices"}},
+            {"@type":"ListItem","position":7,"item":{"@type":"Product","name":"Red Chilli","url":"https://www.mileoverseas.com/product-details.html?id=7","category":"Spices"}},
+            {"@type":"ListItem","position":8,"item":{"@type":"Product","name":"Sesame Seeds","url":"https://www.mileoverseas.com/product-details.html?id=8","category":"Spices"}},
+            {"@type":"ListItem","position":9,"item":{"@type":"Product","name":"Psyllium Husk","url":"https://www.mileoverseas.com/product-details.html?id=9","category":"Spices"}},
+            {"@type":"ListItem","position":10,"item":{"@type":"Product","name":"Black Cumin (Kalonji)","url":"https://www.mileoverseas.com/product-details.html?id=10","category":"Spices"}},
+            {"@type":"ListItem","position":11,"item":{"@type":"Product","name":"Cardamom","url":"https://www.mileoverseas.com/product-details.html?id=11","category":"Spices"}},
+            {"@type":"ListItem","position":12,"item":{"@type":"Product","name":"Fenugreek Seeds","url":"https://www.mileoverseas.com/product-details.html?id=12","category":"Spices"}},
+            {"@type":"ListItem","position":13,"item":{"@type":"Product","name":"Ajwain","url":"https://www.mileoverseas.com/product-details.html?id=13","category":"Spices"}},
+            {"@type":"ListItem","position":14,"item":{"@type":"Product","name":"Chia seeds","url":"https://www.mileoverseas.com/product-details.html?id=14","category":"Spices"}},
+            {"@type":"ListItem","position":15,"item":{"@type":"Product","name":"Celery seeds","url":"https://www.mileoverseas.com/product-details.html?id=15","category":"Spices"}},
+            {"@type":"ListItem","position":16,"item":{"@type":"Product","name":"Cloves","url":"https://www.mileoverseas.com/product-details.html?id=16","category":"Spices"}},
+            {"@type":"ListItem","position":17,"item":{"@type":"Product","name":"Star Anise","url":"https://www.mileoverseas.com/product-details.html?id=17","category":"Spices"}},
+            {"@type":"ListItem","position":18,"item":{"@type":"Product","name":"Nutmeg","url":"https://www.mileoverseas.com/product-details.html?id=18","category":"Spices"}},
+            {"@type":"ListItem","position":19,"item":{"@type":"Product","name":"Cinnamon","url":"https://www.mileoverseas.com/product-details.html?id=19","category":"Spices"}},
+            {"@type":"ListItem","position":20,"item":{"@type":"Product","name":"Flax Seed","url":"https://www.mileoverseas.com/product-details.html?id=20","category":"Spices"}},
+            {"@type":"ListItem","position":21,"item":{"@type":"Product","name":"Black Pepper","url":"https://www.mileoverseas.com/product-details.html?id=21","category":"Spices"}},
+            {"@type":"ListItem","position":22,"item":{"@type":"Product","name":"Quinoa","url":"https://www.mileoverseas.com/product-details.html?id=22","category":"Spices"}}
+          ]
+        }
+      </script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "WebSite",
+  "@id": "https://www.mileoverseas.com/#website",
         "url": "https://www.mileoverseas.com/",
+  "publisher": {"@type":"Organization","@id":"https://www.mileoverseas.com/#org"},
         "potentialAction": {
           "@type": "SearchAction",
           "target": "https://www.mileoverseas.com/search?q={search_term_string}",
@@ -180,7 +262,7 @@
             "name": "What is the minimum order quantity for spice imports to UAE?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Our minimum order quantity for UAE is typically one 20ft container (14 MT for cumin seeds, 16 MT for turmeric powder). We also offer 40ft containers for larger orders to Dubai and Abu Dhabi."
+              "text": "Our minimum order quantity for UAE is typically one 20ft container (14 MT for cumin seeds, 16 MT for turmeric powder). We also offer 40ft containers for larger orders to Dubai and Abu Dhabi. For bulk import inquiries call +91-8178070378 or email moyeen@mileoverseas.com."
             }
           },
           {
@@ -188,7 +270,7 @@
             "name": "How long does shipping take from India to GCC countries?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Shipping times vary by destination: UAE (Dubai/Abu Dhabi) 15-20 days, Saudi Arabia (Riyadh/Jeddah) 18-22 days, Qatar (Doha) 16-20 days. We provide real-time tracking updates."
+              "text": "Shipping times vary by destination: UAE (Dubai/Abu Dhabi) 15-20 days, Saudi Arabia (Riyadh/Jeddah) 18-22 days, Qatar (Doha) 16-20 days. We provide real-time tracking updates. For real-time quotes call +91-8178070378 or email moyeen@mileoverseas.com."
             }
           },
           {
@@ -196,7 +278,7 @@
             "name": "Do you provide samples for quality testing?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, we provide free samples (up to 500g) via DHL to GCC countries for quality approval. Samples typically reach UAE, Saudi Arabia, and Qatar within 3-5 business days."
+              "text": "Yes, we provide free samples (up to 500g) via DHL to GCC countries for quality approval. Samples typically reach UAE, Saudi Arabia, and Qatar within 3-5 business days. Request samples at +91-8178070378 or moyeen@mileoverseas.com."
             }
           },
           {
@@ -204,10 +286,27 @@
             "name": "What certifications do you have for GCC exports?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We have ISO certification, organic certifications, and comply with all GCC import regulations including UAE ESMA standards, Saudi SFDA requirements, and halal certification where needed."
+              "text": "We have ISO certification, organic certifications, and comply with all GCC import regulations including UAE ESMA standards, Saudi SFDA requirements, and halal certification where needed. For certification documents email moyeen@mileoverseas.com or call +91-8178070378."
             }
           }
         ]
+      }
+    </script>
+    <!-- Place / Geo Schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Place",
+        "name": "Mile Overseas Export Hub",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "S-10/13 Joga Bai Extension, Jamia Nagar Okhla",
+          "addressLocality": "New Delhi",
+          "postalCode": "110025",
+          "addressCountry": "IN"
+        },
+        "telephone": "+91-8178070378",
+        "areaServed": ["AE","SA","QA","KW","OM","BH","IN","GLOBAL"]
       }
     </script>
     <!-- Additional SEO meta tags -->

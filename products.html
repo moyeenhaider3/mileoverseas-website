@@ -119,29 +119,253 @@
       hreflang="x-default"
       href="https://www.mileoverseas.com/products.html"
     />
-    <!-- Structured Data: Product List (ItemList) Schema -->
+    <!-- Structured Data: Comprehensive ItemList of Export Spices (replaces placeholder; valid JSON without comments) -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "ItemList",
-        "name": "Bulk Spice Products",
+        "name": "Bulk Export Spices",
+        "itemListOrder": "http://schema.org/ItemListUnordered",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
-            "url": "https://www.mileoverseas.com/products/chilli.html"
+            "url": "https://www.mileoverseas.com/product-details.html?id=1"
           },
           {
             "@type": "ListItem",
             "position": 2,
-            "url": "https://www.mileoverseas.com/products/turmeric.html"
+            "url": "https://www.mileoverseas.com/product-details.html?id=2"
           },
           {
             "@type": "ListItem",
             "position": 3,
-            "url": "https://www.mileoverseas.com/products/cumin.html"
+            "url": "https://www.mileoverseas.com/product-details.html?id=3"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "url": "https://www.mileoverseas.com/product-details.html?id=4"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "url": "https://www.mileoverseas.com/product-details.html?id=5"
+          },
+          {
+            "@type": "ListItem",
+            "position": 6,
+            "url": "https://www.mileoverseas.com/product-details.html?id=6"
+          },
+          {
+            "@type": "ListItem",
+            "position": 7,
+            "url": "https://www.mileoverseas.com/product-details.html?id=7"
+          },
+          {
+            "@type": "ListItem",
+            "position": 8,
+            "url": "https://www.mileoverseas.com/product-details.html?id=8"
+          },
+          {
+            "@type": "ListItem",
+            "position": 9,
+            "url": "https://www.mileoverseas.com/product-details.html?id=9"
+          },
+          {
+            "@type": "ListItem",
+            "position": 10,
+            "url": "https://www.mileoverseas.com/product-details.html?id=10"
+          },
+          {
+            "@type": "ListItem",
+            "position": 11,
+            "url": "https://www.mileoverseas.com/product-details.html?id=11"
+          },
+          {
+            "@type": "ListItem",
+            "position": 12,
+            "url": "https://www.mileoverseas.com/product-details.html?id=12"
+          },
+          {
+            "@type": "ListItem",
+            "position": 13,
+            "url": "https://www.mileoverseas.com/product-details.html?id=13"
+          },
+          {
+            "@type": "ListItem",
+            "position": 14,
+            "url": "https://www.mileoverseas.com/product-details.html?id=14"
+          },
+          {
+            "@type": "ListItem",
+            "position": 15,
+            "url": "https://www.mileoverseas.com/product-details.html?id=15"
+          },
+          {
+            "@type": "ListItem",
+            "position": 16,
+            "url": "https://www.mileoverseas.com/product-details.html?id=16"
+          },
+          {
+            "@type": "ListItem",
+            "position": 17,
+            "url": "https://www.mileoverseas.com/product-details.html?id=17"
+          },
+          {
+            "@type": "ListItem",
+            "position": 18,
+            "url": "https://www.mileoverseas.com/product-details.html?id=18"
+          },
+          {
+            "@type": "ListItem",
+            "position": 19,
+            "url": "https://www.mileoverseas.com/product-details.html?id=19"
+          },
+          {
+            "@type": "ListItem",
+            "position": 20,
+            "url": "https://www.mileoverseas.com/product-details.html?id=20"
+          },
+          {
+            "@type": "ListItem",
+            "position": 21,
+            "url": "https://www.mileoverseas.com/product-details.html?id=21"
+          },
+          {
+            "@type": "ListItem",
+            "position": 22,
+            "url": "https://www.mileoverseas.com/product-details.html?id=22"
           }
-          /* Add more products as needed */
+        ]
+      }
+    </script>
+    <!-- Structured Data: ProductCollection with aggregateOffer for container-based export (non-visible) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProductCollection",
+        "name": "Indian Export Spices Portfolio",
+        "description": "Container-scale export supply of cumin seeds, turmeric finger, red chilli, coriander, fennel, sesame, psyllium husk, cardamom, black pepper and more to GCC (UAE, Saudi Arabia, Qatar, Oman, Kuwait, Bahrain) and global markets.",
+        "url": "https://www.mileoverseas.com/products.html",
+        "brand": { "@type": "Brand", "name": "Mile Overseas" },
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://www.mileoverseas.com/#org",
+          "name": "Mile Overseas",
+          "url": "https://www.mileoverseas.com/"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Spice Export Container Offers",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": { "@type": "Product", "name": "Cumin Seeds" },
+              "availability": "https://schema.org/InStock"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": { "@type": "Product", "name": "Turmeric Finger" },
+              "availability": "https://schema.org/InStock"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": { "@type": "Product", "name": "Red Chilli" },
+              "availability": "https://schema.org/InStock"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": { "@type": "Product", "name": "Coriander Seeds" },
+              "availability": "https://schema.org/InStock"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": { "@type": "Product", "name": "Sesame Seeds" },
+              "availability": "https://schema.org/InStock"
+            }
+          ]
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5",
+          "reviewCount": "12"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "USD",
+          "lowPrice": "500",
+          "highPrice": "25000",
+          "offerCount": "22",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "@id": "https://www.mileoverseas.com/#org",
+            "name": "Mile Overseas",
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "telephone": "+91-8178070378",
+              "email": "moyeen@mileoverseas.com",
+              "contactType": "sales"
+            }
+          }
+        }
+      }
+    </script>
+    <!-- Structured Data: Intent-Focused FAQ (import/export queries) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I import Cumin Seeds from India to UAE?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Contact Mile Overseas (sales: +91-8178070378, email: moyeen@mileoverseas.com) with your target quantity (e.g. 20ft = ~14 MT). We provide proforma invoice, quality specs, lab reports and ship via Nhava Sheva to Jebel Ali with 15–20 day transit."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who is the exporter contact for bulk Turmeric Finger shipments?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Export sales representative Moyeen (+91-8178070378 / moyeen@mileoverseas.com) coordinates Turmeric Finger (high curcumin 3–5%) container loads with documentation (Packing List, Invoice, Phytosanitary, Certificate of Origin)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you supply spice export certifications for GCC customs?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. We support ISO, lab quality analysis, moisture & curcumin/capsaicin tests, phytosanitary, fumigation, SGS (on request) and Halal where required for GCC (UAE, Saudi Arabia, Qatar)."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What container capacities are typical for Indian spice export?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Indicative net loads: Cumin Seeds ~14 MT (20ft), Turmeric Finger ~18 MT (20ft), Red Chilli ~6.5 MT (20ft), Sesame Seeds ~19 MT (20ft). 40ft doubles approximately. Final packing customized."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How fast can I get a spice export quotation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most quotes issued within 12 working hours after inquiry (phone: +91-8178070378 / email: moyeen@mileoverseas.com) including FOB or CIF pricing, HS codes and lead times."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Which spices can I source from one supplier in India?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Full portfolio includes Cumin, Coriander, Fennel, Mustard, Turmeric Finger, Dill, Red Chilli, Sesame, Psyllium Husk, Black Cumin (Kalonji), Cardamom, Fenugreek, Ajwain, Chia, Celery, Cloves, Star Anise, Nutmeg, Cinnamon, Flax Seed, Black Pepper, Quinoa."
+            }
+          }
         ]
       }
     </script>
