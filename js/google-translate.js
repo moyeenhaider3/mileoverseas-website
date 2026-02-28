@@ -12,19 +12,47 @@
   "use strict";
 
   var LANGUAGES = [
-    { code: "en",    label: "English",       flag: "🇬🇧" },
-    { code: "ar",    label: "العربية",        flag: "🇸🇦" },
-    { code: "zh-CN", label: "中文",           flag: "🇨🇳" },
-    { code: "ms",    label: "Bahasa Melayu", flag: "🇲🇾" },
-    { code: "th",    label: "ไทย",            flag: "🇹🇭" },
-    { code: "de",    label: "Deutsch",       flag: "🇩🇪" },
-    { code: "es",    label: "Español",       flag: "🇪🇸" },
-    { code: "bn",    label: "বাংলা",          flag: "🇧🇩" },
-    { code: "ko",    label: "한국어",          flag: "🇰🇷" },
-    { code: "ja",    label: "日本語",          flag: "🇯🇵" },
-    { code: "tr",    label: "Türkçe",        flag: "🇹🇷" },
-    { code: "uz",    label: "Oʻzbek",        flag: "🇺🇿" },
-  ];
+  // English-speaking — USA, UK, Canada, Australia (top spice importers)
+  { code: "en",    label: "English",           flag: "🇬🇧" },
+
+  // Middle East & North Africa
+  { code: "ar",    label: "العربية",           flag: "🇸🇦" },
+  { code: "fa",    label: "فارسی",             flag: "🇮🇷" },
+
+  // South Asia
+  { code: "hi",    label: "हिन्दी",             flag: "🇮🇳" },
+  { code: "ur",    label: "اردو",              flag: "🇵🇰" },
+  { code: "bn",    label: "বাংলা",             flag: "🇧🇩" },
+  { code: "ne",    label: "नेपाली",             flag: "🇳🇵" },
+
+  // Southeast Asia
+  { code: "ms",    label: "Bahasa Melayu",     flag: "🇲🇾" },
+  { code: "id",    label: "Bahasa Indonesia",  flag: "🇮🇩" },
+  { code: "vi",    label: "Tiếng Việt",        flag: "🇻🇳" },
+  { code: "th",    label: "ไทย",               flag: "🇹🇭" },
+  { code: "tl",    label: "Filipino",          flag: "🇵🇭" },
+
+  // East Asia
+  { code: "zh-CN", label: "中文",              flag: "🇨🇳" },
+  { code: "ja",    label: "日本語",             flag: "🇯🇵" },
+  { code: "ko",    label: "한국어",             flag: "🇰🇷" },
+
+  // Europe
+  { code: "de",    label: "Deutsch",           flag: "🇩🇪" },
+  { code: "fr",    label: "Français",          flag: "🇫🇷" },
+  { code: "nl",    label: "Nederlands",        flag: "🇳🇱" },
+  { code: "it",    label: "Italiano",          flag: "🇮🇹" },
+  { code: "es",    label: "Español",           flag: "🇪🇸" },
+  { code: "pl",    label: "Polski",            flag: "🇵🇱" },
+  { code: "ru",    label: "Русский",           flag: "🇷🇺" },
+
+  // Central Asia
+  { code: "uz",    label: "Oʻzbek",            flag: "🇺🇿" },
+
+  // Latin America
+  { code: "pt",    label: "Português",         flag: "🇧🇷" },
+  { code: "tr",    label: "Türkçe",            flag: "🇹🇷" },
+];
 
   /* ---- Cookie helpers ---- */
   function setCookie(name, value, days) {
@@ -297,29 +325,40 @@
       });
     });
 
-    // Desktop hover dropdown
+    // Desktop click-to-toggle dropdown
     var desktopDropdown = document.querySelector(".gt-lang-dropdown");
     if (desktopDropdown) {
       var trigger = desktopDropdown.querySelector(".gt-lang-trigger");
       var content = desktopDropdown.querySelector(".gt-lang-list");
+      var chevron = trigger ? trigger.querySelector(".fa-chevron-down") : null;
+
+      function openDropdown() {
+        content.style.display = "block";
+        desktopDropdown.classList.add("open");
+        if (chevron) chevron.style.transform = "rotate(180deg)";
+      }
+
+      function closeDropdown() {
+        content.style.display = "none";
+        desktopDropdown.classList.remove("open");
+        if (chevron) chevron.style.transform = "rotate(0deg)";
+      }
+
       if (trigger && content) {
-        // Mouse hover
-        desktopDropdown.addEventListener("mouseenter", function () {
-          content.style.display = "block";
-        });
-        desktopDropdown.addEventListener("mouseleave", function () {
-          content.style.display = "none";
-        });
-        // Click/tap toggle (for touch devices)
+        // Click/tap to toggle open/close
         trigger.addEventListener("click", function (e) {
           e.preventDefault();
           e.stopPropagation();
-          content.style.display = content.style.display === "block" ? "none" : "block";
+          if (desktopDropdown.classList.contains("open")) {
+            closeDropdown();
+          } else {
+            openDropdown();
+          }
         });
         // Close on outside click
         document.addEventListener("click", function (e) {
           if (!desktopDropdown.contains(e.target)) {
-            content.style.display = "none";
+            closeDropdown();
           }
         });
       }
