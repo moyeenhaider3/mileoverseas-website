@@ -91,12 +91,22 @@
     />
     <link rel="stylesheet" href="css/style.css" />
     <link
-      rel="stylesheet"
+      rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      as="style"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
       integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    /></noscript>
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"
       defer
@@ -105,6 +115,8 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"
       defer
     ></script>
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -183,6 +195,8 @@
             ><img
               src="images/logo-modern.png"
               alt="Mileoverseas Logo"
+              width="70"
+              height="60"
               loading="lazy"
           /></a>
         </div>
@@ -199,20 +213,14 @@
           <li><a href="about.html">About Us</a></li>
           <li><a href="products.html">Products</a></li>
           <li>
-            <a href="why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="faq.html">FAQs</a></li>
           <li>
-            <a href="certificates.html"
-              >Certificates</a
-            >
+            <a href="certificates.html">Certificates</a>
           </li>
           <li>
-            <a href="contact.html" class="active"
-              >Contact Us</a
-            >
+            <a href="contact.html" class="active">Contact Us</a>
           </li>
           <li><a href="guides/">Guides</a></li>
           <li id="gt-lang-desktop" class="notranslate"></li>
@@ -226,20 +234,14 @@
         <li><a href="about.html">About Us</a></li>
         <li><a href="products.html">Products</a></li>
         <li>
-          <a href="why-choose-us.html"
-            >Why Choose Us</a
-          >
+          <a href="why-choose-us.html">Why Choose Us</a>
         </li>
         <li><a href="faq.html">FAQs</a></li>
         <li>
-          <a href="certificates.html"
-            >Certificates</a
-          >
+          <a href="certificates.html">Certificates</a>
         </li>
         <li>
-          <a href="contact.html" class="active"
-            >Contact Us</a
-          >
+          <a href="contact.html" class="active">Contact Us</a>
         </li>
         <li><a href="guides/">Guides</a></li>
         <li id="gt-lang-mobile" class="notranslate"></li>
@@ -418,11 +420,7 @@
             >
               <span class="spinner"></span> Sending your inquiry...
             </div>
-            <div
-              id="formSuccess"
-              class="success-message"
-              style="display: none"
-            >
+            <div id="formSuccess" class="success-message" style="display: none">
               Thank you for your inquiry! We will get back to you soon.
             </div>
           </form>
@@ -436,9 +434,7 @@
 
       <section class="contact-details-section modern-contact-section">
         <div class="container">
-          <h2 class="section-title fade-in">
-            Contact Information
-          </h2>
+          <h2 class="section-title fade-in">Contact Information</h2>
           <div class="contact-options grid-3col">
             <div class="contact-option fade-in delay-0">
               <i class="fab fa-whatsapp contact-icon"></i>
@@ -454,7 +450,9 @@
               <i class="far fa-envelope contact-icon"></i>
               <p>
                 <strong>Email:</strong>
-                <a class="notranslate" href="mailto:info@mileoverseas.com">info@mileoverseas.com</a>
+                <a class="notranslate" href="mailto:info@mileoverseas.com"
+                  >info@mileoverseas.com</a
+                >
               </p>
             </div>
             <div class="contact-option fade-in delay-2">
@@ -473,9 +471,7 @@
               110025<br />India
             </p>
             <h3>Phone</h3>
-            <p>
-              <strong>Phone:</strong> +91 8178070378
-            </p>
+            <p><strong>Phone:</strong> +91 8178070378</p>
           </div>
         </div>
       </section>
@@ -527,15 +523,9 @@
         </div>
 
         <p>
-          <a
-            href="privacy-policy.html"
-            target="_blank"
-            >Privacy Policy</a
-          >
+          <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
           &nbsp;|&nbsp;
-          <span
-            >© 2023–2026 Mile Overseas. All rights reserved.</span
-          >
+          <span>© 2023–2026 Mile Overseas. All rights reserved.</span>
         </p>
       </div>
     </footer>
@@ -549,14 +539,18 @@
       >
         <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+      <a
+        href="tel:+918178070378"
+        class="cta-phone notranslate"
+        aria-label="Call Us"
+      >
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
       <a href="contact.html" class="cta-quote" aria-label="Request Quote">
         <i class="fas fa-file-invoice"></i> Get Quote
       </a>
     </div>
-<script src="js/script.js" defer></script>
+    <script src="js/script.js" defer></script>
     <button id="backToTop" aria-label="Back to Top">&#8679;</button>
     <script src="js/main.js" defer></script>
     <script src="js/chatbot.js" defer></script>
@@ -578,7 +572,7 @@
         }
       });
     </script>
-      <div id="google_translate_element"></div>
+    <div id="google_translate_element"></div>
     <script src="js/google-translate.js" defer></script>
   </body>
 </html>

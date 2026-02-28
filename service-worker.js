@@ -1,4 +1,4 @@
-const CACHE_NAME = "site-cache-v2";
+const CACHE_NAME = "site-cache-v3";
 const ASSETS = [
   "/",
   "/index.html",
@@ -63,8 +63,26 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  // Cache-first for static assets (scripts, styles, images, fonts)
-  if (["script", "style", "image", "font"].includes(req.destination)) {
+  // Stale-while-revalidate for JS/CSS (serve cache, update in background)
+  if (["script", "style"].includes(req.destination)) {
+    event.respondWith(
+      caches.match(req).then((cacheRes) => {
+        const fetchPromise = fetch(req)
+          .then((networkRes) => {
+            caches
+              .open(CACHE_NAME)
+              .then((cache) => cache.put(req, networkRes.clone()));
+            return networkRes;
+          })
+          .catch(() => cacheRes);
+        return cacheRes || fetchPromise;
+      }),
+    );
+    return;
+  }
+
+  // Cache-first for images and fonts (rarely change)
+  if (["image", "font"].includes(req.destination)) {
     event.respondWith(
       caches.match(req).then(
         (cacheRes) =>

@@ -183,12 +183,22 @@
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/products.css" />
     <link
-      rel="stylesheet"
+      rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      as="style"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
       integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    /></noscript>
     <link rel="stylesheet" href="../css/product-details.css" />
     <style>
       header {
@@ -202,7 +212,12 @@
       <nav class="navbar">
         <div class="logo">
           <a href="../index.html">
-            <img src="../images/logo-modern.png" alt="Mile Overseas Logo" />
+            <img
+              src="../images/logo-modern.png"
+              alt="Mile Overseas Logo"
+              width="70"
+              height="60"
+            />
           </a>
         </div>
         <button class="hamburger" id="hamburger-icon">
@@ -215,15 +230,11 @@
             <a href="../products.html">Products</a>
           </li>
           <li>
-            <a href="../why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="../why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="../faq.html">FAQs</a></li>
           <li>
-            <a href="../certificates.html"
-              >Certificates</a
-            >
+            <a href="../certificates.html">Certificates</a>
           </li>
           <li>
             <a href="../contact.html">Contact Us</a>
@@ -240,15 +251,11 @@
             <a href="../products.html">Products</a>
           </li>
           <li>
-            <a href="../why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="../why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="../faq.html">FAQs</a></li>
           <li>
-            <a href="../certificates.html"
-              >Certificates</a
-            >
+            <a href="../certificates.html">Certificates</a>
           </li>
           <li>
             <a href="../contact.html">Contact Us</a>
@@ -308,6 +315,8 @@
                     alt="Cumin Seeds - Export Quality Indian Spice"
                     class="product-image loaded"
                     loading="eager"
+                    width="896"
+                    height="896"
                   />
                 </div>
                 <div class="scarcity-badge harvest-badge">
@@ -370,18 +379,24 @@
                     <i class="fab fa-whatsapp"></i>
                   </a>
                 </div>
-            </div>
-          </div>
-
-              <!-- Available Forms -->
-              <div class="available-forms-section">
-                <h3><i class="fas fa-boxes-stacked"></i> Available Forms</h3>
-                <div class="forms-chips">
-                  <span class="form-chip"><i class="fas fa-check-circle"></i> Whole Seeds</span>
-                  <span class="form-chip"><i class="fas fa-check-circle"></i> Ground / Powder</span>
-                  <span class="form-chip"><i class="fas fa-check-circle"></i> Crushed</span>
-                </div>
               </div>
+            </div>
+
+            <!-- Available Forms -->
+            <div class="available-forms-section">
+              <h3><i class="fas fa-boxes-stacked"></i> Available Forms</h3>
+              <div class="forms-chips">
+                <span class="form-chip"
+                  ><i class="fas fa-check-circle"></i> Whole Seeds</span
+                >
+                <span class="form-chip"
+                  ><i class="fas fa-check-circle"></i> Ground / Powder</span
+                >
+                <span class="form-chip"
+                  ><i class="fas fa-check-circle"></i> Crushed</span
+                >
+              </div>
+            </div>
 
             <!-- Product details -->
             <section class="product-details full-width-details">
@@ -716,15 +731,9 @@
           ></a>
         </div>
         <p>
-          <a
-            href="../privacy-policy.html"
-            target="_blank"
-            >Privacy Policy</a
-          >
+          <a href="../privacy-policy.html" target="_blank">Privacy Policy</a>
           &nbsp;|&nbsp;
-          <span
-            >© 2023–2026 Mile Overseas. All rights reserved.</span
-          >
+          <span>© 2023–2026 Mile Overseas. All rights reserved.</span>
         </p>
       </div>
     </footer>
@@ -738,14 +747,18 @@
       >
         <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+      <a
+        href="tel:+918178070378"
+        class="cta-phone notranslate"
+        aria-label="Call Us"
+      >
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
       <a href="../contact.html" class="cta-quote" aria-label="Request Quote">
         <i class="fas fa-file-invoice"></i> Get Quote
       </a>
     </div>
-<script src="../js/script.js" defer></script>
+    <script src="../js/script.js" defer></script>
     <script src="../js/chatbot.js" defer></script>
     <script>
       // Collapsible panel interactivity
@@ -763,7 +776,7 @@
           });
         });
     </script>
-      <div id="google_translate_element"></div>
+    <div id="google_translate_element"></div>
     <script src="../js/google-translate.js" defer></script>
   </body>
 </html>

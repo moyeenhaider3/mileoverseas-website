@@ -226,12 +226,22 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/products.css" />
     <link
-      rel="stylesheet"
+      rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      as="style"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
       integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    /></noscript>
     <link rel="stylesheet" href="css/product-details.css" />
     <style>
       header {
@@ -245,7 +255,12 @@
       <nav class="navbar">
         <div class="logo">
           <a href="index.html">
-            <img src="images/logo-modern.png" alt="Mileoverseas Logo" />
+            <img
+              src="images/logo-modern.png"
+              alt="Mileoverseas Logo"
+              width="70"
+              height="60"
+            />
           </a>
         </div>
         <button class="hamburger" id="hamburger-icon">
@@ -258,15 +273,11 @@
             <a href="products.html">Products</a>
           </li>
           <li>
-            <a href="why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="faq.html">FAQs</a></li>
           <li>
-            <a href="certificates.html"
-              >Certificates</a
-            >
+            <a href="certificates.html">Certificates</a>
           </li>
           <li><a href="contact.html">Contact Us</a></li>
           <li><a href="guides/">Guides</a></li>
@@ -281,15 +292,11 @@
             <a href="products.html">Products</a>
           </li>
           <li>
-            <a href="why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="faq.html">FAQs</a></li>
           <li>
-            <a href="certificates.html"
-              >Certificates</a
-            >
+            <a href="certificates.html">Certificates</a>
           </li>
           <li><a href="contact.html">Contact Us</a></li>
           <li><a href="guides/">Guides</a></li>
@@ -306,7 +313,14 @@
             <div class="product-hero wide-layout" id="product-hero">
               <div class="product-image-harvest-wrap">
                 <div class="product-image-container">
-                  <img id="product-image" src="" alt="" class="product-image" />
+                  <img
+                    id="product-image"
+                    src=""
+                    alt=""
+                    class="product-image"
+                    width="896"
+                    height="896"
+                  />
                 </div>
                 <div
                   class="scarcity-badge harvest-badge"
@@ -316,16 +330,10 @@
               <div class="product-info expanded-info">
                 <span class="category-chip" id="category-chip"></span>
                 <h1 id="product-name"></h1>
-                <div
-                  class="description"
-                  id="product-description"
-                ></div>
+                <div class="description" id="product-description"></div>
                 <div class="certifications" id="certifications"></div>
                 <div class="cta-buttons">
-                  <button
-                    class="cta-button"
-                    id="enquire-btn"
-                  >
+                  <button class="cta-button" id="enquire-btn">
                     Enquire Now
                   </button>
                   <a
@@ -358,9 +366,7 @@
                 <!-- First column - Specifications -->
                 <div class="product-info-column">
                   <div class="specifications-block">
-                    <div
-                      class="static-label bold-label"
-                    >
+                    <div class="static-label bold-label">
                       Detailed Specifications
                     </div>
                     <div class="collapsible-panel">
@@ -377,9 +383,7 @@
                   <!-- Quality Assurance - important for export/import companies -->
                   <div class="collapsible-panel">
                     <button class="collapsible-header" aria-expanded="false">
-                      <span
-                        >Quality Assurance</span
-                      >
+                      <span>Quality Assurance</span>
                       <i class="toggle-icon"></i>
                     </button>
                     <div class="collapsible-content" aria-hidden="true">
@@ -423,9 +427,7 @@
                   <!-- Container capacity options -->
                   <div class="collapsible-panel">
                     <button class="collapsible-header" aria-expanded="false">
-                      <span
-                        >Container Capacity</span
-                      >
+                      <span>Container Capacity</span>
                       <i class="toggle-icon"></i>
                     </button>
                     <div class="collapsible-content" aria-hidden="true">
@@ -437,20 +439,14 @@
             </section>
           </div>
 
-          <a href="products.html" class="back-link"
-            >Back to Products</a
-          >
+          <a href="products.html" class="back-link">Back to Products</a>
 
           <!-- Similar Products section - also updated to full width -->
           <section
             class="similar-products-section full-width-section"
             id="similar-products-section"
           >
-            <h2
-              class="similar-products-title"
-            >
-              Similar Products
-            </h2>
+            <h2 class="similar-products-title">Similar Products</h2>
             <div class="similar-products-list" id="similar-products-list"></div>
           </section>
         </div>
@@ -501,15 +497,9 @@
           ></a>
         </div>
         <p>
-          <a
-            href="privacy-policy.html"
-            target="_blank"
-            >Privacy Policy</a
-          >
+          <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
           &nbsp;|&nbsp;
-          <span
-            >© 2023–2026 Mile Overseas. All rights reserved.</span
-          >
+          <span>© 2023–2026 Mile Overseas. All rights reserved.</span>
         </p>
       </div>
     </footer>
@@ -523,7 +513,11 @@
       >
         <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+      <a
+        href="tel:+918178070378"
+        class="cta-phone notranslate"
+        aria-label="Call Us"
+      >
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
       <a href="contact.html" class="cta-quote" aria-label="Request Quote">
@@ -534,7 +528,7 @@
     <script src="js/script.js" defer></script>
     <script src="js/product-details.js"></script>
     <script src="js/chatbot.js" defer></script>
-      <div id="google_translate_element"></div>
+    <div id="google_translate_element"></div>
     <script src="js/google-translate.js" defer></script>
   </body>
 </html>

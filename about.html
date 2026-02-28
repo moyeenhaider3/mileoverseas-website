@@ -114,14 +114,32 @@
     </script>
     <link rel="stylesheet" href="css/style.css" />
     <link
-      rel="stylesheet"
+      rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      as="style"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
       integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    /></noscript>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"
+      defer
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"
+      defer
+    ></script>
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -137,7 +155,11 @@
       <nav class="navbar">
         <div class="logo">
           <a href="index.html"
-            ><img src="images/logo-modern.png" alt="Mileoverseas Logo"
+            ><img
+              src="images/logo-modern.png"
+              alt="Mileoverseas Logo"
+              width="70"
+              height="60"
           /></a>
         </div>
         <button class="hamburger" id="hamburger-icon">
@@ -146,21 +168,15 @@
         <ul class="nav-links" id="nav-menu">
           <li><a href="index.html">Home</a></li>
           <li>
-            <a href="about.html" class="active"
-              >About Us</a
-            >
+            <a href="about.html" class="active">About Us</a>
           </li>
           <li><a href="products.html">Products</a></li>
           <li>
-            <a href="why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="faq.html">FAQs</a></li>
           <li>
-            <a href="certificates.html"
-              >Certificates</a
-            >
+            <a href="certificates.html">Certificates</a>
           </li>
           <li><a href="contact.html">Contact Us</a></li>
           <li><a href="guides/">Guides</a></li>
@@ -177,15 +193,11 @@
         </li>
         <li><a href="products.html">Products</a></li>
         <li>
-          <a href="why-choose-us.html"
-            >Why Choose Us</a
-          >
+          <a href="why-choose-us.html">Why Choose Us</a>
         </li>
         <li><a href="faq.html">FAQs</a></li>
         <li>
-          <a href="certificates.html"
-            >Certificates</a
-          >
+          <a href="certificates.html">Certificates</a>
         </li>
         <li><a href="contact.html">Contact Us</a></li>
         <li><a href="guides/">Guides</a></li>
@@ -249,6 +261,9 @@
                 src="images/about-story.jpg"
                 alt="Mileoverseas Company History"
                 class="responsive-image"
+                width="600"
+                height="400"
+                loading="lazy"
               />
             </div>
           </div>
@@ -257,11 +272,7 @@
 
       <section class="about-mission-values modern-about-section">
         <div class="container">
-          <h2
-            class="section-title fade-in"
-          >
-            Mission & Values
-          </h2>
+          <h2 class="section-title fade-in">Mission & Values</h2>
           <div class="mission-values-content grid-2col">
             <div class="mission fade-in delay-0">
               <h3>Our Mission</h3>
@@ -311,9 +322,7 @@
 
       <section class="about-certifications modern-about-section">
         <div class="container">
-          <h2
-            class="section-title fade-in"
-          >
+          <h2 class="section-title fade-in">
             Certifications & Quality Assurance
           </h2>
           <div class="certifications-content">
@@ -345,8 +354,7 @@
               </li>
               <li class="fade-in delay-3">
                 <i class="fas fa-certificate cert-icon"></i>
-                <span
-                  ><strong>HACCP</strong> <em>(In Progress)</em></span
+                <span><strong>HACCP</strong> <em>(In Progress)</em></span
                 >:
                 <span
                   >Hazard Analysis and Critical Control Points certification in
@@ -396,11 +404,7 @@
 
       <section class="about-future-vision modern-about-section">
         <div class="container">
-          <h2
-            class="section-title fade-in"
-          >
-            Future Vision
-          </h2>
+          <h2 class="section-title fade-in">Future Vision</h2>
           <div class="future-vision-content fade-in delay-0">
             <p>
               Looking ahead, Mileoverseas is excited to expand our product
@@ -417,9 +421,7 @@
 
       <section class="faq-section modern-faq-section">
         <div class="container">
-          <h2 class="section-title fade-in">
-            Frequently Asked Questions
-          </h2>
+          <h2 class="section-title fade-in">Frequently Asked Questions</h2>
           <div class="faq-tile modern-faq-tile fade-in delay-0">
             <div class="faq-question">
               How does Mileoverseas ensure the quality of spices?
@@ -455,8 +457,7 @@
               </p>
               <ul>
                 <li>
-                  <span
-                    ><strong>Ethical Farmer Partnerships</strong></span
+                  <span><strong>Ethical Farmer Partnerships</strong></span
                   >:
                   <span
                     >We prioritize sourcing from farmers who follow ethical
@@ -465,8 +466,7 @@
                   >
                 </li>
                 <li>
-                  <span
-                    ><strong>Sustainable Agriculture</strong></span
+                  <span><strong>Sustainable Agriculture</strong></span
                   >:
                   <span
                     >We encourage and support sustainable agricultural methods
@@ -475,8 +475,7 @@
                   >
                 </li>
                 <li>
-                  <span
-                    ><strong>Traceability</strong></span
+                  <span><strong>Traceability</strong></span
                   >:
                   <span
                     >We are working towards enhancing traceability in our supply
@@ -485,8 +484,7 @@
                   >
                 </li>
                 <li>
-                  <span
-                    ><strong>Certifications (In Progress)</strong></span
+                  <span><strong>Certifications (In Progress)</strong></span
                   >:
                   <span
                     >We are in the process of obtaining certifications such as
@@ -523,6 +521,9 @@
                 alt="ISO 9001 Certification Preview"
                 title="Click to preview ISO 9001 Certificate"
                 class="responsive-image"
+                width="400"
+                height="300"
+                loading="lazy"
               />
               <h3>ISO 9001 Certified</h3>
               <p>Quality Management System</p>
@@ -539,6 +540,9 @@
                 alt="FSSAI Certification Preview"
                 title="Click to preview FSSAI Certificate"
                 class="responsive-image"
+                width="400"
+                height="300"
+                loading="lazy"
               />
               <h3>FSSAI Certified</h3>
               <p>
@@ -557,6 +561,9 @@
                 alt="HACCP Certification Preview"
                 title="Click to preview HACCP Certificate"
                 class="responsive-image"
+                width="400"
+                height="300"
+                loading="lazy"
               />
               <h3>HACCP Certified</h3>
               <p>
@@ -628,15 +635,9 @@
           ></a>
         </div>
         <p>
-          <a
-            href="privacy-policy.html"
-            target="_blank"
-            >Privacy Policy</a
-          >
+          <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
           &nbsp;|&nbsp;
-          <span
-            >© 2023–2026 Mile Overseas. All rights reserved.</span
-          >
+          <span>© 2023–2026 Mile Overseas. All rights reserved.</span>
         </p>
       </div>
     </footer>
@@ -650,17 +651,21 @@
       >
         <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+      <a
+        href="tel:+918178070378"
+        class="cta-phone notranslate"
+        aria-label="Call Us"
+      >
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
       <a href="contact.html" class="cta-quote" aria-label="Request Quote">
         <i class="fas fa-file-invoice"></i> Get Quote
       </a>
     </div>
-<script src="js/script.js" defer></script>
+    <script src="js/script.js" defer></script>
     <script src="js/main.js" defer></script>
     <script src="js/chatbot.js" defer></script>
-      <div id="google_translate_element"></div>
+    <div id="google_translate_element"></div>
     <script src="js/google-translate.js" defer></script>
   </body>
 </html>

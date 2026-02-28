@@ -22,7 +22,7 @@ build/
 .env.production
 
 # Planning & documentation (not deployed)
-docs/
+# docs/
 
 # Logs
 *.log

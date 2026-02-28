@@ -105,9 +105,19 @@
     </script>
 
     <link
-      rel="stylesheet"
+      rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      as="style"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
     />
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    /></noscript>
     <link
       href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap"
       rel="stylesheet"
@@ -137,15 +147,11 @@
             <a href="../products.html">Products</a>
           </li>
           <li>
-            <a href="../why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="../why-choose-us.html">Why Choose Us</a>
           </li>
           <li><a href="../faq.html">FAQs</a></li>
           <li>
-            <a href="../certificates.html"
-              >Certificates</a
-            >
+            <a href="../certificates.html">Certificates</a>
           </li>
           <li>
             <a href="../contact.html">Contact Us</a>
@@ -164,15 +170,11 @@
           <a href="../products.html">Products</a>
         </li>
         <li>
-          <a href="../why-choose-us.html"
-            >Why Choose Us</a
-          >
+          <a href="../why-choose-us.html">Why Choose Us</a>
         </li>
         <li><a href="../faq.html">FAQs</a></li>
         <li>
-          <a href="../certificates.html"
-            >Certificates</a
-          >
+          <a href="../certificates.html">Certificates</a>
         </li>
         <li>
           <a href="../contact.html">Contact Us</a>
@@ -383,15 +385,9 @@
           ></a>
         </div>
         <p>
-          <a
-            href="../privacy-policy.html"
-            target="_blank"
-            >Privacy Policy</a
-          >
+          <a href="../privacy-policy.html" target="_blank">Privacy Policy</a>
           |
-          <span
-            >© 2023–2026 Mile Overseas. All rights reserved.</span
-          >
+          <span>© 2023–2026 Mile Overseas. All rights reserved.</span>
         </p>
       </div>
     </footer>
@@ -405,17 +401,21 @@
       >
         <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+      <a
+        href="tel:+918178070378"
+        class="cta-phone notranslate"
+        aria-label="Call Us"
+      >
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
       <a href="../contact.html" class="cta-quote" aria-label="Request Quote">
         <i class="fas fa-file-invoice"></i> Get Quote
       </a>
     </div>
-<script src="../js/script.js" defer></script>
+    <script src="../js/script.js" defer></script>
     <script src="../js/main.js" defer></script>
     <script src="../js/chatbot.js" defer></script>
-      <div id="google_translate_element"></div>
+    <div id="google_translate_element"></div>
     <script src="../js/google-translate.js" defer></script>
   </body>
 </html>

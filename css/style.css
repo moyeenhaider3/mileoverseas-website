@@ -257,9 +257,7 @@ a:hover {
     right: 0;
     width: 80vw;
     max-width: 350px;
-    height: calc(
-      100vh - var(--header-height) - var(--nav-item-height)
-    ) !important;
+    height: calc(100vh - var(--header-height) - var(--nav-item-height)) !important;
     background: #fffbe7;
     box-shadow: -2px 0 8px rgba(231, 198, 155, 0.33);
     padding: 1.2rem 1.1rem;
@@ -271,9 +269,7 @@ a:hover {
 @media (max-width: 900px) {
   .nav-links.open {
     top: calc(var(--header-height) + var(--nav-item-height)) !important;
-    height: calc(
-      100vh - var(--header-height) - var(--nav-item-height)
-    ) !important;
+    height: calc(100vh - var(--header-height) - var(--nav-item-height)) !important;
   }
 }
 
@@ -313,9 +309,7 @@ html[dir="rtl"] .navbar .nav-links.open {
   right: -100vw;
   width: 80vw;
   max-width: 350px;
-  height: calc(
-    100vh - var(--header-height) - var(--nav-item-height)
-  ) !important;
+  height: calc(100vh - var(--header-height) - var(--nav-item-height)) !important;
   background: #fffbe7;
   box-shadow: -2px 0 8px #e7c69b33;
   z-index: 2200;
@@ -640,9 +634,7 @@ body {
   transition: transform 0.3s ease;
 }
 
-.product-details.modern-product-details
-  .product-image:hover
-  img.responsive-image {
+.product-details.modern-product-details .product-image:hover img.responsive-image {
   transform: scale(1.02);
 }
 
@@ -674,24 +666,14 @@ body {
   gap: 15px;
 }
 
-.product-details.modern-product-details
-  .product-info
-  ul.varieties-list
-  li:last-child,
-.product-details.modern-product-details
-  .product-info
-  ul.forms-list
-  li:last-child {
+.product-details.modern-product-details .product-info ul.varieties-list li:last-child,
+.product-details.modern-product-details .product-info ul.forms-list li:last-child {
   border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
-.product-details.modern-product-details
-  .product-info
-  ul.varieties-list
-  li
-  strong,
+.product-details.modern-product-details .product-info ul.varieties-list li strong,
 .product-details.modern-product-details .product-info ul.forms-list li strong {
   color: #d2691e;
   font-size: 1.1em;
@@ -706,16 +688,8 @@ body {
   flex: 1;
 }
 
-.product-details.modern-product-details
-  .product-info
-  ul.varieties-list
-  li
-  img.product-thumbnail,
-.product-details.modern-product-details
-  .product-info
-  ul.forms-list
-  li
-  img.product-thumbnail {
+.product-details.modern-product-details .product-info ul.varieties-list li img.product-thumbnail,
+.product-details.modern-product-details .product-info ul.forms-list li img.product-thumbnail {
   width: 80px;
   height: 80px;
   object-fit: cover;
@@ -724,16 +698,8 @@ body {
   transition: transform 0.3s ease;
 }
 
-.product-details.modern-product-details
-  .product-info
-  ul.varieties-list
-  li
-  img.product-thumbnail:hover,
-.product-details.modern-product-details
-  .product-info
-  ul.forms-list
-  li
-  img.product-thumbnail:hover {
+.product-details.modern-product-details .product-info ul.varieties-list li img.product-thumbnail:hover,
+.product-details.modern-product-details .product-info ul.forms-list li img.product-thumbnail:hover {
   transform: scale(1.05);
 }
 
@@ -744,32 +710,14 @@ body {
 }
 
 /* RTL Support for Product Details */
-html[dir="rtl"]
-  .product-details.modern-product-details
-  .product-info
-  ul.varieties-list
-  li,
-html[dir="rtl"]
-  .product-details.modern-product-details
-  .product-info
-  ul.forms-list
-  li {
+html[dir="rtl"] .product-details.modern-product-details .product-info ul.varieties-list li,
+html[dir="rtl"] .product-details.modern-product-details .product-info ul.forms-list li {
   flex-direction: row-reverse;
   justify-content: flex-end;
 }
 
-html[dir="rtl"]
-  .product-details.modern-product-details
-  .product-info
-  ul.varieties-list
-  li
-  strong,
-html[dir="rtl"]
-  .product-details.modern-product-details
-  .product-info
-  ul.forms-list
-  li
-  strong {
+html[dir="rtl"] .product-details.modern-product-details .product-info ul.varieties-list li strong,
+html[dir="rtl"] .product-details.modern-product-details .product-info ul.forms-list li strong {
   text-align: right;
   justify-content: flex-end;
 }
@@ -802,16 +750,8 @@ html[dir="rtl"]
     gap: 10px;
   }
 
-  .product-details.modern-product-details
-    .product-info
-    ul.varieties-list
-    li
-    img.product-thumbnail,
-  .product-details.modern-product-details
-    .product-info
-    ul.forms-list
-    li
-    img.product-thumbnail {
+  .product-details.modern-product-details .product-info ul.varieties-list li img.product-thumbnail,
+  .product-details.modern-product-details .product-info ul.forms-list li img.product-thumbnail {
     width: 100%;
     height: 200px;
     margin-top: 10px;
@@ -842,14 +782,8 @@ html[dir="rtl"]
   position: relative;
 }
 
-.why-choose-section.modern-why-choose-section
-  .advantages-list
-  li
-  .advantage-icon,
-.why-choose-section.modern-why-choose-section
-  .compliance-list
-  li
-  .compliance-icon {
+.why-choose-section.modern-why-choose-section .advantages-list li .advantage-icon,
+.why-choose-section.modern-why-choose-section .compliance-list li .compliance-icon {
   position: absolute;
   left: 0;
   top: 0;
@@ -862,9 +796,7 @@ html[dir="rtl"]
   align-items: center;
 }
 
-.why-choose-section.modern-why-choose-section
-  .case-study-image
-  img.responsive-image {
+.why-choose-section.modern-why-choose-section .case-study-image img.responsive-image {
   border-radius: 15px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
@@ -922,9 +854,7 @@ html[dir="rtl"]
 
 .contact-form.modern-form .form-group select {
   appearance: none;
-  background: #fff
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E")
-    no-repeat right 15px center;
+  background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23666' d='M6 8L1 3h10z'/%3E%3C/svg%3E") no-repeat right 15px center;
   cursor: pointer;
 }
 
@@ -1361,11 +1291,11 @@ html[dir="rtl"] .intro-content.grid-2col {
   direction: rtl;
 }
 
-html[dir="rtl"] .modern-introduction .grid-2col > div:first-child {
+html[dir="rtl"] .modern-introduction .grid-2col>div:first-child {
   grid-column: 2;
 }
 
-html[dir="rtl"] .modern-introduction .grid-2col > div:last-child {
+html[dir="rtl"] .modern-introduction .grid-2col>div:last-child {
   grid-column: 1;
 }
 
@@ -1599,26 +1529,20 @@ body.error-404 main.container {
 @media (max-width: 992px) {
   .nav-links.open {
     top: calc(var(--header-height) + var(--nav-item-height)) !important;
-    height: calc(
-      100vh - var(--header-height) - var(--nav-item-height)
-    ) !important;
+    height: calc(100vh - var(--header-height) - var(--nav-item-height)) !important;
   }
 }
 
 @media (max-width: 900px) {
   .nav-links.open {
     top: calc(var(--header-height) + var(--nav-item-height)) !important;
-    height: calc(
-      100vh - var(--header-height) - var(--nav-item-height)
-    ) !important;
+    height: calc(100vh - var(--header-height) - var(--nav-item-height)) !important;
   }
 }
 
 .mobile-nav-drawer {
   top: calc(var(--header-height) + var(--nav-item-height)) !important;
-  height: calc(
-    100vh - var(--header-height) - var(--nav-item-height)
-  ) !important;
+  height: calc(100vh - var(--header-height) - var(--nav-item-height)) !important;
 }
 
 :root {
@@ -1743,18 +1667,23 @@ img.lazy.loaded {
 .cta-whatsapp {
   background: #25d366;
 }
+
 .cta-whatsapp:hover {
   background: #1da851;
 }
+
 .cta-phone {
   background: #d2691e;
 }
+
 .cta-phone:hover {
   background: #a0522d;
 }
+
 .cta-quote {
   background: #8b4513;
 }
+
 .cta-quote:hover {
   background: #6b3410;
 }
@@ -1778,14 +1707,16 @@ img.lazy.loaded {
 /* ========== Breadcrumb Navigation ========== */
 .breadcrumb-nav {
   padding: 12px 20px;
-  margin-top: 70px; /* Below fixed navbar */
+  margin-top: 70px;
+  /* Below fixed navbar */
   background: #faf7f2;
   border-bottom: 1px solid #e8e0d4;
 }
 
 @media (max-width: 768px) {
   .breadcrumb-nav {
-    margin-top: 56px; /* Smaller header on mobile */
+    margin-top: 56px;
+    /* Smaller header on mobile */
   }
 }
 
@@ -1829,8 +1760,8 @@ img.lazy.loaded {
 }
 
 /* Pages with breadcrumbs need less top-margin on first section */
-.breadcrumb-nav + section,
-.breadcrumb-nav ~ section:first-of-type {
+.breadcrumb-nav+section,
+.breadcrumb-nav~section:first-of-type {
   margin-top: 0 !important;
   padding-top: 20px;
 }
@@ -2282,12 +2213,24 @@ img.lazy.loaded {
 }
 
 /* ========== Google Translate Themed Language Picker ========== */
-/* Hidden container for Google Translate widget */
+/* Hidden container for Google Translate widget - completely off-screen */
 #google_translate_element {
-  position: absolute;
-  left: -9999px;
-  opacity: 0;
-  pointer-events: none;
+  position: fixed !important;
+  left: -9999px !important;
+  top: -9999px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  z-index: -1 !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+}
+
+/* Align the desktop GT picker li with other nav items */
+#gt-lang-desktop {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
 }
 
 /* Desktop dropdown */
@@ -2372,7 +2315,12 @@ img.lazy.loaded {
 .gt-mobile-lang-toggle i.fa-chevron-down {
   font-size: 0.65rem;
   margin-left: auto;
-  transition: transform 0.2s;
+  transition: transform 0.25s ease;
+}
+
+.gt-mobile-lang-list.open~.gt-mobile-lang-toggle i.fa-chevron-down,
+.gt-mobile-lang-toggle.open i.fa-chevron-down {
+  transform: rotate(180deg);
 }
 
 .gt-mobile-lang-list {
@@ -2407,7 +2355,19 @@ img.lazy.loaded {
   color: #8b4513;
 }
 
-/* Ensure notranslate elements are never translated */
-.notranslate {
-  /* Google Translate respects this class */
+/* Ensure notranslate elements are never translated (GT respects this class) */
+
+/* Hide Google's top toolbar that sometimes appears */
+.goog-te-banner-frame,
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+/* Prevent GT from adding a gap at the top of body */
+body[style*="top:"] {
+  top: 0 !important;
 }

@@ -208,13 +208,28 @@
     <link rel="manifest" href="site.webmanifest" />
     <link rel="stylesheet" href="css/style.css" />
     <link
-      rel="stylesheet"
+      rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      as="style"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
       integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <noscript
+      ><link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    /></noscript>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"
+      defer
+    ></script>
+    <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -227,7 +242,11 @@
       <nav class="navbar">
         <div class="logo">
           <a href="index.html"
-            ><img src="images/logo-modern.png" alt="Mileoverseas Logo"
+            ><img
+              src="images/logo-modern.png"
+              alt="Mileoverseas Logo"
+              width="70"
+              height="60"
           /></a>
         </div>
         <button class="hamburger" id="hamburger-icon">
@@ -242,17 +261,13 @@
           <li><a href="about.html">About Us</a></li>
           <li><a href="products.html">Products</a></li>
           <li>
-            <a href="why-choose-us.html"
-              >Why Choose Us</a
-            >
+            <a href="why-choose-us.html">Why Choose Us</a>
           </li>
           <li>
             <a href="faq.html" class="active">FAQs</a>
           </li>
           <li>
-            <a href="certificates.html"
-              >Certificates</a
-            >
+            <a href="certificates.html">Certificates</a>
           </li>
           <li><a href="contact.html">Contact Us</a></li>
           <li><a href="guides/">Guides</a></li>
@@ -268,15 +283,11 @@
         <li><a href="about.html">About Us</a></li>
         <li><a href="products.html">Products</a></li>
         <li>
-          <a href="why-choose-us.html"
-            >Why Choose Us</a
-          >
+          <a href="why-choose-us.html">Why Choose Us</a>
         </li>
         <li><a href="faq.html" class="active">FAQs</a></li>
         <li>
-          <a href="certificates.html"
-            >Certificates</a
-          >
+          <a href="certificates.html">Certificates</a>
         </li>
         <li><a href="contact.html">Contact Us</a></li>
         <li><a href="guides/">Guides</a></li>
@@ -352,9 +363,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    >Retail Packaging:</strong
-                  >
+                  <strong>Retail Packaging:</strong>
                   <span
                     >Branded or unbranded packs in various sizes (e.g., 50g,
                     100g, 250g, 500g, 1kg) for direct retail sale.</span
@@ -368,18 +377,14 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Private Labeling:</strong
-                  >
+                  <strong>Private Labeling:</strong>
                   <span
                     >We offer private labeling services, allowing you to market
                     spices under your own brand name.</span
                   >
                 </li>
                 <li>
-                  <strong
-                    >Custom Packaging:</strong
-                  >
+                  <strong>Custom Packaging:</strong>
                   <span
                     >We are flexible and can accommodate specific packaging
                     requests based on your requirements, subject to feasibility
@@ -432,9 +437,7 @@
           </div>
 
           <div class="faq-tile modern-faq-tile fade-in delay-3">
-            <div class="faq-question">
-              What payment terms do you accept?
-            </div>
+            <div class="faq-question">What payment terms do you accept?</div>
             <div class="faq-answer">
               <p>
                 To ensure smooth and secure transactions, we primarily accept
@@ -442,9 +445,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    >Advance Payment:</strong
-                  >
+                  <strong>Advance Payment:</strong>
                   <span
                     >For initial orders or smaller transactions, we may require
                     a percentage of the total order value as advance payment to
@@ -452,9 +453,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Letter of Credit (L/C):</strong
-                  >
+                  <strong>Letter of Credit (L/C):</strong>
                   <span
                     >For larger and recurring orders, we accept payment through
                     Letter of Credit. This provides security for both parties
@@ -462,9 +461,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Other Payment Methods:</strong
-                  >
+                  <strong>Other Payment Methods:</strong>
                   <span
                     >We can also consider other payment methods such as bank
                     transfers, depending on the order size and buyer
@@ -520,9 +517,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    >Spice Blending:</strong
-                  >
+                  <strong>Spice Blending:</strong>
                   <span
                     >We can create custom spice blends according to your recipes
                     or specifications. Whether it's for a specific culinary
@@ -531,9 +526,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Custom Processing:</strong
-                  >
+                  <strong>Custom Processing:</strong>
                   <span
                     >We can adjust processing levels (e.g., grinding, powdering,
                     roasting) to match your desired texture and flavor
@@ -541,9 +534,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Packaging Customization:</strong
-                  >
+                  <strong>Packaging Customization:</strong>
                   <span
                     >As mentioned earlier, we offer private labeling and custom
                     packaging options to help you market spices under your
@@ -574,9 +565,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    >Regulatory Compliance:</strong
-                  >
+                  <strong>Regulatory Compliance:</strong>
                   <span
                     >We are well-versed with the food safety regulations of
                     major importing regions, including the FDA (USA), EU
@@ -591,12 +580,8 @@
                   >
                   <ul>
                     <li>Phytosanitary Certificates</li>
-                    <li>
-                      Certificates of Analysis (COA)
-                    </li>
-                    <li>
-                      Certificates of Origin (COO)
-                    </li>
+                    <li>Certificates of Analysis (COA)</li>
+                    <li>Certificates of Origin (COO)</li>
                     <li>
                       Other required documents based on destination country
                       regulations.
@@ -604,9 +589,7 @@
                   </ul>
                 </li>
                 <li>
-                  <strong
-                    >Continuous Monitoring:</strong
-                  >
+                  <strong>Continuous Monitoring:</strong>
                   <span
                     >We stay updated on the latest regulatory changes and adapt
                     our processes to maintain ongoing compliance.</span
@@ -633,9 +616,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    >Quality Assurance Follow-up:</strong
-                  >
+                  <strong>Quality Assurance Follow-up:</strong>
                   <span
                     >We follow up on shipments to ensure that the quality of
                     spices is maintained upon arrival and meets your
@@ -643,9 +624,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Handling Queries and Concerns:</strong
-                  >
+                  <strong>Handling Queries and Concerns:</strong>
                   <span
                     >Our customer service team is readily available to address
                     any queries, concerns, or issues that may arise
@@ -653,9 +632,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Defective Goods Replacement:</strong
-                  >
+                  <strong>Defective Goods Replacement:</strong>
                   <span
                     >In the rare event of any quality issues or discrepancies,
                     we have a clear process for evaluating claims and arranging
@@ -663,9 +640,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Ongoing Communication:</strong
-                  >
+                  <strong>Ongoing Communication:</strong>
                   <span
                     >We believe in maintaining open communication channels and
                     are always available to assist with future orders, market
@@ -692,9 +667,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    >Spice Type and Variety:</strong
-                  >
+                  <strong>Spice Type and Variety:</strong>
                   <span
                     >Different spices and varieties have varying market values
                     based on demand, availability, and quality.</span
@@ -708,18 +681,14 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    >Order Quantity:</strong
-                  >
+                  <strong>Order Quantity:</strong>
                   <span
                     >We offer competitive pricing that becomes more favorable as
                     order quantities increase.</span
                   >
                 </li>
                 <li>
-                  <strong
-                    >Market Conditions:</strong
-                  >
+                  <strong>Market Conditions:</strong>
                   <span
                     >Pricing is also influenced by current market trends,
                     seasonal availability, and global spice market
@@ -728,9 +697,7 @@
                 </li>
               </ul>
               <p>
-                <strong
-                  >Bulk Order Discounts:</strong
-                >
+                <strong>Bulk Order Discounts:</strong>
                 <span
                   >Yes, we offer attractive discounts for bulk orders. We
                   encourage buyers planning larger volume purchases to contact
@@ -755,10 +722,7 @@
               </p>
               <ul>
                 <li>
-                  <strong
-                    ><span
-                      >Ethical Farmer Partnerships</span
-                    ></strong
+                  <strong><span>Ethical Farmer Partnerships</span></strong
                   >:
                   <span
                     >We prioritize sourcing from farmers who follow ethical
@@ -767,10 +731,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    ><span
-                      >Sustainable Agriculture</span
-                    ></strong
+                  <strong><span>Sustainable Agriculture</span></strong
                   >:
                   <span
                     >We encourage and support sustainable agricultural methods
@@ -779,10 +740,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    ><span
-                      >Traceability</span
-                    ></strong
+                  <strong><span>Traceability</span></strong
                   >:
                   <span
                     >We are working towards enhancing traceability in our supply
@@ -791,10 +749,7 @@
                   >
                 </li>
                 <li>
-                  <strong
-                    ><span
-                      >Certifications (In Progress)</span
-                    ></strong
+                  <strong><span>Certifications (In Progress)</span></strong
                   >:
                   <span
                     >We are in the process of obtaining certifications such as
@@ -859,15 +814,9 @@
           ></a>
         </div>
         <p>
-          <a
-            href="privacy-policy.html"
-            target="_blank"
-            >Privacy Policy</a
-          >
+          <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
           &nbsp;|&nbsp;
-          <span
-            >© 2023–2026 Mile Overseas. All rights reserved.</span
-          >
+          <span>© 2023–2026 Mile Overseas. All rights reserved.</span>
         </p>
       </div>
     </footer>
@@ -881,17 +830,21 @@
       >
         <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+      <a
+        href="tel:+918178070378"
+        class="cta-phone notranslate"
+        aria-label="Call Us"
+      >
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
       <a href="contact.html" class="cta-quote" aria-label="Request Quote">
         <i class="fas fa-file-invoice"></i> Get Quote
       </a>
     </div>
-<script src="js/script.js" defer></script>
+    <script src="js/script.js" defer></script>
     <script src="js/main.js" defer></script>
     <script src="js/chatbot.js" defer></script>
-      <div id="google_translate_element"></div>
+    <div id="google_translate_element"></div>
     <script src="js/google-translate.js" defer></script>
   </body>
 </html>
