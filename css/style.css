@@ -1699,24 +1699,31 @@ img.lazy.loaded {
   }
 }
 
-/* Adjust chat widget to not overlap sticky CTA */
-#chat-toggle {
-  bottom: 90px !important;
+/* Adjust chat widget to not overlap sticky CTA bar */
+#chat-toggle,
+#cb-toggle {
+  bottom: 110px !important;
+}
+
+/* On desktop the sticky CTA floats at bottom:20px — chat can sit lower */
+@media (min-width: 993px) {
+
+  #chat-toggle,
+  #cb-toggle {
+    bottom: 88px !important;
+  }
 }
 
 /* ========== Breadcrumb Navigation ========== */
 .breadcrumb-nav {
   padding: 12px 20px;
-  margin-top: 70px;
-  /* Below fixed navbar */
   background: #faf7f2;
   border-bottom: 1px solid #e8e0d4;
 }
 
 @media (max-width: 768px) {
   .breadcrumb-nav {
-    margin-top: 56px;
-    /* Smaller header on mobile */
+    padding: 10px 16px;
   }
 }
 
