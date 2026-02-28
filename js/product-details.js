@@ -217,7 +217,7 @@ function renderBulletList(items, elementId) {
   if (itemsArray.length > 0) {
     element.innerHTML = itemsArray.map((item) => `<li>${item}</li>`).join("");
   } else {
-    element.innerHTML = '<li>No data available</li>';
+    element.innerHTML = "<li>No data available</li>";
   }
 }
 

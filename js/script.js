@@ -80,7 +80,10 @@ document.addEventListener("DOMContentLoaded", function () {
     mobileNavLinks.forEach((link) => {
       link.addEventListener("click", (e) => {
         // Skip closing drawer for Google Translate language buttons
-        if (link.classList.contains("gt-lang-btn") || link.classList.contains("gt-mobile-lang-toggle")) {
+        if (
+          link.classList.contains("gt-lang-btn") ||
+          link.classList.contains("gt-mobile-lang-toggle")
+        ) {
           return;
         }
         mobileDrawer.classList.remove("open");

@@ -26,7 +26,18 @@
     var s = document.createElement("script");
     s.id = "gt-script";
     s.src =
-      "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+      "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+    s.onerror = function () {
+      console.warn("[GT] Google Translate script failed to load. Retrying...");
+      s.remove();
+      setTimeout(function () {
+        var s2 = document.createElement("script");
+        s2.id = "gt-script";
+        s2.src =
+          "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+        document.body.appendChild(s2);
+      }, 2000);
+    };
     document.body.appendChild(s);
   }
 
@@ -41,14 +52,23 @@
         layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
         autoDisplay: false,
       },
-      "google_translate_element"
+      "google_translate_element",
     );
 
-    // Restore previously selected language
-    setTimeout(restoreSavedLanguage, 800);
-
-    // Hide the Google Translate toolbar / banner
-    hideBanner();
+    // Wait for the .goog-te-combo select to actually appear, then restore
+    var waitAttempts = 0;
+    var waitInterval = setInterval(function () {
+      var combo = document.querySelector(".goog-te-combo");
+      if (combo) {
+        clearInterval(waitInterval);
+        restoreSavedLanguage();
+        hideBanner();
+      }
+      if (++waitAttempts > 50) {
+        clearInterval(waitInterval);
+        hideBanner();
+      }
+    }, 200);
   };
 
   /* ---- Programmatically switch language via hidden widget ---- */
@@ -70,11 +90,20 @@
       if (sel) {
         clearInterval(interval);
         sel.value = langCode;
-        sel.dispatchEvent(new Event("change"));
+        // Trigger change using both methods for compatibility
+        sel.dispatchEvent(new Event("change", { bubbles: true }));
+        // Fallback: also try using the native setter
+        var nativeSetter = Object.getOwnPropertyDescriptor(
+          HTMLSelectElement.prototype, "value"
+        );
+        if (nativeSetter && nativeSetter.set) {
+          nativeSetter.set.call(sel, langCode);
+          sel.dispatchEvent(new Event("change", { bubbles: true }));
+        }
         updateActiveButtons(langCode);
       }
-      if (++attempts > 40) clearInterval(interval);
-    }, 150);
+      if (++attempts > 50) clearInterval(interval);
+    }, 200);
   }
 
   /* Restore to English (remove translation) */
@@ -119,7 +148,10 @@
   /* Update active state on all language buttons */
   function updateActiveButtons(langCode) {
     document.querySelectorAll(".gt-lang-btn").forEach(function (btn) {
-      btn.classList.toggle("active", btn.getAttribute("data-lang") === langCode);
+      btn.classList.toggle(
+        "active",
+        btn.getAttribute("data-lang") === langCode,
+      );
     });
     // Update the desktop trigger label
     var trigger = document.querySelector(".gt-lang-trigger .gt-current-lang");
@@ -138,8 +170,10 @@
       ".goog-te-banner-frame { display: none !important; }" +
       "body { top: 0 !important; }" +
       ".goog-te-gadget { font-size: 0 !important; }" +
-      "#google_translate_element { position: absolute; left: -9999px; opacity: 0; pointer-events: none; }"+
-      ".skiptranslate { display: none !important; }" +
+      "#google_translate_element { position: fixed !important; left: -9999px !important; top: -9999px !important; opacity: 0 !important; pointer-events: none !important; z-index: -1 !important; width: 1px !important; height: 1px !important; overflow: hidden !important; }" +
+      "#google_translate_element .skiptranslate { display: block !important; }" +
+      "body > .skiptranslate { display: none !important; }" +
+      ".goog-te-spinner-pos { display: none !important; }" +
       "body { top: 0 !important; position: static !important; }";
     document.head.appendChild(style);
 
@@ -149,7 +183,10 @@
       var frame = document.querySelector(".goog-te-banner-frame");
       if (frame) frame.style.display = "none";
     });
-    observer.observe(document.body, { attributes: true, attributeFilter: ["style"] });
+    observer.observe(document.body, {
+      attributes: true,
+      attributeFilter: ["style"],
+    });
   }
 
   /* ---- Build the custom language picker UI ---- */
@@ -175,7 +212,11 @@
 
         // Close mobile drawer if in drawer
         var drawer = document.getElementById("mobile-drawer");
-        if (drawer && drawer.classList.contains("open") && btn.closest(".mobile-nav-drawer")) {
+        if (
+          drawer &&
+          drawer.classList.contains("open") &&
+          btn.closest(".mobile-nav-drawer")
+        ) {
           drawer.classList.remove("open");
           document.body.classList.remove("drawer-open");
         }
@@ -197,7 +238,8 @@
         // Also support click for touch devices
         trigger.addEventListener("click", function (e) {
           e.preventDefault();
-          content.style.display = content.style.display === "block" ? "none" : "block";
+          content.style.display =
+            content.style.display === "block" ? "none" : "block";
         });
       }
     }
@@ -216,14 +258,29 @@
 
   function buildDesktopHTML() {
     var saved = localStorage.getItem("selectedLanguage") || "en";
-    var current = LANGUAGES.find(function (l) { return l.code === saved; }) || LANGUAGES[0];
+    var current =
+      LANGUAGES.find(function (l) {
+        return l.code === saved;
+      }) || LANGUAGES[0];
     var html = '<div class="gt-lang-dropdown">';
-    html += '<a href="#" class="gt-lang-trigger"><span class="gt-current-lang">' +
-      current.flag + " " + current.label + '</span> <i class="fas fa-chevron-down"></i></a>';
+    html +=
+      '<a href="#" class="gt-lang-trigger"><span class="gt-current-lang">' +
+      current.flag +
+      " " +
+      current.label +
+      '</span> <i class="fas fa-chevron-down"></i></a>';
     html += '<div class="gt-lang-list">';
     LANGUAGES.forEach(function (l) {
-      html += '<a href="#" class="gt-lang-btn' + (l.code === saved ? " active" : "") +
-        '" data-lang="' + l.code + '">' + l.flag + " " + l.label + "</a>";
+      html +=
+        '<a href="#" class="gt-lang-btn' +
+        (l.code === saved ? " active" : "") +
+        '" data-lang="' +
+        l.code +
+        '">' +
+        l.flag +
+        " " +
+        l.label +
+        "</a>";
     });
     html += "</div></div>";
     return html;
@@ -231,14 +288,29 @@
 
   function buildMobileHTML() {
     var saved = localStorage.getItem("selectedLanguage") || "en";
-    var current = LANGUAGES.find(function (l) { return l.code === saved; }) || LANGUAGES[0];
-    var html = '<a href="#" class="gt-mobile-lang-toggle">' +
-      '<i class="fas fa-globe"></i> ' + current.flag + " " + current.label +
+    var current =
+      LANGUAGES.find(function (l) {
+        return l.code === saved;
+      }) || LANGUAGES[0];
+    var html =
+      '<a href="#" class="gt-mobile-lang-toggle">' +
+      '<i class="fas fa-globe"></i> ' +
+      current.flag +
+      " " +
+      current.label +
       ' <i class="fas fa-chevron-down"></i></a>';
     html += '<div class="gt-mobile-lang-list">';
     LANGUAGES.forEach(function (l) {
-      html += '<a href="#" class="gt-lang-btn' + (l.code === saved ? " active" : "") +
-        '" data-lang="' + l.code + '">' + l.flag + " " + l.label + "</a>";
+      html +=
+        '<a href="#" class="gt-lang-btn' +
+        (l.code === saved ? " active" : "") +
+        '" data-lang="' +
+        l.code +
+        '">' +
+        l.flag +
+        " " +
+        l.label +
+        "</a>";
     });
     html += "</div>";
     return html;

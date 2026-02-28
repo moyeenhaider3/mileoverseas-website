@@ -30,8 +30,7 @@
   // Create toggle button
   const toggle = document.createElement("div");
   toggle.id = "chat-toggle";
-  toggle.textContent =
-    "Chat"; // Localized if available
+  toggle.textContent = "Chat"; // Localized if available
   document.body.appendChild(toggle);
 
   // Create chat container
@@ -49,12 +48,8 @@
     <div id="chat-messages" aria-live="polite"></div>
     <div id="chat-suggestions" class="chat-suggestions" aria-label="Quick suggestions"></div>
     <form id="chat-form" autocomplete="off">
-      <input id="chat-input" type="text" placeholder="${
-        "Type your question..."
-      }" aria-label="Chat input" />
-      <button type="submit">${
-        "Send"
-      }</button>
+      <input id="chat-input" type="text" placeholder="${"Type your question..."}" aria-label="Chat input" />
+      <button type="submit">${"Send"}</button>
     </form>
     <div id="chat-lead" style="display:none;padding:10px;border-top:1px solid #eee;background:#fff;">
       <form id="chat-lead-form" style="display:flex;flex-direction:column;gap:6px;">
@@ -249,17 +244,19 @@
       answer =
         "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
       if (keywords.length) {
-        const prefix =
-          " (Keywords detected: ";
+        const prefix = " (Keywords detected: ";
         answer += prefix + keywords.slice(0, 3).join(", ") + ")";
       }
     }
     // Simulate slight delay
     showTyping();
-    setTimeout(() => {
-      hideTyping();
-      addMessage("bot", answer);
-    }, 400 + Math.random() * 400);
+    setTimeout(
+      () => {
+        hideTyping();
+        addMessage("bot", answer);
+      },
+      400 + Math.random() * 400,
+    );
   }
 
   toggle.addEventListener("click", () => {
@@ -270,7 +267,7 @@
       if (!messagesEl.dataset.welcomeShown) {
         addMessage(
           "bot",
-          "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms."
+          "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms.",
         );
         messagesEl.dataset.welcomeShown = "1";
         renderSuggestions();
@@ -370,10 +367,13 @@
     }
     if (!answer) return;
     showTyping();
-    setTimeout(() => {
-      hideTyping();
-      addMessage("bot", answer);
-    }, 250 + Math.random() * 250);
+    setTimeout(
+      () => {
+        hideTyping();
+        addMessage("bot", answer);
+      },
+      250 + Math.random() * 250,
+    );
   }
 
   function renderSuggestions() {
@@ -415,19 +415,14 @@
     e.preventDefault();
     const email = leadEmail.value.trim();
     if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
-      alert(
-        "Enter valid email"
-      );
+      alert("Enter valid email");
       return;
     }
     const product = leadProduct.value.trim();
     // Prevent double submit
     const submitBtn = leadForm.querySelector('button[type="submit"]');
     submitBtn.disabled = true;
-    addMessage(
-      "user",
-      "Submitted quote request."
-    );
+    addMessage("user", "Submitted quote request.");
     showTyping();
 
     // Create/show loader inside lead panel
@@ -435,8 +430,7 @@
     if (!loader) {
       loader = document.createElement("div");
       loader.className = "chat-loading";
-      const sendingText =
-        "Sending...";
+      const sendingText = "Sending...";
       loader.innerHTML =
         '<span class="chat-spinner"></span><span>' + sendingText + "</span>";
       leadPanel.appendChild(loader);
@@ -459,9 +453,7 @@
       company: "", // Could extend later
       message: `CHAT_LEAD\nProduct: ${product || "-"}\nPage: ${
         location.href
-      }\nLang: ${
-        "en"
-      }\nTranscript:\n${transcript}`,
+      }\nLang: ${"en"}\nTranscript:\n${transcript}`,
     };
 
     // Submit via hidden form (mirrors contact form approach -> avoids CORS fetch issues)
@@ -497,12 +489,12 @@
         const prodFragment = product ? " Product: " + product : "";
         addMessage(
           "bot",
-          base.replace("{email}", email).replace("{product}", prodFragment)
+          base.replace("{email}", email).replace("{product}", prodFragment),
         );
       } else {
         addMessage(
           "bot",
-          "There was an issue sending your request. Please email info@mileoverseas.com"
+          "There was an issue sending your request. Please email info@mileoverseas.com",
         );
       }
       leadPanel.style.display = "none";
