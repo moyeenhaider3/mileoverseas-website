@@ -1,177 +1,195 @@
 // product-details.js
-// Loads product detail data from data.json based on URL param 'id'
+// Loads product detail data from data.en.json based on URL param 'id'
+// Google Translate handles localization.
 
 // === Enhanced Product Detail Dynamic Rendering ===
 /**
- * Gets a localized string by key from the global translations
- * @param {string} key - Translation key
- * @param {string} fallback - Fallback text if key not found
- * @returns {string} - Localized text
+ * Gets a text string (localization now handled by Google Translate)
+ * @param {string} key - Unused (kept for compatibility)
+ * @param {string} fallback - Fallback text
+ * @returns {string} - Text string
  */
 function t(key, fallback) {
-  // Use the global localization manager if available
-  if (window.localizationManager && typeof window.localizationManager.translate === 'function') {
-    const translation = window.localizationManager.translate(key);
-    return translation || fallback;
-  }
-  return fallback;
+  return fallback || key;
 }
 
 async function renderEnhancedProductDetail(product) {
   // Product Image
-  const img = document.getElementById('product-image');
+  const img = document.getElementById("product-image");
   const container = img.parentElement;
   // Remove existing placeholder
-  let placeholder = container.querySelector('.image-placeholder');
+  let placeholder = container.querySelector(".image-placeholder");
   if (placeholder) placeholder.remove();
   // Create placeholder slices
-  placeholder = document.createElement('div');
-  placeholder.className = 'image-placeholder';
+  placeholder = document.createElement("div");
+  placeholder.className = "image-placeholder";
   const sliceCount = 6;
   const delayStep = 40;
   for (let i = 0; i < sliceCount; i++) {
-    const slice = document.createElement('div');
-    slice.className = 'slice';
+    const slice = document.createElement("div");
+    slice.className = "slice";
     slice.style.animationDelay = `${i * delayStep}ms`;
     placeholder.appendChild(slice);
   }
   container.appendChild(placeholder);
   // Prepare fade-in
-  img.classList.remove('loaded');
-  let imageLoaded = false, animationComplete = false;
-  img.onload = () => { imageLoaded = true; reveal(); };
+  img.classList.remove("loaded");
+  let imageLoaded = false,
+    animationComplete = false;
+  img.onload = () => {
+    imageLoaded = true;
+    reveal();
+  };
   const totalAnimTime = (sliceCount - 1) * delayStep + 300;
-  setTimeout(() => { animationComplete = true; reveal(); }, totalAnimTime);
+  setTimeout(() => {
+    animationComplete = true;
+    reveal();
+  }, totalAnimTime);
   function reveal() {
     if (imageLoaded && animationComplete) {
       placeholder.remove();
-      img.classList.add('loaded');
+      img.classList.add("loaded");
     }
   }
   img.alt = product.name; // Dynamic product name as alt text
-  img.setAttribute('data-product-id', product.id); // For hero animation
+  img.setAttribute("data-product-id", product.id); // For hero animation
   img.src = product.image;
 
   // Scarcity Badge
-  const scarcityBadge = document.getElementById('scarcity-badge');
+  const scarcityBadge = document.getElementById("scarcity-badge");
   if (scarcityBadge) {
     if (product.harvest_season) {
       // Only show the text prefix from translations, and append the dynamic harvest season
-      scarcityBadge.textContent = `${t('scarcity_badge_harvested')} ${product.harvest_season}`;
+      scarcityBadge.textContent = `${t("scarcity_badge_harvested")} ${product.harvest_season}`;
     } else {
-      scarcityBadge.textContent = t('scarcity_badge_default');
+      scarcityBadge.textContent = t("scarcity_badge_default");
     }
   }
 
   // Add HS Code display if available
   if (scarcityBadge) {
     // Remove existing HS Code element if present
-    const existingHs = document.getElementById('hs-code');
+    const existingHs = document.getElementById("hs-code");
     if (existingHs) {
       existingHs.remove();
     }
     if (product.hs_code) {
-      const hsCodeEl = document.createElement('div');
-      hsCodeEl.id = 'hs-code';
+      const hsCodeEl = document.createElement("div");
+      hsCodeEl.id = "hs-code";
       // Use same CSS classes as scarcityBadge
       hsCodeEl.className = scarcityBadge.className;
-      hsCodeEl.textContent = `${t('hs_code', 'HS Code')}: ${product.hs_code}`;
-      scarcityBadge.parentNode.insertBefore(hsCodeEl, scarcityBadge.nextSibling);
+      hsCodeEl.textContent = `${t("hs_code", "HS Code")}: ${product.hs_code}`;
+      scarcityBadge.parentNode.insertBefore(
+        hsCodeEl,
+        scarcityBadge.nextSibling,
+      );
     }
   }
 
   // Category Chip
-  document.getElementById('category-chip').textContent = product.category;
+  document.getElementById("category-chip").textContent = product.category;
 
   // Product Name
-  document.getElementById('product-name').textContent = product.name;
+  document.getElementById("product-name").textContent = product.name;
   // Dynamically update title and meta tags after setting product name
   updateProductMetaTags(product.name);
 
   // Certifications (top)
   // Handle quality_assurance which is now an array, not a string
-  // const certs = Array.isArray(product.quality_assurance) 
-  //   ? product.quality_assurance.map(c => c.trim()).filter(Boolean)
-  //   : [];
-    
-  // document.getElementById('certifications').innerHTML = certs
-  //   .map(cert => {
-  //     if (/certified|certification|certificat/i.test(cert)) {
-  //       return `<span class="cert-chip"><span class="cert-bold">${t('certified')}</span> ${cert.replace(/certified|certification|certificat/ig, '').trim()}</span>`;
-  //     }
-  //     return `<span class="cert-chip">${cert}</span>`;
-  //   })
-  //   .join('');
+  const certs = Array.isArray(product.quality_assurance)
+    ? product.quality_assurance.map((c) => c.trim()).filter(Boolean)
+    : [];
 
-  // Certifications (bottom - in informative block)
-  const certsBottom = document.getElementById('certifications-bottom');
-  if (certsBottom) {
-    certsBottom.innerHTML = certs
-      .map(cert => {
+  const certsEl = document.getElementById("certifications");
+  if (certsEl) {
+    certsEl.innerHTML = certs
+      .map((cert) => {
         if (/certified|certification|certificat/i.test(cert)) {
-          return `<span class="cert-chip"><span class="cert-bold">${t('certified')}</span> ${cert.replace(/certified|certification|certificat/ig, '').trim()}</span>`;
+          return `<span class="cert-chip"><span class="cert-bold">${t("certified")}</span> ${cert.replace(/certified|certification|certificat/gi, "").trim()}</span>`;
         }
         return `<span class="cert-chip">${cert}</span>`;
       })
-      .join('');
+      .join("");
+  }
+
+  // Certifications (bottom - in informative block)
+  const certsBottom = document.getElementById("certifications-bottom");
+  if (certsBottom) {
+    certsBottom.innerHTML = certs
+      .map((cert) => {
+        if (/certified|certification|certificat/i.test(cert)) {
+          return `<span class="cert-chip"><span class="cert-bold">${t("certified")}</span> ${cert.replace(/certified|certification|certificat/gi, "").trim()}</span>`;
+        }
+        return `<span class="cert-chip">${cert}</span>`;
+      })
+      .join("");
   }
 
   // Description
-  document.getElementById('product-description').textContent = product.description;
+  document.getElementById("product-description").textContent =
+    product.description;
 
   // Features rendering - now at a different position in our layout
   if (Array.isArray(product.features) && product.features.length > 0) {
-    let featuresBlock = document.getElementById('features-block');
+    let featuresBlock = document.getElementById("features-block");
     if (featuresBlock) {
       // Clear existing content if any
-      featuresBlock.innerHTML = '';
-      
+      featuresBlock.innerHTML = "";
+
       // Create heading
-      const heading = document.createElement('div');
-      heading.className = 'static-label bold-label';
-      heading.textContent = t('features_label', 'Key Features');
+      const heading = document.createElement("div");
+      heading.className = "static-label bold-label";
+      heading.textContent = t("features_label", "Key Features");
       featuresBlock.appendChild(heading);
-      
+
       // Create features list
-      const featuresList = document.createElement('ul');
-      featuresList.className = 'features-list';
-      featuresList.innerHTML = product.features.map(f => `<li>${f}</li>`).join('');
+      const featuresList = document.createElement("ul");
+      featuresList.className = "features-list";
+      featuresList.innerHTML = product.features
+        .map((f) => `<li>${f}</li>`)
+        .join("");
       featuresBlock.appendChild(featuresList);
     }
   } else {
     // Hide the block if no features
-    const featuresBlock = document.getElementById('features-block');
+    const featuresBlock = document.getElementById("features-block");
     if (featuresBlock) {
-      featuresBlock.style.display = 'none';
+      featuresBlock.style.display = "none";
     }
   }
 
   // Render collapsible sections with proper handling for each data type
   // Handle specifications differently as they might have nested content
-  if (Array.isArray(product.specifications) && product.specifications.length > 0) {
-    const specsElement = document.getElementById('specs-list');
+  if (
+    Array.isArray(product.specifications) &&
+    product.specifications.length > 0
+  ) {
+    const specsElement = document.getElementById("specs-list");
     if (specsElement) {
       // Check if specs has newline characters indicating it needs to be split
-      if (typeof product.specifications[0] === 'string' && product.specifications[0].includes('\n')) {
+      if (
+        typeof product.specifications[0] === "string" &&
+        product.specifications[0].includes("\n")
+      ) {
         // Handle multiline specs in the first element
         specsElement.innerHTML = product.specifications[0]
-          .split('\n')
-          .map(spec => `<li>${spec.replace(/^- /, '')}</li>`)
-          .join('');
+          .split("\n")
+          .map((spec) => `<li>${spec.replace(/^- /, "")}</li>`)
+          .join("");
       } else {
         // Handle single-line specs as a regular array
         specsElement.innerHTML = product.specifications
-          .map(spec => `<li>${spec.replace(/^- /, '')}</li>`)
-          .join('');
+          .map((spec) => `<li>${spec.replace(/^- /, "")}</li>`)
+          .join("");
       }
     }
   }
 
   // Render all other lists with the same simple array format
-  renderBulletList(product.quality_assurance, 'quality-assurance-list');
-  renderBulletList(product.container_capacity, 'container-capacity-list');
-  renderBulletList(product.variety, 'variety-list');
-  renderBulletList(product.quality_options, 'quality-options-list');
+  renderBulletList(product.quality_assurance, "quality-assurance-list");
+  renderBulletList(product.container_capacity, "container-capacity-list");
+  renderBulletList(product.variety, "variety-list");
+  renderBulletList(product.quality_options, "quality-options-list");
 
   // Initialize collapsible panels
   initCollapsiblePanels();
@@ -191,20 +209,15 @@ function renderBulletList(items, elementId) {
 
   // Ensure items is treated as an array
   let itemsArray = [];
-  
+
   if (items) {
     itemsArray = Array.isArray(items) ? items : [items.toString()];
   }
 
   if (itemsArray.length > 0) {
-    element.innerHTML = itemsArray.map(item => `<li>${item}</li>`).join('');
+    element.innerHTML = itemsArray.map((item) => `<li>${item}</li>`).join("");
   } else {
-    // Use localizationManager for empty data message
-    let msg = 'No data available';
-    if (window.localizationManager && typeof window.localizationManager.translate === 'function') {
-      msg = window.localizationManager.translate('no_data_available');
-    }
-    element.innerHTML = `<li>${msg}</li>`;
+    element.innerHTML = '<li>No data available</li>';
   }
 }
 
@@ -212,20 +225,20 @@ function renderBulletList(items, elementId) {
  * Initializes all collapsible panels
  */
 function initCollapsiblePanels() {
-  document.querySelectorAll('.collapsible-header').forEach(header => {
+  document.querySelectorAll(".collapsible-header").forEach((header) => {
     // Reset header to remove old event handlers
     const newHeader = header.cloneNode(true);
     header.parentNode.replaceChild(newHeader, header);
-    newHeader.addEventListener('click', function() {
-      const expanded = this.getAttribute('aria-expanded') === 'true';
-      
+    newHeader.addEventListener("click", function () {
+      const expanded = this.getAttribute("aria-expanded") === "true";
+
       // Toggle the aria-expanded state
-      this.setAttribute('aria-expanded', !expanded);
-      
+      this.setAttribute("aria-expanded", !expanded);
+
       // Toggle the aria-hidden attribute on the content
       const content = this.nextElementSibling;
-      content.setAttribute('aria-hidden', expanded);
-      
+      content.setAttribute("aria-hidden", expanded);
+
       // Optional: close other panels when opening one
       // if (!expanded) {
       //   collapsibleHeaders.forEach(otherHeader => {
@@ -244,175 +257,159 @@ function initCollapsiblePanels() {
  * @param {Object} product - The product data
  */
 function setupWhatsAppButton(product) {
-  const whatsappBtn = document.getElementById('whatsapp-btn');
+  const whatsappBtn = document.getElementById("whatsapp-btn");
   if (!whatsappBtn) return;
-  
+
   // Format a professional inquiry message
-  const phoneNumber = '918178070378'; // Indian number with country code (91)
-  const productName = product.name || '';
-  const productCategory = product.category || '';
-  
+  const phoneNumber = "918178070378"; // Indian number with country code (91)
+  const productName = product.name || "";
+  const productCategory = product.category || "";
+
   // Create a professional message with product details
   let message = `Hello, I'm interested in your ${productName}`;
   if (productCategory) {
     message += ` from the ${productCategory} category`;
   }
   message += `. Could you please provide more information about availability, pricing, and shipping options?`;
-  
+
   // Create the WhatsApp URL
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
-  
+
   // Set the URL to the button
   whatsappBtn.href = whatsappUrl;
 }
 
 // --- Enquiry Button: Go to Contact Page ---
-const enquiryBtn = document.getElementById('enquire-btn');
+const enquiryBtn = document.getElementById("enquire-btn");
 if (enquiryBtn) {
-  enquiryBtn.onclick = function() {
-    window.location.href = 'contact.html';
+  enquiryBtn.onclick = function () {
+    window.location.href = "contact.html";
   };
 }
 
 // --- Render Similar Products Section ---
 function renderSimilarProducts(currentProduct, allProducts) {
-  const section = document.getElementById('similar-products-list');
+  const section = document.getElementById("similar-products-list");
   if (!section || !Array.isArray(allProducts)) return;
-  
+
   // Filter similar: same category, not the same id
   // Only include products with valid categories to avoid the grouping bug mentioned in the memory
-  const similar = allProducts.filter(p => 
-    p && p.category && currentProduct && currentProduct.category && 
-    p.category === currentProduct.category && 
-    p.id !== currentProduct.id
+  const similar = allProducts.filter(
+    (p) =>
+      p &&
+      p.category &&
+      currentProduct &&
+      currentProduct.category &&
+      p.category === currentProduct.category &&
+      p.id !== currentProduct.id,
   );
-  
-  section.innerHTML = similar.map(product => `
+
+  section.innerHTML = similar
+    .map(
+      (product) => `
     <div class="similar-product-card">
       <img src="${product.image}" alt="${product.name}" />
       <div class="product-name">${product.name}</div>
       <div class="category">${product.category}</div>
-      <button class="view-btn" onclick="window.location.href='product-details.html?id=${product.id}'">${t('view')}</button>
+      <button class="view-btn" onclick="window.location.href='product-details.html?id=${product.id}'">${t("view")}</button>
     </div>
-  `).join('');
+  `,
+    )
+    .join("");
 }
 
 // --- HERO ANIMATION LOGIC ON DETAIL PAGE ---
-document.addEventListener('DOMContentLoaded', function() {
-  const heroProductId = sessionStorage.getItem('heroProductId');
-  const heroImageRect = sessionStorage.getItem('heroImageRect');
+document.addEventListener("DOMContentLoaded", function () {
+  const heroProductId = sessionStorage.getItem("heroProductId");
+  const heroImageRect = sessionStorage.getItem("heroImageRect");
   if (heroProductId && heroImageRect) {
-    const detailImg = document.querySelector('.product-image[data-product-id="' + heroProductId + '"]');
+    const detailImg = document.querySelector(
+      '.product-image[data-product-id="' + heroProductId + '"]',
+    );
     if (detailImg) {
       const rect = detailImg.getBoundingClientRect();
       const src = detailImg.src;
       const startRect = JSON.parse(heroImageRect);
       // Create clone at start position
       const clone = detailImg.cloneNode();
-      clone.classList.add('hero-clone');
-      clone.style.position = 'fixed';
-      clone.style.top = startRect.top + 'px';
-      clone.style.left = startRect.left + 'px';
-      clone.style.width = startRect.width + 'px';
-      clone.style.height = startRect.height + 'px';
+      clone.classList.add("hero-clone");
+      clone.style.position = "fixed";
+      clone.style.top = startRect.top + "px";
+      clone.style.left = startRect.left + "px";
+      clone.style.width = startRect.width + "px";
+      clone.style.height = startRect.height + "px";
       clone.style.zIndex = 9999;
-      clone.style.transition = 'all 0.6s cubic-bezier(0.4,0,0.2,1)';
-      clone.style.pointerEvents = 'none';
+      clone.style.transition = "all 0.6s cubic-bezier(0.4,0,0.2,1)";
+      clone.style.pointerEvents = "none";
       document.body.appendChild(clone);
       // Force reflow
       void clone.offsetWidth;
       // Animate to final position
-      clone.style.top = rect.top + 'px';
-      clone.style.left = rect.left + 'px';
-      clone.style.width = rect.width + 'px';
-      clone.style.height = rect.height + 'px';
+      clone.style.top = rect.top + "px";
+      clone.style.left = rect.left + "px";
+      clone.style.width = rect.width + "px";
+      clone.style.height = rect.height + "px";
       // After animation, remove clone
       setTimeout(() => {
         clone.remove();
-        sessionStorage.removeItem('heroProductId');
-        sessionStorage.removeItem('heroImageRect');
+        sessionStorage.removeItem("heroProductId");
+        sessionStorage.removeItem("heroImageRect");
       }, 650);
     }
   }
 
-  // Get language from localStorage or document
-  const lang = localStorage.getItem('language') || document.documentElement.lang || 'en';
-  
-  // First, apply localization to all elements with data-i18n attributes
-  if (window.localizationManager) {
-    window.localizationManager.applyLanguage(lang);
-  }
-  
-  // Then load product details
-  loadProductDetail(lang);
+  // Load product details (always English — Google Translate handles translation)
+  loadProductDetail("en");
   setupMobileNavDrawer();
-  
-  // Set up language switcher
-  setupLanguageSwitcher();
-  
+
   // Initialize static collapsible panels
   initCollapsiblePanels();
-  
-  // Listen for language changes
-  window.addEventListener('languageChanged', async function() {
-    const newLang = localStorage.getItem('language') || 'en';
-    
-    if (window.localizationManager) {
-      window.localizationManager.applyLanguage(newLang);
-    }
-    
-    await loadProductDetail(newLang);
-    setupMobileNavDrawer();
-    setupLanguageSwitcher();
-    initCollapsiblePanels();
-  });
 });
 
 // Remove leftover hero clones on pageshow (e.g. when returning via bfcache)
-window.addEventListener('pageshow', function() {
-    document.querySelectorAll('img.hero-clone').forEach(function(clone) {
-        clone.remove();
-    });
-    sessionStorage.removeItem('heroProductId');
-    sessionStorage.removeItem('heroImageRect');
+window.addEventListener("pageshow", function () {
+  document.querySelectorAll("img.hero-clone").forEach(function (clone) {
+    clone.remove();
+  });
+  sessionStorage.removeItem("heroProductId");
+  sessionStorage.removeItem("heroImageRect");
 });
 
 // --- Patch: Call renderSimilarProducts after main render ---
-async function loadProductDetail(lang = 'en') {
+async function loadProductDetail(lang = "en") {
   // Set the document language attribute if it's not already set
   if (!document.documentElement.lang) {
     document.documentElement.lang = lang;
   }
-  
+
   const params = new URLSearchParams(window.location.search);
-  const productId = params.get('id');
+  const productId = params.get("id");
   if (!productId) return;
-  
+
   try {
-    const response = await fetch(`js/data.${lang}.json`);
+    const response = await fetch("js/data.en.json");
     const data = await response.json();
     const products = Array.isArray(data) ? data : [];
-    
+
     // Safety check for products array
     if (!Array.isArray(products)) {
-      document.getElementById('product-detail-card').innerHTML = 
-        `<p>${t('error_loading_product')}</p>`;
+      document.getElementById("product-detail-card").innerHTML =
+        `<p>${t("error_loading_product")}</p>`;
       return;
     }
-    
-    const product = products.find(p => p && p.id === productId);
+
+    const product = products.find((p) => p && p.id === productId);
     if (product) {
       await renderEnhancedProductDetail(product);
       renderSimilarProducts(product, products);
-    }
-    else {
-      document.getElementById('product-detail-card').innerHTML = 
-        `<p>${t('product_not_found')}</p>`;
+    } else {
+      document.getElementById("product-detail-card").innerHTML =
+        `<p>${t("product_not_found")}</p>`;
     }
   } catch (e) {
-    console.error('Error loading product details:', e);
-    document.getElementById('product-detail-card').innerHTML = 
-      `<p>${t('error_loading_product')}</p>`;
+    console.error("Error loading product details:", e);
+    document.getElementById("product-detail-card").innerHTML =
+      `<p>${t("error_loading_product")}</p>`;
   }
 }
 
@@ -420,78 +417,56 @@ async function loadProductDetail(lang = 'en') {
 
 // --- Hamburger Menu & Mobile Nav Drawer Logic ---
 function setupMobileNavDrawer() {
-  const hamburger = document.getElementById('hamburger-icon');
-  const drawer = document.getElementById('mobile-drawer');
+  const hamburger = document.getElementById("hamburger-icon");
+  const drawer = document.getElementById("mobile-drawer");
   if (!hamburger || !drawer) return;
-  hamburger.addEventListener('click', function() {
-    drawer.classList.toggle('open');
-    document.body.classList.toggle('drawer-open');
+  hamburger.addEventListener("click", function () {
+    drawer.classList.toggle("open");
+    document.body.classList.toggle("drawer-open");
   });
   // Close drawer on link click (for SPA-like feel)
-  drawer.querySelectorAll('a').forEach(link => {
-    link.addEventListener('click', () => {
-      drawer.classList.remove('open');
-      document.body.classList.remove('drawer-open');
+  drawer.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      drawer.classList.remove("open");
+      document.body.classList.remove("drawer-open");
     });
   });
   // Optional: close on outside click
-  document.addEventListener('click', function(e) {
-    if (drawer.classList.contains('open') && !drawer.contains(e.target) && !hamburger.contains(e.target)) {
-      drawer.classList.remove('open');
-      document.body.classList.remove('drawer-open');
+  document.addEventListener("click", function (e) {
+    if (
+      drawer.classList.contains("open") &&
+      !drawer.contains(e.target) &&
+      !hamburger.contains(e.target)
+    ) {
+      drawer.classList.remove("open");
+      document.body.classList.remove("drawer-open");
     }
   });
 }
 
-// --- Handle language switching ---
-function setupLanguageSwitcher() {
-  const languageDropdown = document.getElementById('language-dropdown');
-  if (!languageDropdown) return;
-  
-  languageDropdown.querySelectorAll('a[data-lang]').forEach(link => {
-    // Remove existing event listeners to prevent duplicates
-    const newLink = link.cloneNode(true);
-    link.parentNode.replaceChild(newLink, link);
-    
-    newLink.addEventListener('click', async function(e) {
-      e.preventDefault();
-      const lang = this.getAttribute('data-lang');
-      await window.localizationManager.changeLanguage(lang);
-    });
-  });
-  
-  // Also handle mobile drawer language options
-  const mobileDrawer = document.getElementById('mobile-drawer');
-  if (mobileDrawer) {
-    mobileDrawer.querySelectorAll('.language-dropdown-content a[data-lang]').forEach(link => {
-      // Remove existing event listeners to prevent duplicates
-      const newLink = link.cloneNode(true);
-      link.parentNode.replaceChild(newLink, link);
-      
-      newLink.addEventListener('click', async function(e) {
-        e.preventDefault();
-        const lang = this.getAttribute('data-lang');
-        mobileDrawer.classList.remove('open');
-        document.body.classList.remove('drawer-open');
-        await window.localizationManager.changeLanguage(lang);
-      });
-    });
-  }
-}
-
 // Dynamically update title and meta tags after setting product name
 function updateProductMetaTags(productName) {
-  document.title = productName + " Export from India | Bulk " + productName + " Supplier";
+  document.title =
+    productName + " Export from India | Bulk " + productName + " Supplier";
   var metaDesc = document.querySelector('meta[name="description"]');
   if (metaDesc) {
-    metaDesc.setAttribute('content', `Export quality ${productName} from India. Bulk supply, certifications, global shipping. Trusted by international spice buyers. Get a quote for ${productName} export now!`);
+    metaDesc.setAttribute(
+      "content",
+      `Export quality ${productName} from India. Bulk supply, certifications, global shipping. Trusted by international spice buyers. Get a quote for ${productName} export now!`,
+    );
   }
   var ogTitle = document.querySelector('meta[property="og:title"]');
   if (ogTitle) {
-    ogTitle.setAttribute('content', `${productName} Export from India | Bulk ${productName} Supplier`);
+    ogTitle.setAttribute(
+      "content",
+      `${productName} Export from India | Bulk ${productName} Supplier`,
+    );
   }
   var ogDesc = document.querySelector('meta[property="og:description"]');
   if (ogDesc) {
-    ogDesc.setAttribute('content', `Export quality ${productName} from India. Bulk supply, certifications, global shipping. Trusted by international spice buyers.`);
+    ogDesc.setAttribute(
+      "content",
+      `Export quality ${productName} from India. Bulk supply, certifications, global shipping. Trusted by international spice buyers.`,
+    );
   }
 }

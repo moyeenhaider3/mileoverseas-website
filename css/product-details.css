@@ -1360,3 +1360,56 @@ body.rtl .features-block .features-list li:before {
 .product-image.loaded {
   opacity: 1;
 }
+
+/* Available Forms Section */
+.available-forms-section {
+  margin: 24px 0;
+  padding: 20px 24px;
+  background: linear-gradient(135deg, #faf7f2 0%, #fff9ed 100%);
+  border: 1px solid #e7c69b;
+  border-radius: 10px;
+}
+
+.available-forms-section h3 {
+  margin: 0 0 12px 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #5a3e1b;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.available-forms-section h3 i {
+  color: #d2691e;
+}
+
+.forms-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.form-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 14px;
+  background: #fff;
+  border: 1px solid #e0cfa8;
+  border-radius: 20px;
+  font-size: 0.88rem;
+  color: #5a3e1b;
+  font-weight: 500;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.form-chip:hover {
+  background: #fdf2dd;
+  border-color: #d2691e;
+}
+
+.form-chip i {
+  color: #8b4513;
+  font-size: 0.75rem;
+}

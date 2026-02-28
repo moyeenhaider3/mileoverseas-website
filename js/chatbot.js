@@ -31,8 +31,6 @@
   const toggle = document.createElement("div");
   toggle.id = "chat-toggle";
   toggle.textContent =
-    (window.localizationManager &&
-      window.localizationManager.translate("chat_toggle")) ||
     "Chat"; // Localized if available
   document.body.appendChild(toggle);
 
@@ -42,7 +40,7 @@
   box.hidden = true;
   box.innerHTML = `
     <div class="chat-header">
-      <span data-i18n-chat-title>Live Chat</span>
+      <span>Live Chat</span>
       <div style="display:flex;gap:6px;align-items:center;">
         <button type="button" id="chat-minimize" aria-label="Minimize" style="background:transparent;border:0;color:#fff;font-size:14px;cursor:pointer;">_</button>
         <button type="button" aria-label="Close" id="chat-close" style="background:transparent;border:0;color:#fff;font-size:16px;cursor:pointer;">×</button>
@@ -52,13 +50,9 @@
     <div id="chat-suggestions" class="chat-suggestions" aria-label="Quick suggestions"></div>
     <form id="chat-form" autocomplete="off">
       <input id="chat-input" type="text" placeholder="${
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_placeholder")) ||
         "Type your question..."
       }" aria-label="Chat input" />
       <button type="submit">${
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_send")) ||
         "Send"
       }</button>
     </form>
@@ -153,32 +147,24 @@
         /\bhi\b|\bhello\b|\bhey\b|\bgood (morning|evening|afternoon)\b/i,
       ],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_greeting")) ||
         "Hello! Ask me about shipping, MOQ, samples, certifications, pricing, products or documents.",
     },
     {
       name: "shipping",
       patterns: [/shipping|ship|delivery|lead time|transit|port/i],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_shipping")) ||
         "Typical sea freight transit: UAE (Dubai/Abu Dhabi) 15-20 days, Saudi (Riyadh/Jeddah) 18-22 days, Qatar (Doha) 16-20 days. Air freight: 2-5 days depending on route.",
     },
     {
       name: "moq",
       patterns: [/moq|minimum|order size|minimum order|quantity/i],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_moq")) ||
         "MOQ: Usually one 20ft container (≈14 MT cumin seeds / 16 MT turmeric powder). 40ft options available for larger consolidated loads.",
     },
     {
       name: "samples",
       patterns: [/sample|samples|trial/i],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_samples")) ||
         "We provide free quality-approval samples up to 500g via DHL to GCC (arrive in ~3-5 business days). Let us know the product & spec.",
     },
     {
@@ -187,16 +173,12 @@
         /certificat|iso|halal|organic|compliance|documents|documentation|sfda|esma/i,
       ],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_certifications")) ||
         "Available: ISO, Organic (on request), Halal (when required), GCC compliant docs (ESMA, SFDA), phytosanitary, fumigation & full COA.",
     },
     {
       name: "pricing",
       patterns: [/price|pricing|cost|rate|quote|offer|cnf|cif|fob/i],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_pricing")) ||
         "Pricing depends on spice, grade, packaging & incoterm (FOB/CIF/CNF). Share product + volume + destination port for a detailed quote.",
     },
     {
@@ -205,16 +187,12 @@
         /cumin|turmeric|chilli|chili|pepper|fennel|fenugreek|coriander|ginger|spice/i,
       ],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_products")) ||
         "Main exports: Cumin, Turmeric (high curcumin), Chilli varieties, Coriander, Fennel, Fenugreek, Pepper, Ginger. Ask about any for specifics.",
     },
     {
       name: "payment",
       patterns: [/payment|lc|letter of credit|advance|tt|remittance/i],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_payment")) ||
         "Common terms: LC at sight, 30% advance + 70% against docs, or LC usance for established partners.",
     },
     {
@@ -234,8 +212,6 @@
       name: "escalate",
       patterns: [/agent|human|contact|quote|sales|email/i],
       answer:
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_intent_escalate")) ||
         'I can collect your email & product interest so our export team can respond quickly. Click "Get a Quote" below.',
     },
   ];
@@ -253,7 +229,6 @@
     let answer;
     if (chosen) {
       // Attempt fresh translation each time for current language
-      const lm = window.localizationManager;
       if (lm) {
         const key = "chat_intent_" + chosen.name;
         const translated = lm.translate(key);
@@ -272,15 +247,9 @@
       // Attempt simple keyword extraction for a hint
       const keywords = lower.match(/\b[a-z]{4,}\b/g) || [];
       answer =
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_fallback")) ||
         "I didn't fully catch that. You can ask about shipping, MOQ, samples, pricing, products, certifications or payment terms.";
       if (keywords.length) {
         const prefix =
-          (window.localizationManager &&
-            window.localizationManager.translate(
-              "chat_fallback_keywords_prefix"
-            )) ||
           " (Keywords detected: ";
         answer += prefix + keywords.slice(0, 3).join(", ") + ")";
       }
@@ -301,9 +270,7 @@
       if (!messagesEl.dataset.welcomeShown) {
         addMessage(
           "bot",
-          (window.localizationManager &&
-            window.localizationManager.translate("chat_welcome")) ||
-            "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms."
+          "Hi! Ask about shipping, MOQ, samples, certifications, pricing, products or payment terms."
         );
         messagesEl.dataset.welcomeShown = "1";
         renderSuggestions();
@@ -388,7 +355,6 @@
     const intent = intents.find((i) => i.name === intentName);
     let answer;
     if (intent) {
-      const lm = window.localizationManager;
       if (lm) {
         const key = "chat_intent_" + intent.name;
         const translated = lm.translate(key);
@@ -415,7 +381,6 @@
     suggestionSets.forEach((s) => {
       const b = document.createElement("button");
       b.type = "button";
-      const lm = window.localizationManager;
       const translatedLabel = s.key && lm ? lm.translate(s.key) : null;
       b.textContent = translatedLabel || s.label;
       b.style.cssText =
@@ -451,9 +416,7 @@
     const email = leadEmail.value.trim();
     if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
       alert(
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_lead_invalid_email")) ||
-          "Enter valid email"
+        "Enter valid email"
       );
       return;
     }
@@ -463,9 +426,7 @@
     submitBtn.disabled = true;
     addMessage(
       "user",
-      (window.localizationManager &&
-        window.localizationManager.translate("chat_user_submitted_quote")) ||
-        "Submitted quote request."
+      "Submitted quote request."
     );
     showTyping();
 
@@ -475,8 +436,6 @@
       loader = document.createElement("div");
       loader.className = "chat-loading";
       const sendingText =
-        (window.localizationManager &&
-          window.localizationManager.translate("chat_sending")) ||
         "Sending...";
       loader.innerHTML =
         '<span class="chat-spinner"></span><span>' + sendingText + "</span>";
@@ -501,8 +460,6 @@
       message: `CHAT_LEAD\nProduct: ${product || "-"}\nPage: ${
         location.href
       }\nLang: ${
-        (window.localizationManager &&
-          window.localizationManager.currentLanguage) ||
         "en"
       }\nTranscript:\n${transcript}`,
     };
@@ -536,8 +493,6 @@
       hideTyping();
       if (ok) {
         const base =
-          (window.localizationManager &&
-            window.localizationManager.translate("chat_lead_success")) ||
           "Thank you! Our export team will contact {email} shortly.{product}";
         const prodFragment = product ? " Product: " + product : "";
         addMessage(
@@ -547,9 +502,7 @@
       } else {
         addMessage(
           "bot",
-          (window.localizationManager &&
-            window.localizationManager.translate("chat_lead_error")) ||
-            "There was an issue sending your request. Please email info@mileoverseas.com"
+          "There was an issue sending your request. Please email info@mileoverseas.com"
         );
       }
       leadPanel.style.display = "none";
@@ -577,35 +530,4 @@
       window.gtag("event", "chat_lead_submit");
     }
   });
-
-  // Optional: adjust labels with existing localization manager if available
-  function applyLocalization(lang) {
-    const lm = window.localizationManager;
-    if (!lm) return;
-    toggle.textContent = lm.translate("chat_toggle");
-    const titleEl = box.querySelector("[data-i18n-chat-title]");
-    if (titleEl) titleEl.textContent = lm.translate("chat_title");
-    input.placeholder = lm.translate("chat_placeholder");
-    form.querySelector('button[type="submit"]').textContent =
-      lm.translate("chat_send");
-    const promptEl = box.querySelector(".chat-lead-prompt");
-    if (promptEl) promptEl.textContent = lm.translate("chat_lead_prompt");
-    leadEmail.placeholder = lm.translate("chat_lead_email_placeholder");
-    leadProduct.placeholder = lm.translate("chat_lead_product_placeholder");
-    const submitBtn = box.querySelector(".chat-lead-submit");
-    if (submitBtn) submitBtn.textContent = lm.translate("chat_lead_submit");
-    const cancelBtn = box.querySelector(".chat-lead-cancel");
-    if (cancelBtn) cancelBtn.textContent = lm.translate("chat_lead_cancel");
-    renderSuggestions();
-  }
-  setTimeout(
-    () =>
-      applyLocalization(
-        window.localizationManager && window.localizationManager.currentLanguage
-      ),
-    500
-  );
-  window.addEventListener("languageChanged", (e) =>
-    applyLocalization(e.detail.lang)
-  );
 })();

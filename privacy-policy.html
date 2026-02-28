@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title data-i18n="privacy_policy_title">
+    <title>
       Privacy Policy | Mile Overseas
     </title>
     <meta
@@ -15,7 +15,10 @@
       content="Privacy Policy, Mile Overseas, Data Protection, Information Security, Indian Spices Exporter, Spice Export, Personal Data, Cookies, GDPR, Compliance, User Rights"
     />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://mileoverseas.com/privacy-policy.html" />
+    <link
+      rel="canonical"
+      href="https://www.mileoverseas.com/privacy-policy.html"
+    />
     <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="images/logo-modern.png" />
@@ -29,15 +32,101 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <!-- Add any additional CSS or meta as needed -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap"
+      rel="stylesheet"
+    />
   </head>
-  <body>
+  <body class="modern-design">
     <header>
-      <div class="brand-title">Mile Overseas</div>
+      <nav class="navbar">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/logo-modern.png"
+              alt="Mileoverseas - Premium Indian Spice Exporters"
+              width="70"
+              height="60"
+            />
+          </a>
+        </div>
+        <button class="hamburger" id="hamburger-icon">
+          <i class="fas fa-bars"></i>
+        </button>
+        <ul class="nav-links" id="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="products.html">Products</a></li>
+          <li>
+            <a href="why-choose-us.html"
+              >Why Choose Us</a
+            >
+          </li>
+          <li><a href="faq.html">FAQs</a></li>
+          <li>
+            <a href="certificates.html"
+              >Certificates</a
+            >
+          </li>
+          <li><a href="contact.html">Contact Us</a></li>
+          <li><a href="guides/">Guides</a></li>
+          <li id="gt-lang-desktop" class="notranslate"></li>
+        </ul>
+      </nav>
     </header>
+
+    <div class="mobile-nav-drawer" id="mobile-drawer">
+      <ul class="mobile-nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li>
+          <a href="why-choose-us.html"
+            >Why Choose Us</a
+          >
+        </li>
+        <li><a href="faq.html">FAQs</a></li>
+        <li>
+          <a href="certificates.html"
+            >Certificates</a
+          >
+        </li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="guides/">Guides</a></li>
+        <li id="gt-lang-mobile" class="notranslate"></li>
+      </ul>
+    </div>
     <main>
+      <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+        <ol
+          class="breadcrumb"
+          itemscope
+          itemtype="https://schema.org/BreadcrumbList"
+        >
+          <li
+            itemprop="itemListElement"
+            itemscope
+            itemtype="https://schema.org/ListItem"
+          >
+            <a itemprop="item" href="https://www.mileoverseas.com/"
+              ><span itemprop="name">Home</span></a
+            >
+            <meta itemprop="position" content="1" />
+          </li>
+          <li
+            itemprop="itemListElement"
+            itemscope
+            itemtype="https://schema.org/ListItem"
+          >
+            <span itemprop="name">Privacy Policy</span>
+            <meta itemprop="position" content="2" />
+          </li>
+        </ol>
+      </nav>
       <section id="privacy-policy-content">
-        <div data-i18n="privacy_policy_content"></div>
+        <div></div>
       </section>
     </main>
     <footer>
@@ -47,35 +136,69 @@
             href="https://www.facebook.com/mileoverseas"
             class="fab fa-facebook-f"
             title="Facebook"
+            aria-label="Facebook"
+            target="_blank"
+            rel="noopener noreferrer"
           ></a>
           <a
-            href="https://twitter.com/mileoverseas"
-            class="fab fa-twitter"
-            title="Twitter"
+            href="https://x.com/mileoverseas"
+            class="fab fa-x-twitter"
+            title="X (Twitter)"
+            aria-label="X (Twitter)"
+            target="_blank"
+            rel="noopener noreferrer"
           ></a>
           <a
             href="https://www.linkedin.com/company/mileoverseas/"
             class="fab fa-linkedin-in"
             title="LinkedIn"
+            aria-label="LinkedIn"
+            target="_blank"
+            rel="noopener noreferrer"
           ></a>
           <a
-            href="https://youtube.com/@mileoverseas?si=6aPwcZIDytkqQIoz"
+            href="https://youtube.com/@mileoverseas"
             class="fab fa-youtube"
             title="YouTube"
+            aria-label="YouTube"
+            target="_blank"
+            rel="noopener noreferrer"
           ></a>
           <a
-            href="https://instagram.com/mileoverseas?igshid=OGQ5ZDc2ODk2ZA=="
+            href="https://instagram.com/mileoverseas"
             class="fab fa-instagram"
             title="Instagram"
+            aria-label="Instagram"
+            target="_blank"
+            rel="noopener noreferrer"
           ></a>
         </div>
-        <p data-i18n="footer_copyright">
-          2023 Mileoverseas. All rights reserved.
+        <p>
+          © 2023–2026 Mile Overseas. All rights reserved.
         </p>
       </div>
     </footer>
-    <script type="module" src="js/localization/localization.js" defer></script>
-    <script src="js/script.js"></script>
-    <script src="js/main.js"></script>
+
+    <!-- Sticky CTA Bar -->
+    <div class="sticky-cta-bar" id="stickyCTA">
+      <a
+        href="https://wa.me/918178070378?text=Hi%2C%20I%27m%20interested%20in%20importing%20spices%20from%20India"
+        class="cta-whatsapp"
+        aria-label="WhatsApp Us"
+      >
+        <i class="fab fa-whatsapp"></i> WhatsApp
+      </a>
+      <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
+        <i class="fas fa-phone"></i> +91-8178070378
+      </a>
+      <a href="contact.html" class="cta-quote" aria-label="Request Quote">
+        <i class="fas fa-file-invoice"></i> Get Quote
+      </a>
+    </div>
+<script src="js/script.js" defer></script>
+    <script src="js/main.js" defer></script>
+    <script src="js/chatbot.js" defer></script>
+      <div id="google_translate_element"></div>
+    <script src="js/google-translate.js" defer></script>
   </body>
 </html>

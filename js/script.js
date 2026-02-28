@@ -11,7 +11,9 @@ document.addEventListener("DOMContentLoaded", function () {
   preloadImages(imagesToPreload);
 
   // Lazy-load all images for better performance
-  document.querySelectorAll('img:not([loading])').forEach(img => img.setAttribute('loading','lazy'));
+  document
+    .querySelectorAll("img:not([loading])")
+    .forEach((img) => img.setAttribute("loading", "lazy"));
 
   function preloadImages(sources) {
     sources.forEach((src) => {
@@ -21,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Initialize product module if available
-  if (typeof initializeProductUI === 'function') {
+  if (typeof initializeProductUI === "function") {
     console.log("Initializing product module from script.js");
     initializeProductUI();
   }
@@ -50,53 +52,41 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Mobile Navigation Drawer Toggle
   const hamburger = document.getElementById("hamburger-icon");
-  const navMenu = document.getElementById("nav-menu"); // Desktop nav menu
+  const mobileDrawer = document.getElementById("mobile-drawer");
 
-  if (hamburger && navMenu) {
-    hamburger.addEventListener("click", () => navMenu.classList.toggle("open"));
+  if (hamburger && mobileDrawer) {
+    hamburger.addEventListener("click", () => {
+      mobileDrawer.classList.toggle("open");
+      document.body.classList.toggle("drawer-open");
+    });
   }
 
-  // Close mobile drawer when clicking outside (optional - enhance UX)
+  // Close mobile drawer when clicking outside
   document.addEventListener("click", function (event) {
     if (
-      navMenu.classList.contains("open") &&
-      !navMenu.contains(event.target) &&
+      mobileDrawer &&
+      mobileDrawer.classList.contains("open") &&
+      !mobileDrawer.contains(event.target) &&
       !hamburger.contains(event.target)
     ) {
-      navMenu.classList.remove("open");
+      mobileDrawer.classList.remove("open");
+      document.body.classList.remove("drawer-open");
     }
   });
 
-  // Close mobile drawer when nav link is clicked (optional - enhance UX)
-  const mobileNavLinks = document.querySelectorAll(".mobile-nav-links a");
-  mobileNavLinks.forEach((link) => {
-    link.addEventListener("click", (e) => {
-      // Skip closing drawer for language dropdown toggle and language options
-      if (link.classList.contains("dropdown-title") || link.classList.contains("language-option")) {
-        return;
-      }
-      navMenu.classList.remove("open");
+  // Close mobile drawer when nav link is clicked
+  if (mobileDrawer) {
+    const mobileNavLinks = mobileDrawer.querySelectorAll("a");
+    mobileNavLinks.forEach((link) => {
+      link.addEventListener("click", (e) => {
+        // Skip closing drawer for Google Translate language buttons
+        if (link.classList.contains("gt-lang-btn") || link.classList.contains("gt-mobile-lang-toggle")) {
+          return;
+        }
+        mobileDrawer.classList.remove("open");
+        document.body.classList.remove("drawer-open");
+      });
     });
-  });
-
-  // Language option selection: close drawer after changing language
-  const mobileLanguageOptions = document.querySelectorAll(".mobile-nav-links .language-option");
-  mobileLanguageOptions.forEach((option) => {
-    option.addEventListener("click", async (e) => {
-      e.preventDefault();
-      const lang = option.getAttribute("data-lang");
-      if (lang && window.localizationManager) {
-        await window.localizationManager.changeLanguage(lang);
-      }
-      navMenu.classList.remove("open");
-    });
-  });
-
-  // Hide desktop nav menu on mobile (already handled in CSS - for JS if needed later)
-  if (window.innerWidth <= 768 && navMenu) {
-    navMenu.style.display = "none"; // Ensure desktop menu is hidden on mobile, redundant but safe
-  } else if (navMenu) {
-    navMenu.style.display = "flex"; // Ensure desktop menu is shown on desktop
   }
 
   // General animation handler for all fade-in elements across all pages
@@ -125,19 +115,19 @@ document.addEventListener("DOMContentLoaded", function () {
     tl.fromTo(
       heroHeadline,
       { opacity: 0, y: 30 },
-      { opacity: 1, y: 0, duration: 1, ease: "power3.out" }
+      { opacity: 1, y: 0, duration: 1, ease: "power3.out" },
     )
       .fromTo(
         heroSubheadline,
         { opacity: 0, y: 20 },
         { opacity: 1, y: 0, duration: 0.8, ease: "power3.out" },
-        "-=0.5"
+        "-=0.5",
       )
       .fromTo(
         heroCTA,
         { opacity: 0, y: 20 },
         { opacity: 1, y: 0, duration: 0.8, ease: "power3.out" },
-        "-=0.5"
+        "-=0.5",
       );
   }
 
@@ -318,7 +308,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Animate Product Showcase Items on Scroll
   const spiceItems = document.querySelectorAll(
-    ".product-showcase.modern-product-showcase .spice-item"
+    ".product-showcase.modern-product-showcase .spice-item",
   );
   if (!spiceItems.length) {
     console.warn("No spice items found for animation.");
@@ -339,13 +329,13 @@ document.addEventListener("DOMContentLoaded", function () {
           start: "top 90%",
           once: true,
         },
-      }
+      },
     );
   });
 
   // Animate Testimonials on Scroll
   const testimonials = document.querySelectorAll(
-    ".testimonials.modern-testimonials .testimonial"
+    ".testimonials.modern-testimonials .testimonial",
   );
   testimonials.forEach((testimonial, index) => {
     gsap.fromTo(
@@ -363,13 +353,13 @@ document.addEventListener("DOMContentLoaded", function () {
           start: "top 80%",
           once: true,
         },
-      }
+      },
     );
   });
 
   // Animate Certifications on Scroll
   const certItems = document.querySelectorAll(
-    ".certificate-section.modern-certificate-section .certificate-item"
+    ".certificate-section.modern-certificate-section .certificate-item",
   );
   certItems.forEach((item, index) => {
     gsap.fromTo(
@@ -386,13 +376,13 @@ document.addEventListener("DOMContentLoaded", function () {
           start: "top 90%",
           once: true,
         },
-      }
+      },
     );
   });
 
   // Animate Why Choose Us Advantages on Scroll
   const advantageItems = document.querySelectorAll(
-    ".why-choose-advantages.modern-why-choose-section .advantages-list li"
+    ".why-choose-advantages.modern-why-choose-section .advantages-list li",
   );
   advantageItems.forEach((item, index) => {
     gsap.fromTo(
@@ -409,13 +399,13 @@ document.addEventListener("DOMContentLoaded", function () {
           start: "top 90%",
           once: true,
         },
-      }
+      },
     );
   });
 
   // Animate Why Choose Us Compliance items on Scroll
   const complianceItems = document.querySelectorAll(
-    ".why-choose-certifications.modern-why-choose-section .compliance-list li"
+    ".why-choose-certifications.modern-why-choose-section .compliance-list li",
   );
   complianceItems.forEach((item, index) => {
     gsap.fromTo(
@@ -433,13 +423,13 @@ document.addEventListener("DOMContentLoaded", function () {
           start: "top 90%",
           once: true,
         },
-      }
+      },
     );
   });
 
   // Animate About Us Section Elements on Scroll
   const aboutSectionElements = document.querySelectorAll(
-    ".modern-about-section .fade-in"
+    ".modern-about-section .fade-in",
   );
   aboutSectionElements.forEach((element) => {
     gsap.to(element, {
@@ -456,216 +446,103 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   // IntersectionObserver for fade-in animations
-  const fadeInElements = document.querySelectorAll('.fade-in');
-  const fadeObserver = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('in-view');
-        fadeObserver.unobserve(entry.target);
-      }
-    });
-  }, { threshold: 0.1, rootMargin: '0px 0px -10% 0px' });
-  fadeInElements.forEach(el => fadeObserver.observe(el));
-
-  // Mobile Language Dropdown
-  document.addEventListener("DOMContentLoaded", function () {
-    // Mobile language dropdown toggle
-    const mobileLangDropdown = document.querySelector(
-      ".mobile-nav-drawer .language-dropdown"
-    );
-    if (mobileLangDropdown) {
-      const dropdownTitle = mobileLangDropdown.querySelector(".dropdown-title");
-      if (dropdownTitle) {
-        dropdownTitle.addEventListener("click", function (e) {
-          e.preventDefault();
-          mobileLangDropdown.classList.toggle("open");
-        });
-      }
-    }
-
-    // Close language dropdown when clicking elsewhere
-    document.addEventListener("click", function (event) {
-      const mobileDropdowns = document.querySelectorAll(
-        ".mobile-nav-drawer .language-dropdown"
-      );
-      mobileDropdowns.forEach((dropdown) => {
-        if (
-          dropdown.classList.contains("open") &&
-          !dropdown.contains(event.target)
-        ) {
-          dropdown.classList.remove("open");
+  const fadeInElements = document.querySelectorAll(".fade-in");
+  const fadeObserver = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("in-view");
+          fadeObserver.unobserve(entry.target);
         }
       });
-    });
-  });
+    },
+    { threshold: 0.1, rootMargin: "0px 0px -10% 0px" },
+  );
+  fadeInElements.forEach((el) => fadeObserver.observe(el));
 
   // Image optimization: lazy load thumbnails, hover-preload full images, and register SW
   // This block sets up lazy loading, smooth fade-in, hover preloading, and service worker registration
-  document.addEventListener('DOMContentLoaded', function() {
-    const cards = document.querySelectorAll('.product-card');
-    const lazyImages = document.querySelectorAll('img.lazy');
+  document.addEventListener("DOMContentLoaded", function () {
+    const cards = document.querySelectorAll(".product-card");
+    const lazyImages = document.querySelectorAll("img.lazy");
 
-    lazyImages.forEach(img => {
+    lazyImages.forEach((img) => {
       const onLoad = () => {
-        img.classList.add('loaded');
-        const pic = img.closest('picture');
-        if (pic) pic.classList.add('loaded');
+        img.classList.add("loaded");
+        const pic = img.closest("picture");
+        if (pic) pic.classList.add("loaded");
       };
-      if ('loading' in HTMLImageElement.prototype) {
+      if ("loading" in HTMLImageElement.prototype) {
         img.src = img.dataset.src;
-        img.addEventListener('load', onLoad);
-      } else if ('IntersectionObserver' in window) {
-        const io = new IntersectionObserver((entries, obs) => {
-          entries.forEach(e => {
-            if (e.isIntersecting) {
-              img.src = img.dataset.src;
-              img.addEventListener('load', onLoad);
-              obs.unobserve(img);
-            }
-          });
-        }, { rootMargin: '200px' });
+        img.addEventListener("load", onLoad);
+      } else if ("IntersectionObserver" in window) {
+        const io = new IntersectionObserver(
+          (entries, obs) => {
+            entries.forEach((e) => {
+              if (e.isIntersecting) {
+                img.src = img.dataset.src;
+                img.addEventListener("load", onLoad);
+                obs.unobserve(img);
+              }
+            });
+          },
+          { rootMargin: "200px" },
+        );
         io.observe(img);
       } else {
         img.src = img.dataset.src;
-        img.addEventListener('load', onLoad);
+        img.addEventListener("load", onLoad);
       }
     });
 
-    cards.forEach(card => {
+    cards.forEach((card) => {
       let done = false;
-      card.addEventListener('mouseenter', () => {
+      card.addEventListener("mouseenter", () => {
         if (done) return;
-        const href = card.getAttribute('data-full-image');
+        const href = card.getAttribute("data-full-image");
         if (!href) return;
-        const link = document.createElement('link');
-        link.rel = 'preload';
-        link.as = 'image';
+        const link = document.createElement("link");
+        link.rel = "preload";
+        link.as = "image";
         link.href = href;
         document.head.appendChild(link);
         done = true;
       });
     });
 
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/service-worker.js')
-        .then(() => console.log('Service Worker registered'))
-        .catch(e => console.warn('Service Worker registration failed:', e));
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker
+        .register("/service-worker.js")
+        .then(() => console.log("Service Worker registered"))
+        .catch((e) => console.warn("Service Worker registration failed:", e));
     }
   });
 
   // Back to Top & Sticky Header
-  const backToTop = document.getElementById('backToTop');
+  const backToTop = document.getElementById("backToTop");
   let lastScroll = window.pageYOffset;
 
-  window.addEventListener('scroll', function() {
-    const navbar = document.querySelector('.navbar');
+  window.addEventListener("scroll", function () {
+    const navbar = document.querySelector(".navbar");
     if (window.pageYOffset > 300) {
-      backToTop && backToTop.classList.add('show');
+      backToTop && backToTop.classList.add("show");
     } else {
-      backToTop && backToTop.classList.remove('show');
+      backToTop && backToTop.classList.remove("show");
     }
 
     const currentScroll = window.pageYOffset;
     if (currentScroll > lastScroll && currentScroll > 100) {
-      navbar && navbar.classList.add('hide');
+      navbar && navbar.classList.add("hide");
     } else {
-      navbar && navbar.classList.remove('hide');
+      navbar && navbar.classList.remove("hide");
     }
     lastScroll = currentScroll <= 0 ? 0 : currentScroll;
   });
 
-  backToTop && backToTop.addEventListener('click', function() {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
+  backToTop &&
+    backToTop.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
 
-  // Language dropdown initialization
-  function initializeLanguageDropdown() {
-    // Get both desktop and mobile dropdowns
-    const desktopDropdown = document.querySelector('.navbar .language-dropdown');
-    const mobileDropdown = document.querySelector('.mobile-nav-drawer .language-dropdown');
-    
-    // Desktop dropdown initialization
-    if (desktopDropdown) {
-      const desktopContent = desktopDropdown.querySelector('.language-dropdown-content');
-      if (desktopContent) {
-        // Style the dropdown
-        desktopContent.style.position = 'absolute';
-        desktopContent.style.zIndex = '1001';
-        desktopContent.style.display = 'none';
-        desktopContent.style.marginTop = '0.3rem';
-        desktopContent.style.right = '0';
-        desktopContent.style.top = '100%';
-        desktopContent.style.borderRadius = '4px';
-        desktopContent.style.backgroundColor = '#fffbe7';
-        desktopContent.style.border = '1px solid #e7c69b';
-        desktopContent.style.boxShadow = '0 2px 8px rgba(231, 198, 155, 0.4)';
-        desktopContent.style.minWidth = '160px';
-        
-        // Add hover effect
-        desktopDropdown.addEventListener('mouseenter', () => {
-          desktopContent.style.display = 'block';
-        });
-        desktopDropdown.addEventListener('mouseleave', () => {
-          desktopContent.style.display = 'none';
-        });
-
-        // Add click handler for language options
-        const languageOptions = desktopContent.querySelectorAll('a[data-lang]');
-        languageOptions.forEach(option => {
-          option.addEventListener('click', async (e) => {
-            e.preventDefault();
-            const lang = option.getAttribute('data-lang');
-            if (lang && window.localizationManager) {
-              await window.localizationManager.changeLanguage(lang);
-            }
-          });
-        });
-      }
-    }
-
-    // Mobile dropdown initialization
-    if (mobileDropdown) {
-      const mobileContent = mobileDropdown.querySelector('.language-dropdown-content');
-      if (mobileContent) {
-        // Style the mobile dropdown
-        mobileContent.style.position = 'static';
-        mobileContent.style.width = '100%';
-        mobileContent.style.border = 'none';
-        mobileContent.style.boxShadow = 'none';
-        
-        // Add click handler for mobile
-        mobileDropdown.addEventListener('click', (e) => {
-          e.stopPropagation();
-          mobileContent.classList.toggle('open');
-        });
-        
-        // Close dropdown when clicking outside
-        document.addEventListener('click', (e) => {
-          if (!mobileDropdown.contains(e.target)) {
-            mobileContent.classList.remove('open');
-          }
-        });
-
-        // Add click handler for mobile language options
-        const mobileLanguageOptions = mobileContent.querySelectorAll('a[data-lang]');
-        mobileLanguageOptions.forEach(option => {
-          option.addEventListener('click', async (e) => {
-            e.preventDefault();
-            const lang = option.getAttribute('data-lang');
-            if (lang && window.localizationManager) {
-              await window.localizationManager.changeLanguage(lang);
-            }
-            mobileContent.classList.remove('open'); // Close dropdown after selection
-          });
-        });
-      }
-    }
-  }
-
-  // Initialize language dropdown
-  initializeLanguageDropdown();
-
-  // Remove Google Translate initialization since we're using our own language switcher
-  // The language dropdown will be handled by our localization manager
-  // This prevents conflicts with Google Translate
+  // Language dropdown is now handled by google-translate.js
 });

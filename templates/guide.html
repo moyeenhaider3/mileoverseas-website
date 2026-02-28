@@ -3,65 +3,74 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>404 Not Found | Mile Overseas</title>
-    <meta
-      name="description"
-      content="The page you are looking for doesn’t exist. Explore our site for premium Indian spices."
-    />
-    <meta name="robots" content="noindex, follow" />
-    <link rel="canonical" href="https://www.mileoverseas.com/404.html" />
-
-    <!-- Favicon & manifest -->
-    <link rel="icon" href="images/favicon.ico" sizes="any" />
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png" />
-    <link rel="manifest" href="site.webmanifest" />
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/style.css" />
+    <title>{{TITLE}} | Mile Overseas</title>
+    <meta name="description" content="{{META_DESCRIPTION}}" />
+    <meta name="keywords" content="{{KEYWORDS}}" />
     <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
-      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
+      rel="canonical"
+      href="https://www.mileoverseas.com/guides/{{SLUG}}.html"
     />
-
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Playfair+Display:wght@700&display=swap"
-      rel="stylesheet"
-    />
-
-    <!-- OG & Twitter -->
-    <meta property="og:title" content="404 Not Found | Mile Overseas" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="{{TITLE}} | Mile Overseas" />
+    <meta property="og:description" content="{{META_DESCRIPTION}}" />
+    <meta property="og:type" content="article" />
     <meta
-      property="og:description"
-      content="The page you are looking for doesn’t exist. Explore our site for premium Indian spices."
+      property="og:url"
+      content="https://www.mileoverseas.com/guides/{{SLUG}}.html"
     />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.mileoverseas.com/404.html" />
     <meta
       property="og:image"
       content="https://www.mileoverseas.com/images/logo-modern.png"
     />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="404 Not Found | Mile Overseas" />
-    <meta
-      name="twitter:description"
-      content="The page you are looking for doesn’t exist. Explore our site for premium Indian spices."
+    <!-- Hreflang Tags -->
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.mileoverseas.com/guides/{{SLUG}}.html"
     />
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://www.mileoverseas.com/guides/{{SLUG}}.html"
+    />
+
+    {{SCHEMAS}}
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-THTJH5GMEL"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-THTJH5GMEL");
+    </script>
+
+    <!-- Font Awesome + Fonts -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/style.css" />
   </head>
-  <body class="modern-design error-404">
-    <!-- Header -->
+  <body class="modern-design">
+    <!-- Navigation -->
     <header>
       <nav class="navbar">
         <div class="logo">
-          <a href="index.html"
+          <a href="../index.html"
             ><img
-              src="images/logo-modern.png"
-              alt="Mileoverseas - Premium Indian Spice Exporters"
+              src="../images/logo-modern.png"
+              alt="Mile Overseas - Premium Indian Spice Exporters"
               width="70"
               height="60"
           /></a>
@@ -70,24 +79,26 @@
           <i class="fas fa-bars"></i>
         </button>
         <ul class="nav-links" id="nav-menu">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="../about.html">About Us</a></li>
           <li>
-            <a href="index.html" class="active">Home</a>
+            <a href="../products.html">Products</a>
           </li>
-          <li><a href="about.html">About Us</a></li>
-          <li><a href="products.html">Products</a></li>
           <li>
-            <a href="why-choose-us.html"
+            <a href="../why-choose-us.html"
               >Why Choose Us</a
             >
           </li>
-          <li><a href="faq.html">FAQs</a></li>
+          <li><a href="../faq.html">FAQs</a></li>
           <li>
-            <a href="certificates.html"
+            <a href="../certificates.html"
               >Certificates</a
             >
           </li>
-          <li><a href="contact.html">Contact Us</a></li>
-          <li><a href="guides/">Guides</a></li>
+          <li>
+            <a href="../contact.html">Contact Us</a>
+          </li>
+          <li><a href="../guides/" class="active">Guides</a></li>
           <li id="gt-lang-desktop" class="notranslate"></li>
         </ul>
       </nav>
@@ -95,35 +106,39 @@
 
     <div class="mobile-nav-drawer" id="mobile-drawer">
       <ul class="mobile-nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About Us</a></li>
-        <li><a href="products.html">Products</a></li>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About Us</a></li>
         <li>
-          <a href="why-choose-us.html"
+          <a href="../products.html">Products</a>
+        </li>
+        <li>
+          <a href="../why-choose-us.html"
             >Why Choose Us</a
           >
         </li>
-        <li><a href="faq.html">FAQs</a></li>
+        <li><a href="../faq.html">FAQs</a></li>
         <li>
-          <a href="certificates.html"
+          <a href="../certificates.html"
             >Certificates</a
           >
         </li>
-        <li><a href="contact.html">Contact Us</a></li>
-        <li><a href="guides/">Guides</a></li>
+        <li>
+          <a href="../contact.html">Contact Us</a>
+        </li>
+        <li><a href="../guides/" class="active">Guides</a></li>
         <li id="gt-lang-mobile" class="notranslate"></li>
       </ul>
     </div>
 
-    <!-- Main Content -->
-    <main class="container">
+    <main>
+      <!-- Breadcrumb -->
       <nav class="breadcrumb-nav" aria-label="Breadcrumb">
-        <ol
-          class="breadcrumb"
+        <div
+          class="container"
           itemscope
           itemtype="https://schema.org/BreadcrumbList"
         >
-          <li
+          <span
             itemprop="itemListElement"
             itemscope
             itemtype="https://schema.org/ListItem"
@@ -132,29 +147,33 @@
               ><span itemprop="name">Home</span></a
             >
             <meta itemprop="position" content="1" />
-          </li>
-          <li
+          </span>
+          &rsaquo;
+          <span
             itemprop="itemListElement"
             itemscope
             itemtype="https://schema.org/ListItem"
           >
-            <span itemprop="name">Page Not Found</span>
+            <a itemprop="item" href="https://www.mileoverseas.com/guides/"
+              ><span itemprop="name">Guides</span></a
+            >
             <meta itemprop="position" content="2" />
-          </li>
-        </ol>
+          </span>
+          &rsaquo;
+          <span
+            itemprop="itemListElement"
+            itemscope
+            itemtype="https://schema.org/ListItem"
+          >
+            <span itemprop="name">{{BREADCRUMB_TITLE}}</span>
+            <meta itemprop="position" content="3" />
+          </span>
+        </div>
       </nav>
-      <h1>404 - Page Not Found</h1>
-      <p>Sorry, the page you requested could not be found.</p>
-      <a href="index.html" class="button primary-button">Return Home</a>
-      <a
-        href="products.html"
-        class="button secondary-button"
-        style="margin-left: 5px; margin-top: 10px"
-        >Browse Products</a
-      >
+
+      {{CONTENT}}
     </main>
 
-    <!-- Footer -->
     <footer>
       <div class="container">
         <div class="social-links">
@@ -201,11 +220,11 @@
         </div>
         <p>
           <a
-            href="privacy-policy.html"
+            href="../privacy-policy.html"
             target="_blank"
             >Privacy Policy</a
           >
-          &nbsp;|&nbsp;
+          |
           <span
             >© 2023–2026 Mile Overseas. All rights reserved.</span
           >
@@ -225,16 +244,14 @@
       <a href="tel:+918178070378" class="cta-phone notranslate" aria-label="Call Us">
         <i class="fas fa-phone"></i> +91-8178070378
       </a>
-      <a href="contact.html" class="cta-quote" aria-label="Request Quote">
+      <a href="../contact.html" class="cta-quote" aria-label="Request Quote">
         <i class="fas fa-file-invoice"></i> Get Quote
       </a>
     </div>
-
-    <!-- Scripts -->
-<script src="js/script.js" defer></script>
-    <script src="js/main.js" defer></script>
-    <script src="js/chatbot.js" defer></script>
+<script src="../js/script.js" defer></script>
+    <script src="../js/main.js" defer></script>
+    <script src="../js/chatbot.js" defer></script>
       <div id="google_translate_element"></div>
-    <script src="js/google-translate.js" defer></script>
+    <script src="../js/google-translate.js" defer></script>
   </body>
 </html>

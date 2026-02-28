@@ -3,8 +3,6 @@ Allow: /
 
 # Allow important crawling
 Allow: /products/
-Allow: /blog/
-Allow: /markets/
 Allow: /images/
 Allow: /css/
 Allow: /js/
@@ -22,8 +20,3 @@ Crawl-delay: 1
 
 # Sitemaps
 Sitemap: https://www.mileoverseas.com/sitemap.xml
-Sitemap: https://www.mileoverseas.com/blog-sitemap.xml
-
-# Cache
-User-agent: *
-Cache: public, max-age=31536000
