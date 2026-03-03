@@ -53,32 +53,64 @@ document.addEventListener("DOMContentLoaded", function () {
   // Mobile Navigation Drawer Toggle
   const hamburger = document.getElementById("hamburger-icon");
   const mobileDrawer = document.getElementById("mobile-drawer");
+  const drawerOverlay = document.getElementById("drawer-overlay");
+  const drawerCloseBtn = document.getElementById("drawer-close-btn");
 
-  if (hamburger && mobileDrawer) {
-    hamburger.addEventListener("click", () => {
-      mobileDrawer.classList.toggle("open");
-      document.body.classList.toggle("drawer-open");
+  function openDrawer() {
+    mobileDrawer && mobileDrawer.classList.add("open");
+    drawerOverlay && drawerOverlay.classList.add("open");
+    document.body.classList.add("drawer-open");
+  }
+
+  function closeDrawer() {
+    mobileDrawer && mobileDrawer.classList.remove("open");
+    drawerOverlay && drawerOverlay.classList.remove("open");
+    document.body.classList.remove("drawer-open");
+  }
+
+  if (hamburger) {
+    hamburger.addEventListener("click", (e) => {
+      e.stopPropagation();
+      if (mobileDrawer && mobileDrawer.classList.contains("open")) {
+        closeDrawer();
+      } else {
+        openDrawer();
+      }
     });
   }
 
-  // Close mobile drawer when clicking outside
-  document.addEventListener("click", function (event) {
+  // Close via the × button inside the drawer
+  if (drawerCloseBtn) {
+    drawerCloseBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      closeDrawer();
+    });
+  }
+
+  // Close when clicking OUTSIDE the drawer panel (overlay is purely visual now)
+  document.addEventListener("click", (e) => {
     if (
       mobileDrawer &&
       mobileDrawer.classList.contains("open") &&
-      !mobileDrawer.contains(event.target) &&
-      !hamburger.contains(event.target)
+      !mobileDrawer.contains(e.target) &&
+      hamburger && !hamburger.contains(e.target)
     ) {
-      mobileDrawer.classList.remove("open");
-      document.body.classList.remove("drawer-open");
+      closeDrawer();
     }
   });
 
-  // Close mobile drawer when nav link is clicked
+  // Prevent clicks inside the drawer from bubbling to document
+  if (mobileDrawer) {
+    mobileDrawer.addEventListener("click", (e) => {
+      e.stopPropagation();
+    });
+  }
+
+  // Close mobile drawer when a nav link is clicked
   if (mobileDrawer) {
     const mobileNavLinks = mobileDrawer.querySelectorAll("a");
     mobileNavLinks.forEach((link) => {
-      link.addEventListener("click", (e) => {
+      link.addEventListener("click", () => {
         // Skip closing drawer for Google Translate language buttons
         if (
           link.classList.contains("gt-lang-btn") ||
@@ -86,8 +118,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ) {
           return;
         }
-        mobileDrawer.classList.remove("open");
-        document.body.classList.remove("drawer-open");
+        closeDrawer();
       });
     });
   }
